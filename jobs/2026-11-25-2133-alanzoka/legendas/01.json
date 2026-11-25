@@ -1,0 +1,291 @@
+{
+ "segments": [
+  {
+   "start": 0.82,
+   "end": 1.85,
+   "text": "eu vou pegar o carro",
+   "words": [
+    {
+     "word": "eu",
+     "start": 0.82,
+     "end": 0.9
+    },
+    {
+     "word": "vou",
+     "start": 0.9,
+     "end": 0.98
+    },
+    {
+     "word": "pegar",
+     "start": 0.98,
+     "end": 1.16
+    },
+    {
+     "word": "o",
+     "start": 1.16,
+     "end": 1.32
+    },
+    {
+     "word": "carro",
+     "start": 1.32,
+     "end": 1.85
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 10.83,
+   "end": 12.09,
+   "text": "Caralho, mano. Se eu quisesse pegar o carro",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 10.83,
+     "end": 11.11
+    },
+    {
+     "word": "mano.",
+     "start": 11.17,
+     "end": 11.22
+    },
+    {
+     "word": "Se",
+     "start": 11.25,
+     "end": 11.3
+    },
+    {
+     "word": "eu",
+     "start": 11.3,
+     "end": 11.39
+    },
+    {
+     "word": "quisesse",
+     "start": 11.39,
+     "end": 11.61
+    },
+    {
+     "word": "pegar",
+     "start": 11.61,
+     "end": 11.79
+    },
+    {
+     "word": "o",
+     "start": 11.79,
+     "end": 11.91
+    },
+    {
+     "word": "carro",
+     "start": 11.91,
+     "end": 12.09
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 12.13,
+   "end": 13.36,
+   "text": "eu falava, invejosa",
+   "words": [
+    {
+     "word": "eu",
+     "start": 12.13,
+     "end": 12.15
+    },
+    {
+     "word": "falava,",
+     "start": 12.15,
+     "end": 12.45
+    },
+    {
+     "word": "invejosa",
+     "start": 12.45,
+     "end": 13.36
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 20.71,
+   "end": 22.01,
+   "text": "Meu Deus! Tá chovendo de novo!",
+   "words": [
+    {
+     "word": "Meu",
+     "start": 20.71,
+     "end": 20.81
+    },
+    {
+     "word": "Deus!",
+     "start": 20.81,
+     "end": 20.93
+    },
+    {
+     "word": "Tá",
+     "start": 21.05,
+     "end": 21.15
+    },
+    {
+     "word": "chovendo",
+     "start": 21.15,
+     "end": 21.59
+    },
+    {
+     "word": "de",
+     "start": 21.59,
+     "end": 21.69
+    },
+    {
+     "word": "novo!",
+     "start": 21.69,
+     "end": 22.01
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 22.05,
+   "end": 23.0,
+   "text": "double rain!",
+   "words": [
+    {
+     "word": "double",
+     "start": 22.05,
+     "end": 22.35
+    },
+    {
+     "word": "rain!",
+     "start": 22.35,
+     "end": 23.0
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 25.41,
+   "end": 25.95,
+   "text": "Que isso?",
+   "words": [
+    {
+     "word": "Que",
+     "start": 25.41,
+     "end": 25.59
+    },
+    {
+     "word": "isso?",
+     "start": 25.59,
+     "end": 25.95
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 25.99,
+   "end": 27.07,
+   "text": "nem sei dirigir na chuva",
+   "words": [
+    {
+     "word": "nem",
+     "start": 25.99,
+     "end": 26.07
+    },
+    {
+     "word": "sei",
+     "start": 26.07,
+     "end": 26.25
+    },
+    {
+     "word": "dirigir",
+     "start": 26.25,
+     "end": 26.61
+    },
+    {
+     "word": "na",
+     "start": 26.61,
+     "end": 26.71
+    },
+    {
+     "word": "chuva",
+     "start": 26.71,
+     "end": 27.07
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 27.11,
+   "end": 28.18,
+   "text": "Por isso que eu tô batendo",
+   "words": [
+    {
+     "word": "Por",
+     "start": 27.11,
+     "end": 27.21
+    },
+    {
+     "word": "isso",
+     "start": 27.21,
+     "end": 27.27
+    },
+    {
+     "word": "que",
+     "start": 27.27,
+     "end": 27.33
+    },
+    {
+     "word": "eu",
+     "start": 27.33,
+     "end": 27.38
+    },
+    {
+     "word": "tô",
+     "start": 27.38,
+     "end": 27.43
+    },
+    {
+     "word": "batendo",
+     "start": 27.43,
+     "end": 28.18
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 69.79,
+   "end": 71.14,
+   "text": "Mano, o carro não tá andando",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 69.79,
+     "end": 70.07
+    },
+    {
+     "word": "o",
+     "start": 70.09,
+     "end": 70.15
+    },
+    {
+     "word": "carro",
+     "start": 70.15,
+     "end": 70.25
+    },
+    {
+     "word": "não",
+     "start": 70.25,
+     "end": 70.39
+    },
+    {
+     "word": "tá",
+     "start": 70.39,
+     "end": 70.53
+    },
+    {
+     "word": "andando",
+     "start": 70.53,
+     "end": 71.14
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}

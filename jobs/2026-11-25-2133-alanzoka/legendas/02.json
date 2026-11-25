@@ -1,0 +1,223 @@
+{
+ "segments": [
+  {
+   "start": 4.43,
+   "end": 5.46,
+   "text": "comprar, mano",
+   "words": [
+    {
+     "word": "comprar,",
+     "start": 4.43,
+     "end": 4.83
+    },
+    {
+     "word": "mano",
+     "start": 4.99,
+     "end": 5.46
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 6.8,
+   "end": 9.05,
+   "text": "vou comprar, mano",
+   "words": [
+    {
+     "word": "vou",
+     "start": 6.8,
+     "end": 7.3
+    },
+    {
+     "word": "comprar,",
+     "start": 7.3,
+     "end": 7.62
+    },
+    {
+     "word": "mano",
+     "start": 7.7,
+     "end": 9.05
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 18.57,
+   "end": 20.86,
+   "text": "NFT, pô, investimento pro futuro",
+   "words": [
+    {
+     "word": "NFT,",
+     "start": 18.57,
+     "end": 19.15
+    },
+    {
+     "word": "pô,",
+     "start": 19.49,
+     "end": 19.54
+    },
+    {
+     "word": "investimento",
+     "start": 19.59,
+     "end": 19.99
+    },
+    {
+     "word": "pro",
+     "start": 19.99,
+     "end": 20.19
+    },
+    {
+     "word": "futuro",
+     "start": 20.19,
+     "end": 20.86
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 57.29,
+   "end": 57.83,
+   "text": "será que tá valendo",
+   "words": [
+    {
+     "word": "será",
+     "start": 57.29,
+     "end": 57.45
+    },
+    {
+     "word": "que",
+     "start": 57.45,
+     "end": 57.51
+    },
+    {
+     "word": "tá",
+     "start": 57.51,
+     "end": 57.59
+    },
+    {
+     "word": "valendo",
+     "start": 57.59,
+     "end": 57.83
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 57.87,
+   "end": 58.95,
+   "text": "a NFT do Neymar, mano?",
+   "words": [
+    {
+     "word": "a",
+     "start": 57.87,
+     "end": 57.95
+    },
+    {
+     "word": "NFT",
+     "start": 57.95,
+     "end": 58.23
+    },
+    {
+     "word": "do",
+     "start": 58.23,
+     "end": 58.39
+    },
+    {
+     "word": "Neymar,",
+     "start": 58.39,
+     "end": 58.81
+    },
+    {
+     "word": "mano?",
+     "start": 58.83,
+     "end": 58.95
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 58.99,
+   "end": 59.91,
+   "text": "Olha a minha NFT",
+   "words": [
+    {
+     "word": "Olha",
+     "start": 58.99,
+     "end": 59.19
+    },
+    {
+     "word": "a",
+     "start": 59.19,
+     "end": 59.33
+    },
+    {
+     "word": "minha",
+     "start": 59.33,
+     "end": 59.38
+    },
+    {
+     "word": "NFT",
+     "start": 59.38,
+     "end": 59.91
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 59.95,
+   "end": 61.12,
+   "text": "que insano, mano",
+   "words": [
+    {
+     "word": "que",
+     "start": 59.95,
+     "end": 60.05
+    },
+    {
+     "word": "insano,",
+     "start": 60.05,
+     "end": 60.51
+    },
+    {
+     "word": "mano",
+     "start": 60.61,
+     "end": 61.12
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 62.58,
+   "end": 64.37,
+   "text": "Deus Nossa, até arrepiei, velho",
+   "words": [
+    {
+     "word": "Deus",
+     "start": 62.58,
+     "end": 62.9
+    },
+    {
+     "word": "Nossa,",
+     "start": 62.9,
+     "end": 63.28
+    },
+    {
+     "word": "até",
+     "start": 63.42,
+     "end": 63.5
+    },
+    {
+     "word": "arrepiei,",
+     "start": 63.5,
+     "end": 63.9
+    },
+    {
+     "word": "velho",
+     "start": 63.96,
+     "end": 64.37
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
