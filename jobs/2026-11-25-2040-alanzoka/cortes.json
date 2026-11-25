@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, GTA 6, Jason, Lucia, Nate, Fabien, academia, bombado, densidade, Orcas, Leonida, chat, mano, velho",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:02:12", "fim": "0:03:40", "titulo": "O COACH MODO MONSTRO"},
+  {"id": "02", "inicio": "0:04:20", "fim": "0:05:48", "titulo": "TA PESADO VELHO"},
+  {"id": "03", "inicio": "0:06:34", "fim": "0:07:12", "titulo": "O JASON DANCANDO"}
+ ]
+}
