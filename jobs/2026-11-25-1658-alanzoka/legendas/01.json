@@ -1,0 +1,565 @@
+{
+ "segments": [
+  {
+   "start": 4.03,
+   "end": 5.26,
+   "text": "Vamos, vamos, vamos",
+   "words": [
+    {
+     "word": "Vamos,",
+     "start": 4.03,
+     "end": 4.35
+    },
+    {
+     "word": "vamos,",
+     "start": 4.35,
+     "end": 4.67
+    },
+    {
+     "word": "vamos",
+     "start": 4.89,
+     "end": 5.26
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 6.01,
+   "end": 8.26,
+   "text": "Vai, vai, vai, mete o pé",
+   "words": [
+    {
+     "word": "Vai,",
+     "start": 6.01,
+     "end": 6.13
+    },
+    {
+     "word": "vai,",
+     "start": 6.35,
+     "end": 6.73
+    },
+    {
+     "word": "vai,",
+     "start": 6.79,
+     "end": 7.17
+    },
+    {
+     "word": "mete",
+     "start": 7.17,
+     "end": 7.77
+    },
+    {
+     "word": "o",
+     "start": 7.77,
+     "end": 7.89
+    },
+    {
+     "word": "pé",
+     "start": 7.89,
+     "end": 8.26
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 8.35,
+   "end": 9.13,
+   "text": "Vai, tio, vai, tio",
+   "words": [
+    {
+     "word": "Vai,",
+     "start": 8.35,
+     "end": 8.51
+    },
+    {
+     "word": "tio,",
+     "start": 8.51,
+     "end": 8.69
+    },
+    {
+     "word": "vai,",
+     "start": 8.77,
+     "end": 8.89
+    },
+    {
+     "word": "tio",
+     "start": 8.89,
+     "end": 9.13
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 9.17,
+   "end": 10.62,
+   "text": "Acelera o passo, parça",
+   "words": [
+    {
+     "word": "Acelera",
+     "start": 9.17,
+     "end": 9.49
+    },
+    {
+     "word": "o",
+     "start": 9.49,
+     "end": 9.59
+    },
+    {
+     "word": "passo,",
+     "start": 9.59,
+     "end": 9.89
+    },
+    {
+     "word": "parça",
+     "start": 10.01,
+     "end": 10.62
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 21.65,
+   "end": 22.37,
+   "text": "Vai, vai, vai",
+   "words": [
+    {
+     "word": "Vai,",
+     "start": 21.65,
+     "end": 21.97
+    },
+    {
+     "word": "vai,",
+     "start": 22.03,
+     "end": 22.11
+    },
+    {
+     "word": "vai",
+     "start": 22.19,
+     "end": 22.37
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 22.41,
+   "end": 23.53,
+   "text": "pro meio da porra da sala",
+   "words": [
+    {
+     "word": "pro",
+     "start": 22.41,
+     "end": 22.61
+    },
+    {
+     "word": "meio",
+     "start": 22.61,
+     "end": 22.77
+    },
+    {
+     "word": "da",
+     "start": 22.77,
+     "end": 22.93
+    },
+    {
+     "word": "porra",
+     "start": 22.93,
+     "end": 23.11
+    },
+    {
+     "word": "da",
+     "start": 23.11,
+     "end": 23.25
+    },
+    {
+     "word": "sala",
+     "start": 23.25,
+     "end": 23.53
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 23.57,
+   "end": 24.72,
+   "text": "Galvão Bueno, vamos",
+   "words": [
+    {
+     "word": "Galvão",
+     "start": 23.57,
+     "end": 23.93
+    },
+    {
+     "word": "Bueno,",
+     "start": 23.93,
+     "end": 24.13
+    },
+    {
+     "word": "vamos",
+     "start": 24.31,
+     "end": 24.72
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 26.33,
+   "end": 27.01,
+   "text": "Vocês vão pra onde?",
+   "words": [
+    {
+     "word": "Vocês",
+     "start": 26.33,
+     "end": 26.51
+    },
+    {
+     "word": "vão",
+     "start": 26.51,
+     "end": 26.65
+    },
+    {
+     "word": "pra",
+     "start": 26.65,
+     "end": 26.79
+    },
+    {
+     "word": "onde?",
+     "start": 26.79,
+     "end": 27.01
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 27.05,
+   "end": 28.36,
+   "text": "Vocês dois vão pra onde, porra?",
+   "words": [
+    {
+     "word": "Vocês",
+     "start": 27.05,
+     "end": 27.17
+    },
+    {
+     "word": "dois",
+     "start": 27.17,
+     "end": 27.31
+    },
+    {
+     "word": "vão",
+     "start": 27.31,
+     "end": 27.45
+    },
+    {
+     "word": "pra",
+     "start": 27.45,
+     "end": 27.57
+    },
+    {
+     "word": "onde,",
+     "start": 27.57,
+     "end": 27.77
+    },
+    {
+     "word": "porra?",
+     "start": 27.89,
+     "end": 28.36
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 28.45,
+   "end": 29.9,
+   "text": "Tô indo pra onde, caralho?",
+   "words": [
+    {
+     "word": "Tô",
+     "start": 28.45,
+     "end": 28.77
+    },
+    {
+     "word": "indo",
+     "start": 28.77,
+     "end": 28.85
+    },
+    {
+     "word": "pra",
+     "start": 28.85,
+     "end": 29.01
+    },
+    {
+     "word": "onde,",
+     "start": 29.01,
+     "end": 29.19
+    },
+    {
+     "word": "caralho?",
+     "start": 29.33,
+     "end": 29.9
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 30.04,
+   "end": 30.64,
+   "text": "Vai",
+   "words": [
+    {
+     "word": "Vai",
+     "start": 30.04,
+     "end": 30.64
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 37.14,
+   "end": 38.21,
+   "text": "Vai, vai",
+   "words": [
+    {
+     "word": "Vai,",
+     "start": 37.14,
+     "end": 37.72
+    },
+    {
+     "word": "vai",
+     "start": 37.84,
+     "end": 38.21
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 44.61,
+   "end": 45.21,
+   "text": "Galvão",
+   "words": [
+    {
+     "word": "Galvão",
+     "start": 44.61,
+     "end": 45.21
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 45.44,
+   "end": 46.86,
+   "text": "Vai se criando o clima",
+   "words": [
+    {
+     "word": "Vai",
+     "start": 45.44,
+     "end": 45.68
+    },
+    {
+     "word": "se",
+     "start": 45.68,
+     "end": 45.86
+    },
+    {
+     "word": "criando",
+     "start": 45.86,
+     "end": 46.4
+    },
+    {
+     "word": "o",
+     "start": 46.4,
+     "end": 46.6
+    },
+    {
+     "word": "clima",
+     "start": 46.6,
+     "end": 46.86
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 46.9,
+   "end": 47.98,
+   "text": "terrível",
+   "words": [
+    {
+     "word": "terrível",
+     "start": 46.9,
+     "end": 47.98
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 48.02,
+   "end": 48.84,
+   "text": "Vai, desce, desce",
+   "words": [
+    {
+     "word": "Vai,",
+     "start": 48.02,
+     "end": 48.14
+    },
+    {
+     "word": "desce,",
+     "start": 48.24,
+     "end": 48.5
+    },
+    {
+     "word": "desce",
+     "start": 48.56,
+     "end": 48.84
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 48.88,
+   "end": 49.57,
+   "text": "vai, no chão",
+   "words": [
+    {
+     "word": "vai,",
+     "start": 48.88,
+     "end": 48.94
+    },
+    {
+     "word": "no",
+     "start": 49.06,
+     "end": 49.11
+    },
+    {
+     "word": "chão",
+     "start": 49.11,
+     "end": 49.57
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 51.08,
+   "end": 51.8,
+   "text": "Toca, mano",
+   "words": [
+    {
+     "word": "Toca,",
+     "start": 51.08,
+     "end": 51.4
+    },
+    {
+     "word": "mano",
+     "start": 51.5,
+     "end": 51.8
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 55.78,
+   "end": 57.13,
+   "text": "Parece o Galvão, cara",
+   "words": [
+    {
+     "word": "Parece",
+     "start": 55.78,
+     "end": 56.1
+    },
+    {
+     "word": "o",
+     "start": 56.1,
+     "end": 56.26
+    },
+    {
+     "word": "Galvão,",
+     "start": 56.26,
+     "end": 56.6
+    },
+    {
+     "word": "cara",
+     "start": 56.74,
+     "end": 57.13
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 60.17,
+   "end": 61.2,
+   "text": "Onde vocês estão indo?",
+   "words": [
+    {
+     "word": "Onde",
+     "start": 60.17,
+     "end": 60.41
+    },
+    {
+     "word": "vocês",
+     "start": 60.41,
+     "end": 60.53
+    },
+    {
+     "word": "estão",
+     "start": 60.53,
+     "end": 60.69
+    },
+    {
+     "word": "indo?",
+     "start": 60.69,
+     "end": 61.2
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 61.41,
+   "end": 62.31,
+   "text": "Onde vocês estão indo, tia?",
+   "words": [
+    {
+     "word": "Onde",
+     "start": 61.41,
+     "end": 61.69
+    },
+    {
+     "word": "vocês",
+     "start": 61.69,
+     "end": 61.77
+    },
+    {
+     "word": "estão",
+     "start": 61.77,
+     "end": 61.95
+    },
+    {
+     "word": "indo,",
+     "start": 61.95,
+     "end": 62.09
+    },
+    {
+     "word": "tia?",
+     "start": 62.19,
+     "end": 62.31
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 62.35,
+   "end": 62.95,
+   "text": "No chão?",
+   "words": [
+    {
+     "word": "No",
+     "start": 62.35,
+     "end": 62.43
+    },
+    {
+     "word": "chão?",
+     "start": 62.43,
+     "end": 62.95
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
