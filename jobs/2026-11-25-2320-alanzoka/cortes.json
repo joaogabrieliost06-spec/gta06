@@ -1,0 +1,9 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, GTA 6, Jason, Lucia, Uber, banquinho, não letal, mano, velho, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:02:38", "fim": "0:03:28", "titulo": "APERTEI O BOTAO ERRADO"},
+  {"id": "02", "inicio": "0:17:58", "fim": "0:19:10", "titulo": "NAO LETAL NICE"}
+ ]
+}
