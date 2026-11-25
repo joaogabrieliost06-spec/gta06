@@ -1,0 +1,400 @@
+{
+ "segments": [
+  {
+   "start": 17.43,
+   "end": 18.03,
+   "text": "Ué",
+   "words": [
+    {
+     "word": "Ué",
+     "start": 17.43,
+     "end": 18.03
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 19.13,
+   "end": 19.67,
+   "text": "não tem, né",
+   "words": [
+    {
+     "word": "não",
+     "start": 19.13,
+     "end": 19.31
+    },
+    {
+     "word": "tem,",
+     "start": 19.31,
+     "end": 19.43
+    },
+    {
+     "word": "né",
+     "start": 19.57,
+     "end": 19.67
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 19.71,
+   "end": 21.13,
+   "text": "o que importante é tentar, né",
+   "words": [
+    {
+     "word": "o",
+     "start": 19.71,
+     "end": 19.79
+    },
+    {
+     "word": "que",
+     "start": 19.79,
+     "end": 19.89
+    },
+    {
+     "word": "importante",
+     "start": 19.89,
+     "end": 20.33
+    },
+    {
+     "word": "é",
+     "start": 20.33,
+     "end": 20.55
+    },
+    {
+     "word": "tentar,",
+     "start": 20.55,
+     "end": 20.93
+    },
+    {
+     "word": "né",
+     "start": 21.03,
+     "end": 21.13
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 21.17,
+   "end": 23.85,
+   "text": "ué, cara, dava, dava, dava",
+   "words": [
+    {
+     "word": "ué,",
+     "start": 21.17,
+     "end": 21.73
+    },
+    {
+     "word": "cara,",
+     "start": 22.61,
+     "end": 22.77
+    },
+    {
+     "word": "dava,",
+     "start": 22.89,
+     "end": 23.07
+    },
+    {
+     "word": "dava,",
+     "start": 23.17,
+     "end": 23.43
+    },
+    {
+     "word": "dava",
+     "start": 23.45,
+     "end": 23.85
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 23.89,
+   "end": 25.5,
+   "text": "que foi um erro, ah",
+   "words": [
+    {
+     "word": "que",
+     "start": 23.89,
+     "end": 23.99
+    },
+    {
+     "word": "foi",
+     "start": 23.99,
+     "end": 24.41
+    },
+    {
+     "word": "um",
+     "start": 24.65,
+     "end": 24.77
+    },
+    {
+     "word": "erro,",
+     "start": 24.77,
+     "end": 24.89
+    },
+    {
+     "word": "ah",
+     "start": 24.89,
+     "end": 25.5
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 29.34,
+   "end": 30.06,
+   "text": "o bom é que volta aqui",
+   "words": [
+    {
+     "word": "o",
+     "start": 29.34,
+     "end": 29.36
+    },
+    {
+     "word": "bom",
+     "start": 29.36,
+     "end": 29.44
+    },
+    {
+     "word": "é",
+     "start": 29.44,
+     "end": 29.52
+    },
+    {
+     "word": "que",
+     "start": 29.52,
+     "end": 29.58
+    },
+    {
+     "word": "volta",
+     "start": 29.58,
+     "end": 29.82
+    },
+    {
+     "word": "aqui",
+     "start": 29.82,
+     "end": 30.06
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 30.1,
+   "end": 31.3,
+   "text": "agora a polícia não vai vir atrás de mim",
+   "words": [
+    {
+     "word": "agora",
+     "start": 30.1,
+     "end": 30.24
+    },
+    {
+     "word": "a",
+     "start": 30.24,
+     "end": 30.38
+    },
+    {
+     "word": "polícia",
+     "start": 30.38,
+     "end": 30.58
+    },
+    {
+     "word": "não",
+     "start": 30.58,
+     "end": 30.7
+    },
+    {
+     "word": "vai",
+     "start": 30.7,
+     "end": 30.82
+    },
+    {
+     "word": "vir",
+     "start": 30.82,
+     "end": 30.92
+    },
+    {
+     "word": "atrás",
+     "start": 30.92,
+     "end": 31.1
+    },
+    {
+     "word": "de",
+     "start": 31.1,
+     "end": 31.2
+    },
+    {
+     "word": "mim",
+     "start": 31.2,
+     "end": 31.3
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 31.34,
+   "end": 32.73,
+   "text": "eu tenho até cachorro. Não",
+   "words": [
+    {
+     "word": "eu",
+     "start": 31.34,
+     "end": 31.38
+    },
+    {
+     "word": "tenho",
+     "start": 31.38,
+     "end": 31.46
+    },
+    {
+     "word": "até",
+     "start": 31.46,
+     "end": 31.6
+    },
+    {
+     "word": "cachorro.",
+     "start": 31.6,
+     "end": 32.12
+    },
+    {
+     "word": "Não",
+     "start": 32.12,
+     "end": 32.73
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 56.31,
+   "end": 57.53,
+   "text": "não tem como a polícia vir atrás de mim",
+   "words": [
+    {
+     "word": "não",
+     "start": 56.31,
+     "end": 56.41
+    },
+    {
+     "word": "tem",
+     "start": 56.41,
+     "end": 56.55
+    },
+    {
+     "word": "como",
+     "start": 56.55,
+     "end": 56.75
+    },
+    {
+     "word": "a",
+     "start": 56.75,
+     "end": 56.85
+    },
+    {
+     "word": "polícia",
+     "start": 56.85,
+     "end": 57.05
+    },
+    {
+     "word": "vir",
+     "start": 57.05,
+     "end": 57.13
+    },
+    {
+     "word": "atrás",
+     "start": 57.13,
+     "end": 57.29
+    },
+    {
+     "word": "de",
+     "start": 57.29,
+     "end": 57.41
+    },
+    {
+     "word": "mim",
+     "start": 57.41,
+     "end": 57.53
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 57.57,
+   "end": 58.62,
+   "text": "eu não dei um tiro",
+   "words": [
+    {
+     "word": "eu",
+     "start": 57.57,
+     "end": 57.61
+    },
+    {
+     "word": "não",
+     "start": 57.61,
+     "end": 57.69
+    },
+    {
+     "word": "dei",
+     "start": 57.69,
+     "end": 57.83
+    },
+    {
+     "word": "um",
+     "start": 57.83,
+     "end": 57.99
+    },
+    {
+     "word": "tiro",
+     "start": 57.99,
+     "end": 58.62
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 58.79,
+   "end": 60.0,
+   "text": "Ah, fala sério",
+   "words": [
+    {
+     "word": "Ah,",
+     "start": 58.79,
+     "end": 59.05
+    },
+    {
+     "word": "fala",
+     "start": 59.15,
+     "end": 59.31
+    },
+    {
+     "word": "sério",
+     "start": 59.31,
+     "end": 60.0
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 60.69,
+   "end": 61.76,
+   "text": "pegou mal feito",
+   "words": [
+    {
+     "word": "pegou",
+     "start": 60.69,
+     "end": 60.95
+    },
+    {
+     "word": "mal",
+     "start": 60.95,
+     "end": 61.11
+    },
+    {
+     "word": "feito",
+     "start": 61.11,
+     "end": 61.76
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
