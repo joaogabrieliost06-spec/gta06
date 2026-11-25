@@ -33,6 +33,18 @@ def main():
     tmp = os.path.abspath(os.path.join("tmp", a.job))
     os.makedirs(saida, exist_ok=True); os.makedirs(tmp, exist_ok=True)
     ids = set(x for x in a.so.split(",") if x)
+    url, desloc = meta["url"], 0.0
+    if url.startswith("file://") and not os.path.exists(url[7:]):
+        # bloco gravado ao vivo cuja gravação já sumiu (ex.: falha ao publicar a Release): usa o VOD.
+        # vod_url + bloco_inicio_ts (horário real do 1º quadro, epoch) -> desloca os tempos para o VOD.
+        if not meta.get("vod_url") or not meta.get("bloco_inicio_ts"):
+            sys.exit("ERRO gravação local não existe mais; ponha vod_url e bloco_inicio_ts no meta.json")
+        info = json.loads(subprocess.run(["yt-dlp", "-J", "--no-warnings", meta["vod_url"]],
+                                         capture_output=True, text=True, check=True).stdout)
+        ts = info.get("timestamp") or info.get("release_timestamp")
+        desloc = float(meta["bloco_inicio_ts"]) - float(ts) + float(meta.get("vod_ajuste", 0.0))
+        url = meta["vod_url"]
+        print(f"usando o VOD {url} (início {ts}), deslocamento {desloc:.1f} s", flush=True)
     formatos = ["vertical", "horizontal"] if plano.get("formato") == "ambos" else [plano.get("formato", "vertical")]
     escolhidos = [c for c in plano["cortes"] if not ids or str(c.get("id")) in ids]
 
@@ -47,7 +59,7 @@ def main():
         try:
             if not os.path.exists(bruto):
                 subprocess.run([sys.executable, os.path.join(os.path.dirname(os.path.abspath(__file__)), "baixar.py"),
-                                "trecho", meta["url"], f"{base:.2f}", f"{fim + POS:.2f}", bruto], check=True)
+                                "trecho", url, f"{base + desloc:.2f}", f"{fim + POS + desloc:.2f}", bruto], check=True)
             baixados.append((c, ini, fim, base, bruto))
         except Exception as e:
             print(f"   FALHOU download {cid}: {e}", flush=True); falhas.append(cid)

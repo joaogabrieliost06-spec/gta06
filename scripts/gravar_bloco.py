@@ -203,6 +203,7 @@ def main():
         resta = fim_bloco - time.time()
         padrao = os.path.join(pasta, f"r{run_n:02d}_%03d.ts")
         estado["parede"] = time.time()
+        estado.setdefault("primeiro", estado["parede"])
         entrada = ["-re", "-i", info["m3u8"]] if TESTE else ["-i", info["m3u8"]]
         p = subprocess.Popen(["ffmpeg", "-y", "-v", "error", *entrada, "-map", "0:v:0", "-map", "0:a:0?",
                               "-c", "copy", "-t", f"{resta:.0f}", "-f", "segment", "-segment_time", str(SEG),
@@ -273,6 +274,7 @@ def main():
     meta = {"url_original": a.url, "url": "file://" + video, "titulo": info.get("titulo"), "canal": info["canal"],
             "plataforma": info["plataforma"], "gravado_ao_vivo": True, "bloco": True,
             "inicio_bloco_utc": time.strftime("%Y-%m-%d %H:%M UTC", time.gmtime(inicio)),
+            "bloco_inicio_ts": estado.get("primeiro") or inicio,
             "duracao": total, "falas": n, "mensagens_chat": chat.n, "offset": 0.0}
     json.dump(meta, open(os.path.join(jobdir, "meta.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     json.dump({"etapa": "aguardando_cortes", "desde": time.time()},
@@ -310,10 +312,24 @@ def main():
     if SEM_GIT:
         log("teste: cortes em", saida, sorted(os.listdir(saida)))
         return
-    r = subprocess.run(["gh", "release", "create", job, *arqs, "--title", f"Cortes: {job}",
-                        "--notes-file", pub if os.path.exists(pub) else "/dev/null"])
-    if r.returncode != 0:
-        subprocess.run(["gh", "release", "upload", job, *arqs, "--clobber"])
+    # publica com novas tentativas: um erro 502 do GitHub já deixou um bloco sem Release (25/11)
+    nomes = sorted(os.path.basename(x) for x in arqs)
+    for tentativa in range(6):
+        r = subprocess.run(["gh", "release", "create", job, *arqs, "--title", f"Cortes: {job}",
+                            "--notes-file", pub if os.path.exists(pub) else "/dev/null"])
+        if r.returncode != 0:
+            subprocess.run(["gh", "release", "upload", job, *arqs, "--clobber"])
+        v = gh(f"repos/{REPO}/releases?per_page=30", "--jq",
+               f'.[]|select(.tag_name=="{job}")|select(.draft==false)|.assets[].name')
+        if v.returncode == 0 and set(nomes) <= set(v.stdout.split()):
+            break
+        log(f"Release incompleta (tentativa {tentativa + 1}); tentando de novo em 30 s")
+        rid = gh(f"repos/{REPO}/releases?per_page=30", "--jq", f'.[]|select(.tag_name=="{job}")|select(.draft)|.id')
+        for i in rid.stdout.split():
+            gh("-X", "DELETE", f"repos/{REPO}/releases/{i}")
+        time.sleep(30)
+    else:
+        sys.exit(f"ERRO não consegui publicar a Release {job}")
     json.dump({"etapa": "renderizado", "quando": time.time()}, open(os.path.join(jobdir, "status.json"), "w"), indent=1)
     git_salvar(jobdir, f"bloco renderizado: {job}")
     log("cortes publicados na Release", job)

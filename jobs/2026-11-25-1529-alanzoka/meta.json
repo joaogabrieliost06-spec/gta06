@@ -10,5 +10,7 @@
  "duracao": 1200.061334,
  "falas": 156,
  "mensagens_chat": 3289,
- "offset": 0.0
+ "offset": 0.0,
+ "vod_url": "https://www.twitch.tv/videos/2940381916",
+ "bloco_inicio_ts": 1795620592.0
 }

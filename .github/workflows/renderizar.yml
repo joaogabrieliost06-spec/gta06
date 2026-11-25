@@ -57,6 +57,10 @@ jobs:
       - name: Publicar cortes (Release)
         run: |
           cp jobs/"$JOB"/publicacao.md saida/"$JOB"/ 2>/dev/null || true
+          # rascunho de Release que sobrou de um envio que falhou (erro 502 do GitHub): apaga antes
+          for id in $(gh api "repos/$GITHUB_REPOSITORY/releases?per_page=50" --jq ".[]|select(.tag_name==\"$JOB\" and .draft)|.id"); do
+            gh api -X DELETE "repos/$GITHUB_REPOSITORY/releases/$id" && echo "rascunho de Release apagado: $id"
+          done
           if gh release view "$JOB" > /dev/null 2>&1; then
             # corte refeito: a cópia limpa antiga (guardada pela legenda) ficou velha, então sai da Release
             for v in saida/"$JOB"/corte_*_vertical.mp4; do
