@@ -7,8 +7,8 @@
 - **Thumbnail:** Lucia na piscina + texto "MUITO SECA"
 
 ## 02: Futebol na praia
-- **Título:** "ELE VAI PISCANDO IGUAL RONALDO!" ⚽😂 alanzoka na praia do GTA 6
-- **Descrição:** Na praia de Vice City ele para pra assistir uma pelada e narra como se fosse jogo de Copa. Créditos: alanzoka – https://www.twitch.tv/alanzoka
+- **Título:** "ELE VAI, CRISTIANO RONALDO!" ⚽😂 alanzoka na praia do GTA 6
+- **Descrição:** Na praia de Vice City o Jason pega a bola e ele narra como se fosse o Cristiano Ronaldo. Créditos: alanzoka – https://www.twitch.tv/alanzoka
 - **Hashtags:** #alanzoka #gta6 #gtavi #cortesdelive #shorts
 - **Thumbnail:** bola na praia + texto "RONALDO?!"
 
