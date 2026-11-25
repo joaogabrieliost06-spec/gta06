@@ -1,0 +1,290 @@
+{
+ "segments": [
+  {
+   "start": 19.7,
+   "end": 20.28,
+   "text": "De novo?",
+   "words": [
+    {
+     "word": "De",
+     "start": 19.7,
+     "end": 19.98
+    },
+    {
+     "word": "novo?",
+     "start": 19.98,
+     "end": 20.28
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 20.32,
+   "end": 21.65,
+   "text": "Ah, tá, porque eu dei load, né",
+   "words": [
+    {
+     "word": "Ah,",
+     "start": 20.32,
+     "end": 20.48
+    },
+    {
+     "word": "tá,",
+     "start": 20.54,
+     "end": 20.6
+    },
+    {
+     "word": "porque",
+     "start": 20.72,
+     "end": 20.8
+    },
+    {
+     "word": "eu",
+     "start": 20.8,
+     "end": 20.92
+    },
+    {
+     "word": "dei",
+     "start": 20.92,
+     "end": 21.02
+    },
+    {
+     "word": "load,",
+     "start": 21.02,
+     "end": 21.24
+    },
+    {
+     "word": "né",
+     "start": 21.3,
+     "end": 21.65
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 23.58,
+   "end": 25.53,
+   "text": "Desculpa, eu ia botar minha bebida no",
+   "words": [
+    {
+     "word": "Desculpa,",
+     "start": 23.58,
+     "end": 23.86
+    },
+    {
+     "word": "eu",
+     "start": 23.92,
+     "end": 24.04
+    },
+    {
+     "word": "ia",
+     "start": 24.04,
+     "end": 24.16
+    },
+    {
+     "word": "botar",
+     "start": 24.16,
+     "end": 24.44
+    },
+    {
+     "word": "minha",
+     "start": 24.44,
+     "end": 24.56
+    },
+    {
+     "word": "bebida",
+     "start": 24.56,
+     "end": 24.9
+    },
+    {
+     "word": "no",
+     "start": 24.9,
+     "end": 25.53
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 25.82,
+   "end": 27.52,
+   "text": "Eu ia botar minha bebida no bagulho",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 25.82,
+     "end": 26.1
+    },
+    {
+     "word": "ia",
+     "start": 26.1,
+     "end": 26.26
+    },
+    {
+     "word": "botar",
+     "start": 26.26,
+     "end": 26.52
+    },
+    {
+     "word": "minha",
+     "start": 26.52,
+     "end": 26.62
+    },
+    {
+     "word": "bebida",
+     "start": 26.62,
+     "end": 26.98
+    },
+    {
+     "word": "no",
+     "start": 26.98,
+     "end": 27.1
+    },
+    {
+     "word": "bagulho",
+     "start": 27.1,
+     "end": 27.52
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 27.56,
+   "end": 28.46,
+   "text": "é que é o mesmo botão, mano",
+   "words": [
+    {
+     "word": "é",
+     "start": 27.56,
+     "end": 27.58
+    },
+    {
+     "word": "que",
+     "start": 27.58,
+     "end": 27.63
+    },
+    {
+     "word": "é",
+     "start": 27.63,
+     "end": 27.68
+    },
+    {
+     "word": "o",
+     "start": 27.68,
+     "end": 27.73
+    },
+    {
+     "word": "mesmo",
+     "start": 27.73,
+     "end": 27.84
+    },
+    {
+     "word": "botão,",
+     "start": 27.84,
+     "end": 28.26
+    },
+    {
+     "word": "mano",
+     "start": 28.32,
+     "end": 28.46
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 28.5,
+   "end": 30.14,
+   "text": "Eu não sei quem da Rockstar teve a ideia",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 28.5,
+     "end": 28.88
+    },
+    {
+     "word": "não",
+     "start": 28.88,
+     "end": 28.96
+    },
+    {
+     "word": "sei",
+     "start": 28.96,
+     "end": 29.1
+    },
+    {
+     "word": "quem",
+     "start": 29.1,
+     "end": 29.22
+    },
+    {
+     "word": "da",
+     "start": 29.22,
+     "end": 29.36
+    },
+    {
+     "word": "Rockstar",
+     "start": 29.36,
+     "end": 29.76
+    },
+    {
+     "word": "teve",
+     "start": 29.76,
+     "end": 29.94
+    },
+    {
+     "word": "a",
+     "start": 29.94,
+     "end": 30.04
+    },
+    {
+     "word": "ideia",
+     "start": 30.04,
+     "end": 30.14
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 30.18,
+   "end": 31.79,
+   "text": "de botar o mesmo botão pra tudo",
+   "words": [
+    {
+     "word": "de",
+     "start": 30.18,
+     "end": 30.26
+    },
+    {
+     "word": "botar",
+     "start": 30.26,
+     "end": 30.52
+    },
+    {
+     "word": "o",
+     "start": 30.52,
+     "end": 30.58
+    },
+    {
+     "word": "mesmo",
+     "start": 30.58,
+     "end": 30.72
+    },
+    {
+     "word": "botão",
+     "start": 30.72,
+     "end": 31.08
+    },
+    {
+     "word": "pra",
+     "start": 31.08,
+     "end": 31.22
+    },
+    {
+     "word": "tudo",
+     "start": 31.22,
+     "end": 31.79
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}

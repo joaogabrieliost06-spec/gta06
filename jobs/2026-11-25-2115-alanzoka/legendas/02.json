@@ -1,0 +1,476 @@
+{
+ "segments": [
+  {
+   "start": 1.19,
+   "end": 2.23,
+   "text": "Hoje não tem beijinho não",
+   "words": [
+    {
+     "word": "Hoje",
+     "start": 1.19,
+     "end": 1.45
+    },
+    {
+     "word": "não",
+     "start": 1.45,
+     "end": 1.57
+    },
+    {
+     "word": "tem",
+     "start": 1.57,
+     "end": 1.71
+    },
+    {
+     "word": "beijinho",
+     "start": 1.71,
+     "end": 2.09
+    },
+    {
+     "word": "não",
+     "start": 2.09,
+     "end": 2.23
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 2.27,
+   "end": 2.89,
+   "text": "porque a gente tá com pressa",
+   "words": [
+    {
+     "word": "porque",
+     "start": 2.27,
+     "end": 2.33
+    },
+    {
+     "word": "a",
+     "start": 2.33,
+     "end": 2.38
+    },
+    {
+     "word": "gente",
+     "start": 2.38,
+     "end": 2.43
+    },
+    {
+     "word": "tá",
+     "start": 2.43,
+     "end": 2.49
+    },
+    {
+     "word": "com",
+     "start": 2.49,
+     "end": 2.65
+    },
+    {
+     "word": "pressa",
+     "start": 2.65,
+     "end": 2.89
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 2.93,
+   "end": 4.08,
+   "text": "que já o bar fecha",
+   "words": [
+    {
+     "word": "que",
+     "start": 2.93,
+     "end": 2.99
+    },
+    {
+     "word": "já",
+     "start": 3.07,
+     "end": 3.17
+    },
+    {
+     "word": "o",
+     "start": 3.17,
+     "end": 3.27
+    },
+    {
+     "word": "bar",
+     "start": 3.27,
+     "end": 3.39
+    },
+    {
+     "word": "fecha",
+     "start": 3.39,
+     "end": 4.08
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 5.73,
+   "end": 6.88,
+   "text": "vê se você atrasou",
+   "words": [
+    {
+     "word": "vê",
+     "start": 5.73,
+     "end": 5.91
+    },
+    {
+     "word": "se",
+     "start": 5.91,
+     "end": 5.99
+    },
+    {
+     "word": "você",
+     "start": 5.99,
+     "end": 6.07
+    },
+    {
+     "word": "atrasou",
+     "start": 6.07,
+     "end": 6.88
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 19.81,
+   "end": 20.57,
+   "text": "eu tenho que sentar?",
+   "words": [
+    {
+     "word": "eu",
+     "start": 19.81,
+     "end": 19.91
+    },
+    {
+     "word": "tenho",
+     "start": 19.91,
+     "end": 20.05
+    },
+    {
+     "word": "que",
+     "start": 20.05,
+     "end": 20.13
+    },
+    {
+     "word": "sentar?",
+     "start": 20.13,
+     "end": 20.57
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 20.61,
+   "end": 22.2,
+   "text": "Como é que é? Eu não entendi",
+   "words": [
+    {
+     "word": "Como",
+     "start": 20.61,
+     "end": 20.75
+    },
+    {
+     "word": "é",
+     "start": 20.75,
+     "end": 20.83
+    },
+    {
+     "word": "que",
+     "start": 20.83,
+     "end": 20.89
+    },
+    {
+     "word": "é?",
+     "start": 20.89,
+     "end": 20.94
+    },
+    {
+     "word": "Eu",
+     "start": 20.94,
+     "end": 20.99
+    },
+    {
+     "word": "não",
+     "start": 20.99,
+     "end": 21.09
+    },
+    {
+     "word": "entendi",
+     "start": 21.09,
+     "end": 22.2
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 31.11,
+   "end": 32.23,
+   "text": "que diabo de missão é essa, Charles?",
+   "words": [
+    {
+     "word": "que",
+     "start": 31.11,
+     "end": 31.13
+    },
+    {
+     "word": "diabo",
+     "start": 31.13,
+     "end": 31.37
+    },
+    {
+     "word": "de",
+     "start": 31.37,
+     "end": 31.43
+    },
+    {
+     "word": "missão",
+     "start": 31.43,
+     "end": 31.73
+    },
+    {
+     "word": "é",
+     "start": 31.73,
+     "end": 31.83
+    },
+    {
+     "word": "essa,",
+     "start": 31.83,
+     "end": 31.95
+    },
+    {
+     "word": "Charles?",
+     "start": 32.05,
+     "end": 32.23
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 32.27,
+   "end": 33.21,
+   "text": "Nem começou uma missão",
+   "words": [
+    {
+     "word": "Nem",
+     "start": 32.27,
+     "end": 32.37
+    },
+    {
+     "word": "começou",
+     "start": 32.37,
+     "end": 32.71
+    },
+    {
+     "word": "uma",
+     "start": 32.71,
+     "end": 32.87
+    },
+    {
+     "word": "missão",
+     "start": 32.87,
+     "end": 33.21
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 33.25,
+   "end": 34.6,
+   "text": "achei que era uma missão rara",
+   "words": [
+    {
+     "word": "achei",
+     "start": 33.25,
+     "end": 33.37
+    },
+    {
+     "word": "que",
+     "start": 33.37,
+     "end": 33.49
+    },
+    {
+     "word": "era",
+     "start": 33.49,
+     "end": 33.55
+    },
+    {
+     "word": "uma",
+     "start": 33.55,
+     "end": 33.65
+    },
+    {
+     "word": "missão",
+     "start": 33.65,
+     "end": 33.93
+    },
+    {
+     "word": "rara",
+     "start": 33.93,
+     "end": 34.6
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 53.65,
+   "end": 54.91,
+   "text": "a missão era ir no bar",
+   "words": [
+    {
+     "word": "a",
+     "start": 53.65,
+     "end": 53.95
+    },
+    {
+     "word": "missão",
+     "start": 53.95,
+     "end": 54.27
+    },
+    {
+     "word": "era",
+     "start": 54.27,
+     "end": 54.41
+    },
+    {
+     "word": "ir",
+     "start": 54.41,
+     "end": 54.53
+    },
+    {
+     "word": "no",
+     "start": 54.53,
+     "end": 54.67
+    },
+    {
+     "word": "bar",
+     "start": 54.67,
+     "end": 54.91
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 54.95,
+   "end": 56.5,
+   "text": "literalmente só ir nele",
+   "words": [
+    {
+     "word": "literalmente",
+     "start": 54.95,
+     "end": 55.37
+    },
+    {
+     "word": "só",
+     "start": 55.37,
+     "end": 55.59
+    },
+    {
+     "word": "ir",
+     "start": 55.59,
+     "end": 55.75
+    },
+    {
+     "word": "nele",
+     "start": 55.75,
+     "end": 56.5
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 60.09,
+   "end": 61.06,
+   "text": "Essa é a missão",
+   "words": [
+    {
+     "word": "Essa",
+     "start": 60.09,
+     "end": 60.35
+    },
+    {
+     "word": "é",
+     "start": 60.35,
+     "end": 60.41
+    },
+    {
+     "word": "a",
+     "start": 60.41,
+     "end": 60.51
+    },
+    {
+     "word": "missão",
+     "start": 60.51,
+     "end": 61.06
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 71.75,
+   "end": 73.18,
+   "text": "a paixão tá fogosa, hein?",
+   "words": [
+    {
+     "word": "a",
+     "start": 71.75,
+     "end": 71.83
+    },
+    {
+     "word": "paixão",
+     "start": 71.83,
+     "end": 72.11
+    },
+    {
+     "word": "tá",
+     "start": 72.11,
+     "end": 72.23
+    },
+    {
+     "word": "fogosa,",
+     "start": 72.23,
+     "end": 72.79
+    },
+    {
+     "word": "hein?",
+     "start": 72.85,
+     "end": 73.18
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 79.23,
+   "end": 80.82,
+   "text": "Uou, o que é isso?",
+   "words": [
+    {
+     "word": "Uou,",
+     "start": 79.23,
+     "end": 79.49
+    },
+    {
+     "word": "o",
+     "start": 79.95,
+     "end": 80.07
+    },
+    {
+     "word": "que",
+     "start": 80.07,
+     "end": 80.21
+    },
+    {
+     "word": "é",
+     "start": 80.21,
+     "end": 80.47
+    },
+    {
+     "word": "isso?",
+     "start": 80.47,
+     "end": 80.82
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
