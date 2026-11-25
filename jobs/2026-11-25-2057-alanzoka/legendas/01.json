@@ -1,0 +1,1499 @@
+{
+ "segments": [
+  {
+   "start": 2.19,
+   "end": 3.02,
+   "text": "pra me ouvir?",
+   "words": [
+    {
+     "word": "pra",
+     "start": 2.19,
+     "end": 2.33
+    },
+    {
+     "word": "me",
+     "start": 2.33,
+     "end": 2.49
+    },
+    {
+     "word": "ouvir?",
+     "start": 2.49,
+     "end": 3.02
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 4.0,
+   "end": 4.6,
+   "text": "Alô?",
+   "words": [
+    {
+     "word": "Alô?",
+     "start": 4.0,
+     "end": 4.6
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 8.22,
+   "end": 9.52,
+   "text": "Gente, o Alan mostrou o",
+   "words": [
+    {
+     "word": "Gente,",
+     "start": 8.22,
+     "end": 8.42
+    },
+    {
+     "word": "o",
+     "start": 8.56,
+     "end": 8.61
+    },
+    {
+     "word": "Alan",
+     "start": 8.61,
+     "end": 8.7
+    },
+    {
+     "word": "mostrou",
+     "start": 8.7,
+     "end": 9.24
+    },
+    {
+     "word": "o",
+     "start": 9.24,
+     "end": 9.52
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 9.56,
+   "end": 12.19,
+   "text": "meu controle do GTA",
+   "words": [
+    {
+     "word": "meu",
+     "start": 9.56,
+     "end": 10.26
+    },
+    {
+     "word": "controle",
+     "start": 10.26,
+     "end": 11.22
+    },
+    {
+     "word": "do",
+     "start": 11.22,
+     "end": 11.52
+    },
+    {
+     "word": "GTA",
+     "start": 11.52,
+     "end": 12.19
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 13.88,
+   "end": 15.19,
+   "text": "Deixa eu contar, deixa eu contar",
+   "words": [
+    {
+     "word": "Deixa",
+     "start": 13.88,
+     "end": 14.08
+    },
+    {
+     "word": "eu",
+     "start": 14.08,
+     "end": 14.16
+    },
+    {
+     "word": "contar,",
+     "start": 14.16,
+     "end": 14.36
+    },
+    {
+     "word": "deixa",
+     "start": 14.54,
+     "end": 14.66
+    },
+    {
+     "word": "eu",
+     "start": 14.66,
+     "end": 14.76
+    },
+    {
+     "word": "contar",
+     "start": 14.76,
+     "end": 15.19
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 16.19,
+   "end": 17.23,
+   "text": "Ele não deve ter contado",
+   "words": [
+    {
+     "word": "Ele",
+     "start": 16.19,
+     "end": 16.39
+    },
+    {
+     "word": "não",
+     "start": 16.39,
+     "end": 16.51
+    },
+    {
+     "word": "deve",
+     "start": 16.51,
+     "end": 16.63
+    },
+    {
+     "word": "ter",
+     "start": 16.63,
+     "end": 16.75
+    },
+    {
+     "word": "contado",
+     "start": 16.75,
+     "end": 17.23
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 17.27,
+   "end": 18.42,
+   "text": "ele não deve ter contado",
+   "words": [
+    {
+     "word": "ele",
+     "start": 17.27,
+     "end": 17.37
+    },
+    {
+     "word": "não",
+     "start": 17.37,
+     "end": 17.49
+    },
+    {
+     "word": "deve",
+     "start": 17.49,
+     "end": 17.59
+    },
+    {
+     "word": "ter",
+     "start": 17.59,
+     "end": 17.69
+    },
+    {
+     "word": "contado",
+     "start": 17.69,
+     "end": 18.42
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 18.5,
+   "end": 19.24,
+   "text": "Vou contar pra vocês",
+   "words": [
+    {
+     "word": "Vou",
+     "start": 18.5,
+     "end": 18.66
+    },
+    {
+     "word": "contar",
+     "start": 18.66,
+     "end": 18.76
+    },
+    {
+     "word": "pra",
+     "start": 18.76,
+     "end": 18.9
+    },
+    {
+     "word": "vocês",
+     "start": 18.9,
+     "end": 19.24
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 19.28,
+   "end": 20.17,
+   "text": "Ele deve ficar no banheiro",
+   "words": [
+    {
+     "word": "Ele",
+     "start": 19.28,
+     "end": 19.38
+    },
+    {
+     "word": "deve",
+     "start": 19.38,
+     "end": 19.5
+    },
+    {
+     "word": "ficar",
+     "start": 19.5,
+     "end": 19.58
+    },
+    {
+     "word": "no",
+     "start": 19.58,
+     "end": 19.66
+    },
+    {
+     "word": "banheiro",
+     "start": 19.66,
+     "end": 20.17
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 25.94,
+   "end": 27.97,
+   "text": "O VanDep, ele é meu agente",
+   "words": [
+    {
+     "word": "O",
+     "start": 25.94,
+     "end": 26.3
+    },
+    {
+     "word": "VanDep,",
+     "start": 26.3,
+     "end": 26.66
+    },
+    {
+     "word": "ele",
+     "start": 27.11,
+     "end": 27.47
+    },
+    {
+     "word": "é",
+     "start": 27.47,
+     "end": 27.59
+    },
+    {
+     "word": "meu",
+     "start": 27.59,
+     "end": 27.75
+    },
+    {
+     "word": "agente",
+     "start": 27.75,
+     "end": 27.97
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 28.01,
+   "end": 28.82,
+   "text": "e agente do Alan",
+   "words": [
+    {
+     "word": "e",
+     "start": 28.01,
+     "end": 28.11
+    },
+    {
+     "word": "agente",
+     "start": 28.11,
+     "end": 28.31
+    },
+    {
+     "word": "do",
+     "start": 28.31,
+     "end": 28.47
+    },
+    {
+     "word": "Alan",
+     "start": 28.47,
+     "end": 28.82
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 28.87,
+   "end": 30.53,
+   "text": "Ele chegou pra mim e falou assim, ah",
+   "words": [
+    {
+     "word": "Ele",
+     "start": 28.87,
+     "end": 29.07
+    },
+    {
+     "word": "chegou",
+     "start": 29.07,
+     "end": 29.29
+    },
+    {
+     "word": "pra",
+     "start": 29.29,
+     "end": 29.41
+    },
+    {
+     "word": "mim",
+     "start": 29.41,
+     "end": 29.53
+    },
+    {
+     "word": "e",
+     "start": 29.53,
+     "end": 29.61
+    },
+    {
+     "word": "falou",
+     "start": 29.61,
+     "end": 29.73
+    },
+    {
+     "word": "assim,",
+     "start": 29.73,
+     "end": 29.97
+    },
+    {
+     "word": "ah",
+     "start": 30.17,
+     "end": 30.53
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 30.57,
+   "end": 34.16,
+   "text": "Maethe, eu falei pro mandar dois controles, tá?",
+   "words": [
+    {
+     "word": "Maethe,",
+     "start": 30.57,
+     "end": 30.93
+    },
+    {
+     "word": "eu",
+     "start": 31.15,
+     "end": 31.45
+    },
+    {
+     "word": "falei",
+     "start": 31.45,
+     "end": 31.63
+    },
+    {
+     "word": "pro",
+     "start": 31.63,
+     "end": 31.77
+    },
+    {
+     "word": "mandar",
+     "start": 32.09,
+     "end": 32.43
+    },
+    {
+     "word": "dois",
+     "start": 32.43,
+     "end": 33.13
+    },
+    {
+     "word": "controles,",
+     "start": 33.13,
+     "end": 33.65
+    },
+    {
+     "word": "tá?",
+     "start": 33.77,
+     "end": 34.16
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 34.84,
+   "end": 36.26,
+   "text": "Do GTA pra vocês",
+   "words": [
+    {
+     "word": "Do",
+     "start": 34.84,
+     "end": 35.2
+    },
+    {
+     "word": "GTA",
+     "start": 35.2,
+     "end": 35.58
+    },
+    {
+     "word": "pra",
+     "start": 35.58,
+     "end": 35.8
+    },
+    {
+     "word": "vocês",
+     "start": 35.8,
+     "end": 36.26
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 36.3,
+   "end": 37.72,
+   "text": "Aí eu fiquei assim, tipo assim",
+   "words": [
+    {
+     "word": "Aí",
+     "start": 36.3,
+     "end": 36.38
+    },
+    {
+     "word": "eu",
+     "start": 36.38,
+     "end": 36.48
+    },
+    {
+     "word": "fiquei",
+     "start": 36.48,
+     "end": 36.66
+    },
+    {
+     "word": "assim,",
+     "start": 36.66,
+     "end": 37.1
+    },
+    {
+     "word": "tipo",
+     "start": 37.26,
+     "end": 37.34
+    },
+    {
+     "word": "assim",
+     "start": 37.34,
+     "end": 37.72
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 37.76,
+   "end": 39.26,
+   "text": "pra vocês não, pro Alan, né?",
+   "words": [
+    {
+     "word": "pra",
+     "start": 37.76,
+     "end": 37.84
+    },
+    {
+     "word": "vocês",
+     "start": 37.84,
+     "end": 38.0
+    },
+    {
+     "word": "não,",
+     "start": 38.0,
+     "end": 38.12
+    },
+    {
+     "word": "pro",
+     "start": 38.24,
+     "end": 38.78
+    },
+    {
+     "word": "Alan,",
+     "start": 38.78,
+     "end": 39.02
+    },
+    {
+     "word": "né?",
+     "start": 39.12,
+     "end": 39.26
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 39.3,
+   "end": 41.16,
+   "text": "Aí eu falei, ah, tá bom",
+   "words": [
+    {
+     "word": "Aí",
+     "start": 39.3,
+     "end": 39.46
+    },
+    {
+     "word": "eu",
+     "start": 39.46,
+     "end": 39.56
+    },
+    {
+     "word": "falei,",
+     "start": 39.56,
+     "end": 39.82
+    },
+    {
+     "word": "ah,",
+     "start": 40.39,
+     "end": 40.55
+    },
+    {
+     "word": "tá",
+     "start": 40.67,
+     "end": 40.72
+    },
+    {
+     "word": "bom",
+     "start": 40.72,
+     "end": 41.16
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 41.74,
+   "end": 43.45,
+   "text": "Aí eu pensei que era pro Alan os dois, né?",
+   "words": [
+    {
+     "word": "Aí",
+     "start": 41.74,
+     "end": 41.84
+    },
+    {
+     "word": "eu",
+     "start": 41.84,
+     "end": 41.9
+    },
+    {
+     "word": "pensei",
+     "start": 41.9,
+     "end": 42.18
+    },
+    {
+     "word": "que",
+     "start": 42.18,
+     "end": 42.3
+    },
+    {
+     "word": "era",
+     "start": 42.3,
+     "end": 42.5
+    },
+    {
+     "word": "pro",
+     "start": 42.5,
+     "end": 42.82
+    },
+    {
+     "word": "Alan",
+     "start": 42.82,
+     "end": 43.02
+    },
+    {
+     "word": "os",
+     "start": 43.02,
+     "end": 43.18
+    },
+    {
+     "word": "dois,",
+     "start": 43.18,
+     "end": 43.3
+    },
+    {
+     "word": "né?",
+     "start": 43.4,
+     "end": 43.45
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 43.46,
+   "end": 45.89,
+   "text": "Aí quando chegou, o Alan falou assim",
+   "words": [
+    {
+     "word": "Aí",
+     "start": 43.46,
+     "end": 43.96
+    },
+    {
+     "word": "quando",
+     "start": 43.96,
+     "end": 44.12
+    },
+    {
+     "word": "chegou,",
+     "start": 44.12,
+     "end": 44.5
+    },
+    {
+     "word": "o",
+     "start": 44.9,
+     "end": 45.0
+    },
+    {
+     "word": "Alan",
+     "start": 45.0,
+     "end": 45.12
+    },
+    {
+     "word": "falou",
+     "start": 45.12,
+     "end": 45.4
+    },
+    {
+     "word": "assim",
+     "start": 45.4,
+     "end": 45.89
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 47.37,
+   "end": 48.37,
+   "text": "chegou um pacote do Kabum",
+   "words": [
+    {
+     "word": "chegou",
+     "start": 47.37,
+     "end": 47.65
+    },
+    {
+     "word": "um",
+     "start": 47.65,
+     "end": 47.77
+    },
+    {
+     "word": "pacote",
+     "start": 47.77,
+     "end": 48.07
+    },
+    {
+     "word": "do",
+     "start": 48.07,
+     "end": 48.17
+    },
+    {
+     "word": "Kabum",
+     "start": 48.17,
+     "end": 48.37
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 48.41,
+   "end": 49.63,
+   "text": "ah, deve ser o controle do GTA",
+   "words": [
+    {
+     "word": "ah,",
+     "start": 48.41,
+     "end": 48.53
+    },
+    {
+     "word": "deve",
+     "start": 48.55,
+     "end": 48.67
+    },
+    {
+     "word": "ser",
+     "start": 48.67,
+     "end": 48.77
+    },
+    {
+     "word": "o",
+     "start": 48.77,
+     "end": 48.85
+    },
+    {
+     "word": "controle",
+     "start": 48.85,
+     "end": 49.13
+    },
+    {
+     "word": "do",
+     "start": 49.13,
+     "end": 49.27
+    },
+    {
+     "word": "GTA",
+     "start": 49.27,
+     "end": 49.63
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 49.67,
+   "end": 51.44,
+   "text": "Aí eu falei, ah, o Van Depp falou que são dois",
+   "words": [
+    {
+     "word": "Aí",
+     "start": 49.67,
+     "end": 49.77
+    },
+    {
+     "word": "eu",
+     "start": 49.77,
+     "end": 49.85
+    },
+    {
+     "word": "falei,",
+     "start": 49.85,
+     "end": 49.99
+    },
+    {
+     "word": "ah,",
+     "start": 50.03,
+     "end": 50.13
+    },
+    {
+     "word": "o",
+     "start": 50.19,
+     "end": 50.31
+    },
+    {
+     "word": "Van",
+     "start": 50.31,
+     "end": 50.37
+    },
+    {
+     "word": "Depp",
+     "start": 50.37,
+     "end": 50.53
+    },
+    {
+     "word": "falou",
+     "start": 50.53,
+     "end": 50.71
+    },
+    {
+     "word": "que",
+     "start": 50.71,
+     "end": 50.81
+    },
+    {
+     "word": "são",
+     "start": 50.81,
+     "end": 50.95
+    },
+    {
+     "word": "dois",
+     "start": 50.95,
+     "end": 51.44
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 51.79,
+   "end": 53.81,
+   "text": "Aí ele falou assim, dois? Por quê?",
+   "words": [
+    {
+     "word": "Aí",
+     "start": 51.79,
+     "end": 51.93
+    },
+    {
+     "word": "ele",
+     "start": 51.93,
+     "end": 51.99
+    },
+    {
+     "word": "falou",
+     "start": 51.99,
+     "end": 52.11
+    },
+    {
+     "word": "assim,",
+     "start": 52.11,
+     "end": 52.29
+    },
+    {
+     "word": "dois?",
+     "start": 52.51,
+     "end": 52.81
+    },
+    {
+     "word": "Por",
+     "start": 53.43,
+     "end": 53.65
+    },
+    {
+     "word": "quê?",
+     "start": 53.65,
+     "end": 53.81
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 53.85,
+   "end": 54.67,
+   "text": "Aí eu menti o louco",
+   "words": [
+    {
+     "word": "Aí",
+     "start": 53.85,
+     "end": 53.95
+    },
+    {
+     "word": "eu",
+     "start": 53.95,
+     "end": 54.05
+    },
+    {
+     "word": "menti",
+     "start": 54.05,
+     "end": 54.49
+    },
+    {
+     "word": "o",
+     "start": 54.49,
+     "end": 54.54
+    },
+    {
+     "word": "louco",
+     "start": 54.54,
+     "end": 54.67
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 54.71,
+   "end": 56.22,
+   "text": "falei assim, ah, porque um é pra mim",
+   "words": [
+    {
+     "word": "falei",
+     "start": 54.71,
+     "end": 54.83
+    },
+    {
+     "word": "assim,",
+     "start": 54.83,
+     "end": 54.97
+    },
+    {
+     "word": "ah,",
+     "start": 55.05,
+     "end": 55.11
+    },
+    {
+     "word": "porque",
+     "start": 55.19,
+     "end": 55.33
+    },
+    {
+     "word": "um",
+     "start": 55.33,
+     "end": 55.41
+    },
+    {
+     "word": "é",
+     "start": 55.41,
+     "end": 55.55
+    },
+    {
+     "word": "pra",
+     "start": 55.55,
+     "end": 55.67
+    },
+    {
+     "word": "mim",
+     "start": 55.67,
+     "end": 56.22
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 57.22,
+   "end": 58.43,
+   "text": "Porque era mentira, né?",
+   "words": [
+    {
+     "word": "Porque",
+     "start": 57.22,
+     "end": 57.5
+    },
+    {
+     "word": "era",
+     "start": 57.5,
+     "end": 57.58
+    },
+    {
+     "word": "mentira,",
+     "start": 57.58,
+     "end": 58.02
+    },
+    {
+     "word": "né?",
+     "start": 58.1,
+     "end": 58.43
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 58.86,
+   "end": 60.07,
+   "text": "Não, porque um é pra mim",
+   "words": [
+    {
+     "word": "Não,",
+     "start": 58.86,
+     "end": 59.08
+    },
+    {
+     "word": "porque",
+     "start": 59.18,
+     "end": 59.26
+    },
+    {
+     "word": "um",
+     "start": 59.26,
+     "end": 59.38
+    },
+    {
+     "word": "é",
+     "start": 59.38,
+     "end": 59.44
+    },
+    {
+     "word": "pra",
+     "start": 59.44,
+     "end": 59.6
+    },
+    {
+     "word": "mim",
+     "start": 59.6,
+     "end": 60.07
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 60.59,
+   "end": 62.14,
+   "text": "Aí ele, mentira, não é não",
+   "words": [
+    {
+     "word": "Aí",
+     "start": 60.59,
+     "end": 60.77
+    },
+    {
+     "word": "ele,",
+     "start": 60.77,
+     "end": 60.87
+    },
+    {
+     "word": "mentira,",
+     "start": 61.06,
+     "end": 61.72
+    },
+    {
+     "word": "não",
+     "start": 61.74,
+     "end": 61.86
+    },
+    {
+     "word": "é",
+     "start": 61.86,
+     "end": 61.96
+    },
+    {
+     "word": "não",
+     "start": 61.96,
+     "end": 62.14
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 62.18,
+   "end": 63.5,
+   "text": "Eu falei assim, é, eu juro",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 62.18,
+     "end": 62.28
+    },
+    {
+     "word": "falei",
+     "start": 62.28,
+     "end": 62.42
+    },
+    {
+     "word": "assim,",
+     "start": 62.42,
+     "end": 62.62
+    },
+    {
+     "word": "é,",
+     "start": 62.84,
+     "end": 62.98
+    },
+    {
+     "word": "eu",
+     "start": 63.04,
+     "end": 63.18
+    },
+    {
+     "word": "juro",
+     "start": 63.18,
+     "end": 63.5
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 63.54,
+   "end": 64.8,
+   "text": "E eu fiquei séria, não sei como",
+   "words": [
+    {
+     "word": "E",
+     "start": 63.54,
+     "end": 63.68
+    },
+    {
+     "word": "eu",
+     "start": 63.68,
+     "end": 63.73
+    },
+    {
+     "word": "fiquei",
+     "start": 63.73,
+     "end": 63.92
+    },
+    {
+     "word": "séria,",
+     "start": 63.92,
+     "end": 64.2
+    },
+    {
+     "word": "não",
+     "start": 64.26,
+     "end": 64.34
+    },
+    {
+     "word": "sei",
+     "start": 64.34,
+     "end": 64.48
+    },
+    {
+     "word": "como",
+     "start": 64.48,
+     "end": 64.8
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 64.84,
+   "end": 66.05,
+   "text": "mas ele me conhece",
+   "words": [
+    {
+     "word": "mas",
+     "start": 64.84,
+     "end": 65.14
+    },
+    {
+     "word": "ele",
+     "start": 65.14,
+     "end": 65.26
+    },
+    {
+     "word": "me",
+     "start": 65.26,
+     "end": 65.36
+    },
+    {
+     "word": "conhece",
+     "start": 65.36,
+     "end": 66.05
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 66.15,
+   "end": 68.63,
+   "text": "Aí ele falou, aí ele falou",
+   "words": [
+    {
+     "word": "Aí",
+     "start": 66.15,
+     "end": 66.39
+    },
+    {
+     "word": "ele",
+     "start": 66.39,
+     "end": 66.53
+    },
+    {
+     "word": "falou,",
+     "start": 66.53,
+     "end": 66.83
+    },
+    {
+     "word": "aí",
+     "start": 67.84,
+     "end": 67.98
+    },
+    {
+     "word": "ele",
+     "start": 67.98,
+     "end": 68.08
+    },
+    {
+     "word": "falou",
+     "start": 68.08,
+     "end": 68.63
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 69.04,
+   "end": 70.53,
+   "text": "ah, você tá mentindo, não sei o quê",
+   "words": [
+    {
+     "word": "ah,",
+     "start": 69.04,
+     "end": 69.22
+    },
+    {
+     "word": "você",
+     "start": 69.26,
+     "end": 69.4
+    },
+    {
+     "word": "tá",
+     "start": 69.4,
+     "end": 69.45
+    },
+    {
+     "word": "mentindo,",
+     "start": 69.45,
+     "end": 69.8
+    },
+    {
+     "word": "não",
+     "start": 69.86,
+     "end": 70.02
+    },
+    {
+     "word": "sei",
+     "start": 70.02,
+     "end": 70.12
+    },
+    {
+     "word": "o",
+     "start": 70.12,
+     "end": 70.22
+    },
+    {
+     "word": "quê",
+     "start": 70.22,
+     "end": 70.53
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 70.96,
+   "end": 72.86,
+   "text": "Aí ele foi lá e clicou no áudio",
+   "words": [
+    {
+     "word": "Aí",
+     "start": 70.96,
+     "end": 71.24
+    },
+    {
+     "word": "ele",
+     "start": 71.36,
+     "end": 71.64
+    },
+    {
+     "word": "foi",
+     "start": 71.64,
+     "end": 71.84
+    },
+    {
+     "word": "lá",
+     "start": 71.84,
+     "end": 72.02
+    },
+    {
+     "word": "e",
+     "start": 72.02,
+     "end": 72.22
+    },
+    {
+     "word": "clicou",
+     "start": 72.22,
+     "end": 72.56
+    },
+    {
+     "word": "no",
+     "start": 72.56,
+     "end": 72.68
+    },
+    {
+     "word": "áudio",
+     "start": 72.68,
+     "end": 72.86
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 72.9,
+   "end": 74.0,
+   "text": "que o Van Depp tinha mandado",
+   "words": [
+    {
+     "word": "que",
+     "start": 72.9,
+     "end": 73.0
+    },
+    {
+     "word": "o",
+     "start": 73.0,
+     "end": 73.08
+    },
+    {
+     "word": "Van",
+     "start": 73.08,
+     "end": 73.16
+    },
+    {
+     "word": "Depp",
+     "start": 73.16,
+     "end": 73.32
+    },
+    {
+     "word": "tinha",
+     "start": 73.32,
+     "end": 73.48
+    },
+    {
+     "word": "mandado",
+     "start": 73.48,
+     "end": 74.0
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 74.04,
+   "end": 75.93,
+   "text": "Aí ele deixou bem alto, aí o Van Depp",
+   "words": [
+    {
+     "word": "Aí",
+     "start": 74.04,
+     "end": 74.18
+    },
+    {
+     "word": "ele",
+     "start": 74.18,
+     "end": 74.32
+    },
+    {
+     "word": "deixou",
+     "start": 74.32,
+     "end": 74.56
+    },
+    {
+     "word": "bem",
+     "start": 74.56,
+     "end": 74.72
+    },
+    {
+     "word": "alto,",
+     "start": 74.72,
+     "end": 75.04
+    },
+    {
+     "word": "aí",
+     "start": 75.16,
+     "end": 75.26
+    },
+    {
+     "word": "o",
+     "start": 75.26,
+     "end": 75.34
+    },
+    {
+     "word": "Van",
+     "start": 75.34,
+     "end": 75.46
+    },
+    {
+     "word": "Depp",
+     "start": 75.46,
+     "end": 75.93
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 77.45,
+   "end": 79.47,
+   "text": "Falei pro Kabum mandar dois controles",
+   "words": [
+    {
+     "word": "Falei",
+     "start": 77.45,
+     "end": 78.09
+    },
+    {
+     "word": "pro",
+     "start": 78.09,
+     "end": 78.17
+    },
+    {
+     "word": "Kabum",
+     "start": 78.17,
+     "end": 78.45
+    },
+    {
+     "word": "mandar",
+     "start": 78.45,
+     "end": 78.73
+    },
+    {
+     "word": "dois",
+     "start": 78.73,
+     "end": 78.97
+    },
+    {
+     "word": "controles",
+     "start": 78.97,
+     "end": 79.47
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 79.51,
+   "end": 82.54,
+   "text": "Um para você e um para Maethe",
+   "words": [
+    {
+     "word": "Um",
+     "start": 79.51,
+     "end": 79.89
+    },
+    {
+     "word": "para",
+     "start": 79.89,
+     "end": 80.13
+    },
+    {
+     "word": "você",
+     "start": 80.13,
+     "end": 80.55
+    },
+    {
+     "word": "e",
+     "start": 80.55,
+     "end": 80.87
+    },
+    {
+     "word": "um",
+     "start": 80.87,
+     "end": 80.99
+    },
+    {
+     "word": "para",
+     "start": 80.99,
+     "end": 81.23
+    },
+    {
+     "word": "Maethe",
+     "start": 81.23,
+     "end": 82.54
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 83.64,
+   "end": 86.2,
+   "text": "meu, é meu",
+   "words": [
+    {
+     "word": "meu,",
+     "start": 83.64,
+     "end": 85.2
+    },
+    {
+     "word": "é",
+     "start": 85.36,
+     "end": 85.74
+    },
+    {
+     "word": "meu",
+     "start": 85.74,
+     "end": 86.2
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 86.24,
+   "end": 87.76,
+   "text": "Então é meu",
+   "words": [
+    {
+     "word": "Então",
+     "start": 86.24,
+     "end": 86.78
+    },
+    {
+     "word": "é",
+     "start": 87.09,
+     "end": 87.29
+    },
+    {
+     "word": "meu",
+     "start": 87.29,
+     "end": 87.76
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
