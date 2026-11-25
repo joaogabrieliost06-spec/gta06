@@ -1,0 +1,205 @@
+{
+ "segments": [
+  {
+   "start": 5.96,
+   "end": 6.86,
+   "text": "Caralho, vai quebrar o apoio",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 5.96,
+     "end": 6.16
+    },
+    {
+     "word": "vai",
+     "start": 6.22,
+     "end": 6.27
+    },
+    {
+     "word": "quebrar",
+     "start": 6.27,
+     "end": 6.5
+    },
+    {
+     "word": "o",
+     "start": 6.5,
+     "end": 6.6
+    },
+    {
+     "word": "apoio",
+     "start": 6.6,
+     "end": 6.86
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 6.9,
+   "end": 7.81,
+   "text": "do ônibus no meio",
+   "words": [
+    {
+     "word": "do",
+     "start": 6.9,
+     "end": 6.94
+    },
+    {
+     "word": "ônibus",
+     "start": 6.94,
+     "end": 7.2
+    },
+    {
+     "word": "no",
+     "start": 7.2,
+     "end": 7.34
+    },
+    {
+     "word": "meio",
+     "start": 7.34,
+     "end": 7.81
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 14.55,
+   "end": 15.96,
+   "text": "O lança-granada, mano",
+   "words": [
+    {
+     "word": "O",
+     "start": 14.55,
+     "end": 14.73
+    },
+    {
+     "word": "lança-granada,",
+     "start": 14.73,
+     "end": 15.49
+    },
+    {
+     "word": "mano",
+     "start": 15.61,
+     "end": 15.96
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 16.09,
+   "end": 17.56,
+   "text": "agora é o trailer, mano",
+   "words": [
+    {
+     "word": "agora",
+     "start": 16.09,
+     "end": 16.27
+    },
+    {
+     "word": "é",
+     "start": 16.27,
+     "end": 16.43
+    },
+    {
+     "word": "o",
+     "start": 16.43,
+     "end": 16.49
+    },
+    {
+     "word": "trailer,",
+     "start": 16.49,
+     "end": 16.87
+    },
+    {
+     "word": "mano",
+     "start": 17.13,
+     "end": 17.56
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 18.08,
+   "end": 19.25,
+   "text": "A gente vê ela fazendo isso",
+   "words": [
+    {
+     "word": "A",
+     "start": 18.08,
+     "end": 18.22
+    },
+    {
+     "word": "gente",
+     "start": 18.22,
+     "end": 18.36
+    },
+    {
+     "word": "vê",
+     "start": 18.36,
+     "end": 18.52
+    },
+    {
+     "word": "ela",
+     "start": 18.52,
+     "end": 18.6
+    },
+    {
+     "word": "fazendo",
+     "start": 18.6,
+     "end": 18.82
+    },
+    {
+     "word": "isso",
+     "start": 18.82,
+     "end": 19.25
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 69.95,
+   "end": 71.38,
+   "text": "Helicóptero vai mamar, velho",
+   "words": [
+    {
+     "word": "Helicóptero",
+     "start": 69.95,
+     "end": 70.33
+    },
+    {
+     "word": "vai",
+     "start": 70.33,
+     "end": 70.41
+    },
+    {
+     "word": "mamar,",
+     "start": 70.41,
+     "end": 70.75
+    },
+    {
+     "word": "velho",
+     "start": 70.83,
+     "end": 71.38
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 71.43,
+   "end": 72.16,
+   "text": "Next stage",
+   "words": [
+    {
+     "word": "Next",
+     "start": 71.43,
+     "end": 71.63
+    },
+    {
+     "word": "stage",
+     "start": 71.63,
+     "end": 72.16
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}

@@ -1,0 +1,396 @@
+{
+ "segments": [
+  {
+   "start": 3.88,
+   "end": 5.49,
+   "text": "Tô com lança-granada, mano",
+   "words": [
+    {
+     "word": "Tô",
+     "start": 3.88,
+     "end": 4.24
+    },
+    {
+     "word": "com",
+     "start": 4.24,
+     "end": 4.3
+    },
+    {
+     "word": "lança-granada,",
+     "start": 4.3,
+     "end": 5.04
+    },
+    {
+     "word": "mano",
+     "start": 5.12,
+     "end": 5.49
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 32.93,
+   "end": 33.81,
+   "text": "O primeiro já foi",
+   "words": [
+    {
+     "word": "O",
+     "start": 32.93,
+     "end": 33.17
+    },
+    {
+     "word": "primeiro",
+     "start": 33.17,
+     "end": 33.39
+    },
+    {
+     "word": "já",
+     "start": 33.39,
+     "end": 33.55
+    },
+    {
+     "word": "foi",
+     "start": 33.55,
+     "end": 33.81
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 33.85,
+   "end": 36.63,
+   "text": "o segundo",
+   "words": [
+    {
+     "word": "o",
+     "start": 33.85,
+     "end": 34.39
+    },
+    {
+     "word": "segundo",
+     "start": 34.7,
+     "end": 36.63
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 37.1,
+   "end": 38.85,
+   "text": "também já foi pra frente",
+   "words": [
+    {
+     "word": "também",
+     "start": 37.1,
+     "end": 37.36
+    },
+    {
+     "word": "já",
+     "start": 37.36,
+     "end": 37.52
+    },
+    {
+     "word": "foi",
+     "start": 37.52,
+     "end": 37.84
+    },
+    {
+     "word": "pra",
+     "start": 37.84,
+     "end": 38.08
+    },
+    {
+     "word": "frente",
+     "start": 38.08,
+     "end": 38.85
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 43.17,
+   "end": 45.57,
+   "text": "Terceiro já foi",
+   "words": [
+    {
+     "word": "Terceiro",
+     "start": 43.17,
+     "end": 43.65
+    },
+    {
+     "word": "já",
+     "start": 43.83,
+     "end": 44.75
+    },
+    {
+     "word": "foi",
+     "start": 45.25,
+     "end": 45.57
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 45.61,
+   "end": 47.53,
+   "text": "Foi isso que eu fiz",
+   "words": [
+    {
+     "word": "Foi",
+     "start": 45.61,
+     "end": 46.23
+    },
+    {
+     "word": "isso",
+     "start": 46.41,
+     "end": 46.65
+    },
+    {
+     "word": "que",
+     "start": 46.93,
+     "end": 47.27
+    },
+    {
+     "word": "eu",
+     "start": 47.27,
+     "end": 47.37
+    },
+    {
+     "word": "fiz",
+     "start": 47.37,
+     "end": 47.53
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 47.57,
+   "end": 48.39,
+   "text": "quando meu carro capotou",
+   "words": [
+    {
+     "word": "quando",
+     "start": 47.57,
+     "end": 47.69
+    },
+    {
+     "word": "meu",
+     "start": 47.69,
+     "end": 47.87
+    },
+    {
+     "word": "carro",
+     "start": 47.87,
+     "end": 48.01
+    },
+    {
+     "word": "capotou",
+     "start": 48.01,
+     "end": 48.39
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 48.43,
+   "end": 49.73,
+   "text": "Literalmente bati no policial",
+   "words": [
+    {
+     "word": "Literalmente",
+     "start": 48.43,
+     "end": 48.85
+    },
+    {
+     "word": "bati",
+     "start": 48.85,
+     "end": 49.11
+    },
+    {
+     "word": "no",
+     "start": 49.11,
+     "end": 49.23
+    },
+    {
+     "word": "policial",
+     "start": 49.23,
+     "end": 49.73
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 49.77,
+   "end": 52.17,
+   "text": "e meu carro capotou, mano",
+   "words": [
+    {
+     "word": "e",
+     "start": 49.77,
+     "end": 50.23
+    },
+    {
+     "word": "meu",
+     "start": 50.23,
+     "end": 50.41
+    },
+    {
+     "word": "carro",
+     "start": 50.41,
+     "end": 50.57
+    },
+    {
+     "word": "capotou,",
+     "start": 50.57,
+     "end": 51.47
+    },
+    {
+     "word": "mano",
+     "start": 51.87,
+     "end": 52.17
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 54.96,
+   "end": 57.13,
+   "text": "Esse daqui já foi também, mano",
+   "words": [
+    {
+     "word": "Esse",
+     "start": 54.96,
+     "end": 55.12
+    },
+    {
+     "word": "daqui",
+     "start": 55.12,
+     "end": 55.3
+    },
+    {
+     "word": "já",
+     "start": 55.3,
+     "end": 55.42
+    },
+    {
+     "word": "foi",
+     "start": 55.42,
+     "end": 55.6
+    },
+    {
+     "word": "também,",
+     "start": 55.6,
+     "end": 55.8
+    },
+    {
+     "word": "mano",
+     "start": 55.8,
+     "end": 57.13
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 59.56,
+   "end": 61.25,
+   "text": "Eu quase saí rolando com o meu",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 59.56,
+     "end": 59.74
+    },
+    {
+     "word": "quase",
+     "start": 59.74,
+     "end": 60.02
+    },
+    {
+     "word": "saí",
+     "start": 60.02,
+     "end": 60.3
+    },
+    {
+     "word": "rolando",
+     "start": 60.3,
+     "end": 60.62
+    },
+    {
+     "word": "com",
+     "start": 60.62,
+     "end": 60.78
+    },
+    {
+     "word": "o",
+     "start": 60.78,
+     "end": 60.92
+    },
+    {
+     "word": "meu",
+     "start": 60.92,
+     "end": 61.25
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 62.28,
+   "end": 62.88,
+   "text": "Vem!",
+   "words": [
+    {
+     "word": "Vem!",
+     "start": 62.28,
+     "end": 62.88
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 64.62,
+   "end": 65.17,
+   "text": "Meu Deus, estamos",
+   "words": [
+    {
+     "word": "Meu",
+     "start": 64.62,
+     "end": 64.9
+    },
+    {
+     "word": "Deus,",
+     "start": 64.9,
+     "end": 65.02
+    },
+    {
+     "word": "estamos",
+     "start": 65.12,
+     "end": 65.17
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 65.16,
+   "end": 66.41,
+   "text": "seis estrelas, mano",
+   "words": [
+    {
+     "word": "seis",
+     "start": 65.16,
+     "end": 65.46
+    },
+    {
+     "word": "estrelas,",
+     "start": 65.46,
+     "end": 66.0
+    },
+    {
+     "word": "mano",
+     "start": 66.08,
+     "end": 66.41
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}

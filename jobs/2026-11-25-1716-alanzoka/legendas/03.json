@@ -1,0 +1,332 @@
+{
+ "segments": [
+  {
+   "start": 22.36,
+   "end": 23.86,
+   "text": "A gente rouba 7 milhões",
+   "words": [
+    {
+     "word": "A",
+     "start": 22.36,
+     "end": 22.92
+    },
+    {
+     "word": "gente",
+     "start": 22.92,
+     "end": 23.02
+    },
+    {
+     "word": "rouba",
+     "start": 23.02,
+     "end": 23.32
+    },
+    {
+     "word": "7",
+     "start": 23.32,
+     "end": 23.6
+    },
+    {
+     "word": "milhões",
+     "start": 23.6,
+     "end": 23.86
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 23.9,
+   "end": 25.32,
+   "text": "e só ganha 130, mano",
+   "words": [
+    {
+     "word": "e",
+     "start": 23.9,
+     "end": 23.98
+    },
+    {
+     "word": "só",
+     "start": 23.98,
+     "end": 24.14
+    },
+    {
+     "word": "ganha",
+     "start": 24.14,
+     "end": 24.32
+    },
+    {
+     "word": "130,",
+     "start": 24.32,
+     "end": 24.84
+    },
+    {
+     "word": "mano",
+     "start": 25.22,
+     "end": 25.32
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 25.36,
+   "end": 26.79,
+   "text": "É que ele vai pagar parcelado",
+   "words": [
+    {
+     "word": "É",
+     "start": 25.36,
+     "end": 25.44
+    },
+    {
+     "word": "que",
+     "start": 25.44,
+     "end": 25.5
+    },
+    {
+     "word": "ele",
+     "start": 25.5,
+     "end": 25.62
+    },
+    {
+     "word": "vai",
+     "start": 25.62,
+     "end": 25.74
+    },
+    {
+     "word": "pagar",
+     "start": 25.74,
+     "end": 25.92
+    },
+    {
+     "word": "parcelado",
+     "start": 25.92,
+     "end": 26.79
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 33.78,
+   "end": 34.99,
+   "text": "Tchau, entendi",
+   "words": [
+    {
+     "word": "Tchau,",
+     "start": 33.78,
+     "end": 34.28
+    },
+    {
+     "word": "entendi",
+     "start": 34.38,
+     "end": 34.99
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 35.27,
+   "end": 36.84,
+   "text": "Não prestei atenção",
+   "words": [
+    {
+     "word": "Não",
+     "start": 35.27,
+     "end": 35.79
+    },
+    {
+     "word": "prestei",
+     "start": 35.79,
+     "end": 36.25
+    },
+    {
+     "word": "atenção",
+     "start": 36.25,
+     "end": 36.84
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 37.6,
+   "end": 38.75,
+   "text": "Marvy",
+   "words": [
+    {
+     "word": "Marvy",
+     "start": 37.6,
+     "end": 38.75
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 39.57,
+   "end": 41.16,
+   "text": "Marvy é o vizinho, não é?",
+   "words": [
+    {
+     "word": "Marvy",
+     "start": 39.57,
+     "end": 40.09
+    },
+    {
+     "word": "é",
+     "start": 40.09,
+     "end": 40.17
+    },
+    {
+     "word": "o",
+     "start": 40.17,
+     "end": 40.22
+    },
+    {
+     "word": "vizinho,",
+     "start": 40.22,
+     "end": 40.61
+    },
+    {
+     "word": "não",
+     "start": 40.67,
+     "end": 40.75
+    },
+    {
+     "word": "é?",
+     "start": 40.75,
+     "end": 41.16
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 42.94,
+   "end": 45.49,
+   "text": "E aí, Marvy",
+   "words": [
+    {
+     "word": "E",
+     "start": 42.94,
+     "end": 43.44
+    },
+    {
+     "word": "aí,",
+     "start": 43.44,
+     "end": 43.94
+    },
+    {
+     "word": "Marvy",
+     "start": 45.17,
+     "end": 45.49
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 45.53,
+   "end": 47.74,
+   "text": "Tchau, a gente vai se mudar, mano",
+   "words": [
+    {
+     "word": "Tchau,",
+     "start": 45.53,
+     "end": 46.29
+    },
+    {
+     "word": "a",
+     "start": 46.37,
+     "end": 46.47
+    },
+    {
+     "word": "gente",
+     "start": 46.47,
+     "end": 46.52
+    },
+    {
+     "word": "vai",
+     "start": 46.52,
+     "end": 46.67
+    },
+    {
+     "word": "se",
+     "start": 46.67,
+     "end": 46.83
+    },
+    {
+     "word": "mudar,",
+     "start": 46.83,
+     "end": 47.17
+    },
+    {
+     "word": "mano",
+     "start": 47.21,
+     "end": 47.74
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 53.33,
+   "end": 54.73,
+   "text": "Meus carros tão tudo fodidos",
+   "words": [
+    {
+     "word": "Meus",
+     "start": 53.33,
+     "end": 53.61
+    },
+    {
+     "word": "carros",
+     "start": 53.61,
+     "end": 53.81
+    },
+    {
+     "word": "tão",
+     "start": 53.81,
+     "end": 53.93
+    },
+    {
+     "word": "tudo",
+     "start": 53.93,
+     "end": 54.15
+    },
+    {
+     "word": "fodidos",
+     "start": 54.15,
+     "end": 54.73
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 54.77,
+   "end": 55.92,
+   "text": "velho, que que é isso?",
+   "words": [
+    {
+     "word": "velho,",
+     "start": 54.77,
+     "end": 54.97
+    },
+    {
+     "word": "que",
+     "start": 54.97,
+     "end": 55.05
+    },
+    {
+     "word": "que",
+     "start": 55.05,
+     "end": 55.19
+    },
+    {
+     "word": "é",
+     "start": 55.19,
+     "end": 55.33
+    },
+    {
+     "word": "isso?",
+     "start": 55.33,
+     "end": 55.92
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
