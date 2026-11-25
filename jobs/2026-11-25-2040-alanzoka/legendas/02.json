@@ -1,0 +1,628 @@
+{
+ "segments": [
+  {
+   "start": 0.96,
+   "end": 1.64,
+   "text": "Mas provavelmente",
+   "words": [
+    {
+     "word": "Mas",
+     "start": 0.96,
+     "end": 1.26
+    },
+    {
+     "word": "provavelmente",
+     "start": 1.26,
+     "end": 1.64
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 1.68,
+   "end": 3.03,
+   "text": "vai aprender mais dois lugares",
+   "words": [
+    {
+     "word": "vai",
+     "start": 1.68,
+     "end": 1.78
+    },
+    {
+     "word": "aprender",
+     "start": 1.78,
+     "end": 2.0
+    },
+    {
+     "word": "mais",
+     "start": 2.0,
+     "end": 2.16
+    },
+    {
+     "word": "dois",
+     "start": 2.16,
+     "end": 2.38
+    },
+    {
+     "word": "lugares",
+     "start": 2.38,
+     "end": 3.03
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 6.28,
+   "end": 7.08,
+   "text": "Será que vai aprender",
+   "words": [
+    {
+     "word": "Será",
+     "start": 6.28,
+     "end": 6.64
+    },
+    {
+     "word": "que",
+     "start": 6.64,
+     "end": 6.72
+    },
+    {
+     "word": "vai",
+     "start": 6.82,
+     "end": 6.9
+    },
+    {
+     "word": "aprender",
+     "start": 6.9,
+     "end": 7.08
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 7.12,
+   "end": 8.51,
+   "text": "no local novo de meditação?",
+   "words": [
+    {
+     "word": "no",
+     "start": 7.12,
+     "end": 7.24
+    },
+    {
+     "word": "local",
+     "start": 7.24,
+     "end": 7.44
+    },
+    {
+     "word": "novo",
+     "start": 7.44,
+     "end": 7.66
+    },
+    {
+     "word": "de",
+     "start": 7.66,
+     "end": 7.76
+    },
+    {
+     "word": "meditação?",
+     "start": 7.76,
+     "end": 8.51
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 10.31,
+   "end": 10.92,
+   "text": "Não",
+   "words": [
+    {
+     "word": "Não",
+     "start": 10.31,
+     "end": 10.92
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 18.27,
+   "end": 19.35,
+   "text": "Crossover com polia",
+   "words": [
+    {
+     "word": "Crossover",
+     "start": 18.27,
+     "end": 18.63
+    },
+    {
+     "word": "com",
+     "start": 18.63,
+     "end": 18.91
+    },
+    {
+     "word": "polia",
+     "start": 18.91,
+     "end": 19.35
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 19.39,
+   "end": 20.48,
+   "text": "vamos ver ela fazendo crossover",
+   "words": [
+    {
+     "word": "vamos",
+     "start": 19.39,
+     "end": 19.45
+    },
+    {
+     "word": "ver",
+     "start": 19.45,
+     "end": 19.57
+    },
+    {
+     "word": "ela",
+     "start": 19.57,
+     "end": 19.63
+    },
+    {
+     "word": "fazendo",
+     "start": 19.63,
+     "end": 19.87
+    },
+    {
+     "word": "crossover",
+     "start": 19.87,
+     "end": 20.48
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 20.59,
+   "end": 21.19,
+   "text": "calma aí",
+   "words": [
+    {
+     "word": "calma",
+     "start": 20.59,
+     "end": 20.71
+    },
+    {
+     "word": "aí",
+     "start": 20.71,
+     "end": 21.19
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 32.67,
+   "end": 33.32,
+   "text": "Vamos ver",
+   "words": [
+    {
+     "word": "Vamos",
+     "start": 32.67,
+     "end": 32.79
+    },
+    {
+     "word": "ver",
+     "start": 32.79,
+     "end": 33.32
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 34.58,
+   "end": 36.57,
+   "text": "Nice, nice, nice",
+   "words": [
+    {
+     "word": "Nice,",
+     "start": 34.58,
+     "end": 34.94
+    },
+    {
+     "word": "nice,",
+     "start": 35.12,
+     "end": 35.7
+    },
+    {
+     "word": "nice",
+     "start": 35.76,
+     "end": 36.57
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 37.53,
+   "end": 38.44,
+   "text": "Estufa o peito",
+   "words": [
+    {
+     "word": "Estufa",
+     "start": 37.53,
+     "end": 37.89
+    },
+    {
+     "word": "o",
+     "start": 37.89,
+     "end": 38.03
+    },
+    {
+     "word": "peito",
+     "start": 38.03,
+     "end": 38.44
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 51.45,
+   "end": 52.51,
+   "text": "Estufa o peito, querida",
+   "words": [
+    {
+     "word": "Estufa",
+     "start": 51.45,
+     "end": 51.81
+    },
+    {
+     "word": "o",
+     "start": 51.81,
+     "end": 51.95
+    },
+    {
+     "word": "peito,",
+     "start": 51.95,
+     "end": 52.13
+    },
+    {
+     "word": "querida",
+     "start": 52.27,
+     "end": 52.51
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 52.55,
+   "end": 54.62,
+   "text": "cê com as costas torta, mano",
+   "words": [
+    {
+     "word": "cê",
+     "start": 52.55,
+     "end": 52.59
+    },
+    {
+     "word": "com",
+     "start": 52.59,
+     "end": 52.79
+    },
+    {
+     "word": "as",
+     "start": 52.79,
+     "end": 52.87
+    },
+    {
+     "word": "costas",
+     "start": 52.87,
+     "end": 53.23
+    },
+    {
+     "word": "torta,",
+     "start": 53.23,
+     "end": 54.19
+    },
+    {
+     "word": "mano",
+     "start": 54.27,
+     "end": 54.62
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 55.32,
+   "end": 56.64,
+   "text": "Cê tá corcunda, mano",
+   "words": [
+    {
+     "word": "Cê",
+     "start": 55.32,
+     "end": 55.44
+    },
+    {
+     "word": "tá",
+     "start": 55.44,
+     "end": 55.54
+    },
+    {
+     "word": "corcunda,",
+     "start": 55.54,
+     "end": 56.28
+    },
+    {
+     "word": "mano",
+     "start": 56.48,
+     "end": 56.64
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 56.68,
+   "end": 57.59,
+   "text": "estufa o peito",
+   "words": [
+    {
+     "word": "estufa",
+     "start": 56.68,
+     "end": 56.96
+    },
+    {
+     "word": "o",
+     "start": 56.96,
+     "end": 57.1
+    },
+    {
+     "word": "peito",
+     "start": 57.1,
+     "end": 57.59
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 66.88,
+   "end": 68.14,
+   "text": "Caralho, tá pesado, velho",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 66.88,
+     "end": 67.2
+    },
+    {
+     "word": "tá",
+     "start": 67.24,
+     "end": 67.3
+    },
+    {
+     "word": "pesado,",
+     "start": 67.3,
+     "end": 67.82
+    },
+    {
+     "word": "velho",
+     "start": 67.98,
+     "end": 68.14
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 68.18,
+   "end": 69.37,
+   "text": "Júlio, me ajuda",
+   "words": [
+    {
+     "word": "Júlio,",
+     "start": 68.18,
+     "end": 68.64
+    },
+    {
+     "word": "me",
+     "start": 68.64,
+     "end": 68.74
+    },
+    {
+     "word": "ajuda",
+     "start": 68.74,
+     "end": 69.37
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 69.62,
+   "end": 71.43,
+   "text": "Júlio, me ajuda que tá pesado",
+   "words": [
+    {
+     "word": "Júlio,",
+     "start": 69.62,
+     "end": 70.04
+    },
+    {
+     "word": "me",
+     "start": 70.04,
+     "end": 70.14
+    },
+    {
+     "word": "ajuda",
+     "start": 70.14,
+     "end": 70.44
+    },
+    {
+     "word": "que",
+     "start": 70.44,
+     "end": 70.56
+    },
+    {
+     "word": "tá",
+     "start": 70.56,
+     "end": 70.62
+    },
+    {
+     "word": "pesado",
+     "start": 70.62,
+     "end": 71.43
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 76.18,
+   "end": 77.09,
+   "text": "um não vai dar",
+   "words": [
+    {
+     "word": "um",
+     "start": 76.18,
+     "end": 76.4
+    },
+    {
+     "word": "não",
+     "start": 76.4,
+     "end": 76.48
+    },
+    {
+     "word": "vai",
+     "start": 76.48,
+     "end": 76.62
+    },
+    {
+     "word": "dar",
+     "start": 76.62,
+     "end": 77.09
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 77.33,
+   "end": 78.64,
+   "text": "não vai dar, não vai dar",
+   "words": [
+    {
+     "word": "não",
+     "start": 77.33,
+     "end": 77.71
+    },
+    {
+     "word": "vai",
+     "start": 77.71,
+     "end": 77.85
+    },
+    {
+     "word": "dar,",
+     "start": 77.85,
+     "end": 77.95
+    },
+    {
+     "word": "não",
+     "start": 77.95,
+     "end": 78.05
+    },
+    {
+     "word": "vai",
+     "start": 78.05,
+     "end": 78.19
+    },
+    {
+     "word": "dar",
+     "start": 78.19,
+     "end": 78.64
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 79.25,
+   "end": 81.69,
+   "text": "vai dar, Júlio, Júlio",
+   "words": [
+    {
+     "word": "vai",
+     "start": 79.25,
+     "end": 79.35
+    },
+    {
+     "word": "dar,",
+     "start": 79.35,
+     "end": 79.47
+    },
+    {
+     "word": "Júlio,",
+     "start": 79.57,
+     "end": 79.87
+    },
+    {
+     "word": "Júlio",
+     "start": 80.94,
+     "end": 81.69
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 82.19,
+   "end": 83.09,
+   "text": "Caralho, não é que deu",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 82.19,
+     "end": 82.69
+    },
+    {
+     "word": "não",
+     "start": 82.71,
+     "end": 82.77
+    },
+    {
+     "word": "é",
+     "start": 82.77,
+     "end": 82.85
+    },
+    {
+     "word": "que",
+     "start": 82.85,
+     "end": 82.93
+    },
+    {
+     "word": "deu",
+     "start": 82.93,
+     "end": 83.09
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 83.13,
+   "end": 86.68,
+   "text": "Não deu, mano, falhou",
+   "words": [
+    {
+     "word": "Não",
+     "start": 83.13,
+     "end": 83.65
+    },
+    {
+     "word": "deu,",
+     "start": 85.18,
+     "end": 85.36
+    },
+    {
+     "word": "mano,",
+     "start": 85.5,
+     "end": 85.68
+    },
+    {
+     "word": "falhou",
+     "start": 86.09,
+     "end": 86.68
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}

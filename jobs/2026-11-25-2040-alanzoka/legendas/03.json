@@ -1,0 +1,154 @@
+{
+ "segments": [
+  {
+   "start": 7.37,
+   "end": 8.25,
+   "text": "Caralho, já tinha entrado",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 7.37,
+     "end": 7.73
+    },
+    {
+     "word": "já",
+     "start": 7.77,
+     "end": 7.89
+    },
+    {
+     "word": "tinha",
+     "start": 7.89,
+     "end": 8.01
+    },
+    {
+     "word": "entrado",
+     "start": 8.01,
+     "end": 8.25
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 8.29,
+   "end": 9.35,
+   "text": "em uma missão de 5 horas",
+   "words": [
+    {
+     "word": "em",
+     "start": 8.29,
+     "end": 8.37
+    },
+    {
+     "word": "uma",
+     "start": 8.37,
+     "end": 8.42
+    },
+    {
+     "word": "missão",
+     "start": 8.42,
+     "end": 8.61
+    },
+    {
+     "word": "de",
+     "start": 8.61,
+     "end": 8.71
+    },
+    {
+     "word": "5",
+     "start": 8.71,
+     "end": 9.01
+    },
+    {
+     "word": "horas",
+     "start": 9.01,
+     "end": 9.35
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 9.39,
+   "end": 10.32,
+   "text": "eu não sabia, mano",
+   "words": [
+    {
+     "word": "eu",
+     "start": 9.39,
+     "end": 9.41
+    },
+    {
+     "word": "não",
+     "start": 9.41,
+     "end": 9.53
+    },
+    {
+     "word": "sabia,",
+     "start": 9.53,
+     "end": 9.91
+    },
+    {
+     "word": "mano",
+     "start": 9.97,
+     "end": 10.32
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 24.55,
+   "end": 26.14,
+   "text": "Jason dançando, nem vi, mano",
+   "words": [
+    {
+     "word": "Jason",
+     "start": 24.55,
+     "end": 24.91
+    },
+    {
+     "word": "dançando,",
+     "start": 24.91,
+     "end": 25.27
+    },
+    {
+     "word": "nem",
+     "start": 25.31,
+     "end": 25.47
+    },
+    {
+     "word": "vi,",
+     "start": 25.47,
+     "end": 25.73
+    },
+    {
+     "word": "mano",
+     "start": 25.83,
+     "end": 26.14
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 35.24,
+   "end": 36.83,
+   "text": "Siga os fisiculturistas",
+   "words": [
+    {
+     "word": "Siga",
+     "start": 35.24,
+     "end": 35.46
+    },
+    {
+     "word": "os",
+     "start": 35.46,
+     "end": 35.6
+    },
+    {
+     "word": "fisiculturistas",
+     "start": 35.6,
+     "end": 36.83
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
