@@ -1,0 +1,259 @@
+{
+ "segments": [
+  {
+   "start": 5.84,
+   "end": 6.96,
+   "text": "Ele é o Rob, mano",
+   "words": [
+    {
+     "word": "Ele",
+     "start": 5.84,
+     "end": 6.18
+    },
+    {
+     "word": "é",
+     "start": 6.18,
+     "end": 6.3
+    },
+    {
+     "word": "o",
+     "start": 6.3,
+     "end": 6.44
+    },
+    {
+     "word": "Rob,",
+     "start": 6.44,
+     "end": 6.62
+    },
+    {
+     "word": "mano",
+     "start": 6.88,
+     "end": 6.96
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 7.0,
+   "end": 11.23,
+   "text": "é o T-Car, mano",
+   "words": [
+    {
+     "word": "é",
+     "start": 7.0,
+     "end": 9.2
+    },
+    {
+     "word": "o",
+     "start": 9.2,
+     "end": 10.1
+    },
+    {
+     "word": "T-Car,",
+     "start": 10.1,
+     "end": 10.72
+    },
+    {
+     "word": "mano",
+     "start": 10.86,
+     "end": 11.23
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 13.04,
+   "end": 13.92,
+   "text": "Caralho, até a calça",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 13.04,
+     "end": 13.3
+    },
+    {
+     "word": "até",
+     "start": 13.44,
+     "end": 13.6
+    },
+    {
+     "word": "a",
+     "start": 13.6,
+     "end": 13.74
+    },
+    {
+     "word": "calça",
+     "start": 13.74,
+     "end": 13.92
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 13.96,
+   "end": 15.03,
+   "text": "na canela, velho",
+   "words": [
+    {
+     "word": "na",
+     "start": 13.96,
+     "end": 14.04
+    },
+    {
+     "word": "canela,",
+     "start": 14.04,
+     "end": 14.58
+    },
+    {
+     "word": "velho",
+     "start": 14.66,
+     "end": 15.03
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 36.44,
+   "end": 37.5,
+   "text": "Caralho, aquela roxa",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 36.44,
+     "end": 36.88
+    },
+    {
+     "word": "aquela",
+     "start": 36.88,
+     "end": 37.12
+    },
+    {
+     "word": "roxa",
+     "start": 37.12,
+     "end": 37.5
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 37.54,
+   "end": 39.57,
+   "text": "que isso",
+   "words": [
+    {
+     "word": "que",
+     "start": 37.54,
+     "end": 37.82
+    },
+    {
+     "word": "isso",
+     "start": 37.82,
+     "end": 39.57
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 40.03,
+   "end": 41.16,
+   "text": "Tá chovendo!",
+   "words": [
+    {
+     "word": "Tá",
+     "start": 40.03,
+     "end": 40.47
+    },
+    {
+     "word": "chovendo!",
+     "start": 40.47,
+     "end": 41.16
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 47.66,
+   "end": 48.8,
+   "text": "Irmão, acelera o passo aí",
+   "words": [
+    {
+     "word": "Irmão,",
+     "start": 47.66,
+     "end": 48.1
+    },
+    {
+     "word": "acelera",
+     "start": 48.18,
+     "end": 48.4
+    },
+    {
+     "word": "o",
+     "start": 48.4,
+     "end": 48.5
+    },
+    {
+     "word": "passo",
+     "start": 48.5,
+     "end": 48.7
+    },
+    {
+     "word": "aí",
+     "start": 48.7,
+     "end": 48.8
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 48.84,
+   "end": 49.38,
+   "text": "que tá chovendo",
+   "words": [
+    {
+     "word": "que",
+     "start": 48.84,
+     "end": 48.92
+    },
+    {
+     "word": "tá",
+     "start": 48.92,
+     "end": 48.98
+    },
+    {
+     "word": "chovendo",
+     "start": 48.98,
+     "end": 49.38
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 49.42,
+   "end": 50.57,
+   "text": "preciso aproveitar a chuva",
+   "words": [
+    {
+     "word": "preciso",
+     "start": 49.42,
+     "end": 49.52
+    },
+    {
+     "word": "aproveitar",
+     "start": 49.52,
+     "end": 49.9
+    },
+    {
+     "word": "a",
+     "start": 49.9,
+     "end": 50.02
+    },
+    {
+     "word": "chuva",
+     "start": 50.02,
+     "end": 50.57
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}

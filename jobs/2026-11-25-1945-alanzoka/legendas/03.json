@@ -1,0 +1,84 @@
+{
+ "segments": [
+  {
+   "start": 0.36,
+   "end": 1.27,
+   "text": "Nossa",
+   "words": [
+    {
+     "word": "Nossa",
+     "start": 0.36,
+     "end": 1.27
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 56.16,
+   "end": 56.89,
+   "text": "Epa!",
+   "words": [
+    {
+     "word": "Epa!",
+     "start": 56.16,
+     "end": 56.89
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 59.29,
+   "end": 60.02,
+   "text": "Epa!",
+   "words": [
+    {
+     "word": "Epa!",
+     "start": 59.29,
+     "end": 60.02
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 62.3,
+   "end": 63.59,
+   "text": "Benga, benga!",
+   "words": [
+    {
+     "word": "Benga,",
+     "start": 62.3,
+     "end": 62.78
+    },
+    {
+     "word": "benga!",
+     "start": 62.98,
+     "end": 63.59
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 76.03,
+   "end": 77.16,
+   "text": "Abri carreta dela",
+   "words": [
+    {
+     "word": "Abri",
+     "start": 76.03,
+     "end": 76.19
+    },
+    {
+     "word": "carreta",
+     "start": 76.19,
+     "end": 76.71
+    },
+    {
+     "word": "dela",
+     "start": 76.71,
+     "end": 77.16
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}

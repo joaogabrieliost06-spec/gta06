@@ -6,11 +6,11 @@
 - **Hashtags:** #alanzoka #gta6 #gtavi #cortesdelive #shorts
 - **Thumbnail:** Rob de calça curta + texto "A CANELA"
 
-## 02: Vibe old man
-- **Título:** "VOU DE COMET RETRÔ, VIBE OLD MAN" 🚗👴 alanzoka no GTA 6
+## 02: Vibe old money
+- **Título:** "VOU DE COMET RETRÔ, VIBE OLD MONEY" 🚗👴 alanzoka no GTA 6
 - **Descrição:** Carro de graça pra escolher e ele fica em dúvida até decidir pelo clássico. Créditos: alanzoka – https://www.twitch.tv/alanzoka
 - **Hashtags:** #alanzoka #gta6 #gtavi #cortesdelive #shorts
-- **Thumbnail:** Comet retrô + texto "OLD MAN"
+- **Thumbnail:** Comet retrô + texto "OLD MONEY"
 
 ## 03: E pau, benga, benga!
 - **Título:** "E PAU! BENGA, BENGA!" 🏎️💥 alanzoka no GTA 6
