@@ -1,0 +1,9 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, GTA 6, Jason, Lucia, Raul, Nicole, lança-granada, ônibus, helicóptero, polícia, mano, velho, chat, parcelado",
+ "cortes": [
+  {"id": "01", "inicio": "0:03:38", "fim": "0:04:58", "titulo": "LANCA GRANADA NO ONIBUS"},
+  {"id": "02", "inicio": "0:05:15", "fim": "0:06:22", "titulo": "GRANADA NAO LETAL"},
+  {"id": "03", "inicio": "0:11:18", "fim": "0:12:20", "titulo": "ROUBAMOS 7 MILHOES E GANHAMOS 130"}
+ ]
+}
