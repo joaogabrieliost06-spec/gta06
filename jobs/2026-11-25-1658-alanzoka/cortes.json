@@ -1,0 +1,9 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, GTA 6, Jason, Lucia, Raul, Nicole, banco, polícia, SWAT, tio, tia, bebê, mano, velho, chat",
+ "cortes": [
+  {"id": "01", "inicio": "0:03:20", "fim": "0:04:26", "titulo": "ACELERA O PASSO TIO"},
+  {"id": "02", "inicio": "0:13:58", "fim": "0:14:40", "titulo": "ATIREI NO RAUL"},
+  {"id": "03", "inicio": "0:18:45", "fim": "0:19:50", "titulo": "CAPOTOU O CARRO DA POLICIA"}
+ ]
+}
