@@ -1,0 +1,438 @@
+{
+ "segments": [
+  {
+   "start": 4.67,
+   "end": 6.68,
+   "text": "é só uma festa que deu errado",
+   "words": [
+    {
+     "word": "é",
+     "start": 4.67,
+     "end": 4.77
+    },
+    {
+     "word": "só",
+     "start": 4.77,
+     "end": 4.91
+    },
+    {
+     "word": "uma",
+     "start": 4.91,
+     "end": 5.05
+    },
+    {
+     "word": "festa",
+     "start": 5.05,
+     "end": 5.53
+    },
+    {
+     "word": "que",
+     "start": 5.53,
+     "end": 5.71
+    },
+    {
+     "word": "deu",
+     "start": 5.71,
+     "end": 5.85
+    },
+    {
+     "word": "errado",
+     "start": 5.85,
+     "end": 6.68
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 7.23,
+   "end": 8.4,
+   "text": "mais nada",
+   "words": [
+    {
+     "word": "mais",
+     "start": 7.23,
+     "end": 7.63
+    },
+    {
+     "word": "nada",
+     "start": 7.63,
+     "end": 8.4
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 12.14,
+   "end": 13.28,
+   "text": "não dá pra entrar nas casas",
+   "words": [
+    {
+     "word": "não",
+     "start": 12.14,
+     "end": 12.32
+    },
+    {
+     "word": "dá",
+     "start": 12.32,
+     "end": 12.46
+    },
+    {
+     "word": "pra",
+     "start": 12.46,
+     "end": 12.58
+    },
+    {
+     "word": "entrar",
+     "start": 12.58,
+     "end": 12.72
+    },
+    {
+     "word": "nas",
+     "start": 12.72,
+     "end": 12.88
+    },
+    {
+     "word": "casas",
+     "start": 12.88,
+     "end": 13.28
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 13.32,
+   "end": 14.25,
+   "text": "eu tentei",
+   "words": [
+    {
+     "word": "eu",
+     "start": 13.32,
+     "end": 13.46
+    },
+    {
+     "word": "tentei",
+     "start": 13.46,
+     "end": 14.25
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 14.96,
+   "end": 17.05,
+   "text": "casas não são entráveis, nenhuma",
+   "words": [
+    {
+     "word": "casas",
+     "start": 14.96,
+     "end": 15.3
+    },
+    {
+     "word": "não",
+     "start": 15.3,
+     "end": 15.42
+    },
+    {
+     "word": "são",
+     "start": 15.42,
+     "end": 15.62
+    },
+    {
+     "word": "entráveis,",
+     "start": 15.62,
+     "end": 16.08
+    },
+    {
+     "word": "nenhuma",
+     "start": 16.38,
+     "end": 17.05
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 21.22,
+   "end": 21.98,
+   "text": "acho que nem os carros",
+   "words": [
+    {
+     "word": "acho",
+     "start": 21.22,
+     "end": 21.4
+    },
+    {
+     "word": "que",
+     "start": 21.4,
+     "end": 21.5
+    },
+    {
+     "word": "nem",
+     "start": 21.5,
+     "end": 21.58
+    },
+    {
+     "word": "os",
+     "start": 21.58,
+     "end": 21.72
+    },
+    {
+     "word": "carros",
+     "start": 21.72,
+     "end": 21.98
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 22.02,
+   "end": 23.53,
+   "text": "são pegáveis, deixa eu ver",
+   "words": [
+    {
+     "word": "são",
+     "start": 22.02,
+     "end": 22.18
+    },
+    {
+     "word": "pegáveis,",
+     "start": 22.18,
+     "end": 22.76
+    },
+    {
+     "word": "deixa",
+     "start": 22.9,
+     "end": 23.0
+    },
+    {
+     "word": "eu",
+     "start": 23.0,
+     "end": 23.12
+    },
+    {
+     "word": "ver",
+     "start": 23.12,
+     "end": 23.53
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 24.34,
+   "end": 25.87,
+   "text": "ah não, carros são pegáveis sim",
+   "words": [
+    {
+     "word": "ah",
+     "start": 24.34,
+     "end": 24.48
+    },
+    {
+     "word": "não,",
+     "start": 24.48,
+     "end": 24.53
+    },
+    {
+     "word": "carros",
+     "start": 24.68,
+     "end": 24.88
+    },
+    {
+     "word": "são",
+     "start": 24.88,
+     "end": 24.98
+    },
+    {
+     "word": "pegáveis",
+     "start": 24.98,
+     "end": 25.38
+    },
+    {
+     "word": "sim",
+     "start": 25.38,
+     "end": 25.87
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 42.84,
+   "end": 44.39,
+   "text": "mas o que aconteceu nessa ilha",
+   "words": [
+    {
+     "word": "mas",
+     "start": 42.84,
+     "end": 42.9
+    },
+    {
+     "word": "o",
+     "start": 42.9,
+     "end": 43.06
+    },
+    {
+     "word": "que",
+     "start": 43.06,
+     "end": 43.11
+    },
+    {
+     "word": "aconteceu",
+     "start": 43.11,
+     "end": 43.44
+    },
+    {
+     "word": "nessa",
+     "start": 43.44,
+     "end": 43.66
+    },
+    {
+     "word": "ilha",
+     "start": 43.66,
+     "end": 44.39
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 56.85,
+   "end": 59.0,
+   "text": "que aconteceu nessa porra dessa ilha, mano",
+   "words": [
+    {
+     "word": "que",
+     "start": 56.85,
+     "end": 56.93
+    },
+    {
+     "word": "aconteceu",
+     "start": 56.93,
+     "end": 57.39
+    },
+    {
+     "word": "nessa",
+     "start": 57.39,
+     "end": 57.65
+    },
+    {
+     "word": "porra",
+     "start": 57.65,
+     "end": 57.95
+    },
+    {
+     "word": "dessa",
+     "start": 57.95,
+     "end": 58.07
+    },
+    {
+     "word": "ilha,",
+     "start": 58.07,
+     "end": 58.43
+    },
+    {
+     "word": "mano",
+     "start": 58.57,
+     "end": 59.0
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 65.24,
+   "end": 66.79,
+   "text": "cara",
+   "words": [
+    {
+     "word": "cara",
+     "start": 65.24,
+     "end": 66.79
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 76.71,
+   "end": 78.09,
+   "text": "agora que eu percebi, tô numa ilha",
+   "words": [
+    {
+     "word": "agora",
+     "start": 76.71,
+     "end": 76.79
+    },
+    {
+     "word": "que",
+     "start": 76.79,
+     "end": 76.93
+    },
+    {
+     "word": "eu",
+     "start": 76.93,
+     "end": 76.98
+    },
+    {
+     "word": "percebi,",
+     "start": 76.98,
+     "end": 77.35
+    },
+    {
+     "word": "tô",
+     "start": 77.43,
+     "end": 77.51
+    },
+    {
+     "word": "numa",
+     "start": 77.51,
+     "end": 77.69
+    },
+    {
+     "word": "ilha",
+     "start": 77.69,
+     "end": 78.09
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 78.13,
+   "end": 79.72,
+   "text": "não vai chegar Uber aqui, eu acho",
+   "words": [
+    {
+     "word": "não",
+     "start": 78.13,
+     "end": 78.21
+    },
+    {
+     "word": "vai",
+     "start": 78.21,
+     "end": 78.35
+    },
+    {
+     "word": "chegar",
+     "start": 78.35,
+     "end": 78.59
+    },
+    {
+     "word": "Uber",
+     "start": 78.59,
+     "end": 78.85
+    },
+    {
+     "word": "aqui,",
+     "start": 78.85,
+     "end": 79.09
+    },
+    {
+     "word": "eu",
+     "start": 79.13,
+     "end": 79.23
+    },
+    {
+     "word": "acho",
+     "start": 79.23,
+     "end": 79.72
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}

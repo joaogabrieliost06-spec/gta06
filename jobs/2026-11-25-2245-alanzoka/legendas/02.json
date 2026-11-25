@@ -1,0 +1,37 @@
+{
+ "segments": [
+  {
+   "start": 52.39,
+   "end": 55.31,
+   "text": "bebê, você tá bem, mano?",
+   "words": [
+    {
+     "word": "bebê,",
+     "start": 52.39,
+     "end": 53.95
+    },
+    {
+     "word": "você",
+     "start": 54.12,
+     "end": 54.22
+    },
+    {
+     "word": "tá",
+     "start": 54.22,
+     "end": 54.3
+    },
+    {
+     "word": "bem,",
+     "start": 54.38,
+     "end": 54.68
+    },
+    {
+     "word": "mano?",
+     "start": 54.74,
+     "end": 55.31
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
