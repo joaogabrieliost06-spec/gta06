@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, GTA 6, Jason, Lucia, Pete, avião, ponte, envergadura, entrega, polícia, mano, velho, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:08:33", "fim": "0:09:40", "titulo": "A POLICIA NAO VAI ENTRAR"},
+  {"id": "02", "inicio": "0:10:11", "fim": "0:11:40", "titulo": "NAO PASSA VELHO"},
+  {"id": "03", "inicio": "0:18:58", "fim": "0:19:58", "titulo": "PRESTA ATENCAO NO JOGO"}
+ ]
+}
