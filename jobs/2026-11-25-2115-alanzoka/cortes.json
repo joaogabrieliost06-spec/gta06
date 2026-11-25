@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, GTA 6, Jason, Lucia, cabeleireiro, Rockstar, missão, encontro, bebida, mano, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:03:18", "fim": "0:04:46", "titulo": "NOVO CABELO DO JASON"},
+  {"id": "02", "inicio": "0:07:20", "fim": "0:08:48", "titulo": "A MISSAO ERA SO IR NO BAR"},
+  {"id": "03", "inicio": "0:09:40", "fim": "0:10:20", "titulo": "O MESMO BOTAO PRA TUDO"}
+ ]
+}
