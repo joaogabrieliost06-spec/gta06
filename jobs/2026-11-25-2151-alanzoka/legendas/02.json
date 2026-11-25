@@ -1,0 +1,347 @@
+{
+ "segments": [
+  {
+   "start": 7.09,
+   "end": 7.73,
+   "text": "mano, meu saco",
+   "words": [
+    {
+     "word": "mano,",
+     "start": 7.09,
+     "end": 7.13
+    },
+    {
+     "word": "meu",
+     "start": 7.21,
+     "end": 7.33
+    },
+    {
+     "word": "saco",
+     "start": 7.33,
+     "end": 7.73
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 7.77,
+   "end": 9.7,
+   "text": "meu carro tem um saco",
+   "words": [
+    {
+     "word": "meu",
+     "start": 7.77,
+     "end": 7.99
+    },
+    {
+     "word": "carro",
+     "start": 7.99,
+     "end": 8.61
+    },
+    {
+     "word": "tem",
+     "start": 8.61,
+     "end": 8.77
+    },
+    {
+     "word": "um",
+     "start": 8.77,
+     "end": 8.91
+    },
+    {
+     "word": "saco",
+     "start": 8.91,
+     "end": 9.7
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 9.89,
+   "end": 11.41,
+   "text": "pendurado nele, mano",
+   "words": [
+    {
+     "word": "pendurado",
+     "start": 9.89,
+     "end": 10.77
+    },
+    {
+     "word": "nele,",
+     "start": 10.77,
+     "end": 11.19
+    },
+    {
+     "word": "mano",
+     "start": 11.25,
+     "end": 11.41
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 11.45,
+   "end": 14.8,
+   "text": "que inferno, balls of steel",
+   "words": [
+    {
+     "word": "que",
+     "start": 11.45,
+     "end": 11.55
+    },
+    {
+     "word": "inferno,",
+     "start": 11.55,
+     "end": 13.11
+    },
+    {
+     "word": "balls",
+     "start": 13.49,
+     "end": 13.91
+    },
+    {
+     "word": "of",
+     "start": 13.91,
+     "end": 14.07
+    },
+    {
+     "word": "steel",
+     "start": 14.07,
+     "end": 14.8
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 18.09,
+   "end": 19.57,
+   "text": "meu carro tem duas bolas penduradas",
+   "words": [
+    {
+     "word": "meu",
+     "start": 18.09,
+     "end": 18.17
+    },
+    {
+     "word": "carro",
+     "start": 18.17,
+     "end": 18.39
+    },
+    {
+     "word": "tem",
+     "start": 18.39,
+     "end": 18.57
+    },
+    {
+     "word": "duas",
+     "start": 18.57,
+     "end": 18.81
+    },
+    {
+     "word": "bolas",
+     "start": 18.81,
+     "end": 19.17
+    },
+    {
+     "word": "penduradas",
+     "start": 19.17,
+     "end": 19.57
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 19.61,
+   "end": 21.96,
+   "text": "atrás, mano, fala sério, velho",
+   "words": [
+    {
+     "word": "atrás,",
+     "start": 19.61,
+     "end": 19.93
+    },
+    {
+     "word": "mano,",
+     "start": 20.21,
+     "end": 20.39
+    },
+    {
+     "word": "fala",
+     "start": 20.71,
+     "end": 20.91
+    },
+    {
+     "word": "sério,",
+     "start": 20.91,
+     "end": 21.43
+    },
+    {
+     "word": "velho",
+     "start": 21.55,
+     "end": 21.96
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 28.38,
+   "end": 29.03,
+   "text": "porra",
+   "words": [
+    {
+     "word": "porra",
+     "start": 28.38,
+     "end": 29.03
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 35.3,
+   "end": 36.85,
+   "text": "pô, esse carro aqui é legal, hein",
+   "words": [
+    {
+     "word": "pô,",
+     "start": 35.3,
+     "end": 35.52
+    },
+    {
+     "word": "esse",
+     "start": 35.56,
+     "end": 35.64
+    },
+    {
+     "word": "carro",
+     "start": 35.64,
+     "end": 35.78
+    },
+    {
+     "word": "aqui",
+     "start": 35.78,
+     "end": 35.96
+    },
+    {
+     "word": "é",
+     "start": 35.96,
+     "end": 36.04
+    },
+    {
+     "word": "legal,",
+     "start": 36.04,
+     "end": 36.36
+    },
+    {
+     "word": "hein",
+     "start": 36.52,
+     "end": 36.85
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 39.12,
+   "end": 39.98,
+   "text": "ele é lento o suficiente",
+   "words": [
+    {
+     "word": "ele",
+     "start": 39.12,
+     "end": 39.26
+    },
+    {
+     "word": "é",
+     "start": 39.26,
+     "end": 39.4
+    },
+    {
+     "word": "lento",
+     "start": 39.4,
+     "end": 39.64
+    },
+    {
+     "word": "o",
+     "start": 39.64,
+     "end": 39.78
+    },
+    {
+     "word": "suficiente",
+     "start": 39.78,
+     "end": 39.98
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 40.02,
+   "end": 41.47,
+   "text": "pra eu não bater, tá ligado?",
+   "words": [
+    {
+     "word": "pra",
+     "start": 40.02,
+     "end": 40.18
+    },
+    {
+     "word": "eu",
+     "start": 40.18,
+     "end": 40.28
+    },
+    {
+     "word": "não",
+     "start": 40.28,
+     "end": 40.33
+    },
+    {
+     "word": "bater,",
+     "start": 40.33,
+     "end": 40.64
+    },
+    {
+     "word": "tá",
+     "start": 40.82,
+     "end": 40.87
+    },
+    {
+     "word": "ligado?",
+     "start": 40.87,
+     "end": 41.47
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 46.17,
+   "end": 47.6,
+   "text": "tem certo esse carro, mano?",
+   "words": [
+    {
+     "word": "tem",
+     "start": 46.17,
+     "end": 46.37
+    },
+    {
+     "word": "certo",
+     "start": 46.37,
+     "end": 46.71
+    },
+    {
+     "word": "esse",
+     "start": 46.71,
+     "end": 46.87
+    },
+    {
+     "word": "carro,",
+     "start": 46.87,
+     "end": 47.13
+    },
+    {
+     "word": "mano?",
+     "start": 47.25,
+     "end": 47.6
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}

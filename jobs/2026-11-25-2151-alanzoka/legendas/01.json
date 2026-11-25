@@ -1,0 +1,700 @@
+{
+ "segments": [
+  {
+   "start": 4.98,
+   "end": 7.05,
+   "text": "Fala, Lu, fala",
+   "words": [
+    {
+     "word": "Fala,",
+     "start": 4.98,
+     "end": 5.46
+    },
+    {
+     "word": "Lu,",
+     "start": 5.64,
+     "end": 5.8
+    },
+    {
+     "word": "fala",
+     "start": 6.36,
+     "end": 7.05
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 7.61,
+   "end": 8.94,
+   "text": "você viu o que ela falou?",
+   "words": [
+    {
+     "word": "você",
+     "start": 7.61,
+     "end": 7.95
+    },
+    {
+     "word": "viu",
+     "start": 7.95,
+     "end": 8.13
+    },
+    {
+     "word": "o",
+     "start": 8.13,
+     "end": 8.25
+    },
+    {
+     "word": "que",
+     "start": 8.25,
+     "end": 8.3
+    },
+    {
+     "word": "ela",
+     "start": 8.3,
+     "end": 8.37
+    },
+    {
+     "word": "falou?",
+     "start": 8.37,
+     "end": 8.94
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 9.24,
+   "end": 10.53,
+   "text": "Eu sei dirigir",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 9.24,
+     "end": 9.46
+    },
+    {
+     "word": "sei",
+     "start": 9.46,
+     "end": 9.66
+    },
+    {
+     "word": "dirigir",
+     "start": 9.66,
+     "end": 10.53
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 11.23,
+   "end": 13.77,
+   "text": "respect, bitch",
+   "words": [
+    {
+     "word": "respect,",
+     "start": 11.23,
+     "end": 11.45
+    },
+    {
+     "word": "bitch",
+     "start": 13.12,
+     "end": 13.77
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 16.09,
+   "end": 17.76,
+   "text": "os caras estão colados em nós, hein?",
+   "words": [
+    {
+     "word": "os",
+     "start": 16.09,
+     "end": 16.41
+    },
+    {
+     "word": "caras",
+     "start": 16.41,
+     "end": 16.57
+    },
+    {
+     "word": "estão",
+     "start": 16.57,
+     "end": 16.71
+    },
+    {
+     "word": "colados",
+     "start": 16.71,
+     "end": 17.05
+    },
+    {
+     "word": "em",
+     "start": 17.05,
+     "end": 17.15
+    },
+    {
+     "word": "nós,",
+     "start": 17.15,
+     "end": 17.37
+    },
+    {
+     "word": "hein?",
+     "start": 17.43,
+     "end": 17.76
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 22.5,
+   "end": 25.83,
+   "text": "Não acompanha, não acompanha",
+   "words": [
+    {
+     "word": "Não",
+     "start": 22.5,
+     "end": 22.92
+    },
+    {
+     "word": "acompanha,",
+     "start": 22.92,
+     "end": 24.02
+    },
+    {
+     "word": "não",
+     "start": 24.38,
+     "end": 24.7
+    },
+    {
+     "word": "acompanha",
+     "start": 24.7,
+     "end": 25.83
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 30.03,
+   "end": 31.72,
+   "text": "já ficou pra trás",
+   "words": [
+    {
+     "word": "já",
+     "start": 30.03,
+     "end": 30.25
+    },
+    {
+     "word": "ficou",
+     "start": 30.25,
+     "end": 31.05
+    },
+    {
+     "word": "pra",
+     "start": 31.05,
+     "end": 31.27
+    },
+    {
+     "word": "trás",
+     "start": 31.27,
+     "end": 31.72
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 49.16,
+   "end": 50.73,
+   "text": "eu me estresso às vezes, mano",
+   "words": [
+    {
+     "word": "eu",
+     "start": 49.16,
+     "end": 49.22
+    },
+    {
+     "word": "me",
+     "start": 49.22,
+     "end": 49.34
+    },
+    {
+     "word": "estresso",
+     "start": 49.34,
+     "end": 49.68
+    },
+    {
+     "word": "às",
+     "start": 49.68,
+     "end": 49.98
+    },
+    {
+     "word": "vezes,",
+     "start": 49.98,
+     "end": 50.18
+    },
+    {
+     "word": "mano",
+     "start": 50.3,
+     "end": 50.73
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 51.01,
+   "end": 53.06,
+   "text": "eu me estresso muito nesse jogo, cara",
+   "words": [
+    {
+     "word": "eu",
+     "start": 51.01,
+     "end": 51.19
+    },
+    {
+     "word": "me",
+     "start": 51.19,
+     "end": 51.33
+    },
+    {
+     "word": "estresso",
+     "start": 51.33,
+     "end": 51.67
+    },
+    {
+     "word": "muito",
+     "start": 51.67,
+     "end": 51.93
+    },
+    {
+     "word": "nesse",
+     "start": 51.93,
+     "end": 52.17
+    },
+    {
+     "word": "jogo,",
+     "start": 52.17,
+     "end": 52.43
+    },
+    {
+     "word": "cara",
+     "start": 52.57,
+     "end": 53.06
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 53.29,
+   "end": 55.13,
+   "text": "eu tentei fechar o cara",
+   "words": [
+    {
+     "word": "eu",
+     "start": 53.29,
+     "end": 53.45
+    },
+    {
+     "word": "tentei",
+     "start": 53.45,
+     "end": 53.97
+    },
+    {
+     "word": "fechar",
+     "start": 53.97,
+     "end": 54.41
+    },
+    {
+     "word": "o",
+     "start": 54.41,
+     "end": 54.59
+    },
+    {
+     "word": "cara",
+     "start": 54.59,
+     "end": 55.13
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 55.17,
+   "end": 57.06,
+   "text": "o cara me bateu e me rodou, mano",
+   "words": [
+    {
+     "word": "o",
+     "start": 55.17,
+     "end": 55.35
+    },
+    {
+     "word": "cara",
+     "start": 55.35,
+     "end": 55.57
+    },
+    {
+     "word": "me",
+     "start": 55.57,
+     "end": 55.75
+    },
+    {
+     "word": "bateu",
+     "start": 55.75,
+     "end": 56.07
+    },
+    {
+     "word": "e",
+     "start": 56.07,
+     "end": 56.15
+    },
+    {
+     "word": "me",
+     "start": 56.15,
+     "end": 56.25
+    },
+    {
+     "word": "rodou,",
+     "start": 56.25,
+     "end": 56.59
+    },
+    {
+     "word": "mano",
+     "start": 56.65,
+     "end": 57.06
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 58.02,
+   "end": 58.97,
+   "text": "fala sério",
+   "words": [
+    {
+     "word": "fala",
+     "start": 58.02,
+     "end": 58.24
+    },
+    {
+     "word": "sério",
+     "start": 58.24,
+     "end": 58.97
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 65.43,
+   "end": 66.61,
+   "text": "Não, ele me rodou",
+   "words": [
+    {
+     "word": "Não,",
+     "start": 65.43,
+     "end": 65.75
+    },
+    {
+     "word": "ele",
+     "start": 65.91,
+     "end": 66.11
+    },
+    {
+     "word": "me",
+     "start": 66.11,
+     "end": 66.25
+    },
+    {
+     "word": "rodou",
+     "start": 66.25,
+     "end": 66.61
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 66.65,
+   "end": 67.63,
+   "text": "Ele me rodou",
+   "words": [
+    {
+     "word": "Ele",
+     "start": 66.65,
+     "end": 67.07
+    },
+    {
+     "word": "me",
+     "start": 67.07,
+     "end": 67.19
+    },
+    {
+     "word": "rodou",
+     "start": 67.19,
+     "end": 67.63
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 67.67,
+   "end": 69.87,
+   "text": "Onde é a missão do cara?",
+   "words": [
+    {
+     "word": "Onde",
+     "start": 67.67,
+     "end": 67.89
+    },
+    {
+     "word": "é",
+     "start": 68.8,
+     "end": 68.85
+    },
+    {
+     "word": "a",
+     "start": 68.85,
+     "end": 68.92
+    },
+    {
+     "word": "missão",
+     "start": 68.92,
+     "end": 69.16
+    },
+    {
+     "word": "do",
+     "start": 69.16,
+     "end": 69.28
+    },
+    {
+     "word": "cara?",
+     "start": 69.28,
+     "end": 69.87
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 72.53,
+   "end": 73.35,
+   "text": "Sumiu? Já?",
+   "words": [
+    {
+     "word": "Sumiu?",
+     "start": 72.53,
+     "end": 72.85
+    },
+    {
+     "word": "Já?",
+     "start": 72.99,
+     "end": 73.35
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 73.39,
+   "end": 74.4,
+   "text": "Eu tava indo pra",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 73.39,
+     "end": 73.51
+    },
+    {
+     "word": "tava",
+     "start": 73.51,
+     "end": 73.67
+    },
+    {
+     "word": "indo",
+     "start": 73.67,
+     "end": 73.83
+    },
+    {
+     "word": "pra",
+     "start": 73.83,
+     "end": 74.4
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 80.38,
+   "end": 81.34,
+   "text": "não perdi tempo, mano",
+   "words": [
+    {
+     "word": "não",
+     "start": 80.38,
+     "end": 80.5
+    },
+    {
+     "word": "perdi",
+     "start": 80.5,
+     "end": 80.82
+    },
+    {
+     "word": "tempo,",
+     "start": 80.82,
+     "end": 81.16
+    },
+    {
+     "word": "mano",
+     "start": 81.24,
+     "end": 81.34
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 81.38,
+   "end": 83.3,
+   "text": "É literalmente o caminho da missão",
+   "words": [
+    {
+     "word": "É",
+     "start": 81.38,
+     "end": 81.7
+    },
+    {
+     "word": "literalmente",
+     "start": 81.7,
+     "end": 82.24
+    },
+    {
+     "word": "o",
+     "start": 82.24,
+     "end": 82.36
+    },
+    {
+     "word": "caminho",
+     "start": 82.36,
+     "end": 82.74
+    },
+    {
+     "word": "da",
+     "start": 82.74,
+     "end": 82.92
+    },
+    {
+     "word": "missão",
+     "start": 82.92,
+     "end": 83.3
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 83.34,
+   "end": 84.74,
+   "text": "Mano, na moral, esse jogo tá me estressando",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 83.34,
+     "end": 83.78
+    },
+    {
+     "word": "na",
+     "start": 83.82,
+     "end": 83.88
+    },
+    {
+     "word": "moral,",
+     "start": 83.88,
+     "end": 84.0
+    },
+    {
+     "word": "esse",
+     "start": 84.08,
+     "end": 84.14
+    },
+    {
+     "word": "jogo",
+     "start": 84.14,
+     "end": 84.24
+    },
+    {
+     "word": "tá",
+     "start": 84.24,
+     "end": 84.32
+    },
+    {
+     "word": "me",
+     "start": 84.32,
+     "end": 84.42
+    },
+    {
+     "word": "estressando",
+     "start": 84.42,
+     "end": 84.74
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 84.78,
+   "end": 85.89,
+   "text": "com essas missões de tempo",
+   "words": [
+    {
+     "word": "com",
+     "start": 84.78,
+     "end": 84.86
+    },
+    {
+     "word": "essas",
+     "start": 84.86,
+     "end": 85.0
+    },
+    {
+     "word": "missões",
+     "start": 85.0,
+     "end": 85.24
+    },
+    {
+     "word": "de",
+     "start": 85.24,
+     "end": 85.4
+    },
+    {
+     "word": "tempo",
+     "start": 85.4,
+     "end": 85.89
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 86.15,
+   "end": 88.22,
+   "text": "Irmão, eu estava indo lá",
+   "words": [
+    {
+     "word": "Irmão,",
+     "start": 86.15,
+     "end": 86.47
+    },
+    {
+     "word": "eu",
+     "start": 86.55,
+     "end": 86.65
+    },
+    {
+     "word": "estava",
+     "start": 86.65,
+     "end": 86.97
+    },
+    {
+     "word": "indo",
+     "start": 86.97,
+     "end": 87.53
+    },
+    {
+     "word": "lá",
+     "start": 87.83,
+     "end": 88.22
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}

@@ -1,0 +1,740 @@
+{
+ "segments": [
+  {
+   "start": 8.59,
+   "end": 9.56,
+   "text": "taquei uma granada sem querer",
+   "words": [
+    {
+     "word": "taquei",
+     "start": 8.59,
+     "end": 8.79
+    },
+    {
+     "word": "uma",
+     "start": 8.79,
+     "end": 8.85
+    },
+    {
+     "word": "granada",
+     "start": 8.85,
+     "end": 9.01
+    },
+    {
+     "word": "sem",
+     "start": 9.01,
+     "end": 9.13
+    },
+    {
+     "word": "querer",
+     "start": 9.13,
+     "end": 9.56
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 10.3,
+   "end": 11.03,
+   "text": "peru",
+   "words": [
+    {
+     "word": "peru",
+     "start": 10.3,
+     "end": 11.03
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 14.92,
+   "end": 16.02,
+   "text": "mano, eu não sei como eu taquei",
+   "words": [
+    {
+     "word": "mano,",
+     "start": 14.92,
+     "end": 15.1
+    },
+    {
+     "word": "eu",
+     "start": 15.22,
+     "end": 15.28
+    },
+    {
+     "word": "não",
+     "start": 15.28,
+     "end": 15.36
+    },
+    {
+     "word": "sei",
+     "start": 15.36,
+     "end": 15.52
+    },
+    {
+     "word": "como",
+     "start": 15.52,
+     "end": 15.8
+    },
+    {
+     "word": "eu",
+     "start": 15.8,
+     "end": 15.92
+    },
+    {
+     "word": "taquei",
+     "start": 15.92,
+     "end": 16.02
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 16.06,
+   "end": 17.9,
+   "text": "uma granada, tá, de verdade",
+   "words": [
+    {
+     "word": "uma",
+     "start": 16.06,
+     "end": 16.1
+    },
+    {
+     "word": "granada,",
+     "start": 16.1,
+     "end": 16.44
+    },
+    {
+     "word": "tá,",
+     "start": 16.56,
+     "end": 16.62
+    },
+    {
+     "word": "de",
+     "start": 17.25,
+     "end": 17.37
+    },
+    {
+     "word": "verdade",
+     "start": 17.37,
+     "end": 17.9
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 20.2,
+   "end": 21.54,
+   "text": "não sei qual que é o botão que eu apertei",
+   "words": [
+    {
+     "word": "não",
+     "start": 20.2,
+     "end": 20.38
+    },
+    {
+     "word": "sei",
+     "start": 20.38,
+     "end": 20.52
+    },
+    {
+     "word": "qual",
+     "start": 20.52,
+     "end": 20.68
+    },
+    {
+     "word": "que",
+     "start": 20.68,
+     "end": 20.73
+    },
+    {
+     "word": "é",
+     "start": 20.73,
+     "end": 20.78
+    },
+    {
+     "word": "o",
+     "start": 20.78,
+     "end": 20.83
+    },
+    {
+     "word": "botão",
+     "start": 20.83,
+     "end": 21.1
+    },
+    {
+     "word": "que",
+     "start": 21.1,
+     "end": 21.2
+    },
+    {
+     "word": "eu",
+     "start": 21.2,
+     "end": 21.25
+    },
+    {
+     "word": "apertei",
+     "start": 21.25,
+     "end": 21.54
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 21.58,
+   "end": 24.27,
+   "text": "pra tacar uma granada, eu não sei",
+   "words": [
+    {
+     "word": "pra",
+     "start": 21.58,
+     "end": 21.98
+    },
+    {
+     "word": "tacar",
+     "start": 21.98,
+     "end": 22.22
+    },
+    {
+     "word": "uma",
+     "start": 22.22,
+     "end": 22.3
+    },
+    {
+     "word": "granada,",
+     "start": 22.3,
+     "end": 22.72
+    },
+    {
+     "word": "eu",
+     "start": 23.1,
+     "end": 23.26
+    },
+    {
+     "word": "não",
+     "start": 23.26,
+     "end": 23.42
+    },
+    {
+     "word": "sei",
+     "start": 23.42,
+     "end": 24.27
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 25.19,
+   "end": 26.65,
+   "text": "literalmente tacou sozinha a granada",
+   "words": [
+    {
+     "word": "literalmente",
+     "start": 25.19,
+     "end": 25.59
+    },
+    {
+     "word": "tacou",
+     "start": 25.59,
+     "end": 25.85
+    },
+    {
+     "word": "sozinha",
+     "start": 25.85,
+     "end": 26.23
+    },
+    {
+     "word": "a",
+     "start": 26.23,
+     "end": 26.33
+    },
+    {
+     "word": "granada",
+     "start": 26.33,
+     "end": 26.65
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 26.69,
+   "end": 27.83,
+   "text": "eu nem selecionei a granada",
+   "words": [
+    {
+     "word": "eu",
+     "start": 26.69,
+     "end": 26.77
+    },
+    {
+     "word": "nem",
+     "start": 26.77,
+     "end": 26.89
+    },
+    {
+     "word": "selecionei",
+     "start": 26.89,
+     "end": 27.41
+    },
+    {
+     "word": "a",
+     "start": 27.41,
+     "end": 27.51
+    },
+    {
+     "word": "granada",
+     "start": 27.51,
+     "end": 27.83
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 27.87,
+   "end": 28.62,
+   "text": "vocês viram, né",
+   "words": [
+    {
+     "word": "vocês",
+     "start": 27.87,
+     "end": 27.97
+    },
+    {
+     "word": "viram,",
+     "start": 27.97,
+     "end": 28.25
+    },
+    {
+     "word": "né",
+     "start": 28.31,
+     "end": 28.62
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 34.56,
+   "end": 35.49,
+   "text": "o peru atrás",
+   "words": [
+    {
+     "word": "o",
+     "start": 34.56,
+     "end": 34.72
+    },
+    {
+     "word": "peru",
+     "start": 34.72,
+     "end": 34.88
+    },
+    {
+     "word": "atrás",
+     "start": 34.88,
+     "end": 35.49
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 37.86,
+   "end": 38.72,
+   "text": "como que eu taquei a granada",
+   "words": [
+    {
+     "word": "como",
+     "start": 37.86,
+     "end": 37.94
+    },
+    {
+     "word": "que",
+     "start": 37.94,
+     "end": 38.1
+    },
+    {
+     "word": "eu",
+     "start": 38.1,
+     "end": 38.15
+    },
+    {
+     "word": "taquei",
+     "start": 38.15,
+     "end": 38.32
+    },
+    {
+     "word": "a",
+     "start": 38.32,
+     "end": 38.4
+    },
+    {
+     "word": "granada",
+     "start": 38.4,
+     "end": 38.72
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 38.76,
+   "end": 41.1,
+   "text": "eu segurei, tava mirando",
+   "words": [
+    {
+     "word": "eu",
+     "start": 38.76,
+     "end": 38.84
+    },
+    {
+     "word": "segurei,",
+     "start": 38.84,
+     "end": 39.2
+    },
+    {
+     "word": "tava",
+     "start": 40.09,
+     "end": 40.25
+    },
+    {
+     "word": "mirando",
+     "start": 40.25,
+     "end": 41.1
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 42.95,
+   "end": 44.1,
+   "text": "só apertei",
+   "words": [
+    {
+     "word": "só",
+     "start": 42.95,
+     "end": 43.05
+    },
+    {
+     "word": "apertei",
+     "start": 43.05,
+     "end": 44.1
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 47.95,
+   "end": 48.61,
+   "text": "eu não sei, mano",
+   "words": [
+    {
+     "word": "eu",
+     "start": 47.95,
+     "end": 48.11
+    },
+    {
+     "word": "não",
+     "start": 48.11,
+     "end": 48.19
+    },
+    {
+     "word": "sei,",
+     "start": 48.19,
+     "end": 48.39
+    },
+    {
+     "word": "mano",
+     "start": 48.43,
+     "end": 48.61
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 48.65,
+   "end": 49.63,
+   "text": "como é que ele tacou a granada",
+   "words": [
+    {
+     "word": "como",
+     "start": 48.65,
+     "end": 48.77
+    },
+    {
+     "word": "é",
+     "start": 48.77,
+     "end": 48.82
+    },
+    {
+     "word": "que",
+     "start": 48.82,
+     "end": 48.89
+    },
+    {
+     "word": "ele",
+     "start": 48.89,
+     "end": 48.95
+    },
+    {
+     "word": "tacou",
+     "start": 48.95,
+     "end": 49.15
+    },
+    {
+     "word": "a",
+     "start": 49.15,
+     "end": 49.23
+    },
+    {
+     "word": "granada",
+     "start": 49.23,
+     "end": 49.63
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 49.67,
+   "end": 50.32,
+   "text": "velho, de verdade",
+   "words": [
+    {
+     "word": "velho,",
+     "start": 49.67,
+     "end": 49.69
+    },
+    {
+     "word": "de",
+     "start": 49.73,
+     "end": 49.81
+    },
+    {
+     "word": "verdade",
+     "start": 49.81,
+     "end": 50.32
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 54.42,
+   "end": 56.27,
+   "text": "tá, peru branco, já pegamos",
+   "words": [
+    {
+     "word": "tá,",
+     "start": 54.42,
+     "end": 54.56
+    },
+    {
+     "word": "peru",
+     "start": 54.74,
+     "end": 54.88
+    },
+    {
+     "word": "branco,",
+     "start": 54.88,
+     "end": 55.2
+    },
+    {
+     "word": "já",
+     "start": 55.28,
+     "end": 55.34
+    },
+    {
+     "word": "pegamos",
+     "start": 55.34,
+     "end": 56.27
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 56.8,
+   "end": 58.4,
+   "text": "falta agora o cangambá pintado",
+   "words": [
+    {
+     "word": "falta",
+     "start": 56.8,
+     "end": 57.0
+    },
+    {
+     "word": "agora",
+     "start": 57.0,
+     "end": 57.18
+    },
+    {
+     "word": "o",
+     "start": 57.18,
+     "end": 57.34
+    },
+    {
+     "word": "cangambá",
+     "start": 57.34,
+     "end": 57.96
+    },
+    {
+     "word": "pintado",
+     "start": 57.96,
+     "end": 58.4
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 58.44,
+   "end": 60.45,
+   "text": "o que é um cangambá pintado, mano",
+   "words": [
+    {
+     "word": "o",
+     "start": 58.44,
+     "end": 58.5
+    },
+    {
+     "word": "que",
+     "start": 58.5,
+     "end": 58.6
+    },
+    {
+     "word": "é",
+     "start": 58.6,
+     "end": 58.66
+    },
+    {
+     "word": "um",
+     "start": 58.66,
+     "end": 58.74
+    },
+    {
+     "word": "cangambá",
+     "start": 58.74,
+     "end": 59.32
+    },
+    {
+     "word": "pintado,",
+     "start": 59.32,
+     "end": 59.9
+    },
+    {
+     "word": "mano",
+     "start": 60.08,
+     "end": 60.45
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 69.87,
+   "end": 70.66,
+   "text": "o que que é isso aqui",
+   "words": [
+    {
+     "word": "o",
+     "start": 69.87,
+     "end": 69.99
+    },
+    {
+     "word": "que",
+     "start": 69.99,
+     "end": 70.04
+    },
+    {
+     "word": "que",
+     "start": 70.04,
+     "end": 70.09
+    },
+    {
+     "word": "é",
+     "start": 70.09,
+     "end": 70.14
+    },
+    {
+     "word": "isso",
+     "start": 70.14,
+     "end": 70.19
+    },
+    {
+     "word": "aqui",
+     "start": 70.19,
+     "end": 70.66
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 71.11,
+   "end": 72.64,
+   "text": "é um cangambá? Ai",
+   "words": [
+    {
+     "word": "é",
+     "start": 71.11,
+     "end": 71.27
+    },
+    {
+     "word": "um",
+     "start": 71.27,
+     "end": 71.35
+    },
+    {
+     "word": "cangambá?",
+     "start": 71.35,
+     "end": 71.91
+    },
+    {
+     "word": "Ai",
+     "start": 71.91,
+     "end": 72.64
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 72.86,
+   "end": 74.75,
+   "text": "meu Deus, é o peru que explodiu, mano",
+   "words": [
+    {
+     "word": "meu",
+     "start": 72.86,
+     "end": 73.0
+    },
+    {
+     "word": "Deus,",
+     "start": 73.0,
+     "end": 73.14
+    },
+    {
+     "word": "é",
+     "start": 73.24,
+     "end": 73.29
+    },
+    {
+     "word": "o",
+     "start": 73.29,
+     "end": 73.36
+    },
+    {
+     "word": "peru",
+     "start": 73.36,
+     "end": 73.58
+    },
+    {
+     "word": "que",
+     "start": 73.58,
+     "end": 73.66
+    },
+    {
+     "word": "explodiu,",
+     "start": 73.66,
+     "end": 74.24
+    },
+    {
+     "word": "mano",
+     "start": 74.34,
+     "end": 74.75
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
