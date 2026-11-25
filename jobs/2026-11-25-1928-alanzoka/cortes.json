@@ -1,0 +1,9 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, GTA 6, Jason, Lucia, avião, pilotar, pousar, festa, aliens, Toguro, mansão Maromba, BF, academia, mano, velho, chat",
+ "cortes": [
+  {"id": "01", "inicio": "0:12:17", "fim": "0:13:15", "titulo": "O QUE EU FACO BEM E PILOTAR"},
+  {"id": "02", "inicio": "0:14:03", "fim": "0:15:30", "titulo": "A FESTA DOS ALIENS"},
+  {"id": "03", "inicio": "0:16:12", "fim": "0:17:18", "titulo": "DEUS QUEIRA QUE DECOLE"}
+ ]
+}
