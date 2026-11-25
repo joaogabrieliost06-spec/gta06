@@ -1,0 +1,9 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, GTA 6, Jason, Lucia, patinete, Beira Mar, Floripa, bugado, Red Dead Redemption, pendrive, música, mano, velho, baby, chat",
+ "cortes": [
+  {"id": "01", "inicio": "0:03:28", "fim": "0:04:50", "titulo": "ELA CAIU SOZINHA DO PATINETE"},
+  {"id": "02", "inicio": "0:12:38", "fim": "0:14:00", "titulo": "O CARRO VIRA SOZINHO"},
+  {"id": "03", "inicio": "0:15:28", "fim": "0:16:06", "titulo": "A LOJA TOCA MINHA MUSICA"}
+ ]
+}
