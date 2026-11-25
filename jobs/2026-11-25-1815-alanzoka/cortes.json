@@ -1,0 +1,9 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, GTA 6, Jason, Lucia, Arthur Morgan, Faria Lima, Faria Limer, meta, limite, 500 mil, tênis, look, mano, velho, chat",
+ "cortes": [
+  {"id": "01", "inicio": "0:12:30", "fim": "0:13:15", "titulo": "E SO 500 MIL"},
+  {"id": "02", "inicio": "0:15:20", "fim": "0:16:25", "titulo": "ENJOEI DO ARTHUR MORGAN"},
+  {"id": "03", "inicio": "0:17:40", "fim": "0:18:25", "titulo": "MUITO FARIA LIMER"}
+ ]
+}
