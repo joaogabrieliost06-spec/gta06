@@ -1,0 +1,255 @@
+{
+ "segments": [
+  {
+   "start": 5.79,
+   "end": 7.85,
+   "text": "Mano, é a festa dos aliens, mano",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 5.79,
+     "end": 6.19
+    },
+    {
+     "word": "é",
+     "start": 6.25,
+     "end": 6.3
+    },
+    {
+     "word": "a",
+     "start": 6.3,
+     "end": 6.37
+    },
+    {
+     "word": "festa",
+     "start": 6.37,
+     "end": 6.57
+    },
+    {
+     "word": "dos",
+     "start": 6.57,
+     "end": 6.85
+    },
+    {
+     "word": "aliens,",
+     "start": 6.85,
+     "end": 7.29
+    },
+    {
+     "word": "mano",
+     "start": 7.53,
+     "end": 7.85
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.89,
+   "end": 10.55,
+   "text": "Tem nada pra fazer aqui",
+   "words": [
+    {
+     "word": "Tem",
+     "start": 7.89,
+     "end": 8.33
+    },
+    {
+     "word": "nada",
+     "start": 9.73,
+     "end": 9.93
+    },
+    {
+     "word": "pra",
+     "start": 9.93,
+     "end": 10.03
+    },
+    {
+     "word": "fazer",
+     "start": 10.03,
+     "end": 10.27
+    },
+    {
+     "word": "aqui",
+     "start": 10.27,
+     "end": 10.55
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.59,
+   "end": 11.31,
+   "text": "não é possível",
+   "words": [
+    {
+     "word": "não",
+     "start": 10.59,
+     "end": 10.67
+    },
+    {
+     "word": "é",
+     "start": 10.67,
+     "end": 10.73
+    },
+    {
+     "word": "possível",
+     "start": 10.73,
+     "end": 11.31
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 11.35,
+   "end": 12.98,
+   "text": "porque é só uma festa dos aliens",
+   "words": [
+    {
+     "word": "porque",
+     "start": 11.35,
+     "end": 11.63
+    },
+    {
+     "word": "é",
+     "start": 11.63,
+     "end": 11.75
+    },
+    {
+     "word": "só",
+     "start": 11.75,
+     "end": 11.8
+    },
+    {
+     "word": "uma",
+     "start": 11.8,
+     "end": 11.91
+    },
+    {
+     "word": "festa",
+     "start": 11.91,
+     "end": 12.21
+    },
+    {
+     "word": "dos",
+     "start": 12.21,
+     "end": 12.37
+    },
+    {
+     "word": "aliens",
+     "start": 12.37,
+     "end": 12.98
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 20.56,
+   "end": 22.88,
+   "text": "Fora, bebê, next stage",
+   "words": [
+    {
+     "word": "Fora,",
+     "start": 20.56,
+     "end": 20.96
+    },
+    {
+     "word": "bebê,",
+     "start": 21.08,
+     "end": 21.34
+    },
+    {
+     "word": "next",
+     "start": 21.83,
+     "end": 22.25
+    },
+    {
+     "word": "stage",
+     "start": 22.25,
+     "end": 22.88
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 40.71,
+   "end": 42.15,
+   "text": "Pra casa, bebê, você tá cansada?",
+   "words": [
+    {
+     "word": "Pra",
+     "start": 40.71,
+     "end": 40.89
+    },
+    {
+     "word": "casa,",
+     "start": 40.89,
+     "end": 41.13
+    },
+    {
+     "word": "bebê,",
+     "start": 41.21,
+     "end": 41.41
+    },
+    {
+     "word": "você",
+     "start": 41.49,
+     "end": 41.54
+    },
+    {
+     "word": "tá",
+     "start": 41.54,
+     "end": 41.59
+    },
+    {
+     "word": "cansada?",
+     "start": 41.59,
+     "end": 42.15
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 42.19,
+   "end": 44.05,
+   "text": "A gente vai pra casa já, tá?",
+   "words": [
+    {
+     "word": "A",
+     "start": 42.19,
+     "end": 42.23
+    },
+    {
+     "word": "gente",
+     "start": 42.23,
+     "end": 42.33
+    },
+    {
+     "word": "vai",
+     "start": 42.33,
+     "end": 42.49
+    },
+    {
+     "word": "pra",
+     "start": 42.49,
+     "end": 42.61
+    },
+    {
+     "word": "casa",
+     "start": 42.61,
+     "end": 42.91
+    },
+    {
+     "word": "já,",
+     "start": 42.91,
+     "end": 43.11
+    },
+    {
+     "word": "tá?",
+     "start": 43.44,
+     "end": 44.05
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
