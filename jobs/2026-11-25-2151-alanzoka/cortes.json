@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, GTA 6, Jason, Lucia, Felipe, Porsche, granada, peru branco, cangambá, javali, caça, missão, mano, velho, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:02:02", "fim": "0:03:30", "titulo": "EU SEI DIRIGIR RESPECT"},
+  {"id": "02", "inicio": "0:13:40", "fim": "0:14:30", "titulo": "MEU CARRO TEM BOLAS"},
+  {"id": "03", "inicio": "0:15:50", "fim": "0:17:10", "titulo": "CACANDO COM GRANADA"}
+ ]
+}
