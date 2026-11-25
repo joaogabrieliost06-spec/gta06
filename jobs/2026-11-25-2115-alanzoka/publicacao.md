@@ -1,10 +1,10 @@
 # Cortes: alanzoka, GTA 6 (25/11/2026, bloco das 21:15 UTC)
 
-## 01: Novo cabelo do Jason
-- **Título:** "JÁ VIM NESSE CABELEIREIRO 100%" 💇 o novo visual do Jason no GTA 6
-- **Descrição:** O alanzoka leva o Jason pro cabeleireiro, testa cortes e cores, e o chat aprova. Créditos: alanzoka – https://www.twitch.tv/alanzoka
+## 01: Novo cabelo da Lucia
+- **Título:** "JÁ VIM NESSE CABELEIREIRO 100%" 💇 o novo visual da Lucia no GTA 6
+- **Descrição:** O alanzoka leva a Lucia pro cabeleireiro, testa cortes e cores, e o chat aprova. Créditos: alanzoka – https://www.twitch.tv/alanzoka
 - **Hashtags:** #alanzoka #gta6 #gtavi #cortesdelive #shorts
-- **Thumbnail:** Jason na cadeira do cabeleireiro + texto "NOVO VISUAL"
+- **Thumbnail:** Lucia com o cabelo novo + texto "NOVO VISUAL"
 
 ## 02: A missão era só ir no bar
 - **Título:** "A MISSÃO ERA LITERALMENTE SÓ IR NO BAR" 🍹😂 alanzoka no GTA 6
