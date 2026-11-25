@@ -1,0 +1,9 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, GTA 6, Jason, Lucia, mano, velho, cofrão, banco, ponte, avião, asa, moto, baby",
+ "cortes": [
+  {"id": "01", "inicio": "0:06:28", "fim": "0:07:10", "titulo": "TUDO CONSPIRA CONTRA MIM"},
+  {"id": "02", "inicio": "0:14:40", "fim": "0:15:44", "titulo": "TENTEI PASSAR EMBAIXO DA PONTE"},
+  {"id": "03", "inicio": "0:17:22", "fim": "0:18:38", "titulo": "QUEBROU A ASA DO AVIAO"}
+ ]
+}

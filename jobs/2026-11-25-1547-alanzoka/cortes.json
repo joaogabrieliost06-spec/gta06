@@ -1,0 +1,9 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, GTA 6, Jason, mano, velho, zebra, javali, animal raro, casamento, Salton, Claim, baby",
+ "cortes": [
+  {"id": "01", "inicio": "0:06:10", "fim": "0:07:12", "titulo": "NAO SABIA QUE TINHA GENTE MORANDO AQUI"},
+  {"id": "02", "inicio": "0:11:17", "fim": "0:12:45", "titulo": "ISSO NAO E UMA ZEBRA"},
+  {"id": "03", "inicio": "0:17:56", "fim": "0:19:22", "titulo": "INVADI UM CASAMENTO"}
+ ]
+}
