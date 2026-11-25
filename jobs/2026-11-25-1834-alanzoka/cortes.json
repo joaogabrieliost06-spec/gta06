@@ -1,0 +1,9 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, GTA 6, Jason, Lucia, BF, academia, calabresa, bombado, Tequila Sunrise, praia, Ronaldo, robô, capítulo, mano, velho, chat",
+ "cortes": [
+  {"id": "01", "inicio": "0:02:56", "fim": "0:03:56", "titulo": "PRECISA AUMENTAR O BF DELA"},
+  {"id": "02", "inicio": "0:12:45", "fim": "0:13:45", "titulo": "FUTEBOL NA PRAIA"},
+  {"id": "03", "inicio": "0:17:58", "fim": "0:18:58", "titulo": "O ROBO LIGANDO PRA ELA"}
+ ]
+}
