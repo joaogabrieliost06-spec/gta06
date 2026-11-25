@@ -1,0 +1,1009 @@
+{
+ "segments": [
+  {
+   "start": 2.28,
+   "end": 3.75,
+   "text": "Vice City, baby",
+   "words": [
+    {
+     "word": "Vice",
+     "start": 2.28,
+     "end": 2.64
+    },
+    {
+     "word": "City,",
+     "start": 2.64,
+     "end": 3.04
+    },
+    {
+     "word": "baby",
+     "start": 3.22,
+     "end": 3.75
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 10.91,
+   "end": 11.77,
+   "text": "Caralho, mano, eu já usei",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 10.91,
+     "end": 11.19
+    },
+    {
+     "word": "mano,",
+     "start": 11.27,
+     "end": 11.33
+    },
+    {
+     "word": "eu",
+     "start": 11.39,
+     "end": 11.45
+    },
+    {
+     "word": "já",
+     "start": 11.45,
+     "end": 11.55
+    },
+    {
+     "word": "usei",
+     "start": 11.55,
+     "end": 11.77
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 11.81,
+   "end": 12.97,
+   "text": "esse título no meu vídeo, mano",
+   "words": [
+    {
+     "word": "esse",
+     "start": 11.81,
+     "end": 11.95
+    },
+    {
+     "word": "título",
+     "start": 11.95,
+     "end": 12.21
+    },
+    {
+     "word": "no",
+     "start": 12.21,
+     "end": 12.37
+    },
+    {
+     "word": "meu",
+     "start": 12.37,
+     "end": 12.51
+    },
+    {
+     "word": "vídeo,",
+     "start": 12.51,
+     "end": 12.77
+    },
+    {
+     "word": "mano",
+     "start": 12.87,
+     "end": 12.97
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 13.01,
+   "end": 14.45,
+   "text": "Eu achei que eu já tava em Vice City",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 13.01,
+     "end": 13.27
+    },
+    {
+     "word": "achei",
+     "start": 13.27,
+     "end": 13.43
+    },
+    {
+     "word": "que",
+     "start": 13.43,
+     "end": 13.53
+    },
+    {
+     "word": "eu",
+     "start": 13.53,
+     "end": 13.59
+    },
+    {
+     "word": "já",
+     "start": 13.59,
+     "end": 13.71
+    },
+    {
+     "word": "tava",
+     "start": 13.71,
+     "end": 13.87
+    },
+    {
+     "word": "em",
+     "start": 13.87,
+     "end": 13.95
+    },
+    {
+     "word": "Vice",
+     "start": 13.95,
+     "end": 14.15
+    },
+    {
+     "word": "City",
+     "start": 14.15,
+     "end": 14.45
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 14.49,
+   "end": 15.57,
+   "text": "mas eu já tava, né, teoricamente",
+   "words": [
+    {
+     "word": "mas",
+     "start": 14.49,
+     "end": 14.57
+    },
+    {
+     "word": "eu",
+     "start": 14.57,
+     "end": 14.65
+    },
+    {
+     "word": "já",
+     "start": 14.65,
+     "end": 14.79
+    },
+    {
+     "word": "tava,",
+     "start": 14.79,
+     "end": 15.05
+    },
+    {
+     "word": "né,",
+     "start": 15.11,
+     "end": 15.17
+    },
+    {
+     "word": "teoricamente",
+     "start": 15.25,
+     "end": 15.57
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 15.61,
+   "end": 16.98,
+   "text": "Só que agora eu tô melhor, né",
+   "words": [
+    {
+     "word": "Só",
+     "start": 15.61,
+     "end": 15.73
+    },
+    {
+     "word": "que",
+     "start": 15.73,
+     "end": 15.83
+    },
+    {
+     "word": "agora",
+     "start": 15.83,
+     "end": 15.97
+    },
+    {
+     "word": "eu",
+     "start": 15.97,
+     "end": 16.07
+    },
+    {
+     "word": "tô",
+     "start": 16.07,
+     "end": 16.13
+    },
+    {
+     "word": "melhor,",
+     "start": 16.13,
+     "end": 16.47
+    },
+    {
+     "word": "né",
+     "start": 16.59,
+     "end": 16.98
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 18.13,
+   "end": 18.84,
+   "text": "Porra, velho, eu vou ter",
+   "words": [
+    {
+     "word": "Porra,",
+     "start": 18.13,
+     "end": 18.41
+    },
+    {
+     "word": "velho,",
+     "start": 18.47,
+     "end": 18.61
+    },
+    {
+     "word": "eu",
+     "start": 18.63,
+     "end": 18.71
+    },
+    {
+     "word": "vou",
+     "start": 18.71,
+     "end": 18.79
+    },
+    {
+     "word": "ter",
+     "start": 18.79,
+     "end": 18.84
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 18.87,
+   "end": 19.95,
+   "text": "que ter outro título agora",
+   "words": [
+    {
+     "word": "que",
+     "start": 18.87,
+     "end": 18.95
+    },
+    {
+     "word": "ter",
+     "start": 18.95,
+     "end": 19.09
+    },
+    {
+     "word": "outro",
+     "start": 19.09,
+     "end": 19.33
+    },
+    {
+     "word": "título",
+     "start": 19.33,
+     "end": 19.69
+    },
+    {
+     "word": "agora",
+     "start": 19.69,
+     "end": 19.95
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 19.99,
+   "end": 20.86,
+   "text": "mas que merda",
+   "words": [
+    {
+     "word": "mas",
+     "start": 19.99,
+     "end": 20.13
+    },
+    {
+     "word": "que",
+     "start": 20.13,
+     "end": 20.23
+    },
+    {
+     "word": "merda",
+     "start": 20.23,
+     "end": 20.86
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 22.11,
+   "end": 23.43,
+   "text": "Pô, me botaram numa janela",
+   "words": [
+    {
+     "word": "Pô,",
+     "start": 22.11,
+     "end": 22.39
+    },
+    {
+     "word": "me",
+     "start": 22.43,
+     "end": 22.49
+    },
+    {
+     "word": "botaram",
+     "start": 22.49,
+     "end": 22.77
+    },
+    {
+     "word": "numa",
+     "start": 22.77,
+     "end": 23.17
+    },
+    {
+     "word": "janela",
+     "start": 23.17,
+     "end": 23.43
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 23.47,
+   "end": 24.59,
+   "text": "que tem bagulho e a construção",
+   "words": [
+    {
+     "word": "que",
+     "start": 23.47,
+     "end": 23.57
+    },
+    {
+     "word": "tem",
+     "start": 23.57,
+     "end": 23.69
+    },
+    {
+     "word": "bagulho",
+     "start": 23.69,
+     "end": 23.97
+    },
+    {
+     "word": "e",
+     "start": 23.97,
+     "end": 24.05
+    },
+    {
+     "word": "a",
+     "start": 24.05,
+     "end": 24.1
+    },
+    {
+     "word": "construção",
+     "start": 24.1,
+     "end": 24.59
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 24.63,
+   "end": 25.92,
+   "text": "do lado, que bosta, hein",
+   "words": [
+    {
+     "word": "do",
+     "start": 24.63,
+     "end": 24.79
+    },
+    {
+     "word": "lado,",
+     "start": 24.79,
+     "end": 24.95
+    },
+    {
+     "word": "que",
+     "start": 24.99,
+     "end": 25.13
+    },
+    {
+     "word": "bosta,",
+     "start": 25.13,
+     "end": 25.51
+    },
+    {
+     "word": "hein",
+     "start": 25.55,
+     "end": 25.92
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 26.47,
+   "end": 27.11,
+   "text": "Novas tatuagens",
+   "words": [
+    {
+     "word": "Novas",
+     "start": 26.47,
+     "end": 26.75
+    },
+    {
+     "word": "tatuagens",
+     "start": 26.75,
+     "end": 27.11
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 27.15,
+   "end": 28.19,
+   "text": "eu nunca fiz tatuagem, mano",
+   "words": [
+    {
+     "word": "eu",
+     "start": 27.15,
+     "end": 27.19
+    },
+    {
+     "word": "nunca",
+     "start": 27.19,
+     "end": 27.33
+    },
+    {
+     "word": "fiz",
+     "start": 27.33,
+     "end": 27.53
+    },
+    {
+     "word": "tatuagem,",
+     "start": 27.53,
+     "end": 28.01
+    },
+    {
+     "word": "mano",
+     "start": 28.07,
+     "end": 28.19
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.23,
+   "end": 29.38,
+   "text": "eu não vou fazer, eu acho",
+   "words": [
+    {
+     "word": "eu",
+     "start": 28.23,
+     "end": 28.31
+    },
+    {
+     "word": "não",
+     "start": 28.31,
+     "end": 28.36
+    },
+    {
+     "word": "vou",
+     "start": 28.36,
+     "end": 28.49
+    },
+    {
+     "word": "fazer,",
+     "start": 28.49,
+     "end": 28.79
+    },
+    {
+     "word": "eu",
+     "start": 28.87,
+     "end": 28.95
+    },
+    {
+     "word": "acho",
+     "start": 28.95,
+     "end": 29.38
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 29.47,
+   "end": 30.29,
+   "text": "Bom, deixa eu ver",
+   "words": [
+    {
+     "word": "Bom,",
+     "start": 29.47,
+     "end": 29.97
+    },
+    {
+     "word": "deixa",
+     "start": 30.09,
+     "end": 30.19
+    },
+    {
+     "word": "eu",
+     "start": 30.19,
+     "end": 30.24
+    },
+    {
+     "word": "ver",
+     "start": 30.24,
+     "end": 30.29
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 30.29,
+   "end": 31.45,
+   "text": "quantos por cento nós tá, mano",
+   "words": [
+    {
+     "word": "quantos",
+     "start": 30.29,
+     "end": 30.53
+    },
+    {
+     "word": "por",
+     "start": 30.53,
+     "end": 30.626
+    },
+    {
+     "word": "cento",
+     "start": 30.626,
+     "end": 30.77
+    },
+    {
+     "word": "nós",
+     "start": 30.77,
+     "end": 30.95
+    },
+    {
+     "word": "tá,",
+     "start": 30.95,
+     "end": 31.21
+    },
+    {
+     "word": "mano",
+     "start": 31.37,
+     "end": 31.45
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 31.49,
+   "end": 32.67,
+   "text": "Porque agora a gente, mano",
+   "words": [
+    {
+     "word": "Porque",
+     "start": 31.49,
+     "end": 31.65
+    },
+    {
+     "word": "agora",
+     "start": 31.65,
+     "end": 32.03
+    },
+    {
+     "word": "a",
+     "start": 32.03,
+     "end": 32.19
+    },
+    {
+     "word": "gente,",
+     "start": 32.19,
+     "end": 32.29
+    },
+    {
+     "word": "mano",
+     "start": 32.49,
+     "end": 32.67
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 32.71,
+   "end": 33.71,
+   "text": "eu fiz três missão da história",
+   "words": [
+    {
+     "word": "eu",
+     "start": 32.71,
+     "end": 32.77
+    },
+    {
+     "word": "fiz",
+     "start": 32.77,
+     "end": 32.91
+    },
+    {
+     "word": "três",
+     "start": 32.91,
+     "end": 33.13
+    },
+    {
+     "word": "missão",
+     "start": 33.13,
+     "end": 33.39
+    },
+    {
+     "word": "da",
+     "start": 33.39,
+     "end": 33.51
+    },
+    {
+     "word": "história",
+     "start": 33.51,
+     "end": 33.71
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 33.75,
+   "end": 35.13,
+   "text": "Só que, pô, andou pra frente, né",
+   "words": [
+    {
+     "word": "Só",
+     "start": 33.75,
+     "end": 33.91
+    },
+    {
+     "word": "que,",
+     "start": 33.91,
+     "end": 34.05
+    },
+    {
+     "word": "pô,",
+     "start": 34.13,
+     "end": 34.27
+    },
+    {
+     "word": "andou",
+     "start": 34.29,
+     "end": 34.53
+    },
+    {
+     "word": "pra",
+     "start": 34.53,
+     "end": 34.69
+    },
+    {
+     "word": "frente,",
+     "start": 34.69,
+     "end": 34.97
+    },
+    {
+     "word": "né",
+     "start": 35.03,
+     "end": 35.13
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 35.17,
+   "end": 36.78,
+   "text": "essas três missão, cê é louco",
+   "words": [
+    {
+     "word": "essas",
+     "start": 35.17,
+     "end": 35.29
+    },
+    {
+     "word": "três",
+     "start": 35.29,
+     "end": 35.49
+    },
+    {
+     "word": "missão,",
+     "start": 35.49,
+     "end": 35.87
+    },
+    {
+     "word": "cê",
+     "start": 35.93,
+     "end": 36.07
+    },
+    {
+     "word": "é",
+     "start": 36.07,
+     "end": 36.17
+    },
+    {
+     "word": "louco",
+     "start": 36.17,
+     "end": 36.78
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 39.7,
+   "end": 40.3,
+   "text": "69%",
+   "words": [
+    {
+     "word": "69%",
+     "start": 39.7,
+     "end": 40.3
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 40.56,
+   "end": 41.7,
+   "text": "Não, não andou tanto, pô",
+   "words": [
+    {
+     "word": "Não,",
+     "start": 40.56,
+     "end": 40.84
+    },
+    {
+     "word": "não",
+     "start": 40.86,
+     "end": 41.0
+    },
+    {
+     "word": "andou",
+     "start": 41.0,
+     "end": 41.22
+    },
+    {
+     "word": "tanto,",
+     "start": 41.22,
+     "end": 41.48
+    },
+    {
+     "word": "pô",
+     "start": 41.64,
+     "end": 41.7
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 41.74,
+   "end": 42.49,
+   "text": "andou 5%",
+   "words": [
+    {
+     "word": "andou",
+     "start": 41.74,
+     "end": 41.88
+    },
+    {
+     "word": "5%",
+     "start": 41.88,
+     "end": 42.49
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 43.86,
+   "end": 45.51,
+   "text": "69%, mano. GG",
+   "words": [
+    {
+     "word": "69%,",
+     "start": 43.86,
+     "end": 44.14
+    },
+    {
+     "word": "mano.",
+     "start": 44.14,
+     "end": 44.42
+    },
+    {
+     "word": "GG",
+     "start": 45.0,
+     "end": 45.51
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 47.12,
+   "end": 48.64,
+   "text": "Tati, eu preciso almoçar, mano",
+   "words": [
+    {
+     "word": "Tati,",
+     "start": 47.12,
+     "end": 47.4
+    },
+    {
+     "word": "eu",
+     "start": 47.64,
+     "end": 47.82
+    },
+    {
+     "word": "preciso",
+     "start": 47.82,
+     "end": 47.96
+    },
+    {
+     "word": "almoçar,",
+     "start": 47.96,
+     "end": 48.32
+    },
+    {
+     "word": "mano",
+     "start": 48.4,
+     "end": 48.64
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 48.68,
+   "end": 49.18,
+   "text": "Eu não almocei",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 48.68,
+     "end": 48.74
+    },
+    {
+     "word": "não",
+     "start": 48.74,
+     "end": 48.86
+    },
+    {
+     "word": "almocei",
+     "start": 48.86,
+     "end": 49.18
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 49.22,
+   "end": 50.65,
+   "text": "já vai dar três da tarde",
+   "words": [
+    {
+     "word": "já",
+     "start": 49.22,
+     "end": 49.28
+    },
+    {
+     "word": "vai",
+     "start": 49.28,
+     "end": 49.38
+    },
+    {
+     "word": "dar",
+     "start": 49.38,
+     "end": 49.5
+    },
+    {
+     "word": "três",
+     "start": 49.5,
+     "end": 49.821
+    },
+    {
+     "word": "da",
+     "start": 49.821,
+     "end": 50.014
+    },
+    {
+     "word": "tarde",
+     "start": 50.014,
+     "end": 50.65
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 52.06,
+   "end": 53.14,
+   "text": "Só me dá um minuto, calma aí, já venho",
+   "words": [
+    {
+     "word": "Só",
+     "start": 52.06,
+     "end": 52.14
+    },
+    {
+     "word": "me",
+     "start": 52.14,
+     "end": 52.24
+    },
+    {
+     "word": "dá",
+     "start": 52.24,
+     "end": 52.29
+    },
+    {
+     "word": "um",
+     "start": 52.29,
+     "end": 52.36
+    },
+    {
+     "word": "minuto,",
+     "start": 52.36,
+     "end": 52.48
+    },
+    {
+     "word": "calma",
+     "start": 52.54,
+     "end": 52.68
+    },
+    {
+     "word": "aí,",
+     "start": 52.68,
+     "end": 52.74
+    },
+    {
+     "word": "já",
+     "start": 52.8,
+     "end": 52.86
+    },
+    {
+     "word": "venho",
+     "start": 52.86,
+     "end": 53.14
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 53.18,
+   "end": 54.35,
+   "text": "Eu não vou almoçar ainda, calma aí",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 53.18,
+     "end": 53.26
+    },
+    {
+     "word": "não",
+     "start": 53.26,
+     "end": 53.31
+    },
+    {
+     "word": "vou",
+     "start": 53.31,
+     "end": 53.4
+    },
+    {
+     "word": "almoçar",
+     "start": 53.4,
+     "end": 53.66
+    },
+    {
+     "word": "ainda,",
+     "start": 53.66,
+     "end": 53.8
+    },
+    {
+     "word": "calma",
+     "start": 53.84,
+     "end": 54.04
+    },
+    {
+     "word": "aí",
+     "start": 54.04,
+     "end": 54.35
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}

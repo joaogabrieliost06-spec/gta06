@@ -1,0 +1,272 @@
+{
+ "segments": [
+  {
+   "start": 39.62,
+   "end": 41.34,
+   "text": "Tomás, o que você quer, bebê?",
+   "words": [
+    {
+     "word": "Tomás,",
+     "start": 39.62,
+     "end": 40.26
+    },
+    {
+     "word": "o",
+     "start": 40.36,
+     "end": 40.48
+    },
+    {
+     "word": "que",
+     "start": 40.48,
+     "end": 40.53
+    },
+    {
+     "word": "você",
+     "start": 40.53,
+     "end": 40.7
+    },
+    {
+     "word": "quer,",
+     "start": 40.7,
+     "end": 40.94
+    },
+    {
+     "word": "bebê?",
+     "start": 40.94,
+     "end": 41.34
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 41.38,
+   "end": 42.02,
+   "text": "Pra acalmar",
+   "words": [
+    {
+     "word": "Pra",
+     "start": 41.38,
+     "end": 41.54
+    },
+    {
+     "word": "acalmar",
+     "start": 41.54,
+     "end": 42.02
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 42.06,
+   "end": 43.33,
+   "text": "Cadê teus brinquedinhos?",
+   "words": [
+    {
+     "word": "Cadê",
+     "start": 42.06,
+     "end": 42.22
+    },
+    {
+     "word": "teus",
+     "start": 42.22,
+     "end": 42.4
+    },
+    {
+     "word": "brinquedinhos?",
+     "start": 42.4,
+     "end": 43.33
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 44.29,
+   "end": 45.48,
+   "text": "Aqui, ó",
+   "words": [
+    {
+     "word": "Aqui,",
+     "start": 44.29,
+     "end": 44.95
+    },
+    {
+     "word": "ó",
+     "start": 44.95,
+     "end": 45.48
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 50.93,
+   "end": 52.41,
+   "text": "Esse daqui você gosta",
+   "words": [
+    {
+     "word": "Esse",
+     "start": 50.93,
+     "end": 51.03
+    },
+    {
+     "word": "daqui",
+     "start": 51.03,
+     "end": 51.83
+    },
+    {
+     "word": "você",
+     "start": 51.83,
+     "end": 52.03
+    },
+    {
+     "word": "gosta",
+     "start": 52.03,
+     "end": 52.41
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 52.45,
+   "end": 53.55,
+   "text": "Chocalho não tem como",
+   "words": [
+    {
+     "word": "Chocalho",
+     "start": 52.45,
+     "end": 52.89
+    },
+    {
+     "word": "não",
+     "start": 52.89,
+     "end": 53.01
+    },
+    {
+     "word": "tem",
+     "start": 53.01,
+     "end": 53.19
+    },
+    {
+     "word": "como",
+     "start": 53.19,
+     "end": 53.55
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 53.59,
+   "end": 55.38,
+   "text": "chocalho hipnotiza",
+   "words": [
+    {
+     "word": "chocalho",
+     "start": 53.59,
+     "end": 54.17
+    },
+    {
+     "word": "hipnotiza",
+     "start": 54.17,
+     "end": 55.38
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 73.05,
+   "end": 73.99,
+   "text": "Cansou do chocalho?",
+   "words": [
+    {
+     "word": "Cansou",
+     "start": 73.05,
+     "end": 73.35
+    },
+    {
+     "word": "do",
+     "start": 73.35,
+     "end": 73.4
+    },
+    {
+     "word": "chocalho?",
+     "start": 73.4,
+     "end": 73.99
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 74.03,
+   "end": 74.84,
+   "text": "Tá, cansou",
+   "words": [
+    {
+     "word": "Tá,",
+     "start": 74.03,
+     "end": 74.15
+    },
+    {
+     "word": "cansou",
+     "start": 74.27,
+     "end": 74.84
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 77.25,
+   "end": 78.33,
+   "text": "Cansou, cansou, entediou",
+   "words": [
+    {
+     "word": "Cansou,",
+     "start": 77.25,
+     "end": 77.55
+    },
+    {
+     "word": "cansou,",
+     "start": 77.61,
+     "end": 77.87
+    },
+    {
+     "word": "entediou",
+     "start": 77.93,
+     "end": 78.33
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 78.37,
+   "end": 79.66,
+   "text": "tem que trocar de brinquedo",
+   "words": [
+    {
+     "word": "tem",
+     "start": 78.37,
+     "end": 78.45
+    },
+    {
+     "word": "que",
+     "start": 78.45,
+     "end": 78.55
+    },
+    {
+     "word": "trocar",
+     "start": 78.55,
+     "end": 78.79
+    },
+    {
+     "word": "de",
+     "start": 78.79,
+     "end": 78.91
+    },
+    {
+     "word": "brinquedo",
+     "start": 78.91,
+     "end": 79.66
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
