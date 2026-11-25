@@ -1,0 +1,372 @@
+{
+ "segments": [
+  {
+   "start": 3.82,
+   "end": 4.84,
+   "text": "Cara, preciso entrar rápido",
+   "words": [
+    {
+     "word": "Cara,",
+     "start": 3.82,
+     "end": 4.18
+    },
+    {
+     "word": "preciso",
+     "start": 4.28,
+     "end": 4.4
+    },
+    {
+     "word": "entrar",
+     "start": 4.4,
+     "end": 4.64
+    },
+    {
+     "word": "rápido",
+     "start": 4.64,
+     "end": 4.84
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 4.88,
+   "end": 5.65,
+   "text": "no meu carro pra ver se tá",
+   "words": [
+    {
+     "word": "no",
+     "start": 4.88,
+     "end": 5.0
+    },
+    {
+     "word": "meu",
+     "start": 5.0,
+     "end": 5.1
+    },
+    {
+     "word": "carro",
+     "start": 5.1,
+     "end": 5.28
+    },
+    {
+     "word": "pra",
+     "start": 5.28,
+     "end": 5.42
+    },
+    {
+     "word": "ver",
+     "start": 5.42,
+     "end": 5.52
+    },
+    {
+     "word": "se",
+     "start": 5.52,
+     "end": 5.6
+    },
+    {
+     "word": "tá",
+     "start": 5.6,
+     "end": 5.65
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 5.66,
+   "end": 7.01,
+   "text": "passando minha música ainda, mano",
+   "words": [
+    {
+     "word": "passando",
+     "start": 5.66,
+     "end": 5.96
+    },
+    {
+     "word": "minha",
+     "start": 5.96,
+     "end": 6.06
+    },
+    {
+     "word": "música",
+     "start": 6.06,
+     "end": 6.34
+    },
+    {
+     "word": "ainda,",
+     "start": 6.34,
+     "end": 6.54
+    },
+    {
+     "word": "mano",
+     "start": 6.58,
+     "end": 7.01
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 11.53,
+   "end": 12.29,
+   "text": "Loja dele sempre tá",
+   "words": [
+    {
+     "word": "Loja",
+     "start": 11.53,
+     "end": 11.81
+    },
+    {
+     "word": "dele",
+     "start": 11.81,
+     "end": 11.99
+    },
+    {
+     "word": "sempre",
+     "start": 11.99,
+     "end": 12.21
+    },
+    {
+     "word": "tá",
+     "start": 12.21,
+     "end": 12.29
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 12.33,
+   "end": 13.76,
+   "text": "passando minha música, mano",
+   "words": [
+    {
+     "word": "passando",
+     "start": 12.33,
+     "end": 12.69
+    },
+    {
+     "word": "minha",
+     "start": 12.69,
+     "end": 12.83
+    },
+    {
+     "word": "música,",
+     "start": 12.83,
+     "end": 13.17
+    },
+    {
+     "word": "mano",
+     "start": 13.21,
+     "end": 13.76
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 21.38,
+   "end": 22.62,
+   "text": "Ele deve ter um pendrive",
+   "words": [
+    {
+     "word": "Ele",
+     "start": 21.38,
+     "end": 21.46
+    },
+    {
+     "word": "deve",
+     "start": 21.46,
+     "end": 21.68
+    },
+    {
+     "word": "ter",
+     "start": 21.68,
+     "end": 21.84
+    },
+    {
+     "word": "um",
+     "start": 21.84,
+     "end": 22.18
+    },
+    {
+     "word": "pendrive",
+     "start": 22.18,
+     "end": 22.62
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 22.66,
+   "end": 23.34,
+   "text": "com a música, mano",
+   "words": [
+    {
+     "word": "com",
+     "start": 22.66,
+     "end": 22.8
+    },
+    {
+     "word": "a",
+     "start": 22.8,
+     "end": 22.86
+    },
+    {
+     "word": "música,",
+     "start": 22.86,
+     "end": 23.14
+    },
+    {
+     "word": "mano",
+     "start": 23.26,
+     "end": 23.34
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 23.38,
+   "end": 24.79,
+   "text": "Não tem explicação, tá ligado?",
+   "words": [
+    {
+     "word": "Não",
+     "start": 23.38,
+     "end": 23.44
+    },
+    {
+     "word": "tem",
+     "start": 23.44,
+     "end": 23.52
+    },
+    {
+     "word": "explicação,",
+     "start": 23.52,
+     "end": 24.0
+    },
+    {
+     "word": "tá",
+     "start": 24.18,
+     "end": 24.24
+    },
+    {
+     "word": "ligado?",
+     "start": 24.24,
+     "end": 24.79
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 29.4,
+   "end": 31.59,
+   "text": "Ele deve tá passando pendrive, mano",
+   "words": [
+    {
+     "word": "Ele",
+     "start": 29.4,
+     "end": 29.66
+    },
+    {
+     "word": "deve",
+     "start": 29.66,
+     "end": 29.84
+    },
+    {
+     "word": "tá",
+     "start": 29.84,
+     "end": 29.96
+    },
+    {
+     "word": "passando",
+     "start": 29.96,
+     "end": 30.4
+    },
+    {
+     "word": "pendrive,",
+     "start": 30.4,
+     "end": 31.06
+    },
+    {
+     "word": "mano",
+     "start": 31.14,
+     "end": 31.59
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 34.73,
+   "end": 36.77,
+   "text": "Não tem outra coisa pra falar",
+   "words": [
+    {
+     "word": "Não",
+     "start": 34.73,
+     "end": 34.87
+    },
+    {
+     "word": "tem",
+     "start": 34.87,
+     "end": 35.11
+    },
+    {
+     "word": "outra",
+     "start": 35.11,
+     "end": 35.51
+    },
+    {
+     "word": "coisa",
+     "start": 35.51,
+     "end": 36.17
+    },
+    {
+     "word": "pra",
+     "start": 36.17,
+     "end": 36.37
+    },
+    {
+     "word": "falar",
+     "start": 36.37,
+     "end": 36.77
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 36.81,
+   "end": 38.06,
+   "text": "Onde que eu tava indo mesmo?",
+   "words": [
+    {
+     "word": "Onde",
+     "start": 36.81,
+     "end": 37.01
+    },
+    {
+     "word": "que",
+     "start": 37.01,
+     "end": 37.11
+    },
+    {
+     "word": "eu",
+     "start": 37.11,
+     "end": 37.17
+    },
+    {
+     "word": "tava",
+     "start": 37.17,
+     "end": 37.35
+    },
+    {
+     "word": "indo",
+     "start": 37.35,
+     "end": 37.55
+    },
+    {
+     "word": "mesmo?",
+     "start": 37.55,
+     "end": 38.06
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
