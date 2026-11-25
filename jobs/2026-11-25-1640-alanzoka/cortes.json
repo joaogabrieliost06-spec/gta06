@@ -1,0 +1,9 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, GTA 6, Jason, Lucia, Raul, Mami, Arthur Morgan, chat, mano, velho, poupança, cartel",
+ "cortes": [
+  {"id": "01", "inicio": "0:02:38", "fim": "0:03:32", "titulo": "CAMINHONETE A 25 KM POR HORA"},
+  {"id": "02", "inicio": "0:07:35", "fim": "0:08:37", "titulo": "CHAPEU DO ARTHUR MORGAN"},
+  {"id": "03", "inicio": "0:12:19", "fim": "0:13:16", "titulo": "A POUPANCA DO MEU FILHO TA FULL"}
+ ]
+}
