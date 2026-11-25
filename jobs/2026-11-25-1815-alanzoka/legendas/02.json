@@ -1,0 +1,790 @@
+{
+ "segments": [
+  {
+   "start": 3.37,
+   "end": 4.13,
+   "text": "Calçado, o que eu quero?",
+   "words": [
+    {
+     "word": "Calçado,",
+     "start": 3.37,
+     "end": 3.59
+    },
+    {
+     "word": "o",
+     "start": 3.67,
+     "end": 3.73
+    },
+    {
+     "word": "que",
+     "start": 3.73,
+     "end": 3.83
+    },
+    {
+     "word": "eu",
+     "start": 3.83,
+     "end": 3.89
+    },
+    {
+     "word": "quero?",
+     "start": 3.89,
+     "end": 4.13
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 4.17,
+   "end": 5.26,
+   "text": "Eu quero um tênis, mano",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 4.17,
+     "end": 4.23
+    },
+    {
+     "word": "quero",
+     "start": 4.23,
+     "end": 4.31
+    },
+    {
+     "word": "um",
+     "start": 4.31,
+     "end": 4.45
+    },
+    {
+     "word": "tênis,",
+     "start": 4.45,
+     "end": 4.79
+    },
+    {
+     "word": "mano",
+     "start": 4.87,
+     "end": 5.26
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 14.34,
+   "end": 15.1,
+   "text": "Caralho, chat",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 14.34,
+     "end": 14.66
+    },
+    {
+     "word": "chat",
+     "start": 14.72,
+     "end": 15.1
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 15.14,
+   "end": 16.33,
+   "text": "Ficou show, hein, mano?",
+   "words": [
+    {
+     "word": "Ficou",
+     "start": 15.14,
+     "end": 15.3
+    },
+    {
+     "word": "show,",
+     "start": 15.3,
+     "end": 15.58
+    },
+    {
+     "word": "hein,",
+     "start": 15.72,
+     "end": 15.8
+    },
+    {
+     "word": "mano?",
+     "start": 15.9,
+     "end": 16.33
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 17.17,
+   "end": 18.28,
+   "text": "Ficou show, hein?",
+   "words": [
+    {
+     "word": "Ficou",
+     "start": 17.17,
+     "end": 17.47
+    },
+    {
+     "word": "show,",
+     "start": 17.47,
+     "end": 17.69
+    },
+    {
+     "word": "hein?",
+     "start": 17.89,
+     "end": 18.28
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 19.09,
+   "end": 19.69,
+   "text": "Não?",
+   "words": [
+    {
+     "word": "Não?",
+     "start": 19.09,
+     "end": 19.69
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 22.13,
+   "end": 23.62,
+   "text": "Caralho, ficou insano, mano",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 22.13,
+     "end": 22.45
+    },
+    {
+     "word": "ficou",
+     "start": 22.49,
+     "end": 22.63
+    },
+    {
+     "word": "insano,",
+     "start": 22.63,
+     "end": 23.03
+    },
+    {
+     "word": "mano",
+     "start": 23.21,
+     "end": 23.62
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 24.13,
+   "end": 25.21,
+   "text": "Ó, esse daqui orna, mano",
+   "words": [
+    {
+     "word": "Ó,",
+     "start": 24.13,
+     "end": 24.35
+    },
+    {
+     "word": "esse",
+     "start": 24.41,
+     "end": 24.46
+    },
+    {
+     "word": "daqui",
+     "start": 24.46,
+     "end": 24.65
+    },
+    {
+     "word": "orna,",
+     "start": 24.65,
+     "end": 25.01
+    },
+    {
+     "word": "mano",
+     "start": 25.13,
+     "end": 25.21
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 25.25,
+   "end": 26.33,
+   "text": "Esse daqui orna, hein?",
+   "words": [
+    {
+     "word": "Esse",
+     "start": 25.25,
+     "end": 25.37
+    },
+    {
+     "word": "daqui",
+     "start": 25.37,
+     "end": 25.59
+    },
+    {
+     "word": "orna,",
+     "start": 25.59,
+     "end": 25.97
+    },
+    {
+     "word": "hein?",
+     "start": 26.03,
+     "end": 26.33
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 27.34,
+   "end": 28.62,
+   "text": "Caralho, esse daqui ficou da hora",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 27.34,
+     "end": 27.66
+    },
+    {
+     "word": "esse",
+     "start": 27.72,
+     "end": 27.84
+    },
+    {
+     "word": "daqui",
+     "start": 27.84,
+     "end": 28.0
+    },
+    {
+     "word": "ficou",
+     "start": 28.0,
+     "end": 28.2
+    },
+    {
+     "word": "da",
+     "start": 28.2,
+     "end": 28.34
+    },
+    {
+     "word": "hora",
+     "start": 28.34,
+     "end": 28.62
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.66,
+   "end": 29.64,
+   "text": "Esse daqui ficou absurdo",
+   "words": [
+    {
+     "word": "Esse",
+     "start": 28.66,
+     "end": 28.82
+    },
+    {
+     "word": "daqui",
+     "start": 28.82,
+     "end": 29.02
+    },
+    {
+     "word": "ficou",
+     "start": 29.02,
+     "end": 29.2
+    },
+    {
+     "word": "absurdo",
+     "start": 29.2,
+     "end": 29.64
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 29.68,
+   "end": 30.4,
+   "text": "Esse ficou insano",
+   "words": [
+    {
+     "word": "Esse",
+     "start": 29.68,
+     "end": 29.84
+    },
+    {
+     "word": "ficou",
+     "start": 29.84,
+     "end": 30.0
+    },
+    {
+     "word": "insano",
+     "start": 30.0,
+     "end": 30.4
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 30.44,
+   "end": 31.47,
+   "text": "Esse ficou insano, mano",
+   "words": [
+    {
+     "word": "Esse",
+     "start": 30.44,
+     "end": 30.56
+    },
+    {
+     "word": "ficou",
+     "start": 30.56,
+     "end": 30.7
+    },
+    {
+     "word": "insano,",
+     "start": 30.7,
+     "end": 31.0
+    },
+    {
+     "word": "mano",
+     "start": 31.06,
+     "end": 31.47
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 33.09,
+   "end": 34.1,
+   "text": "Insano esse ficou",
+   "words": [
+    {
+     "word": "Insano",
+     "start": 33.09,
+     "end": 33.41
+    },
+    {
+     "word": "esse",
+     "start": 33.41,
+     "end": 33.57
+    },
+    {
+     "word": "ficou",
+     "start": 33.57,
+     "end": 34.1
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 35.05,
+   "end": 36.07,
+   "text": "Cara, gostei desse daqui",
+   "words": [
+    {
+     "word": "Cara,",
+     "start": 35.05,
+     "end": 35.33
+    },
+    {
+     "word": "gostei",
+     "start": 35.41,
+     "end": 35.77
+    },
+    {
+     "word": "desse",
+     "start": 35.77,
+     "end": 35.89
+    },
+    {
+     "word": "daqui",
+     "start": 35.89,
+     "end": 36.07
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 36.11,
+   "end": 36.94,
+   "text": "também, mano",
+   "words": [
+    {
+     "word": "também,",
+     "start": 36.11,
+     "end": 36.41
+    },
+    {
+     "word": "mano",
+     "start": 36.53,
+     "end": 36.94
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 38.29,
+   "end": 39.7,
+   "text": "Gostei desse daqui também, viu?",
+   "words": [
+    {
+     "word": "Gostei",
+     "start": 38.29,
+     "end": 38.61
+    },
+    {
+     "word": "desse",
+     "start": 38.61,
+     "end": 38.71
+    },
+    {
+     "word": "daqui",
+     "start": 38.71,
+     "end": 38.91
+    },
+    {
+     "word": "também,",
+     "start": 38.91,
+     "end": 39.19
+    },
+    {
+     "word": "viu?",
+     "start": 39.31,
+     "end": 39.7
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 40.46,
+   "end": 41.76,
+   "text": "Ah, vou botar esse daqui, mano",
+   "words": [
+    {
+     "word": "Ah,",
+     "start": 40.46,
+     "end": 40.66
+    },
+    {
+     "word": "vou",
+     "start": 40.68,
+     "end": 40.82
+    },
+    {
+     "word": "botar",
+     "start": 40.82,
+     "end": 41.14
+    },
+    {
+     "word": "esse",
+     "start": 41.14,
+     "end": 41.32
+    },
+    {
+     "word": "daqui,",
+     "start": 41.32,
+     "end": 41.6
+    },
+    {
+     "word": "mano",
+     "start": 41.68,
+     "end": 41.76
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 41.8,
+   "end": 42.81,
+   "text": "Esse daqui ficou legal",
+   "words": [
+    {
+     "word": "Esse",
+     "start": 41.8,
+     "end": 41.88
+    },
+    {
+     "word": "daqui",
+     "start": 41.88,
+     "end": 42.02
+    },
+    {
+     "word": "ficou",
+     "start": 42.02,
+     "end": 42.22
+    },
+    {
+     "word": "legal",
+     "start": 42.22,
+     "end": 42.81
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 47.86,
+   "end": 49.52,
+   "text": "Gostei. Já pode salvar esse daqui, mano",
+   "words": [
+    {
+     "word": "Gostei.",
+     "start": 47.86,
+     "end": 48.18
+    },
+    {
+     "word": "Já",
+     "start": 48.26,
+     "end": 48.36
+    },
+    {
+     "word": "pode",
+     "start": 48.36,
+     "end": 48.62
+    },
+    {
+     "word": "salvar",
+     "start": 48.62,
+     "end": 48.9
+    },
+    {
+     "word": "esse",
+     "start": 48.9,
+     "end": 49.08
+    },
+    {
+     "word": "daqui,",
+     "start": 49.08,
+     "end": 49.34
+    },
+    {
+     "word": "mano",
+     "start": 49.44,
+     "end": 49.52
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 49.56,
+   "end": 50.37,
+   "text": "Como é que salva?",
+   "words": [
+    {
+     "word": "Como",
+     "start": 49.56,
+     "end": 49.66
+    },
+    {
+     "word": "é",
+     "start": 49.66,
+     "end": 49.74
+    },
+    {
+     "word": "que",
+     "start": 49.74,
+     "end": 49.79
+    },
+    {
+     "word": "salva?",
+     "start": 49.79,
+     "end": 50.37
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 51.19,
+   "end": 52.3,
+   "text": "Como é que salva, mano?",
+   "words": [
+    {
+     "word": "Como",
+     "start": 51.19,
+     "end": 51.41
+    },
+    {
+     "word": "é",
+     "start": 51.41,
+     "end": 51.47
+    },
+    {
+     "word": "que",
+     "start": 51.47,
+     "end": 51.52
+    },
+    {
+     "word": "salva,",
+     "start": 51.52,
+     "end": 51.85
+    },
+    {
+     "word": "mano?",
+     "start": 51.93,
+     "end": 52.3
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 55.32,
+   "end": 56.58,
+   "text": "Já salva esse daqui",
+   "words": [
+    {
+     "word": "Já",
+     "start": 55.32,
+     "end": 55.52
+    },
+    {
+     "word": "salva",
+     "start": 55.52,
+     "end": 55.9
+    },
+    {
+     "word": "esse",
+     "start": 55.9,
+     "end": 56.04
+    },
+    {
+     "word": "daqui",
+     "start": 56.04,
+     "end": 56.58
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 56.62,
+   "end": 57.42,
+   "text": "Qual que eu enjoei, mano?",
+   "words": [
+    {
+     "word": "Qual",
+     "start": 56.62,
+     "end": 56.78
+    },
+    {
+     "word": "que",
+     "start": 56.78,
+     "end": 56.86
+    },
+    {
+     "word": "eu",
+     "start": 56.86,
+     "end": 56.94
+    },
+    {
+     "word": "enjoei,",
+     "start": 56.94,
+     "end": 57.28
+    },
+    {
+     "word": "mano?",
+     "start": 57.34,
+     "end": 57.42
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 57.46,
+   "end": 58.54,
+   "text": "Eu enjoei do Arthur Morgan",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 57.46,
+     "end": 57.56
+    },
+    {
+     "word": "enjoei",
+     "start": 57.56,
+     "end": 57.76
+    },
+    {
+     "word": "do",
+     "start": 57.76,
+     "end": 57.84
+    },
+    {
+     "word": "Arthur",
+     "start": 57.84,
+     "end": 58.06
+    },
+    {
+     "word": "Morgan",
+     "start": 58.06,
+     "end": 58.54
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 58.58,
+   "end": 59.95,
+   "text": "Tiro o Arthur Morgan do carro",
+   "words": [
+    {
+     "word": "Tiro",
+     "start": 58.58,
+     "end": 58.7
+    },
+    {
+     "word": "o",
+     "start": 58.7,
+     "end": 58.82
+    },
+    {
+     "word": "Arthur",
+     "start": 58.82,
+     "end": 58.9
+    },
+    {
+     "word": "Morgan",
+     "start": 58.9,
+     "end": 59.26
+    },
+    {
+     "word": "do",
+     "start": 59.26,
+     "end": 59.4
+    },
+    {
+     "word": "carro",
+     "start": 59.4,
+     "end": 59.95
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 61.61,
+   "end": 63.22,
+   "text": "Enjoei desse daqui também",
+   "words": [
+    {
+     "word": "Enjoei",
+     "start": 61.61,
+     "end": 62.073
+    },
+    {
+     "word": "desse",
+     "start": 62.073,
+     "end": 62.47
+    },
+    {
+     "word": "daqui",
+     "start": 62.47,
+     "end": 62.63
+    },
+    {
+     "word": "também",
+     "start": 62.63,
+     "end": 63.22
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}

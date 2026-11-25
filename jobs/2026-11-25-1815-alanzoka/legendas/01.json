@@ -1,0 +1,550 @@
+{
+ "segments": [
+  {
+   "start": 3.72,
+   "end": 4.52,
+   "text": "Filho, vambora",
+   "words": [
+    {
+     "word": "Filho,",
+     "start": 3.72,
+     "end": 4.04
+    },
+    {
+     "word": "vambora",
+     "start": 4.12,
+     "end": 4.52
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 4.56,
+   "end": 5.95,
+   "text": "continuando, opa",
+   "words": [
+    {
+     "word": "continuando,",
+     "start": 4.56,
+     "end": 4.9
+    },
+    {
+     "word": "opa",
+     "start": 4.98,
+     "end": 5.95
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 13.93,
+   "end": 15.25,
+   "text": "Novo limite da sua conta",
+   "words": [
+    {
+     "word": "Novo",
+     "start": 13.93,
+     "end": 14.23
+    },
+    {
+     "word": "limite",
+     "start": 14.23,
+     "end": 14.57
+    },
+    {
+     "word": "da",
+     "start": 14.57,
+     "end": 14.73
+    },
+    {
+     "word": "sua",
+     "start": 14.73,
+     "end": 14.91
+    },
+    {
+     "word": "conta",
+     "start": 14.91,
+     "end": 15.25
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 15.29,
+   "end": 16.44,
+   "text": "de 2 milhões",
+   "words": [
+    {
+     "word": "de",
+     "start": 15.29,
+     "end": 15.47
+    },
+    {
+     "word": "2",
+     "start": 15.47,
+     "end": 15.77
+    },
+    {
+     "word": "milhões",
+     "start": 15.77,
+     "end": 16.44
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 16.49,
+   "end": 18.38,
+   "text": "Ah, tá, calma, é o limite da minha conta, mano",
+   "words": [
+    {
+     "word": "Ah,",
+     "start": 16.49,
+     "end": 16.57
+    },
+    {
+     "word": "tá,",
+     "start": 16.61,
+     "end": 16.67
+    },
+    {
+     "word": "calma,",
+     "start": 16.79,
+     "end": 16.95
+    },
+    {
+     "word": "é",
+     "start": 16.95,
+     "end": 17.03
+    },
+    {
+     "word": "o",
+     "start": 17.03,
+     "end": 17.09
+    },
+    {
+     "word": "limite",
+     "start": 17.09,
+     "end": 17.35
+    },
+    {
+     "word": "da",
+     "start": 17.35,
+     "end": 17.49
+    },
+    {
+     "word": "minha",
+     "start": 17.49,
+     "end": 17.59
+    },
+    {
+     "word": "conta,",
+     "start": 17.59,
+     "end": 17.93
+    },
+    {
+     "word": "mano",
+     "start": 18.03,
+     "end": 18.38
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 19.28,
+   "end": 20.48,
+   "text": "Calma, calma, não",
+   "words": [
+    {
+     "word": "Calma,",
+     "start": 19.28,
+     "end": 19.83
+    },
+    {
+     "word": "calma,",
+     "start": 19.83,
+     "end": 20.38
+    },
+    {
+     "word": "não",
+     "start": 20.42,
+     "end": 20.48
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 20.52,
+   "end": 21.17,
+   "text": "É o valor que eu tenho",
+   "words": [
+    {
+     "word": "É",
+     "start": 20.52,
+     "end": 20.64
+    },
+    {
+     "word": "o",
+     "start": 20.64,
+     "end": 20.72
+    },
+    {
+     "word": "valor",
+     "start": 20.72,
+     "end": 20.96
+    },
+    {
+     "word": "que",
+     "start": 20.96,
+     "end": 21.06
+    },
+    {
+     "word": "eu",
+     "start": 21.06,
+     "end": 21.12
+    },
+    {
+     "word": "tenho",
+     "start": 21.12,
+     "end": 21.17
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 21.2,
+   "end": 22.23,
+   "text": "que pagar pro meu filho",
+   "words": [
+    {
+     "word": "que",
+     "start": 21.2,
+     "end": 21.28
+    },
+    {
+     "word": "pagar",
+     "start": 21.28,
+     "end": 21.46
+    },
+    {
+     "word": "pro",
+     "start": 21.46,
+     "end": 21.58
+    },
+    {
+     "word": "meu",
+     "start": 21.58,
+     "end": 21.74
+    },
+    {
+     "word": "filho",
+     "start": 21.74,
+     "end": 22.23
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 22.38,
+   "end": 23.14,
+   "text": "Deixa eu ver quanto que eu tenho que pagar",
+   "words": [
+    {
+     "word": "Deixa",
+     "start": 22.38,
+     "end": 22.4
+    },
+    {
+     "word": "eu",
+     "start": 22.4,
+     "end": 22.45
+    },
+    {
+     "word": "ver",
+     "start": 22.45,
+     "end": 22.54
+    },
+    {
+     "word": "quanto",
+     "start": 22.54,
+     "end": 22.7
+    },
+    {
+     "word": "que",
+     "start": 22.7,
+     "end": 22.8
+    },
+    {
+     "word": "eu",
+     "start": 22.8,
+     "end": 22.85
+    },
+    {
+     "word": "tenho",
+     "start": 22.85,
+     "end": 22.94
+    },
+    {
+     "word": "que",
+     "start": 22.94,
+     "end": 23.02
+    },
+    {
+     "word": "pagar",
+     "start": 23.02,
+     "end": 23.14
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 23.18,
+   "end": 24.13,
+   "text": "pro meu filho, mano",
+   "words": [
+    {
+     "word": "pro",
+     "start": 23.18,
+     "end": 23.28
+    },
+    {
+     "word": "meu",
+     "start": 23.28,
+     "end": 23.44
+    },
+    {
+     "word": "filho,",
+     "start": 23.44,
+     "end": 23.64
+    },
+    {
+     "word": "mano",
+     "start": 23.78,
+     "end": 24.13
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 26.84,
+   "end": 28.61,
+   "text": "Ah, é só 500 mil, pô",
+   "words": [
+    {
+     "word": "Ah,",
+     "start": 26.84,
+     "end": 26.96
+    },
+    {
+     "word": "é",
+     "start": 27.04,
+     "end": 27.12
+    },
+    {
+     "word": "só",
+     "start": 27.12,
+     "end": 27.24
+    },
+    {
+     "word": "500",
+     "start": 27.24,
+     "end": 27.58
+    },
+    {
+     "word": "mil,",
+     "start": 27.58,
+     "end": 27.94
+    },
+    {
+     "word": "pô",
+     "start": 28.14,
+     "end": 28.61
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 29.74,
+   "end": 31.68,
+   "text": "Nossa, não, tá tranquilo, tá tranquilo",
+   "words": [
+    {
+     "word": "Nossa,",
+     "start": 29.74,
+     "end": 30.24
+    },
+    {
+     "word": "não,",
+     "start": 30.38,
+     "end": 30.44
+    },
+    {
+     "word": "tá",
+     "start": 30.56,
+     "end": 30.61
+    },
+    {
+     "word": "tranquilo,",
+     "start": 30.61,
+     "end": 31.22
+    },
+    {
+     "word": "tá",
+     "start": 31.32,
+     "end": 31.4
+    },
+    {
+     "word": "tranquilo",
+     "start": 31.4,
+     "end": 31.68
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 31.72,
+   "end": 32.24,
+   "text": "Nossa, mas vai ter",
+   "words": [
+    {
+     "word": "Nossa,",
+     "start": 31.72,
+     "end": 31.86
+    },
+    {
+     "word": "mas",
+     "start": 31.96,
+     "end": 32.02
+    },
+    {
+     "word": "vai",
+     "start": 32.02,
+     "end": 32.16
+    },
+    {
+     "word": "ter",
+     "start": 32.16,
+     "end": 32.24
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 32.28,
+   "end": 33.41,
+   "text": "mais uma meta ainda",
+   "words": [
+    {
+     "word": "mais",
+     "start": 32.28,
+     "end": 32.42
+    },
+    {
+     "word": "uma",
+     "start": 32.42,
+     "end": 32.58
+    },
+    {
+     "word": "meta",
+     "start": 32.58,
+     "end": 32.88
+    },
+    {
+     "word": "ainda",
+     "start": 32.88,
+     "end": 33.41
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 34.5,
+   "end": 35.87,
+   "text": "Tem mais uma meta ainda",
+   "words": [
+    {
+     "word": "Tem",
+     "start": 34.5,
+     "end": 34.64
+    },
+    {
+     "word": "mais",
+     "start": 34.64,
+     "end": 34.8
+    },
+    {
+     "word": "uma",
+     "start": 34.8,
+     "end": 35.0
+    },
+    {
+     "word": "meta",
+     "start": 35.0,
+     "end": 35.3
+    },
+    {
+     "word": "ainda",
+     "start": 35.3,
+     "end": 35.87
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 40.53,
+   "end": 41.95,
+   "text": "500 mil eu faço, pô",
+   "words": [
+    {
+     "word": "500",
+     "start": 40.53,
+     "end": 40.79
+    },
+    {
+     "word": "mil",
+     "start": 40.79,
+     "end": 41.15
+    },
+    {
+     "word": "eu",
+     "start": 41.15,
+     "end": 41.27
+    },
+    {
+     "word": "faço,",
+     "start": 41.27,
+     "end": 41.51
+    },
+    {
+     "word": "pô",
+     "start": 41.71,
+     "end": 41.95
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 41.99,
+   "end": 43.94,
+   "text": "um dia, mano",
+   "words": [
+    {
+     "word": "um",
+     "start": 41.99,
+     "end": 42.13
+    },
+    {
+     "word": "dia,",
+     "start": 43.27,
+     "end": 43.49
+    },
+    {
+     "word": "mano",
+     "start": 43.59,
+     "end": 43.94
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}

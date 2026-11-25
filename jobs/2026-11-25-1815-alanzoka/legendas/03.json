@@ -1,0 +1,340 @@
+{
+ "segments": [
+  {
+   "start": 13.99,
+   "end": 15.02,
+   "text": "Ficou insano aqui, tá",
+   "words": [
+    {
+     "word": "Ficou",
+     "start": 13.99,
+     "end": 14.03
+    },
+    {
+     "word": "insano",
+     "start": 14.03,
+     "end": 14.41
+    },
+    {
+     "word": "aqui,",
+     "start": 14.41,
+     "end": 14.61
+    },
+    {
+     "word": "tá",
+     "start": 14.71,
+     "end": 15.02
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 15.58,
+   "end": 17.17,
+   "text": "Insano, muito Faria Lima",
+   "words": [
+    {
+     "word": "Insano,",
+     "start": 15.58,
+     "end": 15.84
+    },
+    {
+     "word": "muito",
+     "start": 15.84,
+     "end": 16.28
+    },
+    {
+     "word": "Faria",
+     "start": 16.28,
+     "end": 16.6
+    },
+    {
+     "word": "Lima",
+     "start": 16.6,
+     "end": 17.17
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 18.45,
+   "end": 19.19,
+   "text": "Cara, acho que você nunca",
+   "words": [
+    {
+     "word": "Cara,",
+     "start": 18.45,
+     "end": 18.71
+    },
+    {
+     "word": "acho",
+     "start": 18.77,
+     "end": 18.91
+    },
+    {
+     "word": "que",
+     "start": 18.91,
+     "end": 18.99
+    },
+    {
+     "word": "você",
+     "start": 18.99,
+     "end": 19.07
+    },
+    {
+     "word": "nunca",
+     "start": 19.07,
+     "end": 19.19
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 19.23,
+   "end": 20.19,
+   "text": "foi na Faria Lima, né",
+   "words": [
+    {
+     "word": "foi",
+     "start": 19.23,
+     "end": 19.43
+    },
+    {
+     "word": "na",
+     "start": 19.43,
+     "end": 19.51
+    },
+    {
+     "word": "Faria",
+     "start": 19.51,
+     "end": 19.79
+    },
+    {
+     "word": "Lima,",
+     "start": 19.79,
+     "end": 19.99
+    },
+    {
+     "word": "né",
+     "start": 20.13,
+     "end": 20.19
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 20.23,
+   "end": 20.87,
+   "text": "pra você falar que isso daqui",
+   "words": [
+    {
+     "word": "pra",
+     "start": 20.23,
+     "end": 20.29
+    },
+    {
+     "word": "você",
+     "start": 20.29,
+     "end": 20.37
+    },
+    {
+     "word": "falar",
+     "start": 20.37,
+     "end": 20.57
+    },
+    {
+     "word": "que",
+     "start": 20.57,
+     "end": 20.69
+    },
+    {
+     "word": "isso",
+     "start": 20.69,
+     "end": 20.77
+    },
+    {
+     "word": "daqui",
+     "start": 20.77,
+     "end": 20.87
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 20.91,
+   "end": 22.54,
+   "text": "é Faria Lima, mano",
+   "words": [
+    {
+     "word": "é",
+     "start": 20.91,
+     "end": 21.03
+    },
+    {
+     "word": "Faria",
+     "start": 21.03,
+     "end": 21.51
+    },
+    {
+     "word": "Lima,",
+     "start": 21.51,
+     "end": 22.03
+    },
+    {
+     "word": "mano",
+     "start": 22.15,
+     "end": 22.54
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 22.59,
+   "end": 23.7,
+   "text": "Desculpa, velho",
+   "words": [
+    {
+     "word": "Desculpa,",
+     "start": 22.59,
+     "end": 23.15
+    },
+    {
+     "word": "velho",
+     "start": 23.21,
+     "end": 23.7
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 26.67,
+   "end": 27.79,
+   "text": "Fala sério, tem nada",
+   "words": [
+    {
+     "word": "Fala",
+     "start": 26.67,
+     "end": 26.79
+    },
+    {
+     "word": "sério,",
+     "start": 26.79,
+     "end": 27.23
+    },
+    {
+     "word": "tem",
+     "start": 27.41,
+     "end": 27.53
+    },
+    {
+     "word": "nada",
+     "start": 27.53,
+     "end": 27.79
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 27.83,
+   "end": 29.24,
+   "text": "de Faria Lima disso daqui",
+   "words": [
+    {
+     "word": "de",
+     "start": 27.83,
+     "end": 27.99
+    },
+    {
+     "word": "Faria",
+     "start": 27.99,
+     "end": 28.27
+    },
+    {
+     "word": "Lima",
+     "start": 28.27,
+     "end": 28.49
+    },
+    {
+     "word": "disso",
+     "start": 28.49,
+     "end": 28.69
+    },
+    {
+     "word": "daqui",
+     "start": 28.69,
+     "end": 29.24
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 35.31,
+   "end": 36.58,
+   "text": "Absolutamente nada",
+   "words": [
+    {
+     "word": "Absolutamente",
+     "start": 35.31,
+     "end": 35.77
+    },
+    {
+     "word": "nada",
+     "start": 35.77,
+     "end": 36.58
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 40.68,
+   "end": 41.28,
+   "text": "Falando que tem foto",
+   "words": [
+    {
+     "word": "Falando",
+     "start": 40.68,
+     "end": 40.88
+    },
+    {
+     "word": "que",
+     "start": 40.88,
+     "end": 41.0
+    },
+    {
+     "word": "tem",
+     "start": 41.0,
+     "end": 41.08
+    },
+    {
+     "word": "foto",
+     "start": 41.08,
+     "end": 41.28
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 41.32,
+   "end": 43.07,
+   "text": "exatamente assim, pô",
+   "words": [
+    {
+     "word": "exatamente",
+     "start": 41.32,
+     "end": 41.7
+    },
+    {
+     "word": "assim,",
+     "start": 41.7,
+     "end": 42.24
+    },
+    {
+     "word": "pô",
+     "start": 42.58,
+     "end": 43.07
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
