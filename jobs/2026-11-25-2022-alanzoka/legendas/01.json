@@ -1,0 +1,394 @@
+{
+ "segments": [
+  {
+   "start": 5.51,
+   "end": 6.29,
+   "text": "Mano, tá muito caro",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 5.51,
+     "end": 5.75
+    },
+    {
+     "word": "tá",
+     "start": 5.77,
+     "end": 5.82
+    },
+    {
+     "word": "muito",
+     "start": 5.82,
+     "end": 6.03
+    },
+    {
+     "word": "caro",
+     "start": 6.03,
+     "end": 6.29
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 6.33,
+   "end": 7.51,
+   "text": "consertar os bagulhos agora",
+   "words": [
+    {
+     "word": "consertar",
+     "start": 6.33,
+     "end": 6.75
+    },
+    {
+     "word": "os",
+     "start": 6.75,
+     "end": 6.89
+    },
+    {
+     "word": "bagulhos",
+     "start": 6.89,
+     "end": 7.27
+    },
+    {
+     "word": "agora",
+     "start": 7.27,
+     "end": 7.51
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 7.55,
+   "end": 9.34,
+   "text": "mano, 4 mil conto, velho",
+   "words": [
+    {
+     "word": "mano,",
+     "start": 7.55,
+     "end": 7.63
+    },
+    {
+     "word": "4",
+     "start": 7.73,
+     "end": 7.93
+    },
+    {
+     "word": "mil",
+     "start": 7.93,
+     "end": 8.13
+    },
+    {
+     "word": "conto,",
+     "start": 8.13,
+     "end": 8.59
+    },
+    {
+     "word": "velho",
+     "start": 8.61,
+     "end": 9.34
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 13.5,
+   "end": 15.07,
+   "text": "roubar uns bancos, velho",
+   "words": [
+    {
+     "word": "roubar",
+     "start": 13.5,
+     "end": 13.86
+    },
+    {
+     "word": "uns",
+     "start": 13.86,
+     "end": 14.04
+    },
+    {
+     "word": "bancos,",
+     "start": 14.04,
+     "end": 14.52
+    },
+    {
+     "word": "velho",
+     "start": 14.58,
+     "end": 15.07
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 18.26,
+   "end": 19.73,
+   "text": "minha música, mano, eu sentindo",
+   "words": [
+    {
+     "word": "minha",
+     "start": 18.26,
+     "end": 18.42
+    },
+    {
+     "word": "música,",
+     "start": 18.42,
+     "end": 18.72
+    },
+    {
+     "word": "mano,",
+     "start": 18.9,
+     "end": 18.95
+    },
+    {
+     "word": "eu",
+     "start": 19.08,
+     "end": 19.14
+    },
+    {
+     "word": "sentindo",
+     "start": 19.14,
+     "end": 19.73
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 42.31,
+   "end": 43.04,
+   "text": "Oia",
+   "words": [
+    {
+     "word": "Oia",
+     "start": 42.31,
+     "end": 43.04
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 43.31,
+   "end": 44.33,
+   "text": "a graminha voando",
+   "words": [
+    {
+     "word": "a",
+     "start": 43.31,
+     "end": 43.51
+    },
+    {
+     "word": "graminha",
+     "start": 43.51,
+     "end": 43.79
+    },
+    {
+     "word": "voando",
+     "start": 43.79,
+     "end": 44.33
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 44.37,
+   "end": 45.86,
+   "text": "a água Pô",
+   "words": [
+    {
+     "word": "a",
+     "start": 44.37,
+     "end": 44.51
+    },
+    {
+     "word": "água",
+     "start": 44.51,
+     "end": 44.81
+    },
+    {
+     "word": "Pô",
+     "start": 44.81,
+     "end": 45.86
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 52.3,
+   "end": 52.96,
+   "text": "mas fala pra vocês",
+   "words": [
+    {
+     "word": "mas",
+     "start": 52.3,
+     "end": 52.38
+    },
+    {
+     "word": "fala",
+     "start": 52.38,
+     "end": 52.62
+    },
+    {
+     "word": "pra",
+     "start": 52.62,
+     "end": 52.74
+    },
+    {
+     "word": "vocês",
+     "start": 52.74,
+     "end": 52.96
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 53.0,
+   "end": 54.37,
+   "text": "esse carrinho ficou legal, hein",
+   "words": [
+    {
+     "word": "esse",
+     "start": 53.0,
+     "end": 53.1
+    },
+    {
+     "word": "carrinho",
+     "start": 53.1,
+     "end": 53.34
+    },
+    {
+     "word": "ficou",
+     "start": 53.34,
+     "end": 53.52
+    },
+    {
+     "word": "legal,",
+     "start": 53.52,
+     "end": 53.88
+    },
+    {
+     "word": "hein",
+     "start": 54.0,
+     "end": 54.37
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 57.8,
+   "end": 58.82,
+   "text": "fazer uma tunagemzinha",
+   "words": [
+    {
+     "word": "fazer",
+     "start": 57.8,
+     "end": 58.1
+    },
+    {
+     "word": "uma",
+     "start": 58.1,
+     "end": 58.22
+    },
+    {
+     "word": "tunagemzinha",
+     "start": 58.22,
+     "end": 58.82
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 58.86,
+   "end": 60.45,
+   "text": "no motor, freio",
+   "words": [
+    {
+     "word": "no",
+     "start": 58.86,
+     "end": 59.0
+    },
+    {
+     "word": "motor,",
+     "start": 59.0,
+     "end": 59.46
+    },
+    {
+     "word": "freio",
+     "start": 59.74,
+     "end": 60.45
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 60.79,
+   "end": 61.97,
+   "text": "transmissão, botar",
+   "words": [
+    {
+     "word": "transmissão,",
+     "start": 60.79,
+     "end": 61.67
+    },
+    {
+     "word": "botar",
+     "start": 61.83,
+     "end": 61.97
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 62.01,
+   "end": 63.41,
+   "text": "um kit turbo, nitro",
+   "words": [
+    {
+     "word": "um",
+     "start": 62.01,
+     "end": 62.09
+    },
+    {
+     "word": "kit",
+     "start": 62.09,
+     "end": 62.35
+    },
+    {
+     "word": "turbo,",
+     "start": 62.35,
+     "end": 62.79
+    },
+    {
+     "word": "nitro",
+     "start": 62.79,
+     "end": 63.41
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 63.45,
+   "end": 66.03,
+   "text": "3D, stage 4 turbo",
+   "words": [
+    {
+     "word": "3D,",
+     "start": 63.45,
+     "end": 64.05
+    },
+    {
+     "word": "stage",
+     "start": 64.54,
+     "end": 64.96
+    },
+    {
+     "word": "4",
+     "start": 64.96,
+     "end": 65.52
+    },
+    {
+     "word": "turbo",
+     "start": 65.52,
+     "end": 66.03
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}

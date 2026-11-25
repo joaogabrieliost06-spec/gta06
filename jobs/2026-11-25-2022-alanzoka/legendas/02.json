@@ -1,0 +1,381 @@
+{
+ "segments": [
+  {
+   "start": 2.3,
+   "end": 3.44,
+   "text": "Cordell Grant, então",
+   "words": [
+    {
+     "word": "Cordell",
+     "start": 2.3,
+     "end": 2.78
+    },
+    {
+     "word": "Grant,",
+     "start": 2.78,
+     "end": 3.16
+    },
+    {
+     "word": "então",
+     "start": 3.3,
+     "end": 3.44
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 3.48,
+   "end": 5.35,
+   "text": "ele é o bombadão aí de boné",
+   "words": [
+    {
+     "word": "ele",
+     "start": 3.48,
+     "end": 3.66
+    },
+    {
+     "word": "é",
+     "start": 3.66,
+     "end": 3.76
+    },
+    {
+     "word": "o",
+     "start": 3.76,
+     "end": 3.92
+    },
+    {
+     "word": "bombadão",
+     "start": 3.92,
+     "end": 4.46
+    },
+    {
+     "word": "aí",
+     "start": 4.46,
+     "end": 4.56
+    },
+    {
+     "word": "de",
+     "start": 4.56,
+     "end": 4.66
+    },
+    {
+     "word": "boné",
+     "start": 4.66,
+     "end": 5.35
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 5.48,
+   "end": 7.2,
+   "text": "a Raina Coleva é outra mina",
+   "words": [
+    {
+     "word": "a",
+     "start": 5.48,
+     "end": 5.6
+    },
+    {
+     "word": "Raina",
+     "start": 5.6,
+     "end": 5.88
+    },
+    {
+     "word": "Coleva",
+     "start": 5.88,
+     "end": 6.44
+    },
+    {
+     "word": "é",
+     "start": 6.44,
+     "end": 6.54
+    },
+    {
+     "word": "outra",
+     "start": 6.54,
+     "end": 6.76
+    },
+    {
+     "word": "mina",
+     "start": 6.76,
+     "end": 7.2
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.24,
+   "end": 8.36,
+   "text": "Francisco Delgado",
+   "words": [
+    {
+     "word": "Francisco",
+     "start": 7.24,
+     "end": 7.66
+    },
+    {
+     "word": "Delgado",
+     "start": 7.66,
+     "end": 8.36
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 8.4,
+   "end": 10.03,
+   "text": "e o Nate Bolzer",
+   "words": [
+    {
+     "word": "e",
+     "start": 8.4,
+     "end": 8.98
+    },
+    {
+     "word": "o",
+     "start": 8.98,
+     "end": 9.08
+    },
+    {
+     "word": "Nate",
+     "start": 9.08,
+     "end": 9.24
+    },
+    {
+     "word": "Bolzer",
+     "start": 9.24,
+     "end": 10.03
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 11.58,
+   "end": 13.15,
+   "text": "tava vendo as fotos do bombadão",
+   "words": [
+    {
+     "word": "tava",
+     "start": 11.58,
+     "end": 11.7
+    },
+    {
+     "word": "vendo",
+     "start": 11.7,
+     "end": 11.92
+    },
+    {
+     "word": "as",
+     "start": 11.92,
+     "end": 12.12
+    },
+    {
+     "word": "fotos",
+     "start": 12.12,
+     "end": 12.26
+    },
+    {
+     "word": "do",
+     "start": 12.26,
+     "end": 12.42
+    },
+    {
+     "word": "bombadão",
+     "start": 12.42,
+     "end": 13.15
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 21.83,
+   "end": 23.34,
+   "text": "Calma, eu já vim aqui",
+   "words": [
+    {
+     "word": "Calma,",
+     "start": 21.83,
+     "end": 22.31
+    },
+    {
+     "word": "eu",
+     "start": 22.35,
+     "end": 22.43
+    },
+    {
+     "word": "já",
+     "start": 22.43,
+     "end": 22.53
+    },
+    {
+     "word": "vim",
+     "start": 22.53,
+     "end": 22.81
+    },
+    {
+     "word": "aqui",
+     "start": 22.81,
+     "end": 23.34
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 27.3,
+   "end": 28.88,
+   "text": "Eu já sou inscrito na",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 27.3,
+     "end": 27.78
+    },
+    {
+     "word": "já",
+     "start": 27.78,
+     "end": 28.26
+    },
+    {
+     "word": "sou",
+     "start": 28.26,
+     "end": 28.36
+    },
+    {
+     "word": "inscrito",
+     "start": 28.36,
+     "end": 28.68
+    },
+    {
+     "word": "na",
+     "start": 28.68,
+     "end": 28.88
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.92,
+   "end": 30.84,
+   "text": "academia, pô, já paguei",
+   "words": [
+    {
+     "word": "academia,",
+     "start": 28.92,
+     "end": 29.34
+    },
+    {
+     "word": "pô,",
+     "start": 29.54,
+     "end": 29.74
+    },
+    {
+     "word": "já",
+     "start": 29.96,
+     "end": 30.52
+    },
+    {
+     "word": "paguei",
+     "start": 30.52,
+     "end": 30.84
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 30.88,
+   "end": 31.87,
+   "text": "mensalidade",
+   "words": [
+    {
+     "word": "mensalidade",
+     "start": 30.88,
+     "end": 31.87
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 33.93,
+   "end": 34.95,
+   "text": "Caralho, gostei",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 33.93,
+     "end": 34.41
+    },
+    {
+     "word": "gostei",
+     "start": 34.49,
+     "end": 34.95
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 34.99,
+   "end": 36.25,
+   "text": "gostei, gostei",
+   "words": [
+    {
+     "word": "gostei,",
+     "start": 34.99,
+     "end": 35.81
+    },
+    {
+     "word": "gostei",
+     "start": 35.83,
+     "end": 36.25
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 36.29,
+   "end": 39.14,
+   "text": "quero trabalhar aqui",
+   "words": [
+    {
+     "word": "quero",
+     "start": 36.29,
+     "end": 36.53
+    },
+    {
+     "word": "trabalhar",
+     "start": 36.53,
+     "end": 38.69
+    },
+    {
+     "word": "aqui",
+     "start": 38.69,
+     "end": 39.14
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 39.18,
+   "end": 40.75,
+   "text": "Trabalhar não, treinar",
+   "words": [
+    {
+     "word": "Trabalhar",
+     "start": 39.18,
+     "end": 39.96
+    },
+    {
+     "word": "não,",
+     "start": 39.96,
+     "end": 40.08
+    },
+    {
+     "word": "treinar",
+     "start": 40.22,
+     "end": 40.75
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
