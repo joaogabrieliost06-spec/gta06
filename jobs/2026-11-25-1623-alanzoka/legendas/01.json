@@ -1,0 +1,650 @@
+{
+ "segments": [
+  {
+   "start": 2.35,
+   "end": 2.99,
+   "text": "— Cara,⁠ cadê⁠",
+   "words": [
+    {
+     "word": "— Cara,⁠",
+     "start": 2.35,
+     "end": 2.69
+    },
+    {
+     "word": "cadê⁠",
+     "start": 2.81,
+     "end": 2.99
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 3.03,
+   "end": 4.82,
+   "text": "meu⁠ carro?⁠",
+   "words": [
+    {
+     "word": "meu⁠",
+     "start": 3.03,
+     "end": 3.33
+    },
+    {
+     "word": "carro?⁠",
+     "start": 3.33,
+     "end": 4.82
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 4.99,
+   "end": 5.92,
+   "text": "Adoro⁠ esse⁠ filme⁠",
+   "words": [
+    {
+     "word": "Adoro⁠",
+     "start": 4.99,
+     "end": 5.29
+    },
+    {
+     "word": "esse⁠",
+     "start": 5.29,
+     "end": 5.41
+    },
+    {
+     "word": "filme⁠",
+     "start": 5.41,
+     "end": 5.92
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 19.82,
+   "end": 21.86,
+   "text": "carro tá da Lucia? Por que que",
+   "words": [
+    {
+     "word": "carro",
+     "start": 19.82,
+     "end": 20.12
+    },
+    {
+     "word": "tá",
+     "start": 20.12,
+     "end": 20.28
+    },
+    {
+     "word": "da",
+     "start": 20.28,
+     "end": 20.82
+    },
+    {
+     "word": "Lucia?",
+     "start": 20.82,
+     "end": 21.48
+    },
+    {
+     "word": "Por",
+     "start": 21.58,
+     "end": 21.7
+    },
+    {
+     "word": "que",
+     "start": 21.7,
+     "end": 21.8
+    },
+    {
+     "word": "que",
+     "start": 21.8,
+     "end": 21.86
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 21.9,
+   "end": 22.8,
+   "text": "é da Lucia? Esse carro não",
+   "words": [
+    {
+     "word": "é",
+     "start": 21.9,
+     "end": 21.96
+    },
+    {
+     "word": "da",
+     "start": 21.96,
+     "end": 22.04
+    },
+    {
+     "word": "Lucia?",
+     "start": 22.04,
+     "end": 22.4
+    },
+    {
+     "word": "Esse",
+     "start": 22.5,
+     "end": 22.6
+    },
+    {
+     "word": "carro",
+     "start": 22.6,
+     "end": 22.74
+    },
+    {
+     "word": "não",
+     "start": 22.74,
+     "end": 22.8
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 22.84,
+   "end": 23.43,
+   "text": "é da Lucia, não",
+   "words": [
+    {
+     "word": "é",
+     "start": 22.84,
+     "end": 22.9
+    },
+    {
+     "word": "da",
+     "start": 22.9,
+     "end": 22.98
+    },
+    {
+     "word": "Lucia,",
+     "start": 22.98,
+     "end": 23.32
+    },
+    {
+     "word": "não",
+     "start": 23.38,
+     "end": 23.43
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 23.44,
+   "end": 24.17,
+   "text": "é do Jason?",
+   "words": [
+    {
+     "word": "é",
+     "start": 23.44,
+     "end": 23.48
+    },
+    {
+     "word": "do",
+     "start": 23.48,
+     "end": 23.58
+    },
+    {
+     "word": "Jason?",
+     "start": 23.58,
+     "end": 24.17
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 27.78,
+   "end": 28.48,
+   "text": "Ele que ganhou",
+   "words": [
+    {
+     "word": "Ele",
+     "start": 27.78,
+     "end": 28.14
+    },
+    {
+     "word": "que",
+     "start": 28.14,
+     "end": 28.26
+    },
+    {
+     "word": "ganhou",
+     "start": 28.26,
+     "end": 28.48
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.52,
+   "end": 29.56,
+   "text": "do Iago, mano, como",
+   "words": [
+    {
+     "word": "do",
+     "start": 28.52,
+     "end": 28.66
+    },
+    {
+     "word": "Iago,",
+     "start": 28.66,
+     "end": 29.08
+    },
+    {
+     "word": "mano,",
+     "start": 29.2,
+     "end": 29.34
+    },
+    {
+     "word": "como",
+     "start": 29.46,
+     "end": 29.56
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 29.6,
+   "end": 30.71,
+   "text": "que tá da Lucia?",
+   "words": [
+    {
+     "word": "que",
+     "start": 29.6,
+     "end": 29.74
+    },
+    {
+     "word": "tá",
+     "start": 29.74,
+     "end": 29.8
+    },
+    {
+     "word": "da",
+     "start": 29.8,
+     "end": 29.92
+    },
+    {
+     "word": "Lucia?",
+     "start": 29.92,
+     "end": 30.71
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 34.71,
+   "end": 35.41,
+   "text": "— Ah,⁠ porque⁠ você⁠",
+   "words": [
+    {
+     "word": "— Ah,⁠",
+     "start": 34.71,
+     "end": 35.07
+    },
+    {
+     "word": "porque⁠",
+     "start": 35.15,
+     "end": 35.21
+    },
+    {
+     "word": "você⁠",
+     "start": 35.21,
+     "end": 35.41
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 35.45,
+   "end": 36.37,
+   "text": "pediu⁠ com⁠ ela?⁠",
+   "words": [
+    {
+     "word": "pediu⁠",
+     "start": 35.45,
+     "end": 35.75
+    },
+    {
+     "word": "com⁠",
+     "start": 35.75,
+     "end": 35.93
+    },
+    {
+     "word": "ela?⁠",
+     "start": 35.93,
+     "end": 36.37
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 36.41,
+   "end": 37.06,
+   "text": "Ah,⁠ é?⁠",
+   "words": [
+    {
+     "word": "Ah,⁠",
+     "start": 36.41,
+     "end": 36.61
+    },
+    {
+     "word": "é?⁠",
+     "start": 36.69,
+     "end": 37.06
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 49.68,
+   "end": 50.48,
+   "text": "— Muito⁠ bem,⁠ deixa⁠ eu⁠",
+   "words": [
+    {
+     "word": "— Muito⁠",
+     "start": 49.68,
+     "end": 49.92
+    },
+    {
+     "word": "bem,⁠",
+     "start": 49.92,
+     "end": 50.14
+    },
+    {
+     "word": "deixa⁠",
+     "start": 50.24,
+     "end": 50.36
+    },
+    {
+     "word": "eu⁠",
+     "start": 50.36,
+     "end": 50.48
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 50.52,
+   "end": 51.06,
+   "text": "finalizar⁠",
+   "words": [
+    {
+     "word": "finalizar⁠",
+     "start": 50.52,
+     "end": 51.06
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 51.1,
+   "end": 51.98,
+   "text": "umas⁠ coisas,⁠ fiquem⁠",
+   "words": [
+    {
+     "word": "umas⁠",
+     "start": 51.1,
+     "end": 51.4
+    },
+    {
+     "word": "coisas,⁠",
+     "start": 51.4,
+     "end": 51.68
+    },
+    {
+     "word": "fiquem⁠",
+     "start": 51.76,
+     "end": 51.98
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 52.02,
+   "end": 52.73,
+   "text": "prontos⁠",
+   "words": [
+    {
+     "word": "prontos⁠",
+     "start": 52.02,
+     "end": 52.73
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 54.45,
+   "end": 55.34,
+   "text": "Bom,⁠ chat⁠",
+   "words": [
+    {
+     "word": "Bom,⁠",
+     "start": 54.45,
+     "end": 54.75
+    },
+    {
+     "word": "chat⁠",
+     "start": 54.83,
+     "end": 55.34
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 56.29,
+   "end": 56.87,
+   "text": "a gente agora tem",
+   "words": [
+    {
+     "word": "a",
+     "start": 56.29,
+     "end": 56.41
+    },
+    {
+     "word": "gente",
+     "start": 56.41,
+     "end": 56.53
+    },
+    {
+     "word": "agora",
+     "start": 56.53,
+     "end": 56.73
+    },
+    {
+     "word": "tem",
+     "start": 56.73,
+     "end": 56.87
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 56.91,
+   "end": 57.69,
+   "text": "que esperar o cara",
+   "words": [
+    {
+     "word": "que",
+     "start": 56.91,
+     "end": 56.99
+    },
+    {
+     "word": "esperar",
+     "start": 56.99,
+     "end": 57.29
+    },
+    {
+     "word": "o",
+     "start": 57.29,
+     "end": 57.43
+    },
+    {
+     "word": "cara",
+     "start": 57.43,
+     "end": 57.69
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 57.73,
+   "end": 58.78,
+   "text": "mandar",
+   "words": [
+    {
+     "word": "mandar",
+     "start": 57.73,
+     "end": 58.78
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 59.31,
+   "end": 60.41,
+   "text": "zap pra nós, mano",
+   "words": [
+    {
+     "word": "zap",
+     "start": 59.31,
+     "end": 59.65
+    },
+    {
+     "word": "pra",
+     "start": 59.65,
+     "end": 59.87
+    },
+    {
+     "word": "nós,",
+     "start": 59.87,
+     "end": 60.21
+    },
+    {
+     "word": "mano",
+     "start": 60.25,
+     "end": 60.41
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 60.45,
+   "end": 61.07,
+   "text": "Então, enquanto",
+   "words": [
+    {
+     "word": "Então,",
+     "start": 60.45,
+     "end": 60.71
+    },
+    {
+     "word": "enquanto",
+     "start": 60.79,
+     "end": 61.07
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 61.11,
+   "end": 61.84,
+   "text": "isso",
+   "words": [
+    {
+     "word": "isso",
+     "start": 61.11,
+     "end": 61.84
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 62.84,
+   "end": 64.34,
+   "text": "tô indo aí no capopo, não sai",
+   "words": [
+    {
+     "word": "tô",
+     "start": 62.84,
+     "end": 62.94
+    },
+    {
+     "word": "indo",
+     "start": 62.94,
+     "end": 63.06
+    },
+    {
+     "word": "aí",
+     "start": 63.06,
+     "end": 63.18
+    },
+    {
+     "word": "no",
+     "start": 63.18,
+     "end": 63.3
+    },
+    {
+     "word": "capopo,",
+     "start": 63.3,
+     "end": 63.84
+    },
+    {
+     "word": "não",
+     "start": 63.84,
+     "end": 63.94
+    },
+    {
+     "word": "sai",
+     "start": 63.94,
+     "end": 64.34
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 64.38,
+   "end": 65.14,
+   "text": "espera por mim, oh",
+   "words": [
+    {
+     "word": "espera",
+     "start": 64.38,
+     "end": 64.52
+    },
+    {
+     "word": "por",
+     "start": 64.52,
+     "end": 64.76
+    },
+    {
+     "word": "mim,",
+     "start": 64.76,
+     "end": 64.96
+    },
+    {
+     "word": "oh",
+     "start": 65.04,
+     "end": 65.14
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 65.18,
+   "end": 65.85,
+   "text": "meu Deus",
+   "words": [
+    {
+     "word": "meu",
+     "start": 65.18,
+     "end": 65.34
+    },
+    {
+     "word": "Deus",
+     "start": 65.34,
+     "end": 65.85
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
