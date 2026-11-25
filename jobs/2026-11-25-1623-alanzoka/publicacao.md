@@ -11,9 +11,3 @@
 - **Descrição:** No meio do tiroteio ele perde a noção de quem é aliado e ainda chuta alguém sem querer. Créditos: alanzoka – https://www.twitch.tv/alanzoka
 - **Hashtags:** #alanzoka #gta6 #gtavi #cortesdelive #shorts
 - **Thumbnail:** tiroteio + texto "QUEM É QUEM?"
-
-## 03: Tijolo por tijolo
-- **Título:** "TIJOLO POR TIJOLO" 🧱 alanzoka chegando na missão no GTA 6
-- **Descrição:** Ele chega no ponto da missão e solta a frase do dia pro chat. Créditos: alanzoka – https://www.twitch.tv/alanzoka
-- **Hashtags:** #alanzoka #gta6 #gtavi #cortesdelive #shorts
-- **Thumbnail:** Alan rindo + texto "TIJOLIM POR TIJOLIM"
