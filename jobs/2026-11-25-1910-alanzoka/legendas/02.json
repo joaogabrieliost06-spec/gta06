@@ -1,0 +1,523 @@
+{
+ "segments": [
+  {
+   "start": 4.05,
+   "end": 5.6,
+   "text": "11 quilômetros",
+   "words": [
+    {
+     "word": "11",
+     "start": 4.05,
+     "end": 4.45
+    },
+    {
+     "word": "quilômetros",
+     "start": 4.45,
+     "end": 5.6
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 9.13,
+   "end": 9.89,
+   "text": "Achando esse carro chegar",
+   "words": [
+    {
+     "word": "Achando",
+     "start": 9.13,
+     "end": 9.43
+    },
+    {
+     "word": "esse",
+     "start": 9.43,
+     "end": 9.57
+    },
+    {
+     "word": "carro",
+     "start": 9.57,
+     "end": 9.71
+    },
+    {
+     "word": "chegar",
+     "start": 9.71,
+     "end": 9.89
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 9.93,
+   "end": 11.74,
+   "text": "inteiro em 11 quilômetros, mano",
+   "words": [
+    {
+     "word": "inteiro",
+     "start": 9.93,
+     "end": 10.23
+    },
+    {
+     "word": "em",
+     "start": 10.23,
+     "end": 10.39
+    },
+    {
+     "word": "11",
+     "start": 10.39,
+     "end": 10.59
+    },
+    {
+     "word": "quilômetros,",
+     "start": 10.59,
+     "end": 11.17
+    },
+    {
+     "word": "mano",
+     "start": 11.33,
+     "end": 11.74
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 17.77,
+   "end": 18.45,
+   "text": "Eu vou jogar sério",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 17.77,
+     "end": 17.85
+    },
+    {
+     "word": "vou",
+     "start": 17.85,
+     "end": 17.93
+    },
+    {
+     "word": "jogar",
+     "start": 17.93,
+     "end": 18.11
+    },
+    {
+     "word": "sério",
+     "start": 18.11,
+     "end": 18.45
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 18.49,
+   "end": 19.27,
+   "text": "pra vocês pararem de falar",
+   "words": [
+    {
+     "word": "pra",
+     "start": 18.49,
+     "end": 18.59
+    },
+    {
+     "word": "vocês",
+     "start": 18.59,
+     "end": 18.79
+    },
+    {
+     "word": "pararem",
+     "start": 18.79,
+     "end": 19.11
+    },
+    {
+     "word": "de",
+     "start": 19.11,
+     "end": 19.19
+    },
+    {
+     "word": "falar",
+     "start": 19.19,
+     "end": 19.27
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 19.31,
+   "end": 20.48,
+   "text": "que eu sou grosso",
+   "words": [
+    {
+     "word": "que",
+     "start": 19.31,
+     "end": 19.41
+    },
+    {
+     "word": "eu",
+     "start": 19.41,
+     "end": 19.49
+    },
+    {
+     "word": "sou",
+     "start": 19.49,
+     "end": 19.61
+    },
+    {
+     "word": "grosso",
+     "start": 19.61,
+     "end": 20.48
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 22.46,
+   "end": 23.18,
+   "text": "É que, gente",
+   "words": [
+    {
+     "word": "É",
+     "start": 22.46,
+     "end": 22.56
+    },
+    {
+     "word": "que,",
+     "start": 22.56,
+     "end": 22.66
+    },
+    {
+     "word": "gente",
+     "start": 22.88,
+     "end": 23.18
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 23.36,
+   "end": 25.14,
+   "text": "ninguém joga GTA sem bater, cara",
+   "words": [
+    {
+     "word": "ninguém",
+     "start": 23.36,
+     "end": 23.52
+    },
+    {
+     "word": "joga",
+     "start": 23.52,
+     "end": 23.88
+    },
+    {
+     "word": "GTA",
+     "start": 23.88,
+     "end": 24.16
+    },
+    {
+     "word": "sem",
+     "start": 24.16,
+     "end": 24.46
+    },
+    {
+     "word": "bater,",
+     "start": 24.46,
+     "end": 24.72
+    },
+    {
+     "word": "cara",
+     "start": 24.96,
+     "end": 25.14
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 25.18,
+   "end": 26.2,
+   "text": "Me desculpa, não sei de onde",
+   "words": [
+    {
+     "word": "Me",
+     "start": 25.18,
+     "end": 25.22
+    },
+    {
+     "word": "desculpa,",
+     "start": 25.22,
+     "end": 25.66
+    },
+    {
+     "word": "não",
+     "start": 25.72,
+     "end": 25.8
+    },
+    {
+     "word": "sei",
+     "start": 25.8,
+     "end": 25.98
+    },
+    {
+     "word": "de",
+     "start": 25.98,
+     "end": 26.08
+    },
+    {
+     "word": "onde",
+     "start": 26.08,
+     "end": 26.2
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 26.24,
+   "end": 28.41,
+   "text": "que foi criada essa teoria, velho",
+   "words": [
+    {
+     "word": "que",
+     "start": 26.24,
+     "end": 26.46
+    },
+    {
+     "word": "foi",
+     "start": 26.46,
+     "end": 26.74
+    },
+    {
+     "word": "criada",
+     "start": 26.74,
+     "end": 27.1
+    },
+    {
+     "word": "essa",
+     "start": 27.1,
+     "end": 27.26
+    },
+    {
+     "word": "teoria,",
+     "start": 27.26,
+     "end": 27.66
+    },
+    {
+     "word": "velho",
+     "start": 27.82,
+     "end": 28.41
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 28.53,
+   "end": 29.13,
+   "text": "Literalmente todo mundo",
+   "words": [
+    {
+     "word": "Literalmente",
+     "start": 28.53,
+     "end": 28.89
+    },
+    {
+     "word": "todo",
+     "start": 28.89,
+     "end": 29.07
+    },
+    {
+     "word": "mundo",
+     "start": 29.07,
+     "end": 29.13
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 29.17,
+   "end": 30.25,
+   "text": "joga GTA igual eu",
+   "words": [
+    {
+     "word": "joga",
+     "start": 29.17,
+     "end": 29.41
+    },
+    {
+     "word": "GTA",
+     "start": 29.41,
+     "end": 29.65
+    },
+    {
+     "word": "igual",
+     "start": 29.65,
+     "end": 29.87
+    },
+    {
+     "word": "eu",
+     "start": 29.87,
+     "end": 30.25
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 30.29,
+   "end": 32.72,
+   "text": "Você só acelera e vida que segue",
+   "words": [
+    {
+     "word": "Você",
+     "start": 30.29,
+     "end": 30.45
+    },
+    {
+     "word": "só",
+     "start": 30.45,
+     "end": 30.57
+    },
+    {
+     "word": "acelera",
+     "start": 30.57,
+     "end": 31.11
+    },
+    {
+     "word": "e",
+     "start": 31.11,
+     "end": 31.63
+    },
+    {
+     "word": "vida",
+     "start": 31.94,
+     "end": 32.14
+    },
+    {
+     "word": "que",
+     "start": 32.14,
+     "end": 32.3
+    },
+    {
+     "word": "segue",
+     "start": 32.3,
+     "end": 32.72
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 32.76,
+   "end": 33.41,
+   "text": "tá ligado",
+   "words": [
+    {
+     "word": "tá",
+     "start": 32.76,
+     "end": 32.82
+    },
+    {
+     "word": "ligado",
+     "start": 32.82,
+     "end": 33.41
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 41.92,
+   "end": 43.3,
+   "text": "O carro não faz curva, velho",
+   "words": [
+    {
+     "word": "O",
+     "start": 41.92,
+     "end": 42.02
+    },
+    {
+     "word": "carro",
+     "start": 42.02,
+     "end": 42.08
+    },
+    {
+     "word": "não",
+     "start": 42.08,
+     "end": 42.24
+    },
+    {
+     "word": "faz",
+     "start": 42.24,
+     "end": 42.46
+    },
+    {
+     "word": "curva,",
+     "start": 42.46,
+     "end": 42.82
+    },
+    {
+     "word": "velho",
+     "start": 42.94,
+     "end": 43.3
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 43.34,
+   "end": 43.94,
+   "text": "literalmente",
+   "words": [
+    {
+     "word": "literalmente",
+     "start": 43.34,
+     "end": 43.94
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 45.13,
+   "end": 46.23,
+   "text": "Derrapa por qualquer merda",
+   "words": [
+    {
+     "word": "Derrapa",
+     "start": 45.13,
+     "end": 45.53
+    },
+    {
+     "word": "por",
+     "start": 45.53,
+     "end": 45.69
+    },
+    {
+     "word": "qualquer",
+     "start": 45.69,
+     "end": 45.97
+    },
+    {
+     "word": "merda",
+     "start": 45.97,
+     "end": 46.23
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 46.27,
+   "end": 47.22,
+   "text": "essa porra, velho",
+   "words": [
+    {
+     "word": "essa",
+     "start": 46.27,
+     "end": 46.47
+    },
+    {
+     "word": "porra,",
+     "start": 46.47,
+     "end": 46.79
+    },
+    {
+     "word": "velho",
+     "start": 46.79,
+     "end": 47.22
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}

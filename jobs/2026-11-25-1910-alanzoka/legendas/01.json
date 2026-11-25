@@ -1,0 +1,398 @@
+{
+ "segments": [
+  {
+   "start": 1.13,
+   "end": 1.73,
+   "text": "Ué?",
+   "words": [
+    {
+     "word": "Ué?",
+     "start": 1.13,
+     "end": 1.73
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 5.87,
+   "end": 8.19,
+   "text": "Ué? Que isso, cara?",
+   "words": [
+    {
+     "word": "Ué?",
+     "start": 5.87,
+     "end": 6.35
+    },
+    {
+     "word": "Que",
+     "start": 6.92,
+     "end": 7.16
+    },
+    {
+     "word": "isso,",
+     "start": 7.16,
+     "end": 7.36
+    },
+    {
+     "word": "cara?",
+     "start": 7.89,
+     "end": 8.19
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 14.19,
+   "end": 15.52,
+   "text": "Que que é isso?",
+   "words": [
+    {
+     "word": "Que",
+     "start": 14.19,
+     "end": 14.57
+    },
+    {
+     "word": "que",
+     "start": 14.57,
+     "end": 14.75
+    },
+    {
+     "word": "é",
+     "start": 14.75,
+     "end": 14.93
+    },
+    {
+     "word": "isso?",
+     "start": 14.93,
+     "end": 15.52
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 15.74,
+   "end": 17.87,
+   "text": "Eu fui atropelado por um caminhão",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 15.74,
+     "end": 15.98
+    },
+    {
+     "word": "fui",
+     "start": 15.98,
+     "end": 16.12
+    },
+    {
+     "word": "atropelado",
+     "start": 16.12,
+     "end": 16.58
+    },
+    {
+     "word": "por",
+     "start": 16.58,
+     "end": 16.7
+    },
+    {
+     "word": "um",
+     "start": 16.7,
+     "end": 16.82
+    },
+    {
+     "word": "caminhão",
+     "start": 16.82,
+     "end": 17.87
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 18.32,
+   "end": 20.41,
+   "text": "Eu caí do carro como, mano?",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 18.32,
+     "end": 18.64
+    },
+    {
+     "word": "caí",
+     "start": 18.64,
+     "end": 19.0
+    },
+    {
+     "word": "do",
+     "start": 19.0,
+     "end": 19.08
+    },
+    {
+     "word": "carro",
+     "start": 19.08,
+     "end": 19.46
+    },
+    {
+     "word": "como,",
+     "start": 19.58,
+     "end": 19.92
+    },
+    {
+     "word": "mano?",
+     "start": 20.06,
+     "end": 20.41
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 20.56,
+   "end": 23.05,
+   "text": "Não faz nem sentido, cara",
+   "words": [
+    {
+     "word": "Não",
+     "start": 20.56,
+     "end": 20.76
+    },
+    {
+     "word": "faz",
+     "start": 20.76,
+     "end": 20.98
+    },
+    {
+     "word": "nem",
+     "start": 20.98,
+     "end": 21.22
+    },
+    {
+     "word": "sentido,",
+     "start": 21.22,
+     "end": 21.98
+    },
+    {
+     "word": "cara",
+     "start": 22.52,
+     "end": 23.05
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 26.18,
+   "end": 27.97,
+   "text": "Mano, na moral, cara",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 26.18,
+     "end": 26.66
+    },
+    {
+     "word": "na",
+     "start": 26.66,
+     "end": 26.76
+    },
+    {
+     "word": "moral,",
+     "start": 26.76,
+     "end": 27.1
+    },
+    {
+     "word": "cara",
+     "start": 27.46,
+     "end": 27.97
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 29.63,
+   "end": 31.18,
+   "text": "Bota o cinto, Jason",
+   "words": [
+    {
+     "word": "Bota",
+     "start": 29.63,
+     "end": 29.95
+    },
+    {
+     "word": "o",
+     "start": 29.95,
+     "end": 30.17
+    },
+    {
+     "word": "cinto,",
+     "start": 30.17,
+     "end": 30.53
+    },
+    {
+     "word": "Jason",
+     "start": 30.61,
+     "end": 31.18
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 33.89,
+   "end": 34.93,
+   "text": "Mano, que horrível",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 33.89,
+     "end": 34.33
+    },
+    {
+     "word": "que",
+     "start": 34.37,
+     "end": 34.42
+    },
+    {
+     "word": "horrível",
+     "start": 34.42,
+     "end": 34.93
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 34.97,
+   "end": 35.63,
+   "text": "o cara caiu do carro",
+   "words": [
+    {
+     "word": "o",
+     "start": 34.97,
+     "end": 35.03
+    },
+    {
+     "word": "cara",
+     "start": 35.03,
+     "end": 35.08
+    },
+    {
+     "word": "caiu",
+     "start": 35.08,
+     "end": 35.37
+    },
+    {
+     "word": "do",
+     "start": 35.37,
+     "end": 35.45
+    },
+    {
+     "word": "carro",
+     "start": 35.45,
+     "end": 35.63
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 35.67,
+   "end": 37.12,
+   "text": "e foi atropelado por um caminhão",
+   "words": [
+    {
+     "word": "e",
+     "start": 35.67,
+     "end": 35.75
+    },
+    {
+     "word": "foi",
+     "start": 35.75,
+     "end": 35.81
+    },
+    {
+     "word": "atropelado",
+     "start": 35.81,
+     "end": 36.19
+    },
+    {
+     "word": "por",
+     "start": 36.19,
+     "end": 36.27
+    },
+    {
+     "word": "um",
+     "start": 36.27,
+     "end": 36.35
+    },
+    {
+     "word": "caminhão",
+     "start": 36.35,
+     "end": 37.12
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 41.42,
+   "end": 42.26,
+   "text": "Ainda bem que eu tinha gastado",
+   "words": [
+    {
+     "word": "Ainda",
+     "start": 41.42,
+     "end": 41.52
+    },
+    {
+     "word": "bem",
+     "start": 41.52,
+     "end": 41.64
+    },
+    {
+     "word": "que",
+     "start": 41.64,
+     "end": 41.74
+    },
+    {
+     "word": "eu",
+     "start": 41.74,
+     "end": 41.82
+    },
+    {
+     "word": "tinha",
+     "start": 41.82,
+     "end": 41.94
+    },
+    {
+     "word": "gastado",
+     "start": 41.94,
+     "end": 42.26
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 42.3,
+   "end": 43.15,
+   "text": "todo o meu dinheiro",
+   "words": [
+    {
+     "word": "todo",
+     "start": 42.3,
+     "end": 42.44
+    },
+    {
+     "word": "o",
+     "start": 42.44,
+     "end": 42.54
+    },
+    {
+     "word": "meu",
+     "start": 42.54,
+     "end": 42.59
+    },
+    {
+     "word": "dinheiro",
+     "start": 42.59,
+     "end": 43.15
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
