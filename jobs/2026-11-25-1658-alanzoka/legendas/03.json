@@ -1,0 +1,510 @@
+{
+ "segments": [
+  {
+   "start": 4.97,
+   "end": 5.8,
+   "text": "Entra, bebê",
+   "words": [
+    {
+     "word": "Entra,",
+     "start": 4.97,
+     "end": 5.21
+    },
+    {
+     "word": "bebê",
+     "start": 5.25,
+     "end": 5.8
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 25.61,
+   "end": 27.01,
+   "text": "Rampa o carro da polícia e capota",
+   "words": [
+    {
+     "word": "Rampa",
+     "start": 25.61,
+     "end": 26.01
+    },
+    {
+     "word": "o",
+     "start": 26.01,
+     "end": 26.11
+    },
+    {
+     "word": "carro",
+     "start": 26.11,
+     "end": 26.23
+    },
+    {
+     "word": "da",
+     "start": 26.23,
+     "end": 26.35
+    },
+    {
+     "word": "polícia",
+     "start": 26.35,
+     "end": 26.55
+    },
+    {
+     "word": "e",
+     "start": 26.55,
+     "end": 26.65
+    },
+    {
+     "word": "capota",
+     "start": 26.65,
+     "end": 27.01
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 27.05,
+   "end": 28.5,
+   "text": "Faz sentido isso pra vocês?",
+   "words": [
+    {
+     "word": "Faz",
+     "start": 27.05,
+     "end": 27.25
+    },
+    {
+     "word": "sentido",
+     "start": 27.25,
+     "end": 27.55
+    },
+    {
+     "word": "isso",
+     "start": 27.55,
+     "end": 27.77
+    },
+    {
+     "word": "pra",
+     "start": 27.77,
+     "end": 27.93
+    },
+    {
+     "word": "vocês?",
+     "start": 27.93,
+     "end": 28.5
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 28.71,
+   "end": 29.58,
+   "text": "Fala pra mim",
+   "words": [
+    {
+     "word": "Fala",
+     "start": 28.71,
+     "end": 29.03
+    },
+    {
+     "word": "pra",
+     "start": 29.03,
+     "end": 29.15
+    },
+    {
+     "word": "mim",
+     "start": 29.15,
+     "end": 29.58
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 30.56,
+   "end": 32.1,
+   "text": "Cara, mas nem se eu quisesse",
+   "words": [
+    {
+     "word": "Cara,",
+     "start": 30.56,
+     "end": 31.1
+    },
+    {
+     "word": "mas",
+     "start": 31.2,
+     "end": 31.3
+    },
+    {
+     "word": "nem",
+     "start": 31.3,
+     "end": 31.44
+    },
+    {
+     "word": "se",
+     "start": 31.44,
+     "end": 31.58
+    },
+    {
+     "word": "eu",
+     "start": 31.58,
+     "end": 31.64
+    },
+    {
+     "word": "quisesse",
+     "start": 31.64,
+     "end": 32.1
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 32.14,
+   "end": 33.71,
+   "text": "fazer isso é possível, mano",
+   "words": [
+    {
+     "word": "fazer",
+     "start": 32.14,
+     "end": 32.38
+    },
+    {
+     "word": "isso",
+     "start": 32.38,
+     "end": 32.64
+    },
+    {
+     "word": "é",
+     "start": 32.64,
+     "end": 32.78
+    },
+    {
+     "word": "possível,",
+     "start": 32.78,
+     "end": 33.22
+    },
+    {
+     "word": "mano",
+     "start": 33.26,
+     "end": 33.71
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 34.83,
+   "end": 35.91,
+   "text": "Literalmente eu tentei bater",
+   "words": [
+    {
+     "word": "Literalmente",
+     "start": 34.83,
+     "end": 35.23
+    },
+    {
+     "word": "eu",
+     "start": 35.23,
+     "end": 35.37
+    },
+    {
+     "word": "tentei",
+     "start": 35.37,
+     "end": 35.67
+    },
+    {
+     "word": "bater",
+     "start": 35.67,
+     "end": 35.91
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 35.95,
+   "end": 36.55,
+   "text": "no carro da polícia",
+   "words": [
+    {
+     "word": "no",
+     "start": 35.95,
+     "end": 36.11
+    },
+    {
+     "word": "carro",
+     "start": 36.11,
+     "end": 36.25
+    },
+    {
+     "word": "da",
+     "start": 36.25,
+     "end": 36.35
+    },
+    {
+     "word": "polícia",
+     "start": 36.35,
+     "end": 36.55
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 36.59,
+   "end": 37.33,
+   "text": "pra ele sair da frente",
+   "words": [
+    {
+     "word": "pra",
+     "start": 36.59,
+     "end": 36.69
+    },
+    {
+     "word": "ele",
+     "start": 36.69,
+     "end": 36.75
+    },
+    {
+     "word": "sair",
+     "start": 36.75,
+     "end": 36.91
+    },
+    {
+     "word": "da",
+     "start": 36.91,
+     "end": 37.01
+    },
+    {
+     "word": "frente",
+     "start": 37.01,
+     "end": 37.33
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 37.37,
+   "end": 39.35,
+   "text": "Mas meu carro rampou",
+   "words": [
+    {
+     "word": "Mas",
+     "start": 37.37,
+     "end": 38.01
+    },
+    {
+     "word": "meu",
+     "start": 38.39,
+     "end": 38.55
+    },
+    {
+     "word": "carro",
+     "start": 38.55,
+     "end": 38.79
+    },
+    {
+     "word": "rampou",
+     "start": 38.79,
+     "end": 39.35
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 39.39,
+   "end": 41.06,
+   "text": "o carro da polícia e",
+   "words": [
+    {
+     "word": "o",
+     "start": 39.39,
+     "end": 39.65
+    },
+    {
+     "word": "carro",
+     "start": 39.65,
+     "end": 39.81
+    },
+    {
+     "word": "da",
+     "start": 39.81,
+     "end": 39.93
+    },
+    {
+     "word": "polícia",
+     "start": 39.93,
+     "end": 40.35
+    },
+    {
+     "word": "e",
+     "start": 40.35,
+     "end": 41.06
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 43.69,
+   "end": 45.14,
+   "text": "E é a vida",
+   "words": [
+    {
+     "word": "E",
+     "start": 43.69,
+     "end": 44.09
+    },
+    {
+     "word": "é",
+     "start": 44.09,
+     "end": 44.49
+    },
+    {
+     "word": "a",
+     "start": 44.49,
+     "end": 44.69
+    },
+    {
+     "word": "vida",
+     "start": 44.69,
+     "end": 45.14
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 55.98,
+   "end": 57.82,
+   "text": "Vou só desviar",
+   "words": [
+    {
+     "word": "Vou",
+     "start": 55.98,
+     "end": 56.38
+    },
+    {
+     "word": "só",
+     "start": 57.2,
+     "end": 57.4
+    },
+    {
+     "word": "desviar",
+     "start": 57.4,
+     "end": 57.82
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 57.86,
+   "end": 58.86,
+   "text": "dos caras da polícia, velho",
+   "words": [
+    {
+     "word": "dos",
+     "start": 57.86,
+     "end": 57.98
+    },
+    {
+     "word": "caras",
+     "start": 57.98,
+     "end": 58.2
+    },
+    {
+     "word": "da",
+     "start": 58.2,
+     "end": 58.25
+    },
+    {
+     "word": "polícia,",
+     "start": 58.25,
+     "end": 58.68
+    },
+    {
+     "word": "velho",
+     "start": 58.7,
+     "end": 58.86
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 58.9,
+   "end": 59.46,
+   "text": "não vou nem bater",
+   "words": [
+    {
+     "word": "não",
+     "start": 58.9,
+     "end": 58.98
+    },
+    {
+     "word": "vou",
+     "start": 58.98,
+     "end": 59.08
+    },
+    {
+     "word": "nem",
+     "start": 59.08,
+     "end": 59.24
+    },
+    {
+     "word": "bater",
+     "start": 59.24,
+     "end": 59.46
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 59.5,
+   "end": 60.18,
+   "text": "É, piorou",
+   "words": [
+    {
+     "word": "É,",
+     "start": 59.5,
+     "end": 59.68
+    },
+    {
+     "word": "piorou",
+     "start": 59.86,
+     "end": 60.18
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 60.22,
+   "end": 61.43,
+   "text": "agora eu sou obrigado a bater",
+   "words": [
+    {
+     "word": "agora",
+     "start": 60.22,
+     "end": 60.38
+    },
+    {
+     "word": "eu",
+     "start": 60.38,
+     "end": 60.48
+    },
+    {
+     "word": "sou",
+     "start": 60.48,
+     "end": 60.6
+    },
+    {
+     "word": "obrigado",
+     "start": 60.6,
+     "end": 60.9
+    },
+    {
+     "word": "a",
+     "start": 60.9,
+     "end": 61.08
+    },
+    {
+     "word": "bater",
+     "start": 61.08,
+     "end": 61.43
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
