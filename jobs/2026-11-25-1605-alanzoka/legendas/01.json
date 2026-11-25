@@ -1,0 +1,468 @@
+{
+ "segments": [
+  {
+   "start": 1.38,
+   "end": 2.11,
+   "text": "— pô⁠",
+   "words": [
+    {
+     "word": "— pô⁠",
+     "start": 1.38,
+     "end": 2.11
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 3.92,
+   "end": 4.59,
+   "text": "motorista",
+   "words": [
+    {
+     "word": "motorista",
+     "start": 3.92,
+     "end": 4.59
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 4.8,
+   "end": 5.67,
+   "text": "pode correr",
+   "words": [
+    {
+     "word": "pode",
+     "start": 4.8,
+     "end": 5.02
+    },
+    {
+     "word": "correr",
+     "start": 5.02,
+     "end": 5.67
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 8.08,
+   "end": 8.95,
+   "text": "muito longe",
+   "words": [
+    {
+     "word": "muito",
+     "start": 8.08,
+     "end": 8.4
+    },
+    {
+     "word": "longe",
+     "start": 8.4,
+     "end": 8.95
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 14.96,
+   "end": 16.23,
+   "text": "pode parar aqui, pô",
+   "words": [
+    {
+     "word": "pode",
+     "start": 14.96,
+     "end": 15.16
+    },
+    {
+     "word": "parar",
+     "start": 15.16,
+     "end": 15.4
+    },
+    {
+     "word": "aqui,",
+     "start": 15.4,
+     "end": 15.62
+    },
+    {
+     "word": "pô",
+     "start": 15.78,
+     "end": 16.23
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 16.43,
+   "end": 17.57,
+   "text": "é meu bebezinha",
+   "words": [
+    {
+     "word": "é",
+     "start": 16.43,
+     "end": 16.69
+    },
+    {
+     "word": "meu",
+     "start": 16.69,
+     "end": 16.85
+    },
+    {
+     "word": "bebezinha",
+     "start": 16.85,
+     "end": 17.57
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 17.61,
+   "end": 18.21,
+   "text": "mano",
+   "words": [
+    {
+     "word": "mano",
+     "start": 17.61,
+     "end": 18.21
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 22.85,
+   "end": 25.82,
+   "text": "— ei⁠",
+   "words": [
+    {
+     "word": "— ei⁠",
+     "start": 22.85,
+     "end": 25.82
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 30.89,
+   "end": 31.49,
+   "text": "Mami?",
+   "words": [
+    {
+     "word": "Mami?",
+     "start": 30.89,
+     "end": 31.49
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 33.97,
+   "end": 34.76,
+   "text": "Mami?",
+   "words": [
+    {
+     "word": "Mami?",
+     "start": 33.97,
+     "end": 34.76
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 36.99,
+   "end": 37.92,
+   "text": "banca isso aqui",
+   "words": [
+    {
+     "word": "banca",
+     "start": 36.99,
+     "end": 37.23
+    },
+    {
+     "word": "isso",
+     "start": 37.23,
+     "end": 37.43
+    },
+    {
+     "word": "aqui",
+     "start": 37.43,
+     "end": 37.92
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 39.1,
+   "end": 41.29,
+   "text": "— 45⁠ mil,⁠ chat⁠",
+   "words": [
+    {
+     "word": "— 45⁠",
+     "start": 39.1,
+     "end": 39.92
+    },
+    {
+     "word": "mil,⁠",
+     "start": 39.92,
+     "end": 40.42
+    },
+    {
+     "word": "chat⁠",
+     "start": 40.72,
+     "end": 41.29
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 42.34,
+   "end": 43.3,
+   "text": "que⁠ vontade,⁠ hein⁠",
+   "words": [
+    {
+     "word": "que⁠",
+     "start": 42.34,
+     "end": 42.52
+    },
+    {
+     "word": "vontade,⁠",
+     "start": 42.52,
+     "end": 42.9
+    },
+    {
+     "word": "hein⁠",
+     "start": 43.22,
+     "end": 43.3
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 43.34,
+   "end": 44.59,
+   "text": "ai,⁠ se⁠ eu⁠ pudesse⁠",
+   "words": [
+    {
+     "word": "ai,⁠",
+     "start": 43.34,
+     "end": 43.52
+    },
+    {
+     "word": "se⁠",
+     "start": 43.54,
+     "end": 43.7
+    },
+    {
+     "word": "eu⁠",
+     "start": 43.7,
+     "end": 43.82
+    },
+    {
+     "word": "pudesse⁠",
+     "start": 43.82,
+     "end": 44.59
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 45.4,
+   "end": 46.71,
+   "text": "e⁠ se⁠ eu⁠ quisesse⁠",
+   "words": [
+    {
+     "word": "e⁠",
+     "start": 45.4,
+     "end": 45.58
+    },
+    {
+     "word": "se⁠",
+     "start": 45.58,
+     "end": 45.66
+    },
+    {
+     "word": "eu⁠",
+     "start": 45.66,
+     "end": 45.74
+    },
+    {
+     "word": "quisesse⁠",
+     "start": 45.74,
+     "end": 46.71
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 51.15,
+   "end": 51.76,
+   "text": "eu quero",
+   "words": [
+    {
+     "word": "eu",
+     "start": 51.15,
+     "end": 51.23
+    },
+    {
+     "word": "quero",
+     "start": 51.23,
+     "end": 51.76
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 52.0,
+   "end": 52.73,
+   "text": "eu posso",
+   "words": [
+    {
+     "word": "eu",
+     "start": 52.0,
+     "end": 52.12
+    },
+    {
+     "word": "posso",
+     "start": 52.12,
+     "end": 52.73
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 65.26,
+   "end": 66.33,
+   "text": "— esse⁠ bebê⁠ ficou⁠",
+   "words": [
+    {
+     "word": "— esse⁠",
+     "start": 65.26,
+     "end": 65.38
+    },
+    {
+     "word": "bebê⁠",
+     "start": 65.38,
+     "end": 65.8
+    },
+    {
+     "word": "ficou⁠",
+     "start": 66.15,
+     "end": 66.33
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 66.37,
+   "end": 66.93,
+   "text": "batendo⁠ o⁠ carro⁠",
+   "words": [
+    {
+     "word": "batendo⁠",
+     "start": 66.37,
+     "end": 66.71
+    },
+    {
+     "word": "o⁠",
+     "start": 66.71,
+     "end": 66.83
+    },
+    {
+     "word": "carro⁠",
+     "start": 66.83,
+     "end": 66.93
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 66.97,
+   "end": 68.75,
+   "text": "tudo,⁠ mano,⁠ olha,⁠ tá⁠ pior⁠ que⁠ eu⁠",
+   "words": [
+    {
+     "word": "tudo,⁠",
+     "start": 66.97,
+     "end": 67.23
+    },
+    {
+     "word": "mano,⁠",
+     "start": 67.43,
+     "end": 67.57
+    },
+    {
+     "word": "olha,⁠",
+     "start": 67.73,
+     "end": 67.89
+    },
+    {
+     "word": "tá⁠",
+     "start": 68.25,
+     "end": 68.35
+    },
+    {
+     "word": "pior⁠",
+     "start": 68.35,
+     "end": 68.55
+    },
+    {
+     "word": "que⁠",
+     "start": 68.55,
+     "end": 68.69
+    },
+    {
+     "word": "eu⁠",
+     "start": 68.69,
+     "end": 68.75
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 68.79,
+   "end": 69.6,
+   "text": "dirigindo⁠",
+   "words": [
+    {
+     "word": "dirigindo⁠",
+     "start": 68.79,
+     "end": 69.6
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 83.15,
+   "end": 83.83,
+   "text": "Troca⁠ de⁠ roupa⁠",
+   "words": [
+    {
+     "word": "Troca⁠",
+     "start": 83.15,
+     "end": 83.41
+    },
+    {
+     "word": "de⁠",
+     "start": 83.41,
+     "end": 83.51
+    },
+    {
+     "word": "roupa⁠",
+     "start": 83.51,
+     "end": 83.83
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 83.87,
+   "end": 84.47,
+   "text": "mano⁠",
+   "words": [
+    {
+     "word": "mano⁠",
+     "start": 83.87,
+     "end": 84.47
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}

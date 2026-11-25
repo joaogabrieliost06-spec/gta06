@@ -1,0 +1,71 @@
+{
+ "segments": [
+  {
+   "start": 13.22,
+   "end": 14.68,
+   "text": "— Calma!⁠",
+   "words": [
+    {
+     "word": "— Calma!⁠",
+     "start": 13.22,
+     "end": 14.68
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 14.72,
+   "end": 16.04,
+   "text": "— nem⁠",
+   "words": [
+    {
+     "word": "— nem⁠",
+     "start": 14.72,
+     "end": 16.04
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 16.08,
+   "end": 16.69,
+   "text": "— bati!⁠",
+   "words": [
+    {
+     "word": "— bati!⁠",
+     "start": 16.08,
+     "end": 16.69
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 21.18,
+   "end": 25.1,
+   "text": "Eu bati uma vez!",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 21.18,
+     "end": 22.58
+    },
+    {
+     "word": "bati",
+     "start": 22.67,
+     "end": 24.07
+    },
+    {
+     "word": "uma",
+     "start": 24.07,
+     "end": 24.41
+    },
+    {
+     "word": "vez!",
+     "start": 24.41,
+     "end": 25.1
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
