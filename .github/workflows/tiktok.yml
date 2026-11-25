@@ -1,0 +1,62 @@
+name: 7 - TikTok (postar cortes)
+
+# Posta os cortes já entregues no TikTok pela API oficial (sem senha, só o token OAuth).
+# Roda de hora em hora, mas só envia 1 corte se passou TIKTOK_INTERVALO_H (padrão 3 h)
+# desde o último e se não passou de TIKTOK_POR_DIA (padrão 4) em 24 h. Live mais nova primeiro.
+# Primeira vez: acao=conectar e cole em "endereco" o endereço que aparece depois de "Autorizar".
+# Para pausar: crie a variável TIKTOK_PAUSADO=1 (Settings > Secrets and variables > Actions > Variables).
+on:
+  schedule:
+    - cron: "37 * * * *"
+  workflow_dispatch:
+    inputs:
+      acao:
+        description: "postar | conectar | fila"
+        required: true
+        default: "postar"
+      endereco:
+        description: "Só para conectar: o endereço inteiro que apareceu depois de Autorizar (tem ?code=...)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tiktok
+  cancel-in-progress: false
+
+jobs:
+  tiktok:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    if: ${{ vars.TIKTOK_PAUSADO != '1' || github.event_name == 'workflow_dispatch' }}
+    env:
+      GH_TOKEN: ${{ github.token }}
+      TIKTOK_CLIENT_KEY: ${{ secrets.TIKTOK_CLIENT_KEY }}
+      TIKTOK_CLIENT_SECRET: ${{ secrets.TIKTOK_CLIENT_SECRET }}
+      TIKTOK_MODO: ${{ vars.TIKTOK_MODO }}
+      TIKTOK_POR_DIA: ${{ vars.TIKTOK_POR_DIA }}
+      TIKTOK_INTERVALO_H: ${{ vars.TIKTOK_INTERVALO_H }}
+      TIKTOK_PRIVACIDADE: ${{ vars.TIKTOK_PRIVACIDADE }}
+      ACAO: ${{ inputs.acao || 'postar' }}
+      TIKTOK_ENDERECO: ${{ inputs.endereco }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Conferir segredos
+        run: |
+          if [ -z "$TIKTOK_CLIENT_KEY" ] || [ -z "$TIKTOK_CLIENT_SECRET" ]; then
+            echo "Faltam os segredos TIKTOK_CLIENT_KEY / TIKTOK_CLIENT_SECRET: nada a fazer."
+            echo "PULAR=1" >> "$GITHUB_ENV"
+          elif [ "$ACAO" = "postar" ] && [ ! -f tiktok/token.enc ]; then
+            echo "TikTok ainda não conectado (rode com acao=conectar): nada a fazer."
+            echo "PULAR=1" >> "$GITHUB_ENV"
+          fi
+
+      - name: TikTok
+        if: env.PULAR != '1'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          python3 scripts/tiktok.py "$ACAO"

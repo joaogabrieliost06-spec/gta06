@@ -10,3 +10,4 @@ Siga `SKILL.md` (fluxo completo) e `LEGENDAR.md` (legenda). O robô já está mo
 - **Todo corte tem no máximo 90 segundos** (regra do usuário).
 - Live brasileira com jogo em inglês: o idioma automático já prefere português; se a transcrição sair em inglês, refaça com `idioma=pt`.
 - Fale com o usuário em português simples.
+- **TikTok:** `.github/workflows/tiktok.yml` + `scripts/tiktok.py` postam sozinhos os cortes com `entregue` (API oficial, token OAuth criptografado em `tiktok/token.enc`, nunca senha). Limite padrão 4 por 24 h, 3 h entre envios, live mais nova primeiro. Modo `rascunho` (padrão) manda pra caixa de entrada do app e a legenda fica em `tiktok/legendas.md`; `vars.TIKTOK_MODO=direto` depois da auditoria do TikTok. Não mexa em `tiktok/postados.json` à mão.
