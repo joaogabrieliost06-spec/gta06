@@ -1,0 +1,214 @@
+{
+ "segments": [
+  {
+   "start": 4.44,
+   "end": 5.13,
+   "text": "Olê",
+   "words": [
+    {
+     "word": "Olê",
+     "start": 4.44,
+     "end": 5.13
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 5.51,
+   "end": 7.3,
+   "text": "Opa, vem, vem, vem",
+   "words": [
+    {
+     "word": "Opa,",
+     "start": 5.51,
+     "end": 5.95
+    },
+    {
+     "word": "vem,",
+     "start": 6.01,
+     "end": 6.15
+    },
+    {
+     "word": "vem,",
+     "start": 6.31,
+     "end": 6.63
+    },
+    {
+     "word": "vem",
+     "start": 6.71,
+     "end": 7.3
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 7.55,
+   "end": 9.4,
+   "text": "Olê, vem",
+   "words": [
+    {
+     "word": "Olê,",
+     "start": 7.55,
+     "end": 8.67
+    },
+    {
+     "word": "vem",
+     "start": 8.67,
+     "end": 9.4
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 10.5,
+   "end": 11.67,
+   "text": "Opa",
+   "words": [
+    {
+     "word": "Opa",
+     "start": 10.5,
+     "end": 11.67
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 13.19,
+   "end": 13.79,
+   "text": "Toma",
+   "words": [
+    {
+     "word": "Toma",
+     "start": 13.19,
+     "end": 13.79
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 15.79,
+   "end": 18.68,
+   "text": "Ele vai, Cristiano Ronaldo",
+   "words": [
+    {
+     "word": "Ele",
+     "start": 15.79,
+     "end": 15.95
+    },
+    {
+     "word": "vai,",
+     "start": 15.95,
+     "end": 16.29
+    },
+    {
+     "word": "Cristiano",
+     "start": 17.07,
+     "end": 17.61
+    },
+    {
+     "word": "Ronaldo",
+     "start": 17.61,
+     "end": 18.68
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 27.43,
+   "end": 28.9,
+   "text": "Dá pra chutar forte essa porra, não",
+   "words": [
+    {
+     "word": "Dá",
+     "start": 27.43,
+     "end": 27.49
+    },
+    {
+     "word": "pra",
+     "start": 27.49,
+     "end": 27.55
+    },
+    {
+     "word": "chutar",
+     "start": 27.55,
+     "end": 27.77
+    },
+    {
+     "word": "forte",
+     "start": 27.77,
+     "end": 28.17
+    },
+    {
+     "word": "essa",
+     "start": 28.17,
+     "end": 28.31
+    },
+    {
+     "word": "porra,",
+     "start": 28.31,
+     "end": 28.55
+    },
+    {
+     "word": "não",
+     "start": 28.55,
+     "end": 28.9
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 31.27,
+   "end": 32.56,
+   "text": "Olê",
+   "words": [
+    {
+     "word": "Olê",
+     "start": 31.27,
+     "end": 32.56
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 33.66,
+   "end": 34.69,
+   "text": "Olê",
+   "words": [
+    {
+     "word": "Olê",
+     "start": 33.66,
+     "end": 34.69
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 48.85,
+   "end": 50.22,
+   "text": "Foi mal, Lulu Santos",
+   "words": [
+    {
+     "word": "Foi",
+     "start": 48.85,
+     "end": 49.11
+    },
+    {
+     "word": "mal,",
+     "start": 49.11,
+     "end": 49.31
+    },
+    {
+     "word": "Lulu",
+     "start": 49.41,
+     "end": 49.47
+    },
+    {
+     "word": "Santos",
+     "start": 49.47,
+     "end": 50.22
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
