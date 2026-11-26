@@ -1,0 +1,353 @@
+{
+ "segments": [
+  {
+   "start": 2.37,
+   "end": 3.56,
+   "text": "Vai trocar de carro já",
+   "words": [
+    {
+     "word": "Vai",
+     "start": 2.37,
+     "end": 2.49
+    },
+    {
+     "word": "trocar",
+     "start": 2.49,
+     "end": 2.75
+    },
+    {
+     "word": "de",
+     "start": 2.75,
+     "end": 2.89
+    },
+    {
+     "word": "carro",
+     "start": 2.89,
+     "end": 3.13
+    },
+    {
+     "word": "já",
+     "start": 3.13,
+     "end": 3.56
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 5.87,
+   "end": 8.02,
+   "text": "caramba",
+   "words": [
+    {
+     "word": "caramba",
+     "start": 5.87,
+     "end": 8.02
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 10.03,
+   "end": 10.91,
+   "text": "os caras tão na maldade",
+   "words": [
+    {
+     "word": "os",
+     "start": 10.03,
+     "end": 10.13
+    },
+    {
+     "word": "caras",
+     "start": 10.13,
+     "end": 10.33
+    },
+    {
+     "word": "tão",
+     "start": 10.33,
+     "end": 10.43
+    },
+    {
+     "word": "na",
+     "start": 10.43,
+     "end": 10.55
+    },
+    {
+     "word": "maldade",
+     "start": 10.55,
+     "end": 10.91
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 10.95,
+   "end": 11.71,
+   "text": "minha também, né",
+   "words": [
+    {
+     "word": "minha",
+     "start": 10.95,
+     "end": 11.21
+    },
+    {
+     "word": "também,",
+     "start": 11.21,
+     "end": 11.51
+    },
+    {
+     "word": "né",
+     "start": 11.65,
+     "end": 11.71
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 11.75,
+   "end": 12.98,
+   "text": "não tenho explicação, mano",
+   "words": [
+    {
+     "word": "não",
+     "start": 11.75,
+     "end": 11.79
+    },
+    {
+     "word": "tenho",
+     "start": 11.79,
+     "end": 11.89
+    },
+    {
+     "word": "explicação,",
+     "start": 11.89,
+     "end": 12.39
+    },
+    {
+     "word": "mano",
+     "start": 12.57,
+     "end": 12.98
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 27.58,
+   "end": 29.49,
+   "text": "4",
+   "words": [
+    {
+     "word": "4",
+     "start": 27.58,
+     "end": 29.49
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 31.95,
+   "end": 33.3,
+   "text": "mil reais, velho",
+   "words": [
+    {
+     "word": "mil",
+     "start": 31.95,
+     "end": 32.17
+    },
+    {
+     "word": "reais,",
+     "start": 32.17,
+     "end": 32.45
+    },
+    {
+     "word": "velho",
+     "start": 32.59,
+     "end": 33.3
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 37.74,
+   "end": 39.08,
+   "text": "irmão, eu bati o carro",
+   "words": [
+    {
+     "word": "irmão,",
+     "start": 37.74,
+     "end": 38.08
+    },
+    {
+     "word": "eu",
+     "start": 38.16,
+     "end": 38.3
+    },
+    {
+     "word": "bati",
+     "start": 38.3,
+     "end": 38.54
+    },
+    {
+     "word": "o",
+     "start": 38.54,
+     "end": 38.64
+    },
+    {
+     "word": "carro",
+     "start": 38.64,
+     "end": 39.08
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 39.12,
+   "end": 40.44,
+   "text": "ele ficou tenso pro lado",
+   "words": [
+    {
+     "word": "ele",
+     "start": 39.12,
+     "end": 39.18
+    },
+    {
+     "word": "ficou",
+     "start": 39.18,
+     "end": 39.4
+    },
+    {
+     "word": "tenso",
+     "start": 39.4,
+     "end": 39.88
+    },
+    {
+     "word": "pro",
+     "start": 39.88,
+     "end": 40.02
+    },
+    {
+     "word": "lado",
+     "start": 40.02,
+     "end": 40.44
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 40.48,
+   "end": 41.7,
+   "text": "daí ele bateu, mano",
+   "words": [
+    {
+     "word": "daí",
+     "start": 40.48,
+     "end": 40.56
+    },
+    {
+     "word": "ele",
+     "start": 40.56,
+     "end": 40.74
+    },
+    {
+     "word": "bateu,",
+     "start": 40.74,
+     "end": 41.42
+    },
+    {
+     "word": "mano",
+     "start": 41.52,
+     "end": 41.7
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 41.74,
+   "end": 42.62,
+   "text": "é aquele carro quebrado ali",
+   "words": [
+    {
+     "word": "é",
+     "start": 41.74,
+     "end": 41.76
+    },
+    {
+     "word": "aquele",
+     "start": 41.76,
+     "end": 41.92
+    },
+    {
+     "word": "carro",
+     "start": 41.92,
+     "end": 42.12
+    },
+    {
+     "word": "quebrado",
+     "start": 42.12,
+     "end": 42.48
+    },
+    {
+     "word": "ali",
+     "start": 42.48,
+     "end": 42.62
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 42.66,
+   "end": 43.93,
+   "text": "parece ser um carro raro, tá",
+   "words": [
+    {
+     "word": "parece",
+     "start": 42.66,
+     "end": 42.82
+    },
+    {
+     "word": "ser",
+     "start": 42.82,
+     "end": 42.92
+    },
+    {
+     "word": "um",
+     "start": 42.92,
+     "end": 42.97
+    },
+    {
+     "word": "carro",
+     "start": 42.97,
+     "end": 43.16
+    },
+    {
+     "word": "raro,",
+     "start": 43.16,
+     "end": 43.5
+    },
+    {
+     "word": "tá",
+     "start": 43.62,
+     "end": 43.93
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 47.36,
+   "end": 47.96,
+   "text": "aqui, ó",
+   "words": [
+    {
+     "word": "aqui,",
+     "start": 47.36,
+     "end": 47.6
+    },
+    {
+     "word": "ó",
+     "start": 47.64,
+     "end": 47.96
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
