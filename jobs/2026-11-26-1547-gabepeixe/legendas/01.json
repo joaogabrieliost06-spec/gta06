@@ -1,0 +1,483 @@
+{
+ "segments": [
+  {
+   "start": 3.75,
+   "end": 4.29,
+   "text": "Eu vou voltar",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 3.75,
+     "end": 3.97
+    },
+    {
+     "word": "vou",
+     "start": 3.97,
+     "end": 4.07
+    },
+    {
+     "word": "voltar",
+     "start": 4.07,
+     "end": 4.29
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 4.33,
+   "end": 5.46,
+   "text": "de Uber pra casa",
+   "words": [
+    {
+     "word": "de",
+     "start": 4.33,
+     "end": 4.51
+    },
+    {
+     "word": "Uber",
+     "start": 4.51,
+     "end": 4.71
+    },
+    {
+     "word": "pra",
+     "start": 4.71,
+     "end": 4.85
+    },
+    {
+     "word": "casa",
+     "start": 4.85,
+     "end": 5.46
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 9.95,
+   "end": 10.45,
+   "text": "Aí eu já chego",
+   "words": [
+    {
+     "word": "Aí",
+     "start": 9.95,
+     "end": 10.05
+    },
+    {
+     "word": "eu",
+     "start": 10.05,
+     "end": 10.13
+    },
+    {
+     "word": "já",
+     "start": 10.13,
+     "end": 10.23
+    },
+    {
+     "word": "chego",
+     "start": 10.23,
+     "end": 10.45
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 10.49,
+   "end": 11.74,
+   "text": "aqui e faço o bagulho",
+   "words": [
+    {
+     "word": "aqui",
+     "start": 10.49,
+     "end": 10.69
+    },
+    {
+     "word": "e",
+     "start": 10.69,
+     "end": 10.83
+    },
+    {
+     "word": "faço",
+     "start": 10.83,
+     "end": 11.03
+    },
+    {
+     "word": "o",
+     "start": 11.03,
+     "end": 11.17
+    },
+    {
+     "word": "bagulho",
+     "start": 11.17,
+     "end": 11.74
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 26.57,
+   "end": 27.72,
+   "text": "Uber não entra aqui não?",
+   "words": [
+    {
+     "word": "Uber",
+     "start": 26.57,
+     "end": 26.93
+    },
+    {
+     "word": "não",
+     "start": 26.93,
+     "end": 27.05
+    },
+    {
+     "word": "entra",
+     "start": 27.05,
+     "end": 27.21
+    },
+    {
+     "word": "aqui",
+     "start": 27.21,
+     "end": 27.33
+    },
+    {
+     "word": "não?",
+     "start": 27.33,
+     "end": 27.72
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 30.51,
+   "end": 31.0,
+   "text": "Será que a área",
+   "words": [
+    {
+     "word": "Será",
+     "start": 30.51,
+     "end": 30.79
+    },
+    {
+     "word": "que",
+     "start": 30.79,
+     "end": 30.89
+    },
+    {
+     "word": "a",
+     "start": 30.89,
+     "end": 30.95
+    },
+    {
+     "word": "área",
+     "start": 30.95,
+     "end": 31.0
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 31.03,
+   "end": 31.74,
+   "text": "é de risco?",
+   "words": [
+    {
+     "word": "é",
+     "start": 31.03,
+     "end": 31.15
+    },
+    {
+     "word": "de",
+     "start": 31.15,
+     "end": 31.2
+    },
+    {
+     "word": "risco?",
+     "start": 31.2,
+     "end": 31.74
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 48.56,
+   "end": 49.53,
+   "text": "Ah, mano",
+   "words": [
+    {
+     "word": "Ah,",
+     "start": 48.56,
+     "end": 48.92
+    },
+    {
+     "word": "mano",
+     "start": 48.92,
+     "end": 49.53
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 67.16,
+   "end": 67.78,
+   "text": "Mulher vai achar",
+   "words": [
+    {
+     "word": "Mulher",
+     "start": 67.16,
+     "end": 67.52
+    },
+    {
+     "word": "vai",
+     "start": 67.52,
+     "end": 67.64
+    },
+    {
+     "word": "achar",
+     "start": 67.64,
+     "end": 67.78
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 67.82,
+   "end": 68.74,
+   "text": "que é preconceito",
+   "words": [
+    {
+     "word": "que",
+     "start": 67.82,
+     "end": 67.94
+    },
+    {
+     "word": "é",
+     "start": 67.94,
+     "end": 68.0
+    },
+    {
+     "word": "preconceito",
+     "start": 68.0,
+     "end": 68.74
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 68.78,
+   "end": 69.76,
+   "text": "Eu não peguei o Uber",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 68.78,
+     "end": 69.14
+    },
+    {
+     "word": "não",
+     "start": 69.14,
+     "end": 69.24
+    },
+    {
+     "word": "peguei",
+     "start": 69.24,
+     "end": 69.56
+    },
+    {
+     "word": "o",
+     "start": 69.56,
+     "end": 69.61
+    },
+    {
+     "word": "Uber",
+     "start": 69.61,
+     "end": 69.76
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 69.8,
+   "end": 70.99,
+   "text": "por causa de que é mulher",
+   "words": [
+    {
+     "word": "por",
+     "start": 69.8,
+     "end": 69.96
+    },
+    {
+     "word": "causa",
+     "start": 69.96,
+     "end": 70.1
+    },
+    {
+     "word": "de",
+     "start": 70.1,
+     "end": 70.2
+    },
+    {
+     "word": "que",
+     "start": 70.2,
+     "end": 70.42
+    },
+    {
+     "word": "é",
+     "start": 70.42,
+     "end": 70.5
+    },
+    {
+     "word": "mulher",
+     "start": 70.5,
+     "end": 70.99
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 75.19,
+   "end": 76.0,
+   "text": "Olha lá, certeza",
+   "words": [
+    {
+     "word": "Olha",
+     "start": 75.19,
+     "end": 75.37
+    },
+    {
+     "word": "lá,",
+     "start": 75.37,
+     "end": 75.49
+    },
+    {
+     "word": "certeza",
+     "start": 75.55,
+     "end": 76.0
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 76.19,
+   "end": 77.07,
+   "text": "Ela vai falar: certeza",
+   "words": [
+    {
+     "word": "Ela",
+     "start": 76.19,
+     "end": 76.51
+    },
+    {
+     "word": "vai",
+     "start": 76.51,
+     "end": 76.61
+    },
+    {
+     "word": "falar:",
+     "start": 76.61,
+     "end": 76.79
+    },
+    {
+     "word": "certeza",
+     "start": 76.89,
+     "end": 77.07
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 77.11,
+   "end": 77.75,
+   "text": "que cancelou porque",
+   "words": [
+    {
+     "word": "que",
+     "start": 77.11,
+     "end": 77.31
+    },
+    {
+     "word": "cancelou",
+     "start": 77.31,
+     "end": 77.67
+    },
+    {
+     "word": "porque",
+     "start": 77.67,
+     "end": 77.75
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 77.79,
+   "end": 78.78,
+   "text": "é mulher dirigindo",
+   "words": [
+    {
+     "word": "é",
+     "start": 77.79,
+     "end": 77.87
+    },
+    {
+     "word": "mulher",
+     "start": 77.87,
+     "end": 78.01
+    },
+    {
+     "word": "dirigindo",
+     "start": 78.01,
+     "end": 78.78
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 80.3,
+   "end": 80.9,
+   "text": "Certeza que ela vai",
+   "words": [
+    {
+     "word": "Certeza",
+     "start": 80.3,
+     "end": 80.66
+    },
+    {
+     "word": "que",
+     "start": 80.66,
+     "end": 80.76
+    },
+    {
+     "word": "ela",
+     "start": 80.76,
+     "end": 80.82
+    },
+    {
+     "word": "vai",
+     "start": 80.82,
+     "end": 80.9
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 80.94,
+   "end": 81.75,
+   "text": "achar isso, mano",
+   "words": [
+    {
+     "word": "achar",
+     "start": 80.94,
+     "end": 81.18
+    },
+    {
+     "word": "isso,",
+     "start": 81.18,
+     "end": 81.38
+    },
+    {
+     "word": "mano",
+     "start": 81.42,
+     "end": 81.75
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
