@@ -1,0 +1,93 @@
+{
+ "segments": [
+  {
+   "start": 13.0,
+   "end": 14.62,
+   "text": "Que porra é essa, viado?",
+   "words": [
+    {
+     "word": "Que",
+     "start": 13.0,
+     "end": 13.36
+    },
+    {
+     "word": "porra",
+     "start": 13.36,
+     "end": 13.72
+    },
+    {
+     "word": "é",
+     "start": 13.72,
+     "end": 13.9
+    },
+    {
+     "word": "essa,",
+     "start": 13.9,
+     "end": 14.06
+    },
+    {
+     "word": "viado?",
+     "start": 14.26,
+     "end": 14.62
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 14.66,
+   "end": 15.45,
+   "text": "Olha a merda aí",
+   "words": [
+    {
+     "word": "Olha",
+     "start": 14.66,
+     "end": 14.72
+    },
+    {
+     "word": "a",
+     "start": 14.72,
+     "end": 14.86
+    },
+    {
+     "word": "merda",
+     "start": 14.86,
+     "end": 15.04
+    },
+    {
+     "word": "aí",
+     "start": 15.04,
+     "end": 15.45
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 63.54,
+   "end": 65.29,
+   "text": "Olha a merda aí",
+   "words": [
+    {
+     "word": "Olha",
+     "start": 63.54,
+     "end": 64.1
+    },
+    {
+     "word": "a",
+     "start": 64.1,
+     "end": 64.66
+    },
+    {
+     "word": "merda",
+     "start": 64.66,
+     "end": 64.94
+    },
+    {
+     "word": "aí",
+     "start": 64.94,
+     "end": 65.29
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
