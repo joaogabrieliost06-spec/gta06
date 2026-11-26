@@ -1,0 +1,824 @@
+{
+ "segments": [
+  {
+   "start": 2.28,
+   "end": 3.78,
+   "text": "Olha o que temos aqui",
+   "words": [
+    {
+     "word": "Olha",
+     "start": 2.28,
+     "end": 2.64
+    },
+    {
+     "word": "o",
+     "start": 2.66,
+     "end": 2.96
+    },
+    {
+     "word": "que",
+     "start": 2.96,
+     "end": 3.04
+    },
+    {
+     "word": "temos",
+     "start": 3.16,
+     "end": 3.4
+    },
+    {
+     "word": "aqui",
+     "start": 3.4,
+     "end": 3.78
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 3.82,
+   "end": 5.15,
+   "text": "um fuzil de assalto",
+   "words": [
+    {
+     "word": "um",
+     "start": 3.82,
+     "end": 3.92
+    },
+    {
+     "word": "fuzil",
+     "start": 3.92,
+     "end": 4.26
+    },
+    {
+     "word": "de",
+     "start": 4.26,
+     "end": 4.38
+    },
+    {
+     "word": "assalto",
+     "start": 4.38,
+     "end": 5.15
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 5.34,
+   "end": 6.64,
+   "text": "Mas eu já tenho um fuzil",
+   "words": [
+    {
+     "word": "Mas",
+     "start": 5.34,
+     "end": 5.66
+    },
+    {
+     "word": "eu",
+     "start": 5.66,
+     "end": 5.8
+    },
+    {
+     "word": "já",
+     "start": 5.8,
+     "end": 5.98
+    },
+    {
+     "word": "tenho",
+     "start": 5.98,
+     "end": 6.18
+    },
+    {
+     "word": "um",
+     "start": 6.18,
+     "end": 6.34
+    },
+    {
+     "word": "fuzil",
+     "start": 6.34,
+     "end": 6.64
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.68,
+   "end": 7.85,
+   "text": "não vou pegar esse fuzil",
+   "words": [
+    {
+     "word": "não",
+     "start": 6.68,
+     "end": 6.74
+    },
+    {
+     "word": "vou",
+     "start": 6.74,
+     "end": 6.84
+    },
+    {
+     "word": "pegar",
+     "start": 6.84,
+     "end": 7.06
+    },
+    {
+     "word": "esse",
+     "start": 7.06,
+     "end": 7.2
+    },
+    {
+     "word": "fuzil",
+     "start": 7.2,
+     "end": 7.85
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.98,
+   "end": 8.87,
+   "text": "Fuzil não é a",
+   "words": [
+    {
+     "word": "Fuzil",
+     "start": 7.98,
+     "end": 8.58
+    },
+    {
+     "word": "não",
+     "start": 8.58,
+     "end": 8.7
+    },
+    {
+     "word": "é",
+     "start": 8.7,
+     "end": 8.82
+    },
+    {
+     "word": "a",
+     "start": 8.82,
+     "end": 8.87
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 8.88,
+   "end": 9.85,
+   "text": "prioridade aqui",
+   "words": [
+    {
+     "word": "prioridade",
+     "start": 8.88,
+     "end": 9.32
+    },
+    {
+     "word": "aqui",
+     "start": 9.32,
+     "end": 9.85
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.55,
+   "end": 11.13,
+   "text": "Aqui tem alguém",
+   "words": [
+    {
+     "word": "Aqui",
+     "start": 10.55,
+     "end": 10.79
+    },
+    {
+     "word": "tem",
+     "start": 10.79,
+     "end": 10.95
+    },
+    {
+     "word": "alguém",
+     "start": 10.95,
+     "end": 11.13
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 11.17,
+   "end": 12.26,
+   "text": "vendo vídeo pornô?",
+   "words": [
+    {
+     "word": "vendo",
+     "start": 11.17,
+     "end": 11.39
+    },
+    {
+     "word": "vídeo",
+     "start": 11.39,
+     "end": 11.59
+    },
+    {
+     "word": "pornô?",
+     "start": 11.59,
+     "end": 12.26
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 13.39,
+   "end": 14.28,
+   "text": "Tá tudo de boa",
+   "words": [
+    {
+     "word": "Tá",
+     "start": 13.39,
+     "end": 13.49
+    },
+    {
+     "word": "tudo",
+     "start": 13.49,
+     "end": 13.71
+    },
+    {
+     "word": "de",
+     "start": 13.71,
+     "end": 13.85
+    },
+    {
+     "word": "boa",
+     "start": 13.85,
+     "end": 14.28
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 14.87,
+   "end": 16.38,
+   "text": "Mais dinheiro pra cá",
+   "words": [
+    {
+     "word": "Mais",
+     "start": 14.87,
+     "end": 15.25
+    },
+    {
+     "word": "dinheiro",
+     "start": 15.25,
+     "end": 15.53
+    },
+    {
+     "word": "pra",
+     "start": 15.53,
+     "end": 15.73
+    },
+    {
+     "word": "cá",
+     "start": 15.73,
+     "end": 16.38
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 19.32,
+   "end": 20.36,
+   "text": "Garrafa, banheiro",
+   "words": [
+    {
+     "word": "Garrafa,",
+     "start": 19.32,
+     "end": 19.72
+    },
+    {
+     "word": "banheiro",
+     "start": 19.86,
+     "end": 20.36
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 20.4,
+   "end": 21.0,
+   "text": "comida, você vê",
+   "words": [
+    {
+     "word": "comida,",
+     "start": 20.4,
+     "end": 20.72
+    },
+    {
+     "word": "você",
+     "start": 20.88,
+     "end": 20.94
+    },
+    {
+     "word": "vê",
+     "start": 20.94,
+     "end": 21.0
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 21.04,
+   "end": 22.35,
+   "text": "que tá tudo bem limpinho",
+   "words": [
+    {
+     "word": "que",
+     "start": 21.04,
+     "end": 21.12
+    },
+    {
+     "word": "tá",
+     "start": 21.12,
+     "end": 21.22
+    },
+    {
+     "word": "tudo",
+     "start": 21.22,
+     "end": 21.42
+    },
+    {
+     "word": "bem",
+     "start": 21.42,
+     "end": 21.58
+    },
+    {
+     "word": "limpinho",
+     "start": 21.58,
+     "end": 22.35
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 22.79,
+   "end": 23.35,
+   "text": "Eu acho que às vezes",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 22.79,
+     "end": 22.95
+    },
+    {
+     "word": "acho",
+     "start": 22.95,
+     "end": 23.03
+    },
+    {
+     "word": "que",
+     "start": 23.03,
+     "end": 23.13
+    },
+    {
+     "word": "às",
+     "start": 23.13,
+     "end": 23.27
+    },
+    {
+     "word": "vezes",
+     "start": 23.27,
+     "end": 23.35
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 23.39,
+   "end": 24.55,
+   "text": "é bom, rapaziada",
+   "words": [
+    {
+     "word": "é",
+     "start": 23.39,
+     "end": 23.51
+    },
+    {
+     "word": "bom,",
+     "start": 23.51,
+     "end": 23.69
+    },
+    {
+     "word": "rapaziada",
+     "start": 24.07,
+     "end": 24.55
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 24.59,
+   "end": 25.89,
+   "text": "a gente beber um pouco de água",
+   "words": [
+    {
+     "word": "a",
+     "start": 24.59,
+     "end": 24.65
+    },
+    {
+     "word": "gente",
+     "start": 24.65,
+     "end": 24.75
+    },
+    {
+     "word": "beber",
+     "start": 24.75,
+     "end": 25.03
+    },
+    {
+     "word": "um",
+     "start": 25.03,
+     "end": 25.19
+    },
+    {
+     "word": "pouco",
+     "start": 25.19,
+     "end": 25.39
+    },
+    {
+     "word": "de",
+     "start": 25.39,
+     "end": 25.53
+    },
+    {
+     "word": "água",
+     "start": 25.53,
+     "end": 25.89
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 25.93,
+   "end": 27.42,
+   "text": "mesmo que seja no roubo",
+   "words": [
+    {
+     "word": "mesmo",
+     "start": 25.93,
+     "end": 26.09
+    },
+    {
+     "word": "que",
+     "start": 26.09,
+     "end": 26.21
+    },
+    {
+     "word": "seja",
+     "start": 26.21,
+     "end": 26.41
+    },
+    {
+     "word": "no",
+     "start": 26.41,
+     "end": 26.79
+    },
+    {
+     "word": "roubo",
+     "start": 26.79,
+     "end": 27.42
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 27.88,
+   "end": 28.4,
+   "text": "Porque a água",
+   "words": [
+    {
+     "word": "Porque",
+     "start": 27.88,
+     "end": 28.12
+    },
+    {
+     "word": "a",
+     "start": 28.12,
+     "end": 28.26
+    },
+    {
+     "word": "água",
+     "start": 28.26,
+     "end": 28.4
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.44,
+   "end": 30.11,
+   "text": "hidrata a gente, tá ligado?",
+   "words": [
+    {
+     "word": "hidrata",
+     "start": 28.44,
+     "end": 28.94
+    },
+    {
+     "word": "a",
+     "start": 28.94,
+     "end": 29.14
+    },
+    {
+     "word": "gente,",
+     "start": 29.14,
+     "end": 29.32
+    },
+    {
+     "word": "tá",
+     "start": 29.5,
+     "end": 29.55
+    },
+    {
+     "word": "ligado?",
+     "start": 29.55,
+     "end": 30.11
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 31.97,
+   "end": 33.3,
+   "text": "A água hidrata a gente",
+   "words": [
+    {
+     "word": "A",
+     "start": 31.97,
+     "end": 32.09
+    },
+    {
+     "word": "água",
+     "start": 32.09,
+     "end": 32.23
+    },
+    {
+     "word": "hidrata",
+     "start": 32.23,
+     "end": 32.65
+    },
+    {
+     "word": "a",
+     "start": 32.65,
+     "end": 32.83
+    },
+    {
+     "word": "gente",
+     "start": 32.83,
+     "end": 33.3
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 39.84,
+   "end": 40.97,
+   "text": "Recarrega as muni",
+   "words": [
+    {
+     "word": "Recarrega",
+     "start": 39.84,
+     "end": 40.28
+    },
+    {
+     "word": "as",
+     "start": 40.28,
+     "end": 40.44
+    },
+    {
+     "word": "muni",
+     "start": 40.44,
+     "end": 40.97
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 41.06,
+   "end": 41.71,
+   "text": "Você acredita que eu",
+   "words": [
+    {
+     "word": "Você",
+     "start": 41.06,
+     "end": 41.26
+    },
+    {
+     "word": "acredita",
+     "start": 41.26,
+     "end": 41.56
+    },
+    {
+     "word": "que",
+     "start": 41.56,
+     "end": 41.66
+    },
+    {
+     "word": "eu",
+     "start": 41.66,
+     "end": 41.71
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 41.72,
+   "end": 42.82,
+   "text": "não sei recarregar as munições?",
+   "words": [
+    {
+     "word": "não",
+     "start": 41.72,
+     "end": 41.84
+    },
+    {
+     "word": "sei",
+     "start": 41.84,
+     "end": 41.98
+    },
+    {
+     "word": "recarregar",
+     "start": 41.98,
+     "end": 42.38
+    },
+    {
+     "word": "as",
+     "start": 42.38,
+     "end": 42.52
+    },
+    {
+     "word": "munições?",
+     "start": 42.52,
+     "end": 42.82
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 42.86,
+   "end": 44.34,
+   "text": "Alguém sabe qual é",
+   "words": [
+    {
+     "word": "Alguém",
+     "start": 42.86,
+     "end": 43.54
+    },
+    {
+     "word": "sabe",
+     "start": 43.88,
+     "end": 44.06
+    },
+    {
+     "word": "qual",
+     "start": 44.06,
+     "end": 44.28
+    },
+    {
+     "word": "é",
+     "start": 44.28,
+     "end": 44.34
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 44.38,
+   "end": 45.57,
+   "text": "o botão que recarrega?",
+   "words": [
+    {
+     "word": "o",
+     "start": 44.38,
+     "end": 44.46
+    },
+    {
+     "word": "botão",
+     "start": 44.46,
+     "end": 44.68
+    },
+    {
+     "word": "que",
+     "start": 44.68,
+     "end": 44.78
+    },
+    {
+     "word": "recarrega?",
+     "start": 44.78,
+     "end": 45.57
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 56.44,
+   "end": 57.22,
+   "text": "B, abaixa",
+   "words": [
+    {
+     "word": "B,",
+     "start": 56.44,
+     "end": 56.58
+    },
+    {
+     "word": "abaixa",
+     "start": 56.68,
+     "end": 57.22
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 57.26,
+   "end": 57.86,
+   "text": "Ah",
+   "words": [
+    {
+     "word": "Ah",
+     "start": 57.26,
+     "end": 57.86
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 61.64,
+   "end": 62.24,
+   "text": "É o X!",
+   "words": [
+    {
+     "word": "É",
+     "start": 61.64,
+     "end": 61.66
+    },
+    {
+     "word": "o",
+     "start": 61.66,
+     "end": 61.78
+    },
+    {
+     "word": "X!",
+     "start": 61.78,
+     "end": 62.24
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 62.32,
+   "end": 63.21,
+   "text": "Muito obrigado",
+   "words": [
+    {
+     "word": "Muito",
+     "start": 62.32,
+     "end": 62.56
+    },
+    {
+     "word": "obrigado",
+     "start": 62.56,
+     "end": 63.21
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 65.01,
+   "end": 66.12,
+   "text": "O que seria de mim?",
+   "words": [
+    {
+     "word": "O",
+     "start": 65.01,
+     "end": 65.17
+    },
+    {
+     "word": "que",
+     "start": 65.17,
+     "end": 65.22
+    },
+    {
+     "word": "seria",
+     "start": 65.22,
+     "end": 65.49
+    },
+    {
+     "word": "de",
+     "start": 65.49,
+     "end": 65.67
+    },
+    {
+     "word": "mim?",
+     "start": 65.67,
+     "end": 66.12
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
