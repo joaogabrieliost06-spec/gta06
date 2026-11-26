@@ -1,0 +1,746 @@
+{
+ "segments": [
+  {
+   "start": 2.09,
+   "end": 2.86,
+   "text": "Tudo bem",
+   "words": [
+    {
+     "word": "Tudo",
+     "start": 2.09,
+     "end": 2.35
+    },
+    {
+     "word": "bem",
+     "start": 2.35,
+     "end": 2.86
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 3.97,
+   "end": 6.54,
+   "text": "Pra mostrar que eu sou pica grossa",
+   "words": [
+    {
+     "word": "Pra",
+     "start": 3.97,
+     "end": 4.09
+    },
+    {
+     "word": "mostrar",
+     "start": 4.09,
+     "end": 4.53
+    },
+    {
+     "word": "que",
+     "start": 4.53,
+     "end": 4.77
+    },
+    {
+     "word": "eu",
+     "start": 4.77,
+     "end": 4.87
+    },
+    {
+     "word": "sou",
+     "start": 4.87,
+     "end": 5.03
+    },
+    {
+     "word": "pica",
+     "start": 5.03,
+     "end": 5.59
+    },
+    {
+     "word": "grossa",
+     "start": 5.59,
+     "end": 6.54
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.86,
+   "end": 9.83,
+   "text": "eu ainda vou roubar esse banco aqui",
+   "words": [
+    {
+     "word": "eu",
+     "start": 7.86,
+     "end": 8.22
+    },
+    {
+     "word": "ainda",
+     "start": 8.22,
+     "end": 8.32
+    },
+    {
+     "word": "vou",
+     "start": 8.32,
+     "end": 8.5
+    },
+    {
+     "word": "roubar",
+     "start": 8.5,
+     "end": 8.78
+    },
+    {
+     "word": "esse",
+     "start": 8.78,
+     "end": 9.0
+    },
+    {
+     "word": "banco",
+     "start": 9.0,
+     "end": 9.26
+    },
+    {
+     "word": "aqui",
+     "start": 9.26,
+     "end": 9.83
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.22,
+   "end": 12.51,
+   "text": "meio roubado no stealth, tá?",
+   "words": [
+    {
+     "word": "meio",
+     "start": 10.22,
+     "end": 10.58
+    },
+    {
+     "word": "roubado",
+     "start": 10.58,
+     "end": 11.16
+    },
+    {
+     "word": "no",
+     "start": 11.16,
+     "end": 11.42
+    },
+    {
+     "word": "stealth,",
+     "start": 11.42,
+     "end": 11.78
+    },
+    {
+     "word": "tá?",
+     "start": 12.1,
+     "end": 12.51
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 12.66,
+   "end": 13.75,
+   "text": "Antes de ir pra lá",
+   "words": [
+    {
+     "word": "Antes",
+     "start": 12.66,
+     "end": 13.02
+    },
+    {
+     "word": "de",
+     "start": 13.02,
+     "end": 13.16
+    },
+    {
+     "word": "ir",
+     "start": 13.16,
+     "end": 13.26
+    },
+    {
+     "word": "pra",
+     "start": 13.26,
+     "end": 13.34
+    },
+    {
+     "word": "lá",
+     "start": 13.34,
+     "end": 13.75
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 15.88,
+   "end": 16.91,
+   "text": "Objetivo é",
+   "words": [
+    {
+     "word": "Objetivo",
+     "start": 15.88,
+     "end": 16.3
+    },
+    {
+     "word": "é",
+     "start": 16.3,
+     "end": 16.91
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 17.35,
+   "end": 19.0,
+   "text": "não vou acertar ninguém",
+   "words": [
+    {
+     "word": "não",
+     "start": 17.35,
+     "end": 17.73
+    },
+    {
+     "word": "vou",
+     "start": 17.73,
+     "end": 18.03
+    },
+    {
+     "word": "acertar",
+     "start": 18.03,
+     "end": 18.43
+    },
+    {
+     "word": "ninguém",
+     "start": 18.43,
+     "end": 19.0
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 19.96,
+   "end": 20.77,
+   "text": "Não",
+   "words": [
+    {
+     "word": "Não",
+     "start": 19.96,
+     "end": 20.77
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 22.49,
+   "end": 23.81,
+   "text": "Não vou acertar ninguém",
+   "words": [
+    {
+     "word": "Não",
+     "start": 22.49,
+     "end": 22.87
+    },
+    {
+     "word": "vou",
+     "start": 22.87,
+     "end": 23.05
+    },
+    {
+     "word": "acertar",
+     "start": 23.05,
+     "end": 23.35
+    },
+    {
+     "word": "ninguém",
+     "start": 23.35,
+     "end": 23.81
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 23.85,
+   "end": 25.55,
+   "text": "Eu sou o Jason da nova geração",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 23.85,
+     "end": 23.97
+    },
+    {
+     "word": "sou",
+     "start": 23.97,
+     "end": 24.17
+    },
+    {
+     "word": "o",
+     "start": 24.17,
+     "end": 24.33
+    },
+    {
+     "word": "Jason",
+     "start": 24.33,
+     "end": 24.59
+    },
+    {
+     "word": "da",
+     "start": 24.59,
+     "end": 24.83
+    },
+    {
+     "word": "nova",
+     "start": 24.83,
+     "end": 25.03
+    },
+    {
+     "word": "geração",
+     "start": 25.03,
+     "end": 25.55
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 25.59,
+   "end": 26.38,
+   "text": "Vai",
+   "words": [
+    {
+     "word": "Vai",
+     "start": 25.59,
+     "end": 26.38
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.39,
+   "end": 29.05,
+   "text": "ser perfeito",
+   "words": [
+    {
+     "word": "ser",
+     "start": 28.39,
+     "end": 28.53
+    },
+    {
+     "word": "perfeito",
+     "start": 28.53,
+     "end": 29.05
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 29.09,
+   "end": 29.91,
+   "text": "Eu não preciso roubar ele",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 29.09,
+     "end": 29.17
+    },
+    {
+     "word": "não",
+     "start": 29.17,
+     "end": 29.25
+    },
+    {
+     "word": "preciso",
+     "start": 29.25,
+     "end": 29.49
+    },
+    {
+     "word": "roubar",
+     "start": 29.49,
+     "end": 29.83
+    },
+    {
+     "word": "ele",
+     "start": 29.83,
+     "end": 29.91
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 29.95,
+   "end": 31.86,
+   "text": "por inteiro, todo, tá ligado?",
+   "words": [
+    {
+     "word": "por",
+     "start": 29.95,
+     "end": 30.11
+    },
+    {
+     "word": "inteiro,",
+     "start": 30.11,
+     "end": 30.45
+    },
+    {
+     "word": "todo,",
+     "start": 30.45,
+     "end": 30.89
+    },
+    {
+     "word": "tá",
+     "start": 31.11,
+     "end": 31.21
+    },
+    {
+     "word": "ligado?",
+     "start": 31.21,
+     "end": 31.86
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 32.31,
+   "end": 34.24,
+   "text": "Mas eu posso, eu",
+   "words": [
+    {
+     "word": "Mas",
+     "start": 32.31,
+     "end": 32.57
+    },
+    {
+     "word": "eu",
+     "start": 32.57,
+     "end": 32.81
+    },
+    {
+     "word": "posso,",
+     "start": 32.81,
+     "end": 33.23
+    },
+    {
+     "word": "eu",
+     "start": 33.29,
+     "end": 34.24
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 35.38,
+   "end": 36.58,
+   "text": "posso roubar um pedaço dele",
+   "words": [
+    {
+     "word": "posso",
+     "start": 35.38,
+     "end": 35.6
+    },
+    {
+     "word": "roubar",
+     "start": 35.6,
+     "end": 35.88
+    },
+    {
+     "word": "um",
+     "start": 35.88,
+     "end": 36.0
+    },
+    {
+     "word": "pedaço",
+     "start": 36.0,
+     "end": 36.4
+    },
+    {
+     "word": "dele",
+     "start": 36.4,
+     "end": 36.58
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 36.62,
+   "end": 38.53,
+   "text": "Tipo, fazer uns 50 mil, será que dá?",
+   "words": [
+    {
+     "word": "Tipo,",
+     "start": 36.62,
+     "end": 36.82
+    },
+    {
+     "word": "fazer",
+     "start": 36.86,
+     "end": 37.02
+    },
+    {
+     "word": "uns",
+     "start": 37.02,
+     "end": 37.18
+    },
+    {
+     "word": "50",
+     "start": 37.18,
+     "end": 37.54
+    },
+    {
+     "word": "mil,",
+     "start": 37.54,
+     "end": 37.78
+    },
+    {
+     "word": "será",
+     "start": 37.92,
+     "end": 38.04
+    },
+    {
+     "word": "que",
+     "start": 38.04,
+     "end": 38.16
+    },
+    {
+     "word": "dá?",
+     "start": 38.16,
+     "end": 38.53
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 39.07,
+   "end": 40.27,
+   "text": "Não, 50 é muito, eu acho",
+   "words": [
+    {
+     "word": "Não,",
+     "start": 39.07,
+     "end": 39.17
+    },
+    {
+     "word": "50",
+     "start": 39.25,
+     "end": 39.49
+    },
+    {
+     "word": "é",
+     "start": 39.49,
+     "end": 39.75
+    },
+    {
+     "word": "muito,",
+     "start": 39.75,
+     "end": 39.93
+    },
+    {
+     "word": "eu",
+     "start": 40.01,
+     "end": 40.11
+    },
+    {
+     "word": "acho",
+     "start": 40.11,
+     "end": 40.27
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 40.31,
+   "end": 40.83,
+   "text": "nesses bancos",
+   "words": [
+    {
+     "word": "nesses",
+     "start": 40.31,
+     "end": 40.51
+    },
+    {
+     "word": "bancos",
+     "start": 40.51,
+     "end": 40.83
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 40.87,
+   "end": 41.61,
+   "text": "Só dá pra roubar se for",
+   "words": [
+    {
+     "word": "Só",
+     "start": 40.87,
+     "end": 40.99
+    },
+    {
+     "word": "dá",
+     "start": 40.99,
+     "end": 41.07
+    },
+    {
+     "word": "pra",
+     "start": 41.07,
+     "end": 41.19
+    },
+    {
+     "word": "roubar",
+     "start": 41.19,
+     "end": 41.41
+    },
+    {
+     "word": "se",
+     "start": 41.41,
+     "end": 41.53
+    },
+    {
+     "word": "for",
+     "start": 41.53,
+     "end": 41.61
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 41.65,
+   "end": 43.36,
+   "text": "com um cofre maior, né? Eu",
+   "words": [
+    {
+     "word": "com",
+     "start": 41.65,
+     "end": 41.81
+    },
+    {
+     "word": "um",
+     "start": 41.81,
+     "end": 41.89
+    },
+    {
+     "word": "cofre",
+     "start": 41.89,
+     "end": 42.05
+    },
+    {
+     "word": "maior,",
+     "start": 42.05,
+     "end": 42.35
+    },
+    {
+     "word": "né?",
+     "start": 42.43,
+     "end": 42.51
+    },
+    {
+     "word": "Eu",
+     "start": 42.51,
+     "end": 43.36
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 43.8,
+   "end": 45.64,
+   "text": "já tentei seguir a porra",
+   "words": [
+    {
+     "word": "já",
+     "start": 43.8,
+     "end": 44.78
+    },
+    {
+     "word": "tentei",
+     "start": 44.78,
+     "end": 45.12
+    },
+    {
+     "word": "seguir",
+     "start": 45.12,
+     "end": 45.34
+    },
+    {
+     "word": "a",
+     "start": 45.34,
+     "end": 45.5
+    },
+    {
+     "word": "porra",
+     "start": 45.5,
+     "end": 45.64
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 45.68,
+   "end": 46.94,
+   "text": "do carro-forte, não adianta nada",
+   "words": [
+    {
+     "word": "do",
+     "start": 45.68,
+     "end": 45.76
+    },
+    {
+     "word": "carro-forte,",
+     "start": 45.76,
+     "end": 46.28
+    },
+    {
+     "word": "não",
+     "start": 46.28,
+     "end": 46.38
+    },
+    {
+     "word": "adianta",
+     "start": 46.38,
+     "end": 46.7
+    },
+    {
+     "word": "nada",
+     "start": 46.7,
+     "end": 46.94
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 46.98,
+   "end": 49.04,
+   "text": "Devo ter que conseguir essa missão",
+   "words": [
+    {
+     "word": "Devo",
+     "start": 46.98,
+     "end": 47.58
+    },
+    {
+     "word": "ter",
+     "start": 47.67,
+     "end": 47.77
+    },
+    {
+     "word": "que",
+     "start": 47.77,
+     "end": 47.87
+    },
+    {
+     "word": "conseguir",
+     "start": 47.87,
+     "end": 48.19
+    },
+    {
+     "word": "essa",
+     "start": 48.19,
+     "end": 48.35
+    },
+    {
+     "word": "missão",
+     "start": 48.35,
+     "end": 49.04
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
