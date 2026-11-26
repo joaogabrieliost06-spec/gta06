@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Jason, Lucia, Royce, Dre, oncinha, cafona, brega, inauguração, mano, bicho, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:05:08", "fim": "0:05:57", "titulo": "AGORA EU TÔ ARRUMADO"},
+  {"id": "02", "inicio": "0:11:33", "fim": "0:12:14", "titulo": "A LUCIA TÁ PARECENDO UMA MENDIGA"},
+  {"id": "03", "inicio": "0:16:20", "fim": "0:16:53", "titulo": "FAZ SENTIDO ISSO NA HISTÓRIA"}
+ ]
+}
