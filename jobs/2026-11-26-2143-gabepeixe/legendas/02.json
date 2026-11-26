@@ -1,0 +1,442 @@
+{
+ "segments": [
+  {
+   "start": 6.99,
+   "end": 8.06,
+   "text": "Oh, porra!",
+   "words": [
+    {
+     "word": "Oh,",
+     "start": 6.99,
+     "end": 7.27
+    },
+    {
+     "word": "porra!",
+     "start": 7.63,
+     "end": 8.06
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 8.65,
+   "end": 9.62,
+   "text": "Porra, porra",
+   "words": [
+    {
+     "word": "Porra,",
+     "start": 8.65,
+     "end": 9.27
+    },
+    {
+     "word": "porra",
+     "start": 9.29,
+     "end": 9.62
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 32.8,
+   "end": 33.49,
+   "text": "Porra",
+   "words": [
+    {
+     "word": "Porra",
+     "start": 32.8,
+     "end": 33.49
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 74.73,
+   "end": 75.47,
+   "text": "Moleque, você viu",
+   "words": [
+    {
+     "word": "Moleque,",
+     "start": 74.73,
+     "end": 75.15
+    },
+    {
+     "word": "você",
+     "start": 75.21,
+     "end": 75.29
+    },
+    {
+     "word": "viu",
+     "start": 75.29,
+     "end": 75.47
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 75.51,
+   "end": 77.18,
+   "text": "que doideira foi isso?",
+   "words": [
+    {
+     "word": "que",
+     "start": 75.51,
+     "end": 75.73
+    },
+    {
+     "word": "doideira",
+     "start": 75.73,
+     "end": 76.35
+    },
+    {
+     "word": "foi",
+     "start": 76.35,
+     "end": 76.57
+    },
+    {
+     "word": "isso?",
+     "start": 76.57,
+     "end": 77.18
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 77.45,
+   "end": 78.25,
+   "text": "Não tinha cofre",
+   "words": [
+    {
+     "word": "Não",
+     "start": 77.45,
+     "end": 77.81
+    },
+    {
+     "word": "tinha",
+     "start": 77.81,
+     "end": 78.01
+    },
+    {
+     "word": "cofre",
+     "start": 78.01,
+     "end": 78.25
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 78.29,
+   "end": 79.67,
+   "text": "nos fundos não, era saída",
+   "words": [
+    {
+     "word": "nos",
+     "start": 78.29,
+     "end": 78.45
+    },
+    {
+     "word": "fundos",
+     "start": 78.45,
+     "end": 78.71
+    },
+    {
+     "word": "não,",
+     "start": 78.71,
+     "end": 78.87
+    },
+    {
+     "word": "era",
+     "start": 79.07,
+     "end": 79.27
+    },
+    {
+     "word": "saída",
+     "start": 79.27,
+     "end": 79.67
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 79.71,
+   "end": 81.02,
+   "text": "Nem todas as lojas têm não",
+   "words": [
+    {
+     "word": "Nem",
+     "start": 79.71,
+     "end": 79.79
+    },
+    {
+     "word": "todas",
+     "start": 79.79,
+     "end": 80.01
+    },
+    {
+     "word": "as",
+     "start": 80.01,
+     "end": 80.19
+    },
+    {
+     "word": "lojas",
+     "start": 80.19,
+     "end": 80.43
+    },
+    {
+     "word": "têm",
+     "start": 80.43,
+     "end": 80.61
+    },
+    {
+     "word": "não",
+     "start": 80.61,
+     "end": 81.02
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 81.29,
+   "end": 82.35,
+   "text": "Moleque, eu tô falando",
+   "words": [
+    {
+     "word": "Moleque,",
+     "start": 81.29,
+     "end": 81.63
+    },
+    {
+     "word": "eu",
+     "start": 81.95,
+     "end": 82.03
+    },
+    {
+     "word": "tô",
+     "start": 82.03,
+     "end": 82.13
+    },
+    {
+     "word": "falando",
+     "start": 82.13,
+     "end": 82.35
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 82.39,
+   "end": 83.13,
+   "text": "que eu me surpreendo",
+   "words": [
+    {
+     "word": "que",
+     "start": 82.39,
+     "end": 82.53
+    },
+    {
+     "word": "eu",
+     "start": 82.53,
+     "end": 82.61
+    },
+    {
+     "word": "me",
+     "start": 82.61,
+     "end": 82.73
+    },
+    {
+     "word": "surpreendo",
+     "start": 82.73,
+     "end": 83.13
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 83.17,
+   "end": 83.93,
+   "text": "a cada dia com o jogo",
+   "words": [
+    {
+     "word": "a",
+     "start": 83.17,
+     "end": 83.29
+    },
+    {
+     "word": "cada",
+     "start": 83.29,
+     "end": 83.41
+    },
+    {
+     "word": "dia",
+     "start": 83.41,
+     "end": 83.59
+    },
+    {
+     "word": "com",
+     "start": 83.59,
+     "end": 83.71
+    },
+    {
+     "word": "o",
+     "start": 83.71,
+     "end": 83.81
+    },
+    {
+     "word": "jogo",
+     "start": 83.81,
+     "end": 83.93
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 83.97,
+   "end": 85.39,
+   "text": "Eu fui numa loja aleatória",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 83.97,
+     "end": 84.39
+    },
+    {
+     "word": "fui",
+     "start": 84.39,
+     "end": 84.53
+    },
+    {
+     "word": "numa",
+     "start": 84.53,
+     "end": 84.67
+    },
+    {
+     "word": "loja",
+     "start": 84.67,
+     "end": 84.97
+    },
+    {
+     "word": "aleatória",
+     "start": 84.97,
+     "end": 85.39
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 85.43,
+   "end": 86.25,
+   "text": "comprar comida",
+   "words": [
+    {
+     "word": "comprar",
+     "start": 85.43,
+     "end": 85.77
+    },
+    {
+     "word": "comida",
+     "start": 85.77,
+     "end": 86.25
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 86.29,
+   "end": 87.69,
+   "text": "E simplesmente o cara",
+   "words": [
+    {
+     "word": "E",
+     "start": 86.29,
+     "end": 86.75
+    },
+    {
+     "word": "simplesmente",
+     "start": 86.75,
+     "end": 87.23
+    },
+    {
+     "word": "o",
+     "start": 87.23,
+     "end": 87.55
+    },
+    {
+     "word": "cara",
+     "start": 87.55,
+     "end": 87.69
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 87.73,
+   "end": 88.73,
+   "text": "chegou pra mim e falou assim",
+   "words": [
+    {
+     "word": "chegou",
+     "start": 87.73,
+     "end": 88.03
+    },
+    {
+     "word": "pra",
+     "start": 88.03,
+     "end": 88.21
+    },
+    {
+     "word": "mim",
+     "start": 88.21,
+     "end": 88.37
+    },
+    {
+     "word": "e",
+     "start": 88.37,
+     "end": 88.45
+    },
+    {
+     "word": "falou",
+     "start": 88.45,
+     "end": 88.61
+    },
+    {
+     "word": "assim",
+     "start": 88.61,
+     "end": 88.73
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 88.77,
+   "end": 90.22,
+   "text": "\"Caralho, você é um casal\"",
+   "words": [
+    {
+     "word": "\"Caralho,",
+     "start": 88.77,
+     "end": 89.27
+    },
+    {
+     "word": "você",
+     "start": 89.29,
+     "end": 89.49
+    },
+    {
+     "word": "é",
+     "start": 89.49,
+     "end": 89.63
+    },
+    {
+     "word": "um",
+     "start": 89.63,
+     "end": 89.69
+    },
+    {
+     "word": "casal\"",
+     "start": 89.69,
+     "end": 90.22
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
