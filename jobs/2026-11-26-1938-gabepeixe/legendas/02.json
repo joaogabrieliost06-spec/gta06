@@ -1,0 +1,694 @@
+{
+ "segments": [
+  {
+   "start": 4.43,
+   "end": 5.65,
+   "text": "Que isso, 50 dól",
+   "words": [
+    {
+     "word": "Que",
+     "start": 4.43,
+     "end": 4.67
+    },
+    {
+     "word": "isso,",
+     "start": 4.67,
+     "end": 5.05
+    },
+    {
+     "word": "50",
+     "start": 5.13,
+     "end": 5.49
+    },
+    {
+     "word": "dól",
+     "start": 5.49,
+     "end": 5.65
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 5.69,
+   "end": 6.96,
+   "text": "que eu paguei, viado",
+   "words": [
+    {
+     "word": "que",
+     "start": 5.69,
+     "end": 5.83
+    },
+    {
+     "word": "eu",
+     "start": 5.83,
+     "end": 5.91
+    },
+    {
+     "word": "paguei,",
+     "start": 5.91,
+     "end": 6.35
+    },
+    {
+     "word": "viado",
+     "start": 6.37,
+     "end": 6.96
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 9.57,
+   "end": 10.65,
+   "text": "Deixa eu ver se presta",
+   "words": [
+    {
+     "word": "Deixa",
+     "start": 9.57,
+     "end": 9.89
+    },
+    {
+     "word": "eu",
+     "start": 9.89,
+     "end": 9.94
+    },
+    {
+     "word": "ver",
+     "start": 9.94,
+     "end": 10.05
+    },
+    {
+     "word": "se",
+     "start": 10.05,
+     "end": 10.27
+    },
+    {
+     "word": "presta",
+     "start": 10.27,
+     "end": 10.65
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.69,
+   "end": 11.48,
+   "text": "pelo menos",
+   "words": [
+    {
+     "word": "pelo",
+     "start": 10.69,
+     "end": 10.87
+    },
+    {
+     "word": "menos",
+     "start": 10.87,
+     "end": 11.48
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 12.47,
+   "end": 13.11,
+   "text": "Cara, eu acho que eu",
+   "words": [
+    {
+     "word": "Cara,",
+     "start": 12.47,
+     "end": 12.73
+    },
+    {
+     "word": "eu",
+     "start": 12.75,
+     "end": 12.85
+    },
+    {
+     "word": "acho",
+     "start": 12.85,
+     "end": 12.93
+    },
+    {
+     "word": "que",
+     "start": 12.93,
+     "end": 13.03
+    },
+    {
+     "word": "eu",
+     "start": 13.03,
+     "end": 13.11
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 13.15,
+   "end": 14.51,
+   "text": "não tinha ideia",
+   "words": [
+    {
+     "word": "não",
+     "start": 13.15,
+     "end": 13.39
+    },
+    {
+     "word": "tinha",
+     "start": 13.39,
+     "end": 14.23
+    },
+    {
+     "word": "ideia",
+     "start": 14.23,
+     "end": 14.51
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 14.55,
+   "end": 15.5,
+   "text": "de que tinha um aquário, mano",
+   "words": [
+    {
+     "word": "de",
+     "start": 14.55,
+     "end": 14.63
+    },
+    {
+     "word": "que",
+     "start": 14.63,
+     "end": 14.75
+    },
+    {
+     "word": "tinha",
+     "start": 14.75,
+     "end": 14.87
+    },
+    {
+     "word": "um",
+     "start": 14.87,
+     "end": 14.99
+    },
+    {
+     "word": "aquário,",
+     "start": 14.99,
+     "end": 15.37
+    },
+    {
+     "word": "mano",
+     "start": 15.45,
+     "end": 15.5
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 15.51,
+   "end": 16.92,
+   "text": "A galera veio aqui visitar",
+   "words": [
+    {
+     "word": "A",
+     "start": 15.51,
+     "end": 15.61
+    },
+    {
+     "word": "galera",
+     "start": 15.61,
+     "end": 15.77
+    },
+    {
+     "word": "veio",
+     "start": 15.77,
+     "end": 15.95
+    },
+    {
+     "word": "aqui",
+     "start": 15.95,
+     "end": 16.13
+    },
+    {
+     "word": "visitar",
+     "start": 16.13,
+     "end": 16.92
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 17.83,
+   "end": 19.55,
+   "text": "Caralho, olha uma baleia",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 17.83,
+     "end": 18.39
+    },
+    {
+     "word": "olha",
+     "start": 18.51,
+     "end": 18.81
+    },
+    {
+     "word": "uma",
+     "start": 18.81,
+     "end": 18.99
+    },
+    {
+     "word": "baleia",
+     "start": 18.99,
+     "end": 19.55
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 19.59,
+   "end": 20.36,
+   "text": "o Free Willy",
+   "words": [
+    {
+     "word": "o",
+     "start": 19.59,
+     "end": 19.63
+    },
+    {
+     "word": "Free",
+     "start": 19.63,
+     "end": 19.79
+    },
+    {
+     "word": "Willy",
+     "start": 19.79,
+     "end": 20.36
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 20.88,
+   "end": 21.7,
+   "text": "Caralho, Free Willy",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 20.88,
+     "end": 21.34
+    },
+    {
+     "word": "Free",
+     "start": 21.44,
+     "end": 21.54
+    },
+    {
+     "word": "Willy",
+     "start": 21.54,
+     "end": 21.7
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 21.74,
+   "end": 22.61,
+   "text": "tá no jogo",
+   "words": [
+    {
+     "word": "tá",
+     "start": 21.74,
+     "end": 21.86
+    },
+    {
+     "word": "no",
+     "start": 21.86,
+     "end": 21.98
+    },
+    {
+     "word": "jogo",
+     "start": 21.98,
+     "end": 22.61
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 41.55,
+   "end": 42.22,
+   "text": "Por que os caras não",
+   "words": [
+    {
+     "word": "Por",
+     "start": 41.55,
+     "end": 41.83
+    },
+    {
+     "word": "que",
+     "start": 41.83,
+     "end": 41.88
+    },
+    {
+     "word": "os",
+     "start": 41.88,
+     "end": 42.03
+    },
+    {
+     "word": "caras",
+     "start": 42.03,
+     "end": 42.17
+    },
+    {
+     "word": "não",
+     "start": 42.17,
+     "end": 42.22
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 42.25,
+   "end": 43.25,
+   "text": "resgatam a baleia, mano?",
+   "words": [
+    {
+     "word": "resgatam",
+     "start": 42.25,
+     "end": 42.59
+    },
+    {
+     "word": "a",
+     "start": 42.59,
+     "end": 42.75
+    },
+    {
+     "word": "baleia,",
+     "start": 42.75,
+     "end": 43.09
+    },
+    {
+     "word": "mano?",
+     "start": 43.17,
+     "end": 43.25
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 43.29,
+   "end": 44.01,
+   "text": "A baleia tá presa",
+   "words": [
+    {
+     "word": "A",
+     "start": 43.29,
+     "end": 43.41
+    },
+    {
+     "word": "baleia",
+     "start": 43.41,
+     "end": 43.55
+    },
+    {
+     "word": "tá",
+     "start": 43.55,
+     "end": 43.65
+    },
+    {
+     "word": "presa",
+     "start": 43.65,
+     "end": 44.01
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 44.05,
+   "end": 45.3,
+   "text": "dentro desse tanque, mano",
+   "words": [
+    {
+     "word": "dentro",
+     "start": 44.05,
+     "end": 44.17
+    },
+    {
+     "word": "desse",
+     "start": 44.17,
+     "end": 44.37
+    },
+    {
+     "word": "tanque,",
+     "start": 44.37,
+     "end": 44.75
+    },
+    {
+     "word": "mano",
+     "start": 44.89,
+     "end": 45.3
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 45.69,
+   "end": 46.85,
+   "text": "Isso aqui é crime, não?",
+   "words": [
+    {
+     "word": "Isso",
+     "start": 45.69,
+     "end": 45.91
+    },
+    {
+     "word": "aqui",
+     "start": 45.91,
+     "end": 46.07
+    },
+    {
+     "word": "é",
+     "start": 46.07,
+     "end": 46.13
+    },
+    {
+     "word": "crime,",
+     "start": 46.13,
+     "end": 46.43
+    },
+    {
+     "word": "não?",
+     "start": 46.55,
+     "end": 46.85
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 46.89,
+   "end": 47.73,
+   "text": "Deixar uma baleia dessa",
+   "words": [
+    {
+     "word": "Deixar",
+     "start": 46.89,
+     "end": 47.15
+    },
+    {
+     "word": "uma",
+     "start": 47.15,
+     "end": 47.31
+    },
+    {
+     "word": "baleia",
+     "start": 47.31,
+     "end": 47.57
+    },
+    {
+     "word": "dessa",
+     "start": 47.57,
+     "end": 47.73
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 47.77,
+   "end": 48.68,
+   "text": "nesse tanque",
+   "words": [
+    {
+     "word": "nesse",
+     "start": 47.77,
+     "end": 48.01
+    },
+    {
+     "word": "tanque",
+     "start": 48.01,
+     "end": 48.68
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 50.18,
+   "end": 50.97,
+   "text": "Ou nada a ver?",
+   "words": [
+    {
+     "word": "Ou",
+     "start": 50.18,
+     "end": 50.32
+    },
+    {
+     "word": "nada",
+     "start": 50.32,
+     "end": 50.48
+    },
+    {
+     "word": "a",
+     "start": 50.48,
+     "end": 50.62
+    },
+    {
+     "word": "ver?",
+     "start": 50.62,
+     "end": 50.97
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 51.8,
+   "end": 52.62,
+   "text": "Pô, não tem espaço nenhum",
+   "words": [
+    {
+     "word": "Pô,",
+     "start": 51.8,
+     "end": 51.9
+    },
+    {
+     "word": "não",
+     "start": 51.94,
+     "end": 52.02
+    },
+    {
+     "word": "tem",
+     "start": 52.02,
+     "end": 52.14
+    },
+    {
+     "word": "espaço",
+     "start": 52.14,
+     "end": 52.48
+    },
+    {
+     "word": "nenhum",
+     "start": 52.48,
+     "end": 52.62
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 52.66,
+   "end": 53.68,
+   "text": "pra baleia ficar, viado",
+   "words": [
+    {
+     "word": "pra",
+     "start": 52.66,
+     "end": 52.8
+    },
+    {
+     "word": "baleia",
+     "start": 52.8,
+     "end": 53.08
+    },
+    {
+     "word": "ficar,",
+     "start": 53.08,
+     "end": 53.36
+    },
+    {
+     "word": "viado",
+     "start": 53.5,
+     "end": 53.68
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 53.72,
+   "end": 54.85,
+   "text": "Isso aqui é zoado, mano",
+   "words": [
+    {
+     "word": "Isso",
+     "start": 53.72,
+     "end": 53.8
+    },
+    {
+     "word": "aqui",
+     "start": 53.8,
+     "end": 53.92
+    },
+    {
+     "word": "é",
+     "start": 53.92,
+     "end": 53.98
+    },
+    {
+     "word": "zoado,",
+     "start": 53.98,
+     "end": 54.34
+    },
+    {
+     "word": "mano",
+     "start": 54.48,
+     "end": 54.85
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 63.41,
+   "end": 64.22,
+   "text": "Vou pular aqui",
+   "words": [
+    {
+     "word": "Vou",
+     "start": 63.41,
+     "end": 63.53
+    },
+    {
+     "word": "pular",
+     "start": 63.53,
+     "end": 63.71
+    },
+    {
+     "word": "aqui",
+     "start": 63.71,
+     "end": 64.22
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 64.83,
+   "end": 65.48,
+   "text": "Meu Deus",
+   "words": [
+    {
+     "word": "Meu",
+     "start": 64.83,
+     "end": 64.99
+    },
+    {
+     "word": "Deus",
+     "start": 64.99,
+     "end": 65.48
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
