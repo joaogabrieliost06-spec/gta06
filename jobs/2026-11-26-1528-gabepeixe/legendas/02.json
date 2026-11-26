@@ -1,0 +1,811 @@
+{
+ "segments": [
+  {
+   "start": 2.54,
+   "end": 3.46,
+   "text": "Será que eu entro aqui?",
+   "words": [
+    {
+     "word": "Será",
+     "start": 2.54,
+     "end": 2.76
+    },
+    {
+     "word": "que",
+     "start": 2.76,
+     "end": 2.88
+    },
+    {
+     "word": "eu",
+     "start": 2.88,
+     "end": 3.06
+    },
+    {
+     "word": "entro",
+     "start": 3.06,
+     "end": 3.22
+    },
+    {
+     "word": "aqui?",
+     "start": 3.22,
+     "end": 3.46
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 3.5,
+   "end": 4.06,
+   "text": "Calma aí, eles falaram",
+   "words": [
+    {
+     "word": "Calma",
+     "start": 3.5,
+     "end": 3.68
+    },
+    {
+     "word": "aí,",
+     "start": 3.68,
+     "end": 3.74
+    },
+    {
+     "word": "eles",
+     "start": 3.8,
+     "end": 3.88
+    },
+    {
+     "word": "falaram",
+     "start": 3.88,
+     "end": 4.06
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 4.1,
+   "end": 5.02,
+   "text": "que tem cofre, é porque eu tava",
+   "words": [
+    {
+     "word": "que",
+     "start": 4.1,
+     "end": 4.2
+    },
+    {
+     "word": "tem",
+     "start": 4.2,
+     "end": 4.34
+    },
+    {
+     "word": "cofre,",
+     "start": 4.34,
+     "end": 4.72
+    },
+    {
+     "word": "é",
+     "start": 4.78,
+     "end": 4.83
+    },
+    {
+     "word": "porque",
+     "start": 4.83,
+     "end": 4.88
+    },
+    {
+     "word": "eu",
+     "start": 4.88,
+     "end": 4.96
+    },
+    {
+     "word": "tava",
+     "start": 4.96,
+     "end": 5.02
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 5.06,
+   "end": 6.28,
+   "text": "respondendo o motoboy, galera",
+   "words": [
+    {
+     "word": "respondendo",
+     "start": 5.06,
+     "end": 5.48
+    },
+    {
+     "word": "o",
+     "start": 5.48,
+     "end": 5.58
+    },
+    {
+     "word": "motoboy,",
+     "start": 5.58,
+     "end": 6.02
+    },
+    {
+     "word": "galera",
+     "start": 6.1,
+     "end": 6.28
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.32,
+   "end": 8.25,
+   "text": "O motoboy tava querendo",
+   "words": [
+    {
+     "word": "O",
+     "start": 6.32,
+     "end": 7.29
+    },
+    {
+     "word": "motoboy",
+     "start": 7.29,
+     "end": 7.61
+    },
+    {
+     "word": "tava",
+     "start": 7.61,
+     "end": 7.79
+    },
+    {
+     "word": "querendo",
+     "start": 7.79,
+     "end": 8.25
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 8.29,
+   "end": 9.63,
+   "text": "o motoboy tava querendo",
+   "words": [
+    {
+     "word": "o",
+     "start": 8.29,
+     "end": 8.67
+    },
+    {
+     "word": "motoboy",
+     "start": 8.67,
+     "end": 9.05
+    },
+    {
+     "word": "tava",
+     "start": 9.05,
+     "end": 9.19
+    },
+    {
+     "word": "querendo",
+     "start": 9.19,
+     "end": 9.63
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 9.67,
+   "end": 12.25,
+   "text": "o motoboy tava querendo",
+   "words": [
+    {
+     "word": "o",
+     "start": 9.67,
+     "end": 10.67
+    },
+    {
+     "word": "motoboy",
+     "start": 11.33,
+     "end": 11.69
+    },
+    {
+     "word": "tava",
+     "start": 11.69,
+     "end": 11.83
+    },
+    {
+     "word": "querendo",
+     "start": 11.83,
+     "end": 12.25
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 12.29,
+   "end": 14.13,
+   "text": "que eu liberasse ele",
+   "words": [
+    {
+     "word": "que",
+     "start": 12.29,
+     "end": 13.25
+    },
+    {
+     "word": "eu",
+     "start": 13.49,
+     "end": 13.55
+    },
+    {
+     "word": "liberasse",
+     "start": 13.55,
+     "end": 14.01
+    },
+    {
+     "word": "ele",
+     "start": 14.01,
+     "end": 14.13
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 14.17,
+   "end": 14.77,
+   "text": "antecipado",
+   "words": [
+    {
+     "word": "antecipado",
+     "start": 14.17,
+     "end": 14.77
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 14.81,
+   "end": 15.85,
+   "text": "Eu falei: mano, não tem como",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 14.81,
+     "end": 14.91
+    },
+    {
+     "word": "falei:",
+     "start": 14.91,
+     "end": 15.03
+    },
+    {
+     "word": "mano,",
+     "start": 15.13,
+     "end": 15.23
+    },
+    {
+     "word": "não",
+     "start": 15.33,
+     "end": 15.45
+    },
+    {
+     "word": "tem",
+     "start": 15.45,
+     "end": 15.57
+    },
+    {
+     "word": "como",
+     "start": 15.57,
+     "end": 15.85
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 15.89,
+   "end": 17.08,
+   "text": "só com documento, mano",
+   "words": [
+    {
+     "word": "só",
+     "start": 15.89,
+     "end": 15.99
+    },
+    {
+     "word": "com",
+     "start": 15.99,
+     "end": 16.13
+    },
+    {
+     "word": "documento,",
+     "start": 16.13,
+     "end": 16.71
+    },
+    {
+     "word": "mano",
+     "start": 16.71,
+     "end": 17.08
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 17.37,
+   "end": 18.36,
+   "text": "Entro ou não entro?",
+   "words": [
+    {
+     "word": "Entro",
+     "start": 17.37,
+     "end": 17.61
+    },
+    {
+     "word": "ou",
+     "start": 17.61,
+     "end": 17.71
+    },
+    {
+     "word": "não",
+     "start": 17.71,
+     "end": 17.81
+    },
+    {
+     "word": "entro?",
+     "start": 17.81,
+     "end": 18.36
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 20.13,
+   "end": 20.79,
+   "text": "Entro ou não entro?",
+   "words": [
+    {
+     "word": "Entro",
+     "start": 20.13,
+     "end": 20.45
+    },
+    {
+     "word": "ou",
+     "start": 20.45,
+     "end": 20.53
+    },
+    {
+     "word": "não",
+     "start": 20.53,
+     "end": 20.65
+    },
+    {
+     "word": "entro?",
+     "start": 20.65,
+     "end": 20.79
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 20.83,
+   "end": 21.64,
+   "text": "Entro ou não entro?",
+   "words": [
+    {
+     "word": "Entro",
+     "start": 20.83,
+     "end": 20.97
+    },
+    {
+     "word": "ou",
+     "start": 20.97,
+     "end": 21.05
+    },
+    {
+     "word": "não",
+     "start": 21.05,
+     "end": 21.1
+    },
+    {
+     "word": "entro?",
+     "start": 21.1,
+     "end": 21.64
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 30.12,
+   "end": 30.72,
+   "text": "Boa",
+   "words": [
+    {
+     "word": "Boa",
+     "start": 30.12,
+     "end": 30.72
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 33.89,
+   "end": 34.59,
+   "text": "Tem uma garagem aqui",
+   "words": [
+    {
+     "word": "Tem",
+     "start": 33.89,
+     "end": 34.09
+    },
+    {
+     "word": "uma",
+     "start": 34.09,
+     "end": 34.23
+    },
+    {
+     "word": "garagem",
+     "start": 34.23,
+     "end": 34.53
+    },
+    {
+     "word": "aqui",
+     "start": 34.53,
+     "end": 34.59
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 34.63,
+   "end": 35.45,
+   "text": "pra roubar, hein",
+   "words": [
+    {
+     "word": "pra",
+     "start": 34.63,
+     "end": 34.73
+    },
+    {
+     "word": "roubar,",
+     "start": 34.73,
+     "end": 35.05
+    },
+    {
+     "word": "hein",
+     "start": 35.15,
+     "end": 35.45
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 37.52,
+   "end": 38.14,
+   "text": "Garagezinha também",
+   "words": [
+    {
+     "word": "Garagezinha",
+     "start": 37.52,
+     "end": 37.96
+    },
+    {
+     "word": "também",
+     "start": 37.96,
+     "end": 38.14
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 38.18,
+   "end": 39.45,
+   "text": "pra roubar, depois eu vejo",
+   "words": [
+    {
+     "word": "pra",
+     "start": 38.18,
+     "end": 38.34
+    },
+    {
+     "word": "roubar,",
+     "start": 38.34,
+     "end": 38.6
+    },
+    {
+     "word": "depois",
+     "start": 38.6,
+     "end": 38.84
+    },
+    {
+     "word": "eu",
+     "start": 38.84,
+     "end": 38.96
+    },
+    {
+     "word": "vejo",
+     "start": 38.96,
+     "end": 39.45
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 46.15,
+   "end": 47.92,
+   "text": "Caralho, eu sou muito burro, viado",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 46.15,
+     "end": 46.35
+    },
+    {
+     "word": "eu",
+     "start": 46.43,
+     "end": 46.49
+    },
+    {
+     "word": "sou",
+     "start": 46.49,
+     "end": 46.57
+    },
+    {
+     "word": "muito",
+     "start": 46.57,
+     "end": 46.85
+    },
+    {
+     "word": "burro,",
+     "start": 46.85,
+     "end": 47.29
+    },
+    {
+     "word": "viado",
+     "start": 47.41,
+     "end": 47.92
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 48.26,
+   "end": 48.74,
+   "text": "Não é possível",
+   "words": [
+    {
+     "word": "Não",
+     "start": 48.26,
+     "end": 48.3
+    },
+    {
+     "word": "é",
+     "start": 48.3,
+     "end": 48.38
+    },
+    {
+     "word": "possível",
+     "start": 48.38,
+     "end": 48.74
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 48.78,
+   "end": 49.48,
+   "text": "O outro deu até",
+   "words": [
+    {
+     "word": "O",
+     "start": 48.78,
+     "end": 49.04
+    },
+    {
+     "word": "outro",
+     "start": 49.04,
+     "end": 49.18
+    },
+    {
+     "word": "deu",
+     "start": 49.18,
+     "end": 49.34
+    },
+    {
+     "word": "até",
+     "start": 49.34,
+     "end": 49.48
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 49.52,
+   "end": 50.79,
+   "text": "uma broxada, viado",
+   "words": [
+    {
+     "word": "uma",
+     "start": 49.52,
+     "end": 49.64
+    },
+    {
+     "word": "broxada,",
+     "start": 49.64,
+     "end": 50.18
+    },
+    {
+     "word": "viado",
+     "start": 50.28,
+     "end": 50.79
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 63.38,
+   "end": 63.87,
+   "text": "Mas isso aqui eu acho",
+   "words": [
+    {
+     "word": "Mas",
+     "start": 63.38,
+     "end": 63.46
+    },
+    {
+     "word": "isso",
+     "start": 63.46,
+     "end": 63.62
+    },
+    {
+     "word": "aqui",
+     "start": 63.62,
+     "end": 63.74
+    },
+    {
+     "word": "eu",
+     "start": 63.74,
+     "end": 63.82
+    },
+    {
+     "word": "acho",
+     "start": 63.82,
+     "end": 63.87
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 63.9,
+   "end": 64.99,
+   "text": "que vai ser muito fácil",
+   "words": [
+    {
+     "word": "que",
+     "start": 63.9,
+     "end": 63.96
+    },
+    {
+     "word": "vai",
+     "start": 63.96,
+     "end": 64.06
+    },
+    {
+     "word": "ser",
+     "start": 64.06,
+     "end": 64.18
+    },
+    {
+     "word": "muito",
+     "start": 64.18,
+     "end": 64.4
+    },
+    {
+     "word": "fácil",
+     "start": 64.4,
+     "end": 64.99
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 66.62,
+   "end": 67.34,
+   "text": "Os caras prenderam",
+   "words": [
+    {
+     "word": "Os",
+     "start": 66.62,
+     "end": 66.92
+    },
+    {
+     "word": "caras",
+     "start": 66.92,
+     "end": 67.04
+    },
+    {
+     "word": "prenderam",
+     "start": 67.04,
+     "end": 67.34
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 67.38,
+   "end": 68.2,
+   "text": "todo mundo aqui, pô",
+   "words": [
+    {
+     "word": "todo",
+     "start": 67.38,
+     "end": 67.52
+    },
+    {
+     "word": "mundo",
+     "start": 67.52,
+     "end": 67.78
+    },
+    {
+     "word": "aqui,",
+     "start": 67.78,
+     "end": 68.0
+    },
+    {
+     "word": "pô",
+     "start": 68.1,
+     "end": 68.2
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 68.24,
+   "end": 68.96,
+   "text": "Limparam tudo",
+   "words": [
+    {
+     "word": "Limparam",
+     "start": 68.24,
+     "end": 68.74
+    },
+    {
+     "word": "tudo",
+     "start": 68.74,
+     "end": 68.96
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 69.0,
+   "end": 72.27,
+   "text": "A polícia chegou antes, é isso?",
+   "words": [
+    {
+     "word": "A",
+     "start": 69.0,
+     "end": 69.54
+    },
+    {
+     "word": "polícia",
+     "start": 70.84,
+     "end": 71.14
+    },
+    {
+     "word": "chegou",
+     "start": 71.14,
+     "end": 71.42
+    },
+    {
+     "word": "antes,",
+     "start": 71.42,
+     "end": 71.66
+    },
+    {
+     "word": "é",
+     "start": 71.7,
+     "end": 71.84
+    },
+    {
+     "word": "isso?",
+     "start": 71.84,
+     "end": 72.27
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
