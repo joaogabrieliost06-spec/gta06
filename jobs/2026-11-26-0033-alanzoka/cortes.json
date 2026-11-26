@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, GTA 6, Jason, Lucia, input lag, para-choque, tempestade, chuva, cabeleireiro, mano, velho, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:03:38", "fim": "0:05:00", "titulo": "SEMPRE FOI DEUS"},
+  {"id": "02", "inicio": "0:07:28", "fim": "0:08:46", "titulo": "5 MIL PRA CONSERTAR"},
+  {"id": "03", "inicio": "0:09:02", "fim": "0:10:12", "titulo": "QUERIDA SAI DA RUA"}
+ ]
+}
