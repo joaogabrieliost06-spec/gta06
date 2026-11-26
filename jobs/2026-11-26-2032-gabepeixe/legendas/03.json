@@ -1,0 +1,499 @@
+{
+ "segments": [
+  {
+   "start": 8.26,
+   "end": 9.5,
+   "text": "E a bolsa, a bolsa",
+   "words": [
+    {
+     "word": "E",
+     "start": 8.26,
+     "end": 8.58
+    },
+    {
+     "word": "a",
+     "start": 8.58,
+     "end": 8.7
+    },
+    {
+     "word": "bolsa,",
+     "start": 8.7,
+     "end": 9.1
+    },
+    {
+     "word": "a",
+     "start": 9.14,
+     "end": 9.28
+    },
+    {
+     "word": "bolsa",
+     "start": 9.28,
+     "end": 9.5
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 9.54,
+   "end": 10.3,
+   "text": "não é sinônimo que você tá",
+   "words": [
+    {
+     "word": "não",
+     "start": 9.54,
+     "end": 9.64
+    },
+    {
+     "word": "é",
+     "start": 9.64,
+     "end": 9.74
+    },
+    {
+     "word": "sinônimo",
+     "start": 9.74,
+     "end": 10.04
+    },
+    {
+     "word": "que",
+     "start": 10.04,
+     "end": 10.14
+    },
+    {
+     "word": "você",
+     "start": 10.14,
+     "end": 10.24
+    },
+    {
+     "word": "tá",
+     "start": 10.24,
+     "end": 10.3
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.34,
+   "end": 11.43,
+   "text": "com alguma coisa errada, não",
+   "words": [
+    {
+     "word": "com",
+     "start": 10.34,
+     "end": 10.44
+    },
+    {
+     "word": "alguma",
+     "start": 10.44,
+     "end": 10.58
+    },
+    {
+     "word": "coisa",
+     "start": 10.58,
+     "end": 10.76
+    },
+    {
+     "word": "errada,",
+     "start": 10.76,
+     "end": 11.02
+    },
+    {
+     "word": "não",
+     "start": 11.02,
+     "end": 11.43
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 11.54,
+   "end": 12.26,
+   "text": "Pessoas não podem ter",
+   "words": [
+    {
+     "word": "Pessoas",
+     "start": 11.54,
+     "end": 11.82
+    },
+    {
+     "word": "não",
+     "start": 11.82,
+     "end": 11.98
+    },
+    {
+     "word": "podem",
+     "start": 11.98,
+     "end": 12.14
+    },
+    {
+     "word": "ter",
+     "start": 12.14,
+     "end": 12.26
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 12.3,
+   "end": 12.92,
+   "text": "bolsa na rua?",
+   "words": [
+    {
+     "word": "bolsa",
+     "start": 12.3,
+     "end": 12.58
+    },
+    {
+     "word": "na",
+     "start": 12.58,
+     "end": 12.7
+    },
+    {
+     "word": "rua?",
+     "start": 12.7,
+     "end": 12.92
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 12.96,
+   "end": 13.82,
+   "text": "Quer dizer, o cara roubou",
+   "words": [
+    {
+     "word": "Quer",
+     "start": 12.96,
+     "end": 13.04
+    },
+    {
+     "word": "dizer,",
+     "start": 13.04,
+     "end": 13.16
+    },
+    {
+     "word": "o",
+     "start": 13.28,
+     "end": 13.33
+    },
+    {
+     "word": "cara",
+     "start": 13.33,
+     "end": 13.44
+    },
+    {
+     "word": "roubou",
+     "start": 13.44,
+     "end": 13.82
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 13.86,
+   "end": 15.68,
+   "text": "um banco com a mochila da Nike",
+   "words": [
+    {
+     "word": "um",
+     "start": 13.86,
+     "end": 14.46
+    },
+    {
+     "word": "banco",
+     "start": 14.46,
+     "end": 14.7
+    },
+    {
+     "word": "com",
+     "start": 14.7,
+     "end": 14.88
+    },
+    {
+     "word": "a",
+     "start": 14.88,
+     "end": 14.93
+    },
+    {
+     "word": "mochila",
+     "start": 14.93,
+     "end": 15.18
+    },
+    {
+     "word": "da",
+     "start": 15.18,
+     "end": 15.36
+    },
+    {
+     "word": "Nike",
+     "start": 15.36,
+     "end": 15.68
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 15.72,
+   "end": 16.32,
+   "text": "ninguém mais pode ter",
+   "words": [
+    {
+     "word": "ninguém",
+     "start": 15.72,
+     "end": 15.92
+    },
+    {
+     "word": "mais",
+     "start": 15.92,
+     "end": 16.08
+    },
+    {
+     "word": "pode",
+     "start": 16.08,
+     "end": 16.26
+    },
+    {
+     "word": "ter",
+     "start": 16.26,
+     "end": 16.32
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 16.36,
+   "end": 17.31,
+   "text": "a mochila da Nike",
+   "words": [
+    {
+     "word": "a",
+     "start": 16.36,
+     "end": 16.46
+    },
+    {
+     "word": "mochila",
+     "start": 16.46,
+     "end": 16.64
+    },
+    {
+     "word": "da",
+     "start": 16.64,
+     "end": 16.78
+    },
+    {
+     "word": "Nike",
+     "start": 16.78,
+     "end": 17.31
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 39.61,
+   "end": 40.57,
+   "text": "Tinha bolsa no carro?",
+   "words": [
+    {
+     "word": "Tinha",
+     "start": 39.61,
+     "end": 39.83
+    },
+    {
+     "word": "bolsa",
+     "start": 39.83,
+     "end": 40.15
+    },
+    {
+     "word": "no",
+     "start": 40.15,
+     "end": 40.29
+    },
+    {
+     "word": "carro?",
+     "start": 40.29,
+     "end": 40.57
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 40.61,
+   "end": 41.8,
+   "text": "Não tinha não, vendeu tudo",
+   "words": [
+    {
+     "word": "Não",
+     "start": 40.61,
+     "end": 40.69
+    },
+    {
+     "word": "tinha",
+     "start": 40.69,
+     "end": 40.83
+    },
+    {
+     "word": "não,",
+     "start": 40.83,
+     "end": 40.99
+    },
+    {
+     "word": "vendeu",
+     "start": 41.11,
+     "end": 41.27
+    },
+    {
+     "word": "tudo",
+     "start": 41.27,
+     "end": 41.8
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 42.36,
+   "end": 43.44,
+   "text": "As bolsas do carro",
+   "words": [
+    {
+     "word": "As",
+     "start": 42.36,
+     "end": 42.74
+    },
+    {
+     "word": "bolsas",
+     "start": 42.74,
+     "end": 43.04
+    },
+    {
+     "word": "do",
+     "start": 43.04,
+     "end": 43.16
+    },
+    {
+     "word": "carro",
+     "start": 43.16,
+     "end": 43.44
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 43.48,
+   "end": 44.55,
+   "text": "quando você chega perto do",
+   "words": [
+    {
+     "word": "quando",
+     "start": 43.48,
+     "end": 43.62
+    },
+    {
+     "word": "você",
+     "start": 43.62,
+     "end": 43.74
+    },
+    {
+     "word": "chega",
+     "start": 43.74,
+     "end": 43.94
+    },
+    {
+     "word": "perto",
+     "start": 43.94,
+     "end": 44.2
+    },
+    {
+     "word": "do",
+     "start": 44.2,
+     "end": 44.55
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 44.72,
+   "end": 46.04,
+   "text": "Yajmani e para o carro na região",
+   "words": [
+    {
+     "word": "Yajmani",
+     "start": 44.72,
+     "end": 44.9
+    },
+    {
+     "word": "e",
+     "start": 44.9,
+     "end": 45.02
+    },
+    {
+     "word": "para",
+     "start": 45.02,
+     "end": 45.12
+    },
+    {
+     "word": "o",
+     "start": 45.12,
+     "end": 45.2
+    },
+    {
+     "word": "carro",
+     "start": 45.2,
+     "end": 45.36
+    },
+    {
+     "word": "na",
+     "start": 45.36,
+     "end": 45.48
+    },
+    {
+     "word": "região",
+     "start": 45.48,
+     "end": 46.04
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 46.08,
+   "end": 47.87,
+   "text": "você consegue vender tudo o que tem",
+   "words": [
+    {
+     "word": "você",
+     "start": 46.08,
+     "end": 46.4
+    },
+    {
+     "word": "consegue",
+     "start": 46.4,
+     "end": 46.72
+    },
+    {
+     "word": "vender",
+     "start": 46.72,
+     "end": 47.0
+    },
+    {
+     "word": "tudo",
+     "start": 47.0,
+     "end": 47.24
+    },
+    {
+     "word": "o",
+     "start": 47.24,
+     "end": 47.36
+    },
+    {
+     "word": "que",
+     "start": 47.36,
+     "end": 47.42
+    },
+    {
+     "word": "tem",
+     "start": 47.42,
+     "end": 47.87
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
