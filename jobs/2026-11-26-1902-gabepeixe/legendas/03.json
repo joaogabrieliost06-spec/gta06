@@ -1,0 +1,913 @@
+{
+ "segments": [
+  {
+   "start": 3.11,
+   "end": 3.95,
+   "text": "Vamos lá, eu tenho",
+   "words": [
+    {
+     "word": "Vamos",
+     "start": 3.11,
+     "end": 3.31
+    },
+    {
+     "word": "lá,",
+     "start": 3.31,
+     "end": 3.49
+    },
+    {
+     "word": "eu",
+     "start": 3.71,
+     "end": 3.79
+    },
+    {
+     "word": "tenho",
+     "start": 3.79,
+     "end": 3.95
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 3.99,
+   "end": 5.18,
+   "text": "minha defesa aqui",
+   "words": [
+    {
+     "word": "minha",
+     "start": 3.99,
+     "end": 4.23
+    },
+    {
+     "word": "defesa",
+     "start": 4.23,
+     "end": 4.67
+    },
+    {
+     "word": "aqui",
+     "start": 4.67,
+     "end": 5.18
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 5.35,
+   "end": 6.01,
+   "text": "Porra, a Lucia tava",
+   "words": [
+    {
+     "word": "Porra,",
+     "start": 5.35,
+     "end": 5.47
+    },
+    {
+     "word": "a",
+     "start": 5.47,
+     "end": 5.61
+    },
+    {
+     "word": "Lucia",
+     "start": 5.61,
+     "end": 5.83
+    },
+    {
+     "word": "tava",
+     "start": 5.83,
+     "end": 6.01
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.05,
+   "end": 7.27,
+   "text": "passando o prestobaba",
+   "words": [
+    {
+     "word": "passando",
+     "start": 6.05,
+     "end": 6.73
+    },
+    {
+     "word": "o",
+     "start": 6.73,
+     "end": 6.87
+    },
+    {
+     "word": "prestobaba",
+     "start": 6.87,
+     "end": 7.27
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.31,
+   "end": 8.37,
+   "text": "nas costas dos caras",
+   "words": [
+    {
+     "word": "nas",
+     "start": 7.31,
+     "end": 7.53
+    },
+    {
+     "word": "costas",
+     "start": 7.53,
+     "end": 7.85
+    },
+    {
+     "word": "dos",
+     "start": 7.85,
+     "end": 8.03
+    },
+    {
+     "word": "caras",
+     "start": 8.03,
+     "end": 8.37
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 8.41,
+   "end": 8.91,
+   "text": "os caras falando",
+   "words": [
+    {
+     "word": "os",
+     "start": 8.41,
+     "end": 8.51
+    },
+    {
+     "word": "caras",
+     "start": 8.51,
+     "end": 8.65
+    },
+    {
+     "word": "falando",
+     "start": 8.65,
+     "end": 8.91
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 8.95,
+   "end": 10.62,
+   "text": "pra ir mamar",
+   "words": [
+    {
+     "word": "pra",
+     "start": 8.95,
+     "end": 9.23
+    },
+    {
+     "word": "ir",
+     "start": 9.23,
+     "end": 9.93
+    },
+    {
+     "word": "mamar",
+     "start": 9.93,
+     "end": 10.62
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.77,
+   "end": 11.23,
+   "text": "Porra, você não quer",
+   "words": [
+    {
+     "word": "Porra,",
+     "start": 10.77,
+     "end": 10.95
+    },
+    {
+     "word": "você",
+     "start": 10.97,
+     "end": 11.05
+    },
+    {
+     "word": "não",
+     "start": 11.05,
+     "end": 11.17
+    },
+    {
+     "word": "quer",
+     "start": 11.17,
+     "end": 11.23
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 11.27,
+   "end": 12.51,
+   "text": "mamar cinco caras?",
+   "words": [
+    {
+     "word": "mamar",
+     "start": 11.27,
+     "end": 11.57
+    },
+    {
+     "word": "cinco",
+     "start": 11.57,
+     "end": 11.85
+    },
+    {
+     "word": "caras?",
+     "start": 11.85,
+     "end": 12.51
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 12.55,
+   "end": 13.55,
+   "text": "Vem, porra!",
+   "words": [
+    {
+     "word": "Vem,",
+     "start": 12.55,
+     "end": 12.67
+    },
+    {
+     "word": "porra!",
+     "start": 12.91,
+     "end": 13.55
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 13.59,
+   "end": 15.28,
+   "text": "Como é que tá minha cachorra rabuda",
+   "words": [
+    {
+     "word": "Como",
+     "start": 13.59,
+     "end": 13.71
+    },
+    {
+     "word": "é",
+     "start": 13.71,
+     "end": 13.79
+    },
+    {
+     "word": "que",
+     "start": 13.79,
+     "end": 13.84
+    },
+    {
+     "word": "tá",
+     "start": 13.84,
+     "end": 13.91
+    },
+    {
+     "word": "minha",
+     "start": 13.91,
+     "end": 14.03
+    },
+    {
+     "word": "cachorra",
+     "start": 14.03,
+     "end": 14.49
+    },
+    {
+     "word": "rabuda",
+     "start": 14.49,
+     "end": 15.28
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 15.35,
+   "end": 15.65,
+   "text": "irmão?",
+   "words": [
+    {
+     "word": "irmão?",
+     "start": 15.35,
+     "end": 15.65
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 15.69,
+   "end": 16.63,
+   "text": "Eu só dancei pra ganhar",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 15.69,
+     "end": 15.75
+    },
+    {
+     "word": "só",
+     "start": 15.75,
+     "end": 15.85
+    },
+    {
+     "word": "dancei",
+     "start": 15.85,
+     "end": 16.27
+    },
+    {
+     "word": "pra",
+     "start": 16.27,
+     "end": 16.43
+    },
+    {
+     "word": "ganhar",
+     "start": 16.43,
+     "end": 16.63
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 16.67,
+   "end": 17.57,
+   "text": "o bagulho ali, mano",
+   "words": [
+    {
+     "word": "o",
+     "start": 16.67,
+     "end": 16.81
+    },
+    {
+     "word": "bagulho",
+     "start": 16.81,
+     "end": 17.17
+    },
+    {
+     "word": "ali,",
+     "start": 17.17,
+     "end": 17.35
+    },
+    {
+     "word": "mano",
+     "start": 17.49,
+     "end": 17.57
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 17.61,
+   "end": 19.0,
+   "text": "Tá de sacanagem, porra",
+   "words": [
+    {
+     "word": "Tá",
+     "start": 17.61,
+     "end": 17.69
+    },
+    {
+     "word": "de",
+     "start": 17.69,
+     "end": 17.79
+    },
+    {
+     "word": "sacanagem,",
+     "start": 17.79,
+     "end": 18.31
+    },
+    {
+     "word": "porra",
+     "start": 18.51,
+     "end": 19.0
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 19.35,
+   "end": 20.59,
+   "text": "Não, tá de brincadeira",
+   "words": [
+    {
+     "word": "Não,",
+     "start": 19.35,
+     "end": 19.45
+    },
+    {
+     "word": "tá",
+     "start": 19.55,
+     "end": 19.67
+    },
+    {
+     "word": "de",
+     "start": 19.67,
+     "end": 19.81
+    },
+    {
+     "word": "brincadeira",
+     "start": 19.81,
+     "end": 20.59
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 20.63,
+   "end": 21.82,
+   "text": "Porra, aí não",
+   "words": [
+    {
+     "word": "Porra,",
+     "start": 20.63,
+     "end": 21.19
+    },
+    {
+     "word": "aí",
+     "start": 21.3,
+     "end": 21.52
+    },
+    {
+     "word": "não",
+     "start": 21.66,
+     "end": 21.82
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 21.86,
+   "end": 23.38,
+   "text": "aí tá de sacanagem, né?",
+   "words": [
+    {
+     "word": "aí",
+     "start": 21.86,
+     "end": 22.0
+    },
+    {
+     "word": "tá",
+     "start": 22.0,
+     "end": 22.18
+    },
+    {
+     "word": "de",
+     "start": 22.18,
+     "end": 22.32
+    },
+    {
+     "word": "sacanagem,",
+     "start": 22.32,
+     "end": 23.0
+    },
+    {
+     "word": "né?",
+     "start": 23.12,
+     "end": 23.38
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 23.42,
+   "end": 25.02,
+   "text": "Que mundo é esse tão cruel",
+   "words": [
+    {
+     "word": "Que",
+     "start": 23.42,
+     "end": 23.84
+    },
+    {
+     "word": "mundo",
+     "start": 23.84,
+     "end": 24.08
+    },
+    {
+     "word": "é",
+     "start": 24.08,
+     "end": 24.26
+    },
+    {
+     "word": "esse",
+     "start": 24.26,
+     "end": 24.52
+    },
+    {
+     "word": "tão",
+     "start": 24.52,
+     "end": 24.74
+    },
+    {
+     "word": "cruel",
+     "start": 24.74,
+     "end": 25.02
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 25.06,
+   "end": 26.21,
+   "text": "que a gente vive",
+   "words": [
+    {
+     "word": "que",
+     "start": 25.06,
+     "end": 25.24
+    },
+    {
+     "word": "a",
+     "start": 25.24,
+     "end": 25.32
+    },
+    {
+     "word": "gente",
+     "start": 25.32,
+     "end": 25.5
+    },
+    {
+     "word": "vive",
+     "start": 25.5,
+     "end": 26.21
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 26.93,
+   "end": 28.33,
+   "text": "Porra, tá de... não fez nada",
+   "words": [
+    {
+     "word": "Porra,",
+     "start": 26.93,
+     "end": 27.19
+    },
+    {
+     "word": "tá",
+     "start": 27.33,
+     "end": 27.41
+    },
+    {
+     "word": "de...",
+     "start": 27.41,
+     "end": 27.57
+    },
+    {
+     "word": "não",
+     "start": 27.63,
+     "end": 27.75
+    },
+    {
+     "word": "fez",
+     "start": 27.75,
+     "end": 27.97
+    },
+    {
+     "word": "nada",
+     "start": 27.97,
+     "end": 28.33
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.37,
+   "end": 29.27,
+   "text": "Mano, a mulher não fez nada",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 28.37,
+     "end": 28.45
+    },
+    {
+     "word": "a",
+     "start": 28.53,
+     "end": 28.63
+    },
+    {
+     "word": "mulher",
+     "start": 28.63,
+     "end": 28.83
+    },
+    {
+     "word": "não",
+     "start": 28.83,
+     "end": 28.95
+    },
+    {
+     "word": "fez",
+     "start": 28.95,
+     "end": 29.13
+    },
+    {
+     "word": "nada",
+     "start": 29.13,
+     "end": 29.27
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 29.31,
+   "end": 30.23,
+   "text": "nem encostou em mim",
+   "words": [
+    {
+     "word": "nem",
+     "start": 29.31,
+     "end": 29.45
+    },
+    {
+     "word": "encostou",
+     "start": 29.45,
+     "end": 29.97
+    },
+    {
+     "word": "em",
+     "start": 29.97,
+     "end": 30.07
+    },
+    {
+     "word": "mim",
+     "start": 30.07,
+     "end": 30.23
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 30.27,
+   "end": 31.43,
+   "text": "Ela nem encostar",
+   "words": [
+    {
+     "word": "Ela",
+     "start": 30.27,
+     "end": 30.77
+    },
+    {
+     "word": "nem",
+     "start": 30.77,
+     "end": 30.97
+    },
+    {
+     "word": "encostar",
+     "start": 30.97,
+     "end": 31.43
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 31.47,
+   "end": 32.17,
+   "text": "encostou em mim",
+   "words": [
+    {
+     "word": "encostou",
+     "start": 31.47,
+     "end": 31.97
+    },
+    {
+     "word": "em",
+     "start": 31.97,
+     "end": 32.05
+    },
+    {
+     "word": "mim",
+     "start": 32.05,
+     "end": 32.17
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 32.21,
+   "end": 33.35,
+   "text": "Ficou dançando",
+   "words": [
+    {
+     "word": "Ficou",
+     "start": 32.21,
+     "end": 32.69
+    },
+    {
+     "word": "dançando",
+     "start": 32.69,
+     "end": 33.35
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 33.39,
+   "end": 34.62,
+   "text": "não havia Wi-Fi ainda",
+   "words": [
+    {
+     "word": "não",
+     "start": 33.39,
+     "end": 33.45
+    },
+    {
+     "word": "havia",
+     "start": 33.45,
+     "end": 33.65
+    },
+    {
+     "word": "Wi-Fi",
+     "start": 33.65,
+     "end": 34.05
+    },
+    {
+     "word": "ainda",
+     "start": 34.05,
+     "end": 34.62
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 39.01,
+   "end": 39.65,
+   "text": "Eu tenho que escolher",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 39.01,
+     "end": 39.07
+    },
+    {
+     "word": "tenho",
+     "start": 39.07,
+     "end": 39.17
+    },
+    {
+     "word": "que",
+     "start": 39.17,
+     "end": 39.25
+    },
+    {
+     "word": "escolher",
+     "start": 39.25,
+     "end": 39.65
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 39.69,
+   "end": 40.55,
+   "text": "Eu tenho que escolher",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 39.69,
+     "end": 40.07
+    },
+    {
+     "word": "tenho",
+     "start": 40.07,
+     "end": 40.19
+    },
+    {
+     "word": "que",
+     "start": 40.19,
+     "end": 40.29
+    },
+    {
+     "word": "escolher",
+     "start": 40.29,
+     "end": 40.55
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 40.59,
+   "end": 41.97,
+   "text": "alguém pra tirar aqui, viado",
+   "words": [
+    {
+     "word": "alguém",
+     "start": 40.59,
+     "end": 40.77
+    },
+    {
+     "word": "pra",
+     "start": 40.77,
+     "end": 40.95
+    },
+    {
+     "word": "tirar",
+     "start": 40.95,
+     "end": 41.25
+    },
+    {
+     "word": "aqui,",
+     "start": 41.25,
+     "end": 41.63
+    },
+    {
+     "word": "viado",
+     "start": 41.67,
+     "end": 41.97
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 42.01,
+   "end": 44.44,
+   "text": "Bom, eu vou tirar agora",
+   "words": [
+    {
+     "word": "Bom,",
+     "start": 42.01,
+     "end": 42.67
+    },
+    {
+     "word": "eu",
+     "start": 43.3,
+     "end": 43.7
+    },
+    {
+     "word": "vou",
+     "start": 43.7,
+     "end": 43.8
+    },
+    {
+     "word": "tirar",
+     "start": 43.8,
+     "end": 44.12
+    },
+    {
+     "word": "agora",
+     "start": 44.12,
+     "end": 44.44
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 44.48,
+   "end": 45.78,
+   "text": "o desenvolvedor aqui",
+   "words": [
+    {
+     "word": "o",
+     "start": 44.48,
+     "end": 44.78
+    },
+    {
+     "word": "desenvolvedor",
+     "start": 44.78,
+     "end": 45.56
+    },
+    {
+     "word": "aqui",
+     "start": 45.56,
+     "end": 45.78
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 45.82,
+   "end": 47.23,
+   "text": "porque eles já pagaram",
+   "words": [
+    {
+     "word": "porque",
+     "start": 45.82,
+     "end": 46.2
+    },
+    {
+     "word": "eles",
+     "start": 46.2,
+     "end": 46.38
+    },
+    {
+     "word": "já",
+     "start": 46.38,
+     "end": 46.52
+    },
+    {
+     "word": "pagaram",
+     "start": 46.52,
+     "end": 47.23
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
