@@ -1,0 +1,523 @@
+{
+ "segments": [
+  {
+   "start": 3.63,
+   "end": 5.6,
+   "text": "Porra, eu liguei o foco",
+   "words": [
+    {
+     "word": "Porra,",
+     "start": 3.63,
+     "end": 4.13
+    },
+    {
+     "word": "eu",
+     "start": 4.43,
+     "end": 4.51
+    },
+    {
+     "word": "liguei",
+     "start": 4.51,
+     "end": 4.75
+    },
+    {
+     "word": "o",
+     "start": 4.75,
+     "end": 4.85
+    },
+    {
+     "word": "foco",
+     "start": 4.85,
+     "end": 5.6
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 11.77,
+   "end": 12.49,
+   "text": "— Moral,⁠ viado⁠",
+   "words": [
+    {
+     "word": "— Moral,⁠",
+     "start": 11.77,
+     "end": 12.11
+    },
+    {
+     "word": "viado⁠",
+     "start": 12.33,
+     "end": 12.49
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 12.53,
+   "end": 13.67,
+   "text": "vou⁠ morrer⁠ por⁠ causa⁠ disso⁠ aqui⁠",
+   "words": [
+    {
+     "word": "vou⁠",
+     "start": 12.53,
+     "end": 12.65
+    },
+    {
+     "word": "morrer⁠",
+     "start": 12.65,
+     "end": 12.91
+    },
+    {
+     "word": "por⁠",
+     "start": 12.91,
+     "end": 13.05
+    },
+    {
+     "word": "causa⁠",
+     "start": 13.05,
+     "end": 13.17
+    },
+    {
+     "word": "disso⁠",
+     "start": 13.17,
+     "end": 13.39
+    },
+    {
+     "word": "aqui⁠",
+     "start": 13.39,
+     "end": 13.67
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 13.71,
+   "end": 15.68,
+   "text": "Viado,⁠ não⁠ tem⁠ cofre,⁠ viado⁠",
+   "words": [
+    {
+     "word": "Viado,⁠",
+     "start": 13.71,
+     "end": 13.95
+    },
+    {
+     "word": "não⁠",
+     "start": 14.37,
+     "end": 14.49
+    },
+    {
+     "word": "tem⁠",
+     "start": 14.49,
+     "end": 14.67
+    },
+    {
+     "word": "cofre,⁠",
+     "start": 14.67,
+     "end": 15.05
+    },
+    {
+     "word": "viado⁠",
+     "start": 15.19,
+     "end": 15.68
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 53.92,
+   "end": 54.54,
+   "text": "Se não tem cofre",
+   "words": [
+    {
+     "word": "Se",
+     "start": 53.92,
+     "end": 54.04
+    },
+    {
+     "word": "não",
+     "start": 54.04,
+     "end": 54.12
+    },
+    {
+     "word": "tem",
+     "start": 54.12,
+     "end": 54.26
+    },
+    {
+     "word": "cofre",
+     "start": 54.26,
+     "end": 54.54
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 54.58,
+   "end": 55.18,
+   "text": "por que você tá rodeando",
+   "words": [
+    {
+     "word": "por",
+     "start": 54.58,
+     "end": 54.62
+    },
+    {
+     "word": "que",
+     "start": 54.62,
+     "end": 54.67
+    },
+    {
+     "word": "você",
+     "start": 54.67,
+     "end": 54.78
+    },
+    {
+     "word": "tá",
+     "start": 54.78,
+     "end": 54.92
+    },
+    {
+     "word": "rodeando",
+     "start": 54.92,
+     "end": 55.18
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 55.22,
+   "end": 56.28,
+   "text": "no mesmo lugar, irmão?",
+   "words": [
+    {
+     "word": "no",
+     "start": 55.22,
+     "end": 55.3
+    },
+    {
+     "word": "mesmo",
+     "start": 55.3,
+     "end": 55.44
+    },
+    {
+     "word": "lugar,",
+     "start": 55.44,
+     "end": 55.7
+    },
+    {
+     "word": "irmão?",
+     "start": 55.86,
+     "end": 56.28
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 56.32,
+   "end": 56.96,
+   "text": "Eu tenho que roubar",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 56.32,
+     "end": 56.38
+    },
+    {
+     "word": "tenho",
+     "start": 56.38,
+     "end": 56.6
+    },
+    {
+     "word": "que",
+     "start": 56.6,
+     "end": 56.74
+    },
+    {
+     "word": "roubar",
+     "start": 56.74,
+     "end": 56.96
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 57.0,
+   "end": 58.11,
+   "text": "a joalheria, viado",
+   "words": [
+    {
+     "word": "a",
+     "start": 57.0,
+     "end": 57.12
+    },
+    {
+     "word": "joalheria,",
+     "start": 57.12,
+     "end": 57.48
+    },
+    {
+     "word": "viado",
+     "start": 57.6,
+     "end": 58.11
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 58.65,
+   "end": 60.01,
+   "text": "Que desgraça do caralho",
+   "words": [
+    {
+     "word": "Que",
+     "start": 58.65,
+     "end": 58.71
+    },
+    {
+     "word": "desgraça",
+     "start": 58.71,
+     "end": 59.35
+    },
+    {
+     "word": "do",
+     "start": 59.35,
+     "end": 59.49
+    },
+    {
+     "word": "caralho",
+     "start": 59.49,
+     "end": 60.01
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 60.05,
+   "end": 60.8,
+   "text": "meu parceiro",
+   "words": [
+    {
+     "word": "meu",
+     "start": 60.05,
+     "end": 60.07
+    },
+    {
+     "word": "parceiro",
+     "start": 60.07,
+     "end": 60.8
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 65.77,
+   "end": 67.4,
+   "text": "Vai tomar no cu, mano",
+   "words": [
+    {
+     "word": "Vai",
+     "start": 65.77,
+     "end": 65.89
+    },
+    {
+     "word": "tomar",
+     "start": 65.89,
+     "end": 66.27
+    },
+    {
+     "word": "no",
+     "start": 66.27,
+     "end": 66.53
+    },
+    {
+     "word": "cu,",
+     "start": 66.53,
+     "end": 66.81
+    },
+    {
+     "word": "mano",
+     "start": 66.99,
+     "end": 67.4
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 68.67,
+   "end": 69.96,
+   "text": "Que isso, mano",
+   "words": [
+    {
+     "word": "Que",
+     "start": 68.67,
+     "end": 68.77
+    },
+    {
+     "word": "isso,",
+     "start": 68.77,
+     "end": 69.33
+    },
+    {
+     "word": "mano",
+     "start": 69.57,
+     "end": 69.96
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 70.87,
+   "end": 71.89,
+   "text": "Não tinha mesmo",
+   "words": [
+    {
+     "word": "Não",
+     "start": 70.87,
+     "end": 70.99
+    },
+    {
+     "word": "tinha",
+     "start": 70.99,
+     "end": 71.29
+    },
+    {
+     "word": "mesmo",
+     "start": 71.29,
+     "end": 71.89
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 71.93,
+   "end": 72.63,
+   "text": "Mas ele tá falando pra",
+   "words": [
+    {
+     "word": "Mas",
+     "start": 71.93,
+     "end": 72.11
+    },
+    {
+     "word": "ele",
+     "start": 72.11,
+     "end": 72.25
+    },
+    {
+     "word": "tá",
+     "start": 72.25,
+     "end": 72.33
+    },
+    {
+     "word": "falando",
+     "start": 72.33,
+     "end": 72.55
+    },
+    {
+     "word": "pra",
+     "start": 72.55,
+     "end": 72.63
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 72.67,
+   "end": 73.83,
+   "text": "procurar o anel no cofre",
+   "words": [
+    {
+     "word": "procurar",
+     "start": 72.67,
+     "end": 73.07
+    },
+    {
+     "word": "o",
+     "start": 73.07,
+     "end": 73.17
+    },
+    {
+     "word": "anel",
+     "start": 73.17,
+     "end": 73.33
+    },
+    {
+     "word": "no",
+     "start": 73.33,
+     "end": 73.45
+    },
+    {
+     "word": "cofre",
+     "start": 73.45,
+     "end": 73.83
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 73.87,
+   "end": 74.9,
+   "text": "Não tinha, pô",
+   "words": [
+    {
+     "word": "Não",
+     "start": 73.87,
+     "end": 73.95
+    },
+    {
+     "word": "tinha,",
+     "start": 73.95,
+     "end": 74.25
+    },
+    {
+     "word": "pô",
+     "start": 74.47,
+     "end": 74.9
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 86.99,
+   "end": 88.1,
+   "text": "— Ainda⁠ bem⁠ que⁠ eu⁠ não⁠ perdi⁠ nada⁠",
+   "words": [
+    {
+     "word": "— Ainda⁠",
+     "start": 86.99,
+     "end": 87.07
+    },
+    {
+     "word": "bem⁠",
+     "start": 87.07,
+     "end": 87.17
+    },
+    {
+     "word": "que⁠",
+     "start": 87.17,
+     "end": 87.27
+    },
+    {
+     "word": "eu⁠",
+     "start": 87.27,
+     "end": 87.32
+    },
+    {
+     "word": "não⁠",
+     "start": 87.32,
+     "end": 87.37
+    },
+    {
+     "word": "perdi⁠",
+     "start": 87.37,
+     "end": 87.63
+    },
+    {
+     "word": "nada⁠",
+     "start": 87.63,
+     "end": 88.1
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
