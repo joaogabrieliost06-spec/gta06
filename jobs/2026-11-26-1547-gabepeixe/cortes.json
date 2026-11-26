@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Jason, Lucia, Nate, Uber, grude, academia, perfil criminal, mano, bicho, viado, galera, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:04:16", "fim": "0:05:40", "titulo": "CANCELEI O UBER DA MULHER"},
+  {"id": "02", "inicio": "0:09:58", "fim": "0:11:26", "titulo": "ELA ME CHAMOU DE GRUDE"},
+  {"id": "03", "inicio": "0:18:18", "fim": "0:19:16", "titulo": "PERDI TUDO QUE TAVA NO CARRO"}
+ ]
+}
