@@ -2,3 +2,4 @@
 # Ex.:
 # https://kick.com/canal  20
 https://www.twitch.tv/alanzoka  20
+https://kick.com/gabepeixe  20
