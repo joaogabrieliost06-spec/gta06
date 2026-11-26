@@ -1,0 +1,173 @@
+{
+ "segments": [
+  {
+   "start": 32.18,
+   "end": 32.93,
+   "text": "Moleque!",
+   "words": [
+    {
+     "word": "Moleque!",
+     "start": 32.18,
+     "end": 32.93
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 33.25,
+   "end": 35.46,
+   "text": "É, é, é!",
+   "words": [
+    {
+     "word": "É,",
+     "start": 33.25,
+     "end": 33.75
+    },
+    {
+     "word": "é,",
+     "start": 34.31,
+     "end": 35.09
+    },
+    {
+     "word": "é!",
+     "start": 35.09,
+     "end": 35.46
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 36.89,
+   "end": 38.34,
+   "text": "Jogo muito, filhão!",
+   "words": [
+    {
+     "word": "Jogo",
+     "start": 36.89,
+     "end": 37.27
+    },
+    {
+     "word": "muito,",
+     "start": 37.27,
+     "end": 37.69
+    },
+    {
+     "word": "filhão!",
+     "start": 37.79,
+     "end": 38.34
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 45.76,
+   "end": 47.38,
+   "text": "Moleque, achei",
+   "words": [
+    {
+     "word": "Moleque,",
+     "start": 45.76,
+     "end": 46.6
+    },
+    {
+     "word": "achei",
+     "start": 47.02,
+     "end": 47.38
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 47.42,
+   "end": 48.22,
+   "text": "Achei o avião",
+   "words": [
+    {
+     "word": "Achei",
+     "start": 47.42,
+     "end": 47.74
+    },
+    {
+     "word": "o",
+     "start": 47.74,
+     "end": 47.92
+    },
+    {
+     "word": "avião",
+     "start": 47.92,
+     "end": 48.22
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 48.26,
+   "end": 49.32,
+   "text": "avião é melhor coisa",
+   "words": [
+    {
+     "word": "avião",
+     "start": 48.26,
+     "end": 48.54
+    },
+    {
+     "word": "é",
+     "start": 48.54,
+     "end": 48.76
+    },
+    {
+     "word": "melhor",
+     "start": 48.76,
+     "end": 48.92
+    },
+    {
+     "word": "coisa",
+     "start": 48.92,
+     "end": 49.32
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 49.36,
+   "end": 50.06,
+   "text": "Minha melhor pilotagem",
+   "words": [
+    {
+     "word": "Minha",
+     "start": 49.36,
+     "end": 49.48
+    },
+    {
+     "word": "melhor",
+     "start": 49.48,
+     "end": 49.68
+    },
+    {
+     "word": "pilotagem",
+     "start": 49.68,
+     "end": 50.06
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 50.1,
+   "end": 50.71,
+   "text": "do avião",
+   "words": [
+    {
+     "word": "do",
+     "start": 50.1,
+     "end": 50.22
+    },
+    {
+     "word": "avião",
+     "start": 50.22,
+     "end": 50.71
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
