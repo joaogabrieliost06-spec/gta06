@@ -1,0 +1,436 @@
+{
+ "segments": [
+  {
+   "start": 1.45,
+   "end": 2.6,
+   "text": "Você vai considerar que fui eu",
+   "words": [
+    {
+     "word": "Você",
+     "start": 1.45,
+     "end": 1.65
+    },
+    {
+     "word": "vai",
+     "start": 1.65,
+     "end": 1.79
+    },
+    {
+     "word": "considerar",
+     "start": 1.79,
+     "end": 2.25
+    },
+    {
+     "word": "que",
+     "start": 2.25,
+     "end": 2.39
+    },
+    {
+     "word": "fui",
+     "start": 2.39,
+     "end": 2.55
+    },
+    {
+     "word": "eu",
+     "start": 2.55,
+     "end": 2.6
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 2.63,
+   "end": 3.94,
+   "text": "que atropelei o pedestre, jogo?",
+   "words": [
+    {
+     "word": "que",
+     "start": 2.63,
+     "end": 2.71
+    },
+    {
+     "word": "atropelei",
+     "start": 2.71,
+     "end": 3.05
+    },
+    {
+     "word": "o",
+     "start": 3.05,
+     "end": 3.11
+    },
+    {
+     "word": "pedestre,",
+     "start": 3.11,
+     "end": 3.47
+    },
+    {
+     "word": "jogo?",
+     "start": 3.55,
+     "end": 3.94
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 4.01,
+   "end": 4.75,
+   "text": "É sério?",
+   "words": [
+    {
+     "word": "É",
+     "start": 4.01,
+     "end": 4.25
+    },
+    {
+     "word": "sério?",
+     "start": 4.25,
+     "end": 4.75
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 4.79,
+   "end": 6.45,
+   "text": "O cara claramente bateu em mim",
+   "words": [
+    {
+     "word": "O",
+     "start": 4.79,
+     "end": 5.09
+    },
+    {
+     "word": "cara",
+     "start": 5.09,
+     "end": 5.27
+    },
+    {
+     "word": "claramente",
+     "start": 5.27,
+     "end": 5.87
+    },
+    {
+     "word": "bateu",
+     "start": 5.87,
+     "end": 6.27
+    },
+    {
+     "word": "em",
+     "start": 6.27,
+     "end": 6.33
+    },
+    {
+     "word": "mim",
+     "start": 6.33,
+     "end": 6.45
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.49,
+   "end": 7.09,
+   "text": "e você vai considerar",
+   "words": [
+    {
+     "word": "e",
+     "start": 6.49,
+     "end": 6.61
+    },
+    {
+     "word": "você",
+     "start": 6.61,
+     "end": 6.73
+    },
+    {
+     "word": "vai",
+     "start": 6.73,
+     "end": 6.81
+    },
+    {
+     "word": "considerar",
+     "start": 6.81,
+     "end": 7.09
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.13,
+   "end": 8.44,
+   "text": "que eu bati no pedestre",
+   "words": [
+    {
+     "word": "que",
+     "start": 7.13,
+     "end": 7.23
+    },
+    {
+     "word": "eu",
+     "start": 7.23,
+     "end": 7.33
+    },
+    {
+     "word": "bati",
+     "start": 7.33,
+     "end": 7.59
+    },
+    {
+     "word": "no",
+     "start": 7.59,
+     "end": 7.69
+    },
+    {
+     "word": "pedestre",
+     "start": 7.69,
+     "end": 8.44
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 9.15,
+   "end": 9.96,
+   "text": "Beleza, então",
+   "words": [
+    {
+     "word": "Beleza,",
+     "start": 9.15,
+     "end": 9.47
+    },
+    {
+     "word": "então",
+     "start": 9.53,
+     "end": 9.96
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.33,
+   "end": 10.91,
+   "text": "então eu vou te ensinar",
+   "words": [
+    {
+     "word": "então",
+     "start": 10.33,
+     "end": 10.59
+    },
+    {
+     "word": "eu",
+     "start": 10.59,
+     "end": 10.67
+    },
+    {
+     "word": "vou",
+     "start": 10.67,
+     "end": 10.72
+    },
+    {
+     "word": "te",
+     "start": 10.72,
+     "end": 10.81
+    },
+    {
+     "word": "ensinar",
+     "start": 10.81,
+     "end": 10.91
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.95,
+   "end": 12.6,
+   "text": "uma coisa aqui, ô baleia, eu",
+   "words": [
+    {
+     "word": "uma",
+     "start": 10.95,
+     "end": 11.09
+    },
+    {
+     "word": "coisa",
+     "start": 11.09,
+     "end": 11.31
+    },
+    {
+     "word": "aqui,",
+     "start": 11.31,
+     "end": 11.47
+    },
+    {
+     "word": "ô",
+     "start": 11.55,
+     "end": 11.6
+    },
+    {
+     "word": "baleia,",
+     "start": 11.63,
+     "end": 12.11
+    },
+    {
+     "word": "eu",
+     "start": 12.11,
+     "end": 12.6
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 19.35,
+   "end": 20.6,
+   "text": "Ia nunca mais fazer isso",
+   "words": [
+    {
+     "word": "Ia",
+     "start": 19.35,
+     "end": 19.41
+    },
+    {
+     "word": "nunca",
+     "start": 19.41,
+     "end": 19.61
+    },
+    {
+     "word": "mais",
+     "start": 19.61,
+     "end": 19.77
+    },
+    {
+     "word": "fazer",
+     "start": 19.77,
+     "end": 20.09
+    },
+    {
+     "word": "isso",
+     "start": 20.09,
+     "end": 20.6
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 24.3,
+   "end": 25.98,
+   "text": "Beleza, é um crime denunciado",
+   "words": [
+    {
+     "word": "Beleza,",
+     "start": 24.3,
+     "end": 24.9
+    },
+    {
+     "word": "é",
+     "start": 24.96,
+     "end": 25.01
+    },
+    {
+     "word": "um",
+     "start": 25.01,
+     "end": 25.06
+    },
+    {
+     "word": "crime",
+     "start": 25.06,
+     "end": 25.18
+    },
+    {
+     "word": "denunciado",
+     "start": 25.18,
+     "end": 25.98
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 26.02,
+   "end": 27.63,
+   "text": "parabéns, todo mundo me viu",
+   "words": [
+    {
+     "word": "parabéns,",
+     "start": 26.02,
+     "end": 26.48
+    },
+    {
+     "word": "todo",
+     "start": 26.52,
+     "end": 26.66
+    },
+    {
+     "word": "mundo",
+     "start": 26.66,
+     "end": 26.82
+    },
+    {
+     "word": "me",
+     "start": 26.82,
+     "end": 27.0
+    },
+    {
+     "word": "viu",
+     "start": 27.0,
+     "end": 27.63
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.05,
+   "end": 28.85,
+   "text": "Pra quê, viado?",
+   "words": [
+    {
+     "word": "Pra",
+     "start": 28.05,
+     "end": 28.17
+    },
+    {
+     "word": "quê,",
+     "start": 28.17,
+     "end": 28.45
+    },
+    {
+     "word": "viado?",
+     "start": 28.63,
+     "end": 28.85
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.89,
+   "end": 30.3,
+   "text": "Pra quê, o cara, mano",
+   "words": [
+    {
+     "word": "Pra",
+     "start": 28.89,
+     "end": 28.99
+    },
+    {
+     "word": "quê,",
+     "start": 28.99,
+     "end": 29.19
+    },
+    {
+     "word": "o",
+     "start": 29.27,
+     "end": 29.32
+    },
+    {
+     "word": "cara,",
+     "start": 29.32,
+     "end": 29.51
+    },
+    {
+     "word": "mano",
+     "start": 29.79,
+     "end": 30.3
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
