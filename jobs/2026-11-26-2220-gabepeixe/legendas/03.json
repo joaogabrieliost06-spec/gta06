@@ -1,0 +1,520 @@
+{
+ "segments": [
+  {
+   "start": 1.13,
+   "end": 2.29,
+   "text": "Olha o que ela tinha mandado",
+   "words": [
+    {
+     "word": "Olha",
+     "start": 1.13,
+     "end": 1.41
+    },
+    {
+     "word": "o",
+     "start": 1.41,
+     "end": 1.51
+    },
+    {
+     "word": "que",
+     "start": 1.51,
+     "end": 1.56
+    },
+    {
+     "word": "ela",
+     "start": 1.56,
+     "end": 1.65
+    },
+    {
+     "word": "tinha",
+     "start": 1.65,
+     "end": 1.79
+    },
+    {
+     "word": "mandado",
+     "start": 1.79,
+     "end": 2.29
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 2.33,
+   "end": 3.69,
+   "text": "mas valeu, essa tempestade",
+   "words": [
+    {
+     "word": "mas",
+     "start": 2.33,
+     "end": 2.53
+    },
+    {
+     "word": "valeu,",
+     "start": 2.53,
+     "end": 2.93
+    },
+    {
+     "word": "essa",
+     "start": 3.19,
+     "end": 3.33
+    },
+    {
+     "word": "tempestade",
+     "start": 3.33,
+     "end": 3.69
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 3.73,
+   "end": 4.78,
+   "text": "tá uma loucura",
+   "words": [
+    {
+     "word": "tá",
+     "start": 3.73,
+     "end": 3.85
+    },
+    {
+     "word": "uma",
+     "start": 3.85,
+     "end": 3.97
+    },
+    {
+     "word": "loucura",
+     "start": 3.97,
+     "end": 4.78
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 7.23,
+   "end": 8.2,
+   "text": "cadê você",
+   "words": [
+    {
+     "word": "cadê",
+     "start": 7.23,
+     "end": 7.67
+    },
+    {
+     "word": "você",
+     "start": 7.67,
+     "end": 8.2
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 10.16,
+   "end": 11.93,
+   "text": "oi, na boa, cadê você, Jay",
+   "words": [
+    {
+     "word": "oi,",
+     "start": 10.16,
+     "end": 10.4
+    },
+    {
+     "word": "na",
+     "start": 10.5,
+     "end": 10.6
+    },
+    {
+     "word": "boa,",
+     "start": 10.6,
+     "end": 10.8
+    },
+    {
+     "word": "cadê",
+     "start": 10.86,
+     "end": 11.04
+    },
+    {
+     "word": "você,",
+     "start": 11.04,
+     "end": 11.28
+    },
+    {
+     "word": "Jay",
+     "start": 11.48,
+     "end": 11.93
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 12.25,
+   "end": 13.36,
+   "text": "caralho, atenta o celular",
+   "words": [
+    {
+     "word": "caralho,",
+     "start": 12.25,
+     "end": 12.49
+    },
+    {
+     "word": "atenta",
+     "start": 12.55,
+     "end": 12.75
+    },
+    {
+     "word": "o",
+     "start": 12.75,
+     "end": 12.81
+    },
+    {
+     "word": "celular",
+     "start": 12.81,
+     "end": 13.36
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 13.49,
+   "end": 14.75,
+   "text": "ok, você, você quer",
+   "words": [
+    {
+     "word": "ok,",
+     "start": 13.49,
+     "end": 13.71
+    },
+    {
+     "word": "você,",
+     "start": 13.89,
+     "end": 14.17
+    },
+    {
+     "word": "você",
+     "start": 14.17,
+     "end": 14.59
+    },
+    {
+     "word": "quer",
+     "start": 14.59,
+     "end": 14.75
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 14.79,
+   "end": 16.26,
+   "text": "ser babaca, sério mesmo",
+   "words": [
+    {
+     "word": "ser",
+     "start": 14.79,
+     "end": 14.97
+    },
+    {
+     "word": "babaca,",
+     "start": 14.97,
+     "end": 15.43
+    },
+    {
+     "word": "sério",
+     "start": 15.57,
+     "end": 15.77
+    },
+    {
+     "word": "mesmo",
+     "start": 15.77,
+     "end": 16.26
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 16.81,
+   "end": 17.57,
+   "text": "sei que não te pegaram",
+   "words": [
+    {
+     "word": "sei",
+     "start": 16.81,
+     "end": 16.97
+    },
+    {
+     "word": "que",
+     "start": 16.97,
+     "end": 17.05
+    },
+    {
+     "word": "não",
+     "start": 17.05,
+     "end": 17.15
+    },
+    {
+     "word": "te",
+     "start": 17.15,
+     "end": 17.23
+    },
+    {
+     "word": "pegaram",
+     "start": 17.23,
+     "end": 17.57
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 17.61,
+   "end": 18.41,
+   "text": "senão você tá no noticiário",
+   "words": [
+    {
+     "word": "senão",
+     "start": 17.61,
+     "end": 17.71
+    },
+    {
+     "word": "você",
+     "start": 17.71,
+     "end": 17.81
+    },
+    {
+     "word": "tá",
+     "start": 17.81,
+     "end": 17.86
+    },
+    {
+     "word": "no",
+     "start": 17.86,
+     "end": 17.95
+    },
+    {
+     "word": "noticiário",
+     "start": 17.95,
+     "end": 18.41
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 18.45,
+   "end": 19.48,
+   "text": "vou acabar com você",
+   "words": [
+    {
+     "word": "vou",
+     "start": 18.45,
+     "end": 18.51
+    },
+    {
+     "word": "acabar",
+     "start": 18.51,
+     "end": 18.73
+    },
+    {
+     "word": "com",
+     "start": 18.73,
+     "end": 18.87
+    },
+    {
+     "word": "você",
+     "start": 18.87,
+     "end": 19.48
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 38.33,
+   "end": 39.19,
+   "text": "diverte não, tu vai vir",
+   "words": [
+    {
+     "word": "diverte",
+     "start": 38.33,
+     "end": 38.71
+    },
+    {
+     "word": "não,",
+     "start": 38.71,
+     "end": 38.83
+    },
+    {
+     "word": "tu",
+     "start": 38.93,
+     "end": 38.98
+    },
+    {
+     "word": "vai",
+     "start": 38.98,
+     "end": 39.07
+    },
+    {
+     "word": "vir",
+     "start": 39.07,
+     "end": 39.19
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 39.23,
+   "end": 41.02,
+   "text": "aqui comigo aqui, sua mocreia",
+   "words": [
+    {
+     "word": "aqui",
+     "start": 39.23,
+     "end": 39.37
+    },
+    {
+     "word": "comigo",
+     "start": 39.37,
+     "end": 39.59
+    },
+    {
+     "word": "aqui,",
+     "start": 39.59,
+     "end": 39.91
+    },
+    {
+     "word": "sua",
+     "start": 40.11,
+     "end": 40.19
+    },
+    {
+     "word": "mocreia",
+     "start": 40.19,
+     "end": 41.02
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 41.06,
+   "end": 42.75,
+   "text": "desgraçado, quer saber de nada",
+   "words": [
+    {
+     "word": "desgraçado,",
+     "start": 41.06,
+     "end": 41.66
+    },
+    {
+     "word": "quer",
+     "start": 41.74,
+     "end": 41.82
+    },
+    {
+     "word": "saber",
+     "start": 41.82,
+     "end": 42.08
+    },
+    {
+     "word": "de",
+     "start": 42.08,
+     "end": 42.28
+    },
+    {
+     "word": "nada",
+     "start": 42.28,
+     "end": 42.75
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 43.01,
+   "end": 44.54,
+   "text": "só humilhação em mim, mano",
+   "words": [
+    {
+     "word": "só",
+     "start": 43.01,
+     "end": 43.19
+    },
+    {
+     "word": "humilhação",
+     "start": 43.19,
+     "end": 43.81
+    },
+    {
+     "word": "em",
+     "start": 43.81,
+     "end": 43.95
+    },
+    {
+     "word": "mim,",
+     "start": 43.95,
+     "end": 44.11
+    },
+    {
+     "word": "mano",
+     "start": 44.15,
+     "end": 44.54
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 45.12,
+   "end": 47.29,
+   "text": "vambora, antes de qualquer coisa",
+   "words": [
+    {
+     "word": "vambora,",
+     "start": 45.12,
+     "end": 45.52
+    },
+    {
+     "word": "antes",
+     "start": 46.0,
+     "end": 46.3
+    },
+    {
+     "word": "de",
+     "start": 46.3,
+     "end": 46.4
+    },
+    {
+     "word": "qualquer",
+     "start": 46.4,
+     "end": 46.6
+    },
+    {
+     "word": "coisa",
+     "start": 46.6,
+     "end": 47.29
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 49.01,
+   "end": 50.12,
+   "text": "me salva essa porra",
+   "words": [
+    {
+     "word": "me",
+     "start": 49.01,
+     "end": 49.11
+    },
+    {
+     "word": "salva",
+     "start": 49.11,
+     "end": 49.41
+    },
+    {
+     "word": "essa",
+     "start": 49.41,
+     "end": 49.55
+    },
+    {
+     "word": "porra",
+     "start": 49.55,
+     "end": 50.12
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
