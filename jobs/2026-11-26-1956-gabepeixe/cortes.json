@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Jason, Lucia, cripto, criptomoeda, golpe, influenciador, lançamento, Yajmani, mano, bicho, viado, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:02:22", "fim": "0:03:13", "titulo": "É GOLPE BASICAMENTE"},
+  {"id": "02", "inicio": "0:05:20", "fim": "0:05:55", "titulo": "PAPO DE NÃO FALHAR A CRIPTO"},
+  {"id": "03", "inicio": "0:07:25", "fim": "0:08:45", "titulo": "CAÍ NO MAIOR GOLPE DE TODOS"}
+ ]
+}
