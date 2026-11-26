@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Lucia, Jason, terno, smoking, Ricardo Almeida, JK, Zara, Pix, Coringa, Tainá, casamento, mendigo, tamanco, GPS, mano, bicho, viado, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:01:45", "fim": "0:02:25", "titulo": "O GPS DO JOGO É IGUAL O DA VIDA REAL"},
+  {"id": "02", "inicio": "0:14:44", "fim": "0:16:14", "titulo": "PAGUEI 16 MIL NUM TERNO"},
+  {"id": "03", "inicio": "0:17:05", "fim": "0:18:35", "titulo": "VOU FICAR IGUAL MENDIGO NO CASAMENTO"}
+ ]
+}
