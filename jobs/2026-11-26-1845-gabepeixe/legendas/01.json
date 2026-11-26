@@ -1,0 +1,129 @@
+{
+ "segments": [
+  {
+   "start": 37.64,
+   "end": 38.72,
+   "text": "Eu já me deixei",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 37.64,
+     "end": 38.14
+    },
+    {
+     "word": "já",
+     "start": 38.14,
+     "end": 38.28
+    },
+    {
+     "word": "me",
+     "start": 38.28,
+     "end": 38.44
+    },
+    {
+     "word": "deixei",
+     "start": 38.44,
+     "end": 38.72
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 38.76,
+   "end": 39.91,
+   "text": "a caráter aqui, né?",
+   "words": [
+    {
+     "word": "a",
+     "start": 38.76,
+     "end": 38.88
+    },
+    {
+     "word": "caráter",
+     "start": 38.88,
+     "end": 39.26
+    },
+    {
+     "word": "aqui,",
+     "start": 39.26,
+     "end": 39.5
+    },
+    {
+     "word": "né?",
+     "start": 39.54,
+     "end": 39.91
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 40.91,
+   "end": 41.8,
+   "text": "Agora eu tô",
+   "words": [
+    {
+     "word": "Agora",
+     "start": 40.91,
+     "end": 41.27
+    },
+    {
+     "word": "eu",
+     "start": 41.27,
+     "end": 41.47
+    },
+    {
+     "word": "tô",
+     "start": 41.47,
+     "end": 41.8
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 41.84,
+   "end": 43.47,
+   "text": "arrumado, bicho",
+   "words": [
+    {
+     "word": "arrumado,",
+     "start": 41.84,
+     "end": 42.84
+    },
+    {
+     "word": "bicho",
+     "start": 42.94,
+     "end": 43.47
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 48.34,
+   "end": 49.23,
+   "text": "Não tem como você",
+   "words": [
+    {
+     "word": "Não",
+     "start": 48.34,
+     "end": 48.46
+    },
+    {
+     "word": "tem",
+     "start": 48.46,
+     "end": 48.62
+    },
+    {
+     "word": "como",
+     "start": 48.62,
+     "end": 48.8
+    },
+    {
+     "word": "você",
+     "start": 48.8,
+     "end": 49.23
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
