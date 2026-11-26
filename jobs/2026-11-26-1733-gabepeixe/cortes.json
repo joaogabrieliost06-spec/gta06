@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Jason, Lucia, avião, cripto, moeda, caça, fisiculturistas, mano, bicho, viado, filhão, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:02:20", "fim": "0:03:15", "titulo": "JOGO MUITO, FILHÃO"},
+  {"id": "02", "inicio": "0:12:08", "fim": "0:12:40", "titulo": "SEU MONSTRO"},
+  {"id": "03", "inicio": "0:15:30", "fim": "0:16:45", "titulo": "PERIGO, ANIMAL"}
+ ]
+}
