@@ -1,0 +1,454 @@
+{
+ "segments": [
+  {
+   "start": 2.79,
+   "end": 3.55,
+   "text": "Caralho, essa missão do",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 2.79,
+     "end": 3.11
+    },
+    {
+     "word": "essa",
+     "start": 3.15,
+     "end": 3.23
+    },
+    {
+     "word": "missão",
+     "start": 3.23,
+     "end": 3.49
+    },
+    {
+     "word": "do",
+     "start": 3.49,
+     "end": 3.55
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 3.59,
+   "end": 4.68,
+   "text": "bunkerzinho foi legal",
+   "words": [
+    {
+     "word": "bunkerzinho",
+     "start": 3.59,
+     "end": 4.01
+    },
+    {
+     "word": "foi",
+     "start": 4.01,
+     "end": 4.17
+    },
+    {
+     "word": "legal",
+     "start": 4.17,
+     "end": 4.68
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 4.73,
+   "end": 5.79,
+   "text": "ainda tem a outra lá de cima",
+   "words": [
+    {
+     "word": "ainda",
+     "start": 4.73,
+     "end": 4.91
+    },
+    {
+     "word": "tem",
+     "start": 4.91,
+     "end": 5.13
+    },
+    {
+     "word": "a",
+     "start": 5.13,
+     "end": 5.23
+    },
+    {
+     "word": "outra",
+     "start": 5.23,
+     "end": 5.39
+    },
+    {
+     "word": "lá",
+     "start": 5.39,
+     "end": 5.53
+    },
+    {
+     "word": "de",
+     "start": 5.53,
+     "end": 5.65
+    },
+    {
+     "word": "cima",
+     "start": 5.65,
+     "end": 5.79
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 5.83,
+   "end": 7.08,
+   "text": "que a gente tem que vir, mano",
+   "words": [
+    {
+     "word": "que",
+     "start": 5.83,
+     "end": 5.95
+    },
+    {
+     "word": "a",
+     "start": 5.95,
+     "end": 6.03
+    },
+    {
+     "word": "gente",
+     "start": 6.03,
+     "end": 6.11
+    },
+    {
+     "word": "tem",
+     "start": 6.11,
+     "end": 6.25
+    },
+    {
+     "word": "que",
+     "start": 6.25,
+     "end": 6.39
+    },
+    {
+     "word": "vir,",
+     "start": 6.39,
+     "end": 6.59
+    },
+    {
+     "word": "mano",
+     "start": 6.71,
+     "end": 7.08
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 7.56,
+   "end": 8.46,
+   "text": "frio do caralho",
+   "words": [
+    {
+     "word": "frio",
+     "start": 7.56,
+     "end": 7.8
+    },
+    {
+     "word": "do",
+     "start": 7.8,
+     "end": 7.88
+    },
+    {
+     "word": "caralho",
+     "start": 7.88,
+     "end": 8.46
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 8.5,
+   "end": 11.13,
+   "text": "ontem, tava ontem, 30 graus",
+   "words": [
+    {
+     "word": "ontem,",
+     "start": 8.5,
+     "end": 8.7
+    },
+    {
+     "word": "tava",
+     "start": 8.74,
+     "end": 8.84
+    },
+    {
+     "word": "ontem,",
+     "start": 8.84,
+     "end": 9.18
+    },
+    {
+     "word": "30",
+     "start": 9.28,
+     "end": 10.34
+    },
+    {
+     "word": "graus",
+     "start": 10.34,
+     "end": 11.13
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 16.71,
+   "end": 17.65,
+   "text": "vamos fazer essa aqui primeiro",
+   "words": [
+    {
+     "word": "vamos",
+     "start": 16.71,
+     "end": 16.87
+    },
+    {
+     "word": "fazer",
+     "start": 16.87,
+     "end": 17.11
+    },
+    {
+     "word": "essa",
+     "start": 17.11,
+     "end": 17.23
+    },
+    {
+     "word": "aqui",
+     "start": 17.23,
+     "end": 17.35
+    },
+    {
+     "word": "primeiro",
+     "start": 17.35,
+     "end": 17.65
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 17.69,
+   "end": 18.53,
+   "text": "depois a gente faz a da orca",
+   "words": [
+    {
+     "word": "depois",
+     "start": 17.69,
+     "end": 17.81
+    },
+    {
+     "word": "a",
+     "start": 17.81,
+     "end": 17.93
+    },
+    {
+     "word": "gente",
+     "start": 17.93,
+     "end": 17.98
+    },
+    {
+     "word": "faz",
+     "start": 17.98,
+     "end": 18.13
+    },
+    {
+     "word": "a",
+     "start": 18.13,
+     "end": 18.23
+    },
+    {
+     "word": "da",
+     "start": 18.23,
+     "end": 18.29
+    },
+    {
+     "word": "orca",
+     "start": 18.29,
+     "end": 18.53
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 18.57,
+   "end": 19.74,
+   "text": "depois eu tô indo pra lá mesmo",
+   "words": [
+    {
+     "word": "depois",
+     "start": 18.57,
+     "end": 18.71
+    },
+    {
+     "word": "eu",
+     "start": 18.71,
+     "end": 18.76
+    },
+    {
+     "word": "tô",
+     "start": 18.76,
+     "end": 18.87
+    },
+    {
+     "word": "indo",
+     "start": 18.87,
+     "end": 18.97
+    },
+    {
+     "word": "pra",
+     "start": 18.97,
+     "end": 19.11
+    },
+    {
+     "word": "lá",
+     "start": 19.11,
+     "end": 19.23
+    },
+    {
+     "word": "mesmo",
+     "start": 19.23,
+     "end": 19.74
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 32.03,
+   "end": 33.02,
+   "text": "quebrou o pescoço",
+   "words": [
+    {
+     "word": "quebrou",
+     "start": 32.03,
+     "end": 32.33
+    },
+    {
+     "word": "o",
+     "start": 32.33,
+     "end": 32.41
+    },
+    {
+     "word": "pescoço",
+     "start": 32.41,
+     "end": 33.02
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 33.9,
+   "end": 34.66,
+   "text": "meu final foi esse",
+   "words": [
+    {
+     "word": "meu",
+     "start": 33.9,
+     "end": 34.04
+    },
+    {
+     "word": "final",
+     "start": 34.04,
+     "end": 34.28
+    },
+    {
+     "word": "foi",
+     "start": 34.28,
+     "end": 34.46
+    },
+    {
+     "word": "esse",
+     "start": 34.46,
+     "end": 34.66
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 34.7,
+   "end": 35.47,
+   "text": "Jason morreu",
+   "words": [
+    {
+     "word": "Jason",
+     "start": 34.7,
+     "end": 34.82
+    },
+    {
+     "word": "morreu",
+     "start": 34.82,
+     "end": 35.47
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 36.89,
+   "end": 37.93,
+   "text": "moleque, ele entortou",
+   "words": [
+    {
+     "word": "moleque,",
+     "start": 36.89,
+     "end": 37.15
+    },
+    {
+     "word": "ele",
+     "start": 37.33,
+     "end": 37.41
+    },
+    {
+     "word": "entortou",
+     "start": 37.41,
+     "end": 37.93
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 37.97,
+   "end": 38.75,
+   "text": "o pescoço de uma",
+   "words": [
+    {
+     "word": "o",
+     "start": 37.97,
+     "end": 38.11
+    },
+    {
+     "word": "pescoço",
+     "start": 38.11,
+     "end": 38.57
+    },
+    {
+     "word": "de",
+     "start": 38.57,
+     "end": 38.69
+    },
+    {
+     "word": "uma",
+     "start": 38.69,
+     "end": 38.75
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 38.79,
+   "end": 40.78,
+   "text": "maneira bizarra",
+   "words": [
+    {
+     "word": "maneira",
+     "start": 38.79,
+     "end": 39.17
+    },
+    {
+     "word": "bizarra",
+     "start": 39.61,
+     "end": 40.78
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
