@@ -1,0 +1,348 @@
+{
+ "segments": [
+  {
+   "start": 3.11,
+   "end": 4.11,
+   "text": "O helicóptero tá forte",
+   "words": [
+    {
+     "word": "O",
+     "start": 3.11,
+     "end": 3.31
+    },
+    {
+     "word": "helicóptero",
+     "start": 3.31,
+     "end": 3.73
+    },
+    {
+     "word": "tá",
+     "start": 3.73,
+     "end": 3.79
+    },
+    {
+     "word": "forte",
+     "start": 3.79,
+     "end": 4.11
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 4.15,
+   "end": 5.38,
+   "text": "em cima de nós, mano",
+   "words": [
+    {
+     "word": "em",
+     "start": 4.15,
+     "end": 4.31
+    },
+    {
+     "word": "cima",
+     "start": 4.31,
+     "end": 4.43
+    },
+    {
+     "word": "de",
+     "start": 4.43,
+     "end": 4.55
+    },
+    {
+     "word": "nós,",
+     "start": 4.55,
+     "end": 4.81
+    },
+    {
+     "word": "mano",
+     "start": 4.83,
+     "end": 5.38
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 32.72,
+   "end": 34.3,
+   "text": "acho que helicóptero perdeu nós",
+   "words": [
+    {
+     "word": "acho",
+     "start": 32.72,
+     "end": 32.92
+    },
+    {
+     "word": "que",
+     "start": 32.92,
+     "end": 33.02
+    },
+    {
+     "word": "helicóptero",
+     "start": 33.02,
+     "end": 33.48
+    },
+    {
+     "word": "perdeu",
+     "start": 33.48,
+     "end": 33.86
+    },
+    {
+     "word": "nós",
+     "start": 33.86,
+     "end": 34.3
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 34.34,
+   "end": 35.3,
+   "text": "ele não tá entendendo nada",
+   "words": [
+    {
+     "word": "ele",
+     "start": 34.34,
+     "end": 34.5
+    },
+    {
+     "word": "não",
+     "start": 34.5,
+     "end": 34.58
+    },
+    {
+     "word": "tá",
+     "start": 34.58,
+     "end": 34.7
+    },
+    {
+     "word": "entendendo",
+     "start": 34.7,
+     "end": 35.06
+    },
+    {
+     "word": "nada",
+     "start": 35.06,
+     "end": 35.3
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 35.34,
+   "end": 36.23,
+   "text": "Mano",
+   "words": [
+    {
+     "word": "Mano",
+     "start": 35.34,
+     "end": 36.23
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 47.73,
+   "end": 49.36,
+   "text": "esse helicóptero tá ramelando",
+   "words": [
+    {
+     "word": "esse",
+     "start": 47.73,
+     "end": 47.83
+    },
+    {
+     "word": "helicóptero",
+     "start": 47.83,
+     "end": 48.37
+    },
+    {
+     "word": "tá",
+     "start": 48.37,
+     "end": 48.43
+    },
+    {
+     "word": "ramelando",
+     "start": 48.43,
+     "end": 49.36
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 55.24,
+   "end": 56.3,
+   "text": "atirou o pneu da minha moto",
+   "words": [
+    {
+     "word": "atirou",
+     "start": 55.24,
+     "end": 55.52
+    },
+    {
+     "word": "o",
+     "start": 55.52,
+     "end": 55.58
+    },
+    {
+     "word": "pneu",
+     "start": 55.58,
+     "end": 55.78
+    },
+    {
+     "word": "da",
+     "start": 55.78,
+     "end": 55.84
+    },
+    {
+     "word": "minha",
+     "start": 55.84,
+     "end": 55.98
+    },
+    {
+     "word": "moto",
+     "start": 55.98,
+     "end": 56.3
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 56.34,
+   "end": 57.13,
+   "text": "que loucura",
+   "words": [
+    {
+     "word": "que",
+     "start": 56.34,
+     "end": 56.44
+    },
+    {
+     "word": "loucura",
+     "start": 56.44,
+     "end": 57.13
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 59.72,
+   "end": 61.01,
+   "text": "eu acho. Mano",
+   "words": [
+    {
+     "word": "eu",
+     "start": 59.72,
+     "end": 59.9
+    },
+    {
+     "word": "acho.",
+     "start": 59.9,
+     "end": 60.3
+    },
+    {
+     "word": "Mano",
+     "start": 60.3,
+     "end": 61.01
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 69.94,
+   "end": 70.6,
+   "text": "ele realmente atirou",
+   "words": [
+    {
+     "word": "ele",
+     "start": 69.94,
+     "end": 69.98
+    },
+    {
+     "word": "realmente",
+     "start": 69.98,
+     "end": 70.28
+    },
+    {
+     "word": "atirou",
+     "start": 70.28,
+     "end": 70.6
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 70.64,
+   "end": 72.09,
+   "text": "o pneu da minha moto, mano",
+   "words": [
+    {
+     "word": "o",
+     "start": 70.64,
+     "end": 70.7
+    },
+    {
+     "word": "pneu",
+     "start": 70.7,
+     "end": 70.9
+    },
+    {
+     "word": "da",
+     "start": 70.9,
+     "end": 70.98
+    },
+    {
+     "word": "minha",
+     "start": 70.98,
+     "end": 71.08
+    },
+    {
+     "word": "moto,",
+     "start": 71.08,
+     "end": 71.4
+    },
+    {
+     "word": "mano",
+     "start": 71.46,
+     "end": 72.09
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 76.81,
+   "end": 78.34,
+   "text": "Porcento, porcento, não",
+   "words": [
+    {
+     "word": "Porcento,",
+     "start": 76.81,
+     "end": 77.27
+    },
+    {
+     "word": "porcento,",
+     "start": 77.27,
+     "end": 77.73
+    },
+    {
+     "word": "não",
+     "start": 77.91,
+     "end": 78.34
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 79.08,
+   "end": 79.69,
+   "text": "acelera",
+   "words": [
+    {
+     "word": "acelera",
+     "start": 79.08,
+     "end": 79.69
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}

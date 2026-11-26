@@ -1,0 +1,479 @@
+{
+ "segments": [
+  {
+   "start": 3.53,
+   "end": 5.14,
+   "text": "Vou esconder meu carro aqui, mano",
+   "words": [
+    {
+     "word": "Vou",
+     "start": 3.53,
+     "end": 3.71
+    },
+    {
+     "word": "esconder",
+     "start": 3.71,
+     "end": 3.85
+    },
+    {
+     "word": "meu",
+     "start": 3.85,
+     "end": 4.03
+    },
+    {
+     "word": "carro",
+     "start": 4.03,
+     "end": 4.31
+    },
+    {
+     "word": "aqui,",
+     "start": 4.31,
+     "end": 4.63
+    },
+    {
+     "word": "mano",
+     "start": 4.63,
+     "end": 5.14
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 7.17,
+   "end": 7.8,
+   "text": "meu Deus",
+   "words": [
+    {
+     "word": "meu",
+     "start": 7.17,
+     "end": 7.35
+    },
+    {
+     "word": "Deus",
+     "start": 7.35,
+     "end": 7.8
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 8.22,
+   "end": 9.42,
+   "text": "molha, quando você quebra o hidrante",
+   "words": [
+    {
+     "word": "molha,",
+     "start": 8.22,
+     "end": 8.48
+    },
+    {
+     "word": "quando",
+     "start": 8.58,
+     "end": 8.76
+    },
+    {
+     "word": "você",
+     "start": 8.76,
+     "end": 8.88
+    },
+    {
+     "word": "quebra",
+     "start": 8.88,
+     "end": 9.12
+    },
+    {
+     "word": "o",
+     "start": 9.12,
+     "end": 9.18
+    },
+    {
+     "word": "hidrante",
+     "start": 9.18,
+     "end": 9.42
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 9.46,
+   "end": 10.59,
+   "text": "molha a rua",
+   "words": [
+    {
+     "word": "molha",
+     "start": 9.46,
+     "end": 9.96
+    },
+    {
+     "word": "a",
+     "start": 9.96,
+     "end": 10.08
+    },
+    {
+     "word": "rua",
+     "start": 10.08,
+     "end": 10.59
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 12.0,
+   "end": 13.87,
+   "text": "caralho, a água espalha, que",
+   "words": [
+    {
+     "word": "caralho,",
+     "start": 12.0,
+     "end": 12.34
+    },
+    {
+     "word": "a",
+     "start": 12.4,
+     "end": 12.45
+    },
+    {
+     "word": "água",
+     "start": 12.45,
+     "end": 12.58
+    },
+    {
+     "word": "espalha,",
+     "start": 12.58,
+     "end": 13.26
+    },
+    {
+     "word": "que",
+     "start": 13.44,
+     "end": 13.87
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 18.03,
+   "end": 18.68,
+   "text": "isso, Lu",
+   "words": [
+    {
+     "word": "isso,",
+     "start": 18.03,
+     "end": 18.25
+    },
+    {
+     "word": "Lu",
+     "start": 18.35,
+     "end": 18.68
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 19.2,
+   "end": 20.49,
+   "text": "de novo, cuidado",
+   "words": [
+    {
+     "word": "de",
+     "start": 19.2,
+     "end": 19.36
+    },
+    {
+     "word": "novo,",
+     "start": 19.36,
+     "end": 19.7
+    },
+    {
+     "word": "cuidado",
+     "start": 19.82,
+     "end": 20.49
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 23.15,
+   "end": 24.24,
+   "text": "pelo amor de Deus",
+   "words": [
+    {
+     "word": "pelo",
+     "start": 23.15,
+     "end": 23.35
+    },
+    {
+     "word": "amor",
+     "start": 23.35,
+     "end": 23.49
+    },
+    {
+     "word": "de",
+     "start": 23.49,
+     "end": 23.63
+    },
+    {
+     "word": "Deus",
+     "start": 23.63,
+     "end": 24.24
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 26.83,
+   "end": 28.39,
+   "text": "Lu, pelo amor de Deus",
+   "words": [
+    {
+     "word": "Lu,",
+     "start": 26.83,
+     "end": 27.19
+    },
+    {
+     "word": "pelo",
+     "start": 27.45,
+     "end": 27.65
+    },
+    {
+     "word": "amor",
+     "start": 27.65,
+     "end": 27.87
+    },
+    {
+     "word": "de",
+     "start": 27.87,
+     "end": 28.05
+    },
+    {
+     "word": "Deus",
+     "start": 28.05,
+     "end": 28.39
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 28.43,
+   "end": 29.36,
+   "text": "Mano",
+   "words": [
+    {
+     "word": "Mano",
+     "start": 28.43,
+     "end": 29.36
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 35.44,
+   "end": 36.59,
+   "text": "que loucura, velho",
+   "words": [
+    {
+     "word": "que",
+     "start": 35.44,
+     "end": 35.54
+    },
+    {
+     "word": "loucura,",
+     "start": 35.54,
+     "end": 35.92
+    },
+    {
+     "word": "velho",
+     "start": 36.0,
+     "end": 36.59
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 42.98,
+   "end": 44.16,
+   "text": "carro precisa da minha moto, né",
+   "words": [
+    {
+     "word": "carro",
+     "start": 42.98,
+     "end": 43.06
+    },
+    {
+     "word": "precisa",
+     "start": 43.06,
+     "end": 43.2
+    },
+    {
+     "word": "da",
+     "start": 43.2,
+     "end": 43.32
+    },
+    {
+     "word": "minha",
+     "start": 43.32,
+     "end": 43.4
+    },
+    {
+     "word": "moto,",
+     "start": 43.4,
+     "end": 43.74
+    },
+    {
+     "word": "né",
+     "start": 43.86,
+     "end": 44.16
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 50.47,
+   "end": 52.16,
+   "text": "minha moto é meu carro de fuga, mano",
+   "words": [
+    {
+     "word": "minha",
+     "start": 50.47,
+     "end": 50.63
+    },
+    {
+     "word": "moto",
+     "start": 50.63,
+     "end": 50.83
+    },
+    {
+     "word": "é",
+     "start": 50.83,
+     "end": 50.93
+    },
+    {
+     "word": "meu",
+     "start": 50.93,
+     "end": 51.03
+    },
+    {
+     "word": "carro",
+     "start": 51.03,
+     "end": 51.21
+    },
+    {
+     "word": "de",
+     "start": 51.21,
+     "end": 51.35
+    },
+    {
+     "word": "fuga,",
+     "start": 51.35,
+     "end": 51.67
+    },
+    {
+     "word": "mano",
+     "start": 51.75,
+     "end": 52.16
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 57.75,
+   "end": 59.09,
+   "text": "dá pra eu pegar a moto na minha",
+   "words": [
+    {
+     "word": "dá",
+     "start": 57.75,
+     "end": 57.87
+    },
+    {
+     "word": "pra",
+     "start": 57.87,
+     "end": 57.97
+    },
+    {
+     "word": "eu",
+     "start": 57.97,
+     "end": 58.09
+    },
+    {
+     "word": "pegar",
+     "start": 58.09,
+     "end": 58.21
+    },
+    {
+     "word": "a",
+     "start": 58.21,
+     "end": 58.39
+    },
+    {
+     "word": "moto",
+     "start": 58.39,
+     "end": 58.63
+    },
+    {
+     "word": "na",
+     "start": 58.63,
+     "end": 58.83
+    },
+    {
+     "word": "minha",
+     "start": 58.83,
+     "end": 59.09
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 59.13,
+   "end": 60.76,
+   "text": "dá pra eu pegar a arma na minha moto?",
+   "words": [
+    {
+     "word": "dá",
+     "start": 59.13,
+     "end": 59.33
+    },
+    {
+     "word": "pra",
+     "start": 59.33,
+     "end": 59.45
+    },
+    {
+     "word": "eu",
+     "start": 59.45,
+     "end": 59.57
+    },
+    {
+     "word": "pegar",
+     "start": 59.57,
+     "end": 59.71
+    },
+    {
+     "word": "a",
+     "start": 59.71,
+     "end": 59.81
+    },
+    {
+     "word": "arma",
+     "start": 59.81,
+     "end": 59.93
+    },
+    {
+     "word": "na",
+     "start": 59.93,
+     "end": 60.05
+    },
+    {
+     "word": "minha",
+     "start": 60.05,
+     "end": 60.17
+    },
+    {
+     "word": "moto?",
+     "start": 60.17,
+     "end": 60.76
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
