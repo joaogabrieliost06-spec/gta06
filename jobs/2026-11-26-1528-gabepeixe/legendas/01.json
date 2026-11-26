@@ -1,0 +1,416 @@
+{
+ "segments": [
+  {
+   "start": 44.47,
+   "end": 45.18,
+   "text": "Juro por Deus que eu",
+   "words": [
+    {
+     "word": "Juro",
+     "start": 44.47,
+     "end": 44.69
+    },
+    {
+     "word": "por",
+     "start": 44.69,
+     "end": 44.81
+    },
+    {
+     "word": "Deus",
+     "start": 44.81,
+     "end": 44.99
+    },
+    {
+     "word": "que",
+     "start": 44.99,
+     "end": 45.13
+    },
+    {
+     "word": "eu",
+     "start": 45.13,
+     "end": 45.18
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 45.17,
+   "end": 47.31,
+   "text": "apertei R1 triângulo, no caso Y",
+   "words": [
+    {
+     "word": "apertei",
+     "start": 45.17,
+     "end": 45.47
+    },
+    {
+     "word": "R1",
+     "start": 45.47,
+     "end": 45.79
+    },
+    {
+     "word": "triângulo,",
+     "start": 45.79,
+     "end": 46.63
+    },
+    {
+     "word": "no",
+     "start": 46.83,
+     "end": 46.93
+    },
+    {
+     "word": "caso",
+     "start": 46.93,
+     "end": 47.15
+    },
+    {
+     "word": "Y",
+     "start": 47.15,
+     "end": 47.31
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 47.35,
+   "end": 47.88,
+   "text": "que eu apertei R1 triângulo",
+   "words": [
+    {
+     "word": "que",
+     "start": 47.35,
+     "end": 47.47
+    },
+    {
+     "word": "eu",
+     "start": 47.47,
+     "end": 47.59
+    },
+    {
+     "word": "apertei",
+     "start": 47.59,
+     "end": 47.71
+    },
+    {
+     "word": "R1",
+     "start": 47.71,
+     "end": 47.83
+    },
+    {
+     "word": "triângulo",
+     "start": 47.83,
+     "end": 47.88
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 47.81,
+   "end": 49.19,
+   "text": "pra poder usar adrenalina",
+   "words": [
+    {
+     "word": "pra",
+     "start": 47.81,
+     "end": 48.01
+    },
+    {
+     "word": "poder",
+     "start": 48.01,
+     "end": 48.21
+    },
+    {
+     "word": "usar",
+     "start": 48.21,
+     "end": 48.41
+    },
+    {
+     "word": "adrenalina",
+     "start": 48.41,
+     "end": 49.19
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 49.23,
+   "end": 50.6,
+   "text": "Perdi os 16 mil, mano",
+   "words": [
+    {
+     "word": "Perdi",
+     "start": 49.23,
+     "end": 49.41
+    },
+    {
+     "word": "os",
+     "start": 49.41,
+     "end": 49.51
+    },
+    {
+     "word": "16",
+     "start": 49.51,
+     "end": 49.87
+    },
+    {
+     "word": "mil,",
+     "start": 49.87,
+     "end": 50.13
+    },
+    {
+     "word": "mano",
+     "start": 50.25,
+     "end": 50.6
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 52.38,
+   "end": 53.9,
+   "text": "Moleque, eu segurei R1",
+   "words": [
+    {
+     "word": "Moleque,",
+     "start": 52.38,
+     "end": 52.7
+    },
+    {
+     "word": "eu",
+     "start": 52.84,
+     "end": 52.94
+    },
+    {
+     "word": "segurei",
+     "start": 52.94,
+     "end": 53.44
+    },
+    {
+     "word": "R1",
+     "start": 53.44,
+     "end": 53.9
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 53.94,
+   "end": 55.32,
+   "text": "apertei o Y pra sair",
+   "words": [
+    {
+     "word": "apertei",
+     "start": 53.94,
+     "end": 54.36
+    },
+    {
+     "word": "o",
+     "start": 54.36,
+     "end": 54.62
+    },
+    {
+     "word": "Y",
+     "start": 54.62,
+     "end": 54.78
+    },
+    {
+     "word": "pra",
+     "start": 54.78,
+     "end": 55.12
+    },
+    {
+     "word": "sair",
+     "start": 55.12,
+     "end": 55.32
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 55.36,
+   "end": 56.19,
+   "text": "a adrenalina",
+   "words": [
+    {
+     "word": "a",
+     "start": 55.36,
+     "end": 55.46
+    },
+    {
+     "word": "adrenalina",
+     "start": 55.46,
+     "end": 56.19
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 81.45,
+   "end": 82.21,
+   "text": "Tudo bem, tudo bem",
+   "words": [
+    {
+     "word": "Tudo",
+     "start": 81.45,
+     "end": 81.59
+    },
+    {
+     "word": "bem,",
+     "start": 81.59,
+     "end": 81.77
+    },
+    {
+     "word": "tudo",
+     "start": 81.85,
+     "end": 81.97
+    },
+    {
+     "word": "bem",
+     "start": 81.97,
+     "end": 82.21
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 82.25,
+   "end": 83.54,
+   "text": "eu mostrei que eu sou capaz",
+   "words": [
+    {
+     "word": "eu",
+     "start": 82.25,
+     "end": 82.31
+    },
+    {
+     "word": "mostrei",
+     "start": 82.31,
+     "end": 82.65
+    },
+    {
+     "word": "que",
+     "start": 82.65,
+     "end": 82.73
+    },
+    {
+     "word": "eu",
+     "start": 82.73,
+     "end": 82.81
+    },
+    {
+     "word": "sou",
+     "start": 82.81,
+     "end": 82.89
+    },
+    {
+     "word": "capaz",
+     "start": 82.89,
+     "end": 83.54
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 83.97,
+   "end": 84.85,
+   "text": "Só faltou detalhe",
+   "words": [
+    {
+     "word": "Só",
+     "start": 83.97,
+     "end": 84.11
+    },
+    {
+     "word": "faltou",
+     "start": 84.11,
+     "end": 84.41
+    },
+    {
+     "word": "detalhe",
+     "start": 84.41,
+     "end": 84.85
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 84.89,
+   "end": 85.75,
+   "text": "No final eu achei",
+   "words": [
+    {
+     "word": "No",
+     "start": 84.89,
+     "end": 84.95
+    },
+    {
+     "word": "final",
+     "start": 84.95,
+     "end": 85.21
+    },
+    {
+     "word": "eu",
+     "start": 85.21,
+     "end": 85.61
+    },
+    {
+     "word": "achei",
+     "start": 85.61,
+     "end": 85.75
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 85.79,
+   "end": 86.78,
+   "text": "que tava acabado",
+   "words": [
+    {
+     "word": "que",
+     "start": 85.79,
+     "end": 85.89
+    },
+    {
+     "word": "tava",
+     "start": 85.89,
+     "end": 86.03
+    },
+    {
+     "word": "acabado",
+     "start": 86.03,
+     "end": 86.78
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 88.4,
+   "end": 89.73,
+   "text": "Faltou só detalhe, mano",
+   "words": [
+    {
+     "word": "Faltou",
+     "start": 88.4,
+     "end": 88.7
+    },
+    {
+     "word": "só",
+     "start": 88.7,
+     "end": 88.84
+    },
+    {
+     "word": "detalhe,",
+     "start": 88.84,
+     "end": 89.3
+    },
+    {
+     "word": "mano",
+     "start": 89.36,
+     "end": 89.73
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
