@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, GTA 6, Jason, Lucia, Andres, Valentina, Rockstar, elevador, invisível, honorário, Gonzalez, mano, velho, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:02:28", "fim": "0:03:55", "titulo": "O ELEVADOR CAIU"},
+  {"id": "02", "inicio": "0:06:42", "fim": "0:08:10", "titulo": "A LUCIA FICOU INVISIVEL"},
+  {"id": "03", "inicio": "0:15:50", "fim": "0:17:08", "titulo": "GASTEI TODO MEU DINHEIRO"}
+ ]
+}
