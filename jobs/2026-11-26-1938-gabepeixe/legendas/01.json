@@ -1,0 +1,37 @@
+{
+ "segments": [
+  {
+   "start": 5.8,
+   "end": 7.39,
+   "text": "Ah, eu assustei um NPC",
+   "words": [
+    {
+     "word": "Ah,",
+     "start": 5.8,
+     "end": 6.16
+    },
+    {
+     "word": "eu",
+     "start": 6.28,
+     "end": 6.33
+    },
+    {
+     "word": "assustei",
+     "start": 6.33,
+     "end": 6.7
+    },
+    {
+     "word": "um",
+     "start": 6.7,
+     "end": 6.76
+    },
+    {
+     "word": "NPC",
+     "start": 6.76,
+     "end": 7.39
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
