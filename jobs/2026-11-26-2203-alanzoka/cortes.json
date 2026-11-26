@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, Alan, GTA 6, Lucia, Jason, Raul, missão principal, roubo, alarme, carro raro, bebê, mano, velho, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:17:48", "fim": "0:18:36", "titulo": "BATI O CARRO RARO"},
+  {"id": "02", "inicio": "0:13:50", "fim": "0:14:42", "titulo": "CRIMEZINHO TRAZ O AMOR DE VOLTA"},
+  {"id": "03", "inicio": "0:16:10", "fim": "0:16:53", "titulo": "O RAUL NÃO ME LIGA"}
+ ]
+}

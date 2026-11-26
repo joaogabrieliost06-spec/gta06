@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Jason, Lucia, bunker, banco, boeiro, buraco, cerca, choque, mina, drone, apocalipse, furacão, final, relacionamento, puteiro, mano, viado, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:01:30", "fim": "0:02:57", "titulo": "ELE FECHOU O BURACO"},
+  {"id": "02", "inicio": "0:13:48", "fim": "0:14:42", "titulo": "TROLEI O CARA, VOLTEI MESMO"},
+  {"id": "03", "inicio": "0:18:16", "fim": "0:19:18", "titulo": "O JOGO TÁ ME TROLANDO"}
+ ]
+}
