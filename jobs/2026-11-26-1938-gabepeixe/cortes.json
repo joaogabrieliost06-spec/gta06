@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Lucia, Free Willy, baleia, orca, golfinho, aquário, oceanário, academia, mano, bicho, viado, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:02:00", "fim": "0:02:40", "titulo": "O GRITO DO NPC"},
+  {"id": "02", "inicio": "0:08:05", "fim": "0:09:32", "titulo": "O FREE WILLY TÁ NO JOGO"},
+  {"id": "03", "inicio": "0:15:02", "fim": "0:15:30", "titulo": "RASGADA NEM VEM, LUCIA"}
+ ]
+}
