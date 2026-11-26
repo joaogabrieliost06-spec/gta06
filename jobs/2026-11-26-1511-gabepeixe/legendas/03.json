@@ -1,0 +1,504 @@
+{
+ "segments": [
+  {
+   "start": 2.53,
+   "end": 3.32,
+   "text": "Acredite se quiser",
+   "words": [
+    {
+     "word": "Acredite",
+     "start": 2.53,
+     "end": 2.65
+    },
+    {
+     "word": "se",
+     "start": 2.65,
+     "end": 2.75
+    },
+    {
+     "word": "quiser",
+     "start": 2.75,
+     "end": 3.32
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 3.99,
+   "end": 4.9,
+   "text": "eu caguei",
+   "words": [
+    {
+     "word": "eu",
+     "start": 3.99,
+     "end": 4.17
+    },
+    {
+     "word": "caguei",
+     "start": 4.17,
+     "end": 4.9
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 6.0,
+   "end": 6.98,
+   "text": "Nossa, meu almoço já",
+   "words": [
+    {
+     "word": "Nossa,",
+     "start": 6.0,
+     "end": 6.4
+    },
+    {
+     "word": "meu",
+     "start": 6.48,
+     "end": 6.58
+    },
+    {
+     "word": "almoço",
+     "start": 6.58,
+     "end": 6.9
+    },
+    {
+     "word": "já",
+     "start": 6.9,
+     "end": 6.98
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 7.02,
+   "end": 8.41,
+   "text": "tá quase aqui, viado",
+   "words": [
+    {
+     "word": "tá",
+     "start": 7.02,
+     "end": 7.14
+    },
+    {
+     "word": "quase",
+     "start": 7.14,
+     "end": 7.44
+    },
+    {
+     "word": "aqui,",
+     "start": 7.44,
+     "end": 7.76
+    },
+    {
+     "word": "viado",
+     "start": 7.88,
+     "end": 8.41
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 8.52,
+   "end": 9.5,
+   "text": "Acredite se quiser",
+   "words": [
+    {
+     "word": "Acredite",
+     "start": 8.52,
+     "end": 8.94
+    },
+    {
+     "word": "se",
+     "start": 8.94,
+     "end": 9.04
+    },
+    {
+     "word": "quiser",
+     "start": 9.04,
+     "end": 9.5
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 9.54,
+   "end": 10.39,
+   "text": "eu caguei",
+   "words": [
+    {
+     "word": "eu",
+     "start": 9.54,
+     "end": 9.64
+    },
+    {
+     "word": "caguei",
+     "start": 9.64,
+     "end": 10.39
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 11.12,
+   "end": 12.69,
+   "text": "Porra, não é possível",
+   "words": [
+    {
+     "word": "Porra,",
+     "start": 11.12,
+     "end": 11.42
+    },
+    {
+     "word": "não",
+     "start": 12.07,
+     "end": 12.17
+    },
+    {
+     "word": "é",
+     "start": 12.17,
+     "end": 12.23
+    },
+    {
+     "word": "possível",
+     "start": 12.23,
+     "end": 12.69
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 12.73,
+   "end": 13.42,
+   "text": "que não",
+   "words": [
+    {
+     "word": "que",
+     "start": 12.73,
+     "end": 12.99
+    },
+    {
+     "word": "não",
+     "start": 12.99,
+     "end": 13.42
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 16.8,
+   "end": 17.41,
+   "text": "Eu vou ter que",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 16.8,
+     "end": 17.14
+    },
+    {
+     "word": "vou",
+     "start": 17.14,
+     "end": 17.26
+    },
+    {
+     "word": "ter",
+     "start": 17.26,
+     "end": 17.36
+    },
+    {
+     "word": "que",
+     "start": 17.36,
+     "end": 17.41
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 17.44,
+   "end": 18.72,
+   "text": "explodir esse cofre, mano",
+   "words": [
+    {
+     "word": "explodir",
+     "start": 17.44,
+     "end": 17.78
+    },
+    {
+     "word": "esse",
+     "start": 17.78,
+     "end": 17.92
+    },
+    {
+     "word": "cofre,",
+     "start": 17.92,
+     "end": 18.28
+    },
+    {
+     "word": "mano",
+     "start": 18.42,
+     "end": 18.72
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 18.76,
+   "end": 31.5,
+   "text": "Uma bomba",
+   "words": [
+    {
+     "word": "Uma",
+     "start": 18.76,
+     "end": 18.9
+    },
+    {
+     "word": "bomba",
+     "start": 30.79,
+     "end": 31.5
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 33.56,
+   "end": 34.82,
+   "text": "É que tá muito fácil",
+   "words": [
+    {
+     "word": "É",
+     "start": 33.56,
+     "end": 33.7
+    },
+    {
+     "word": "que",
+     "start": 33.7,
+     "end": 33.86
+    },
+    {
+     "word": "tá",
+     "start": 33.86,
+     "end": 34.16
+    },
+    {
+     "word": "muito",
+     "start": 34.16,
+     "end": 34.48
+    },
+    {
+     "word": "fácil",
+     "start": 34.48,
+     "end": 34.82
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 34.86,
+   "end": 35.99,
+   "text": "esse lugar, porra",
+   "words": [
+    {
+     "word": "esse",
+     "start": 34.86,
+     "end": 35.06
+    },
+    {
+     "word": "lugar,",
+     "start": 35.06,
+     "end": 35.34
+    },
+    {
+     "word": "porra",
+     "start": 35.52,
+     "end": 35.99
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 38.91,
+   "end": 39.34,
+   "text": "Será que eu tenho que",
+   "words": [
+    {
+     "word": "Será",
+     "start": 38.91,
+     "end": 39.07
+    },
+    {
+     "word": "que",
+     "start": 39.07,
+     "end": 39.15
+    },
+    {
+     "word": "eu",
+     "start": 39.15,
+     "end": 39.21
+    },
+    {
+     "word": "tenho",
+     "start": 39.21,
+     "end": 39.29
+    },
+    {
+     "word": "que",
+     "start": 39.29,
+     "end": 39.34
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 39.37,
+   "end": 40.78,
+   "text": "voltar lá na primeira casa?",
+   "words": [
+    {
+     "word": "voltar",
+     "start": 39.37,
+     "end": 39.63
+    },
+    {
+     "word": "lá",
+     "start": 39.63,
+     "end": 39.77
+    },
+    {
+     "word": "na",
+     "start": 39.77,
+     "end": 39.87
+    },
+    {
+     "word": "primeira",
+     "start": 39.87,
+     "end": 40.15
+    },
+    {
+     "word": "casa?",
+     "start": 40.15,
+     "end": 40.78
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 43.61,
+   "end": 44.68,
+   "text": "Ó, tem um mapa aqui",
+   "words": [
+    {
+     "word": "Ó,",
+     "start": 43.61,
+     "end": 43.71
+    },
+    {
+     "word": "tem",
+     "start": 43.83,
+     "end": 43.89
+    },
+    {
+     "word": "um",
+     "start": 43.89,
+     "end": 44.03
+    },
+    {
+     "word": "mapa",
+     "start": 44.03,
+     "end": 44.19
+    },
+    {
+     "word": "aqui",
+     "start": 44.19,
+     "end": 44.68
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 46.85,
+   "end": 47.67,
+   "text": "Olha isso, mano",
+   "words": [
+    {
+     "word": "Olha",
+     "start": 46.85,
+     "end": 47.03
+    },
+    {
+     "word": "isso,",
+     "start": 47.03,
+     "end": 47.37
+    },
+    {
+     "word": "mano",
+     "start": 47.49,
+     "end": 47.67
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 47.71,
+   "end": 49.14,
+   "text": "uma bazuca, cara!",
+   "words": [
+    {
+     "word": "uma",
+     "start": 47.71,
+     "end": 47.83
+    },
+    {
+     "word": "bazuca,",
+     "start": 47.83,
+     "end": 48.51
+    },
+    {
+     "word": "cara!",
+     "start": 48.77,
+     "end": 49.14
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 65.73,
+   "end": 66.59,
+   "text": "Uma bazuca nesse",
+   "words": [
+    {
+     "word": "Uma",
+     "start": 65.73,
+     "end": 65.83
+    },
+    {
+     "word": "bazuca",
+     "start": 65.83,
+     "end": 66.43
+    },
+    {
+     "word": "nesse",
+     "start": 66.43,
+     "end": 66.59
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 66.63,
+   "end": 67.54,
+   "text": "lugar, bicho",
+   "words": [
+    {
+     "word": "lugar,",
+     "start": 66.63,
+     "end": 66.89
+    },
+    {
+     "word": "bicho",
+     "start": 67.07,
+     "end": 67.54
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
