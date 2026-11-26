@@ -1,0 +1,856 @@
+{
+ "segments": [
+  {
+   "start": 5.5,
+   "end": 6.66,
+   "text": "Três portas, mano",
+   "words": [
+    {
+     "word": "Três",
+     "start": 5.5,
+     "end": 5.68
+    },
+    {
+     "word": "portas,",
+     "start": 5.68,
+     "end": 6.18
+    },
+    {
+     "word": "mano",
+     "start": 6.3,
+     "end": 6.66
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.7,
+   "end": 7.84,
+   "text": "É o Sérgio Malandro, mano",
+   "words": [
+    {
+     "word": "É",
+     "start": 6.7,
+     "end": 6.8
+    },
+    {
+     "word": "o",
+     "start": 6.8,
+     "end": 6.88
+    },
+    {
+     "word": "Sérgio",
+     "start": 6.88,
+     "end": 7.16
+    },
+    {
+     "word": "Malandro,",
+     "start": 7.16,
+     "end": 7.64
+    },
+    {
+     "word": "mano",
+     "start": 7.76,
+     "end": 7.84
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.88,
+   "end": 9.11,
+   "text": "a porta da alegria",
+   "words": [
+    {
+     "word": "a",
+     "start": 7.88,
+     "end": 8.0
+    },
+    {
+     "word": "porta",
+     "start": 8.0,
+     "end": 8.2
+    },
+    {
+     "word": "da",
+     "start": 8.2,
+     "end": 8.36
+    },
+    {
+     "word": "alegria",
+     "start": 8.36,
+     "end": 9.11
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 9.97,
+   "end": 10.84,
+   "text": "Que é a",
+   "words": [
+    {
+     "word": "Que",
+     "start": 9.97,
+     "end": 10.11
+    },
+    {
+     "word": "é",
+     "start": 10.11,
+     "end": 10.19
+    },
+    {
+     "word": "a",
+     "start": 10.19,
+     "end": 10.84
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 11.17,
+   "end": 11.94,
+   "text": "do meio",
+   "words": [
+    {
+     "word": "do",
+     "start": 11.17,
+     "end": 11.37
+    },
+    {
+     "word": "meio",
+     "start": 11.37,
+     "end": 11.94
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 14.19,
+   "end": 14.98,
+   "text": "Que merda",
+   "words": [
+    {
+     "word": "Que",
+     "start": 14.19,
+     "end": 14.33
+    },
+    {
+     "word": "merda",
+     "start": 14.45,
+     "end": 14.98
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 16.65,
+   "end": 18.22,
+   "text": "Meu Deus, meu Deus",
+   "words": [
+    {
+     "word": "Meu",
+     "start": 16.65,
+     "end": 16.85
+    },
+    {
+     "word": "Deus,",
+     "start": 16.85,
+     "end": 17.15
+    },
+    {
+     "word": "meu",
+     "start": 17.45,
+     "end": 17.67
+    },
+    {
+     "word": "Deus",
+     "start": 17.67,
+     "end": 18.22
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 21.97,
+   "end": 22.77,
+   "text": "Agora eu fiquei curioso",
+   "words": [
+    {
+     "word": "Agora",
+     "start": 21.97,
+     "end": 22.19
+    },
+    {
+     "word": "eu",
+     "start": 22.19,
+     "end": 22.35
+    },
+    {
+     "word": "fiquei",
+     "start": 22.35,
+     "end": 22.45
+    },
+    {
+     "word": "curioso",
+     "start": 22.45,
+     "end": 22.77
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 22.81,
+   "end": 23.8,
+   "text": "pra ver o que tem na",
+   "words": [
+    {
+     "word": "pra",
+     "start": 22.81,
+     "end": 22.89
+    },
+    {
+     "word": "ver",
+     "start": 22.89,
+     "end": 23.01
+    },
+    {
+     "word": "o",
+     "start": 23.01,
+     "end": 23.11
+    },
+    {
+     "word": "que",
+     "start": 23.11,
+     "end": 23.16
+    },
+    {
+     "word": "tem",
+     "start": 23.16,
+     "end": 23.35
+    },
+    {
+     "word": "na",
+     "start": 23.35,
+     "end": 23.8
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 24.31,
+   "end": 25.62,
+   "text": "última, né?",
+   "words": [
+    {
+     "word": "última,",
+     "start": 24.31,
+     "end": 25.13
+    },
+    {
+     "word": "né?",
+     "start": 25.31,
+     "end": 25.62
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 35.25,
+   "end": 35.97,
+   "text": "Meu Deus, eles estavam",
+   "words": [
+    {
+     "word": "Meu",
+     "start": 35.25,
+     "end": 35.49
+    },
+    {
+     "word": "Deus,",
+     "start": 35.49,
+     "end": 35.65
+    },
+    {
+     "word": "eles",
+     "start": 35.73,
+     "end": 35.85
+    },
+    {
+     "word": "estavam",
+     "start": 35.85,
+     "end": 35.97
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 36.01,
+   "end": 37.84,
+   "text": "fazendo experimentos em vacas",
+   "words": [
+    {
+     "word": "fazendo",
+     "start": 36.01,
+     "end": 36.25
+    },
+    {
+     "word": "experimentos",
+     "start": 36.25,
+     "end": 36.79
+    },
+    {
+     "word": "em",
+     "start": 36.79,
+     "end": 36.93
+    },
+    {
+     "word": "vacas",
+     "start": 36.93,
+     "end": 37.84
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 48.17,
+   "end": 49.62,
+   "text": "Sample number",
+   "words": [
+    {
+     "word": "Sample",
+     "start": 48.17,
+     "end": 48.65
+    },
+    {
+     "word": "number",
+     "start": 48.65,
+     "end": 49.62
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 49.67,
+   "end": 51.06,
+   "text": "MW",
+   "words": [
+    {
+     "word": "MW",
+     "start": 49.67,
+     "end": 51.06
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 51.22,
+   "end": 52.71,
+   "text": "Dá pra eu beber esse leitinho?",
+   "words": [
+    {
+     "word": "Dá",
+     "start": 51.22,
+     "end": 51.4
+    },
+    {
+     "word": "pra",
+     "start": 51.4,
+     "end": 51.48
+    },
+    {
+     "word": "eu",
+     "start": 51.48,
+     "end": 51.6
+    },
+    {
+     "word": "beber",
+     "start": 51.6,
+     "end": 51.78
+    },
+    {
+     "word": "esse",
+     "start": 51.78,
+     "end": 51.96
+    },
+    {
+     "word": "leitinho?",
+     "start": 51.96,
+     "end": 52.71
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 53.51,
+   "end": 54.74,
+   "text": "Vocês querem leitinho?",
+   "words": [
+    {
+     "word": "Vocês",
+     "start": 53.51,
+     "end": 53.77
+    },
+    {
+     "word": "querem",
+     "start": 53.77,
+     "end": 53.89
+    },
+    {
+     "word": "leitinho?",
+     "start": 53.89,
+     "end": 54.74
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 55.83,
+   "end": 57.54,
+   "text": "Mas vaca bebe leite, mano?",
+   "words": [
+    {
+     "word": "Mas",
+     "start": 55.83,
+     "end": 56.05
+    },
+    {
+     "word": "vaca",
+     "start": 56.05,
+     "end": 56.33
+    },
+    {
+     "word": "bebe",
+     "start": 56.33,
+     "end": 56.55
+    },
+    {
+     "word": "leite,",
+     "start": 56.55,
+     "end": 56.95
+    },
+    {
+     "word": "mano?",
+     "start": 57.09,
+     "end": 57.54
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 60.49,
+   "end": 61.99,
+   "text": "Não, vaca come grama, pô",
+   "words": [
+    {
+     "word": "Não,",
+     "start": 60.49,
+     "end": 60.67
+    },
+    {
+     "word": "vaca",
+     "start": 60.77,
+     "end": 61.01
+    },
+    {
+     "word": "come",
+     "start": 61.01,
+     "end": 61.25
+    },
+    {
+     "word": "grama,",
+     "start": 61.25,
+     "end": 61.71
+    },
+    {
+     "word": "pô",
+     "start": 61.85,
+     "end": 61.99
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 62.03,
+   "end": 62.99,
+   "text": "não come leite",
+   "words": [
+    {
+     "word": "não",
+     "start": 62.03,
+     "end": 62.15
+    },
+    {
+     "word": "come",
+     "start": 62.15,
+     "end": 62.39
+    },
+    {
+     "word": "leite",
+     "start": 62.39,
+     "end": 62.99
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 63.03,
+   "end": 64.17,
+   "text": "É igual o caso da abelha",
+   "words": [
+    {
+     "word": "É",
+     "start": 63.03,
+     "end": 63.13
+    },
+    {
+     "word": "igual",
+     "start": 63.13,
+     "end": 63.29
+    },
+    {
+     "word": "o",
+     "start": 63.29,
+     "end": 63.45
+    },
+    {
+     "word": "caso",
+     "start": 63.45,
+     "end": 63.59
+    },
+    {
+     "word": "da",
+     "start": 63.59,
+     "end": 63.73
+    },
+    {
+     "word": "abelha",
+     "start": 63.73,
+     "end": 64.17
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 64.21,
+   "end": 65.88,
+   "text": "que come flor, não come flor",
+   "words": [
+    {
+     "word": "que",
+     "start": 64.21,
+     "end": 64.27
+    },
+    {
+     "word": "come",
+     "start": 64.27,
+     "end": 64.49
+    },
+    {
+     "word": "flor,",
+     "start": 64.49,
+     "end": 64.79
+    },
+    {
+     "word": "não",
+     "start": 64.95,
+     "end": 65.03
+    },
+    {
+     "word": "come",
+     "start": 65.03,
+     "end": 65.33
+    },
+    {
+     "word": "flor",
+     "start": 65.33,
+     "end": 65.88
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 66.37,
+   "end": 67.43,
+   "text": "Quer dizer, abelha come flor",
+   "words": [
+    {
+     "word": "Quer",
+     "start": 66.37,
+     "end": 66.53
+    },
+    {
+     "word": "dizer,",
+     "start": 66.53,
+     "end": 66.61
+    },
+    {
+     "word": "abelha",
+     "start": 66.69,
+     "end": 66.95
+    },
+    {
+     "word": "come",
+     "start": 66.95,
+     "end": 67.17
+    },
+    {
+     "word": "flor",
+     "start": 67.17,
+     "end": 67.43
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 67.47,
+   "end": 68.28,
+   "text": "não come mel",
+   "words": [
+    {
+     "word": "não",
+     "start": 67.47,
+     "end": 67.55
+    },
+    {
+     "word": "come",
+     "start": 67.55,
+     "end": 67.77
+    },
+    {
+     "word": "mel",
+     "start": 67.77,
+     "end": 68.28
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 69.43,
+   "end": 71.18,
+   "text": "É o mesmo caso da abelha, pô",
+   "words": [
+    {
+     "word": "É",
+     "start": 69.43,
+     "end": 69.67
+    },
+    {
+     "word": "o",
+     "start": 69.67,
+     "end": 69.75
+    },
+    {
+     "word": "mesmo",
+     "start": 69.75,
+     "end": 69.91
+    },
+    {
+     "word": "caso",
+     "start": 69.91,
+     "end": 70.17
+    },
+    {
+     "word": "da",
+     "start": 70.17,
+     "end": 70.35
+    },
+    {
+     "word": "abelha,",
+     "start": 70.35,
+     "end": 70.71
+    },
+    {
+     "word": "pô",
+     "start": 70.79,
+     "end": 71.18
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 73.59,
+   "end": 75.24,
+   "text": "Levar um leitinho lá. Será",
+   "words": [
+    {
+     "word": "Levar",
+     "start": 73.59,
+     "end": 73.87
+    },
+    {
+     "word": "um",
+     "start": 73.87,
+     "end": 73.97
+    },
+    {
+     "word": "leitinho",
+     "start": 73.97,
+     "end": 74.49
+    },
+    {
+     "word": "lá.",
+     "start": 74.49,
+     "end": 74.69
+    },
+    {
+     "word": "Será",
+     "start": 74.93,
+     "end": 75.24
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 80.19,
+   "end": 81.39,
+   "text": "que eu era obrigado a pegar o leite?",
+   "words": [
+    {
+     "word": "que",
+     "start": 80.19,
+     "end": 80.27
+    },
+    {
+     "word": "eu",
+     "start": 80.27,
+     "end": 80.33
+    },
+    {
+     "word": "era",
+     "start": 80.33,
+     "end": 80.41
+    },
+    {
+     "word": "obrigado",
+     "start": 80.41,
+     "end": 80.67
+    },
+    {
+     "word": "a",
+     "start": 80.67,
+     "end": 80.81
+    },
+    {
+     "word": "pegar",
+     "start": 80.81,
+     "end": 80.97
+    },
+    {
+     "word": "o",
+     "start": 80.97,
+     "end": 81.09
+    },
+    {
+     "word": "leite?",
+     "start": 81.09,
+     "end": 81.39
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 81.43,
+   "end": 82.78,
+   "text": "Mas às vezes eu era obrigado, né?",
+   "words": [
+    {
+     "word": "Mas",
+     "start": 81.43,
+     "end": 81.51
+    },
+    {
+     "word": "às",
+     "start": 81.51,
+     "end": 81.65
+    },
+    {
+     "word": "vezes",
+     "start": 81.65,
+     "end": 81.75
+    },
+    {
+     "word": "eu",
+     "start": 81.75,
+     "end": 81.85
+    },
+    {
+     "word": "era",
+     "start": 81.85,
+     "end": 81.95
+    },
+    {
+     "word": "obrigado,",
+     "start": 81.95,
+     "end": 82.37
+    },
+    {
+     "word": "né?",
+     "start": 82.47,
+     "end": 82.78
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 88.02,
+   "end": 88.82,
+   "text": "Ah, que eu era obrigado",
+   "words": [
+    {
+     "word": "Ah,",
+     "start": 88.02,
+     "end": 88.16
+    },
+    {
+     "word": "que",
+     "start": 88.32,
+     "end": 88.42
+    },
+    {
+     "word": "eu",
+     "start": 88.42,
+     "end": 88.47
+    },
+    {
+     "word": "era",
+     "start": 88.47,
+     "end": 88.52
+    },
+    {
+     "word": "obrigado",
+     "start": 88.52,
+     "end": 88.82
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 88.86,
+   "end": 89.87,
+   "text": "a pegar o leite",
+   "words": [
+    {
+     "word": "a",
+     "start": 88.86,
+     "end": 89.02
+    },
+    {
+     "word": "pegar",
+     "start": 89.02,
+     "end": 89.18
+    },
+    {
+     "word": "o",
+     "start": 89.18,
+     "end": 89.3
+    },
+    {
+     "word": "leite",
+     "start": 89.3,
+     "end": 89.87
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
