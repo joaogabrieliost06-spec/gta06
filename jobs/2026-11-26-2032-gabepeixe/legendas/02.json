@@ -1,0 +1,513 @@
+{
+ "segments": [
+  {
+   "start": 2.26,
+   "end": 4.05,
+   "text": "Beleza, as defesas estão prontas",
+   "words": [
+    {
+     "word": "Beleza,",
+     "start": 2.26,
+     "end": 2.44
+    },
+    {
+     "word": "as",
+     "start": 2.54,
+     "end": 2.68
+    },
+    {
+     "word": "defesas",
+     "start": 2.68,
+     "end": 3.06
+    },
+    {
+     "word": "estão",
+     "start": 3.06,
+     "end": 3.22
+    },
+    {
+     "word": "prontas",
+     "start": 3.22,
+     "end": 4.05
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 4.46,
+   "end": 5.27,
+   "text": "Olha",
+   "words": [
+    {
+     "word": "Olha",
+     "start": 4.46,
+     "end": 5.27
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.18,
+   "end": 7.51,
+   "text": "Legal, eu vou aí sim",
+   "words": [
+    {
+     "word": "Legal,",
+     "start": 6.18,
+     "end": 6.6
+    },
+    {
+     "word": "eu",
+     "start": 6.74,
+     "end": 6.86
+    },
+    {
+     "word": "vou",
+     "start": 6.86,
+     "end": 6.94
+    },
+    {
+     "word": "aí",
+     "start": 6.94,
+     "end": 7.06
+    },
+    {
+     "word": "sim",
+     "start": 7.06,
+     "end": 7.51
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.83,
+   "end": 9.17,
+   "text": "\"As defesas estão prontas",
+   "words": [
+    {
+     "word": "\"As",
+     "start": 7.83,
+     "end": 8.01
+    },
+    {
+     "word": "defesas",
+     "start": 8.01,
+     "end": 8.43
+    },
+    {
+     "word": "estão",
+     "start": 8.43,
+     "end": 8.61
+    },
+    {
+     "word": "prontas",
+     "start": 8.61,
+     "end": 9.17
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 9.21,
+   "end": 11.29,
+   "text": "vocês, vocês nunca mais",
+   "words": [
+    {
+     "word": "vocês,",
+     "start": 9.21,
+     "end": 9.45
+    },
+    {
+     "word": "vocês",
+     "start": 9.81,
+     "end": 10.49
+    },
+    {
+     "word": "nunca",
+     "start": 10.49,
+     "end": 11.07
+    },
+    {
+     "word": "mais",
+     "start": 11.07,
+     "end": 11.29
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 11.33,
+   "end": 12.76,
+   "text": "vão chegar perto do meu bunker",
+   "words": [
+    {
+     "word": "vão",
+     "start": 11.33,
+     "end": 11.47
+    },
+    {
+     "word": "chegar",
+     "start": 11.47,
+     "end": 11.67
+    },
+    {
+     "word": "perto",
+     "start": 11.67,
+     "end": 11.95
+    },
+    {
+     "word": "do",
+     "start": 11.95,
+     "end": 12.07
+    },
+    {
+     "word": "meu",
+     "start": 12.07,
+     "end": 12.19
+    },
+    {
+     "word": "bunker",
+     "start": 12.19,
+     "end": 12.76
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 12.97,
+   "end": 13.79,
+   "text": "mas podem vir testar",
+   "words": [
+    {
+     "word": "mas",
+     "start": 12.97,
+     "end": 13.11
+    },
+    {
+     "word": "podem",
+     "start": 13.11,
+     "end": 13.37
+    },
+    {
+     "word": "vir",
+     "start": 13.37,
+     "end": 13.55
+    },
+    {
+     "word": "testar",
+     "start": 13.55,
+     "end": 13.79
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 13.83,
+   "end": 14.79,
+   "text": "as paradas mesmo assim",
+   "words": [
+    {
+     "word": "as",
+     "start": 13.83,
+     "end": 13.95
+    },
+    {
+     "word": "paradas",
+     "start": 13.95,
+     "end": 14.17
+    },
+    {
+     "word": "mesmo",
+     "start": 14.17,
+     "end": 14.41
+    },
+    {
+     "word": "assim",
+     "start": 14.41,
+     "end": 14.79
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 14.83,
+   "end": 16.27,
+   "text": "Tem dinheiro esperando vocês\"",
+   "words": [
+    {
+     "word": "Tem",
+     "start": 14.83,
+     "end": 14.97
+    },
+    {
+     "word": "dinheiro",
+     "start": 14.97,
+     "end": 15.29
+    },
+    {
+     "word": "esperando",
+     "start": 15.29,
+     "end": 15.63
+    },
+    {
+     "word": "vocês\"",
+     "start": 15.63,
+     "end": 16.27
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 16.31,
+   "end": 16.96,
+   "text": "Aí",
+   "words": [
+    {
+     "word": "Aí",
+     "start": 16.31,
+     "end": 16.96
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 17.93,
+   "end": 18.75,
+   "text": "Legal, mas calma",
+   "words": [
+    {
+     "word": "Legal,",
+     "start": 17.93,
+     "end": 18.17
+    },
+    {
+     "word": "mas",
+     "start": 18.41,
+     "end": 18.51
+    },
+    {
+     "word": "calma",
+     "start": 18.51,
+     "end": 18.75
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 18.79,
+   "end": 19.43,
+   "text": "deixa eu agora focar",
+   "words": [
+    {
+     "word": "deixa",
+     "start": 18.79,
+     "end": 18.91
+    },
+    {
+     "word": "eu",
+     "start": 18.91,
+     "end": 18.99
+    },
+    {
+     "word": "agora",
+     "start": 18.99,
+     "end": 19.17
+    },
+    {
+     "word": "focar",
+     "start": 19.17,
+     "end": 19.43
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 19.47,
+   "end": 20.46,
+   "text": "nessa aqui primeiro",
+   "words": [
+    {
+     "word": "nessa",
+     "start": 19.47,
+     "end": 19.69
+    },
+    {
+     "word": "aqui",
+     "start": 19.69,
+     "end": 19.85
+    },
+    {
+     "word": "primeiro",
+     "start": 19.85,
+     "end": 20.46
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 20.87,
+   "end": 22.48,
+   "text": "Vou fazer esse stealth aqui",
+   "words": [
+    {
+     "word": "Vou",
+     "start": 20.87,
+     "end": 21.09
+    },
+    {
+     "word": "fazer",
+     "start": 21.09,
+     "end": 21.37
+    },
+    {
+     "word": "esse",
+     "start": 21.37,
+     "end": 21.57
+    },
+    {
+     "word": "stealth",
+     "start": 21.57,
+     "end": 21.87
+    },
+    {
+     "word": "aqui",
+     "start": 21.87,
+     "end": 22.48
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 25.37,
+   "end": 27.32,
+   "text": "Esse banco aqui é tranquilo",
+   "words": [
+    {
+     "word": "Esse",
+     "start": 25.37,
+     "end": 25.65
+    },
+    {
+     "word": "banco",
+     "start": 25.65,
+     "end": 25.97
+    },
+    {
+     "word": "aqui",
+     "start": 25.97,
+     "end": 26.25
+    },
+    {
+     "word": "é",
+     "start": 26.25,
+     "end": 26.55
+    },
+    {
+     "word": "tranquilo",
+     "start": 26.55,
+     "end": 27.32
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 27.37,
+   "end": 28.82,
+   "text": "O cara bateu na minha traseira",
+   "words": [
+    {
+     "word": "O",
+     "start": 27.37,
+     "end": 27.51
+    },
+    {
+     "word": "cara",
+     "start": 27.51,
+     "end": 27.59
+    },
+    {
+     "word": "bateu",
+     "start": 27.59,
+     "end": 27.91
+    },
+    {
+     "word": "na",
+     "start": 27.91,
+     "end": 27.96
+    },
+    {
+     "word": "minha",
+     "start": 27.96,
+     "end": 28.09
+    },
+    {
+     "word": "traseira",
+     "start": 28.09,
+     "end": 28.82
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 32.36,
+   "end": 33.76,
+   "text": "Deus! O cara só bateu",
+   "words": [
+    {
+     "word": "Deus!",
+     "start": 32.36,
+     "end": 33.0
+    },
+    {
+     "word": "O",
+     "start": 33.12,
+     "end": 33.18
+    },
+    {
+     "word": "cara",
+     "start": 33.18,
+     "end": 33.28
+    },
+    {
+     "word": "só",
+     "start": 33.28,
+     "end": 33.46
+    },
+    {
+     "word": "bateu",
+     "start": 33.46,
+     "end": 33.76
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 33.8,
+   "end": 35.11,
+   "text": "na minha traseira, viado",
+   "words": [
+    {
+     "word": "na",
+     "start": 33.8,
+     "end": 33.86
+    },
+    {
+     "word": "minha",
+     "start": 33.86,
+     "end": 34.0
+    },
+    {
+     "word": "traseira,",
+     "start": 34.0,
+     "end": 34.48
+    },
+    {
+     "word": "viado",
+     "start": 34.56,
+     "end": 35.11
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
