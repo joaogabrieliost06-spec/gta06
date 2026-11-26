@@ -1,0 +1,554 @@
+{
+ "segments": [
+  {
+   "start": 2.22,
+   "end": 3.91,
+   "text": "Eu não tenho o terno montado",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 2.22,
+     "end": 2.44
+    },
+    {
+     "word": "não",
+     "start": 2.44,
+     "end": 2.56
+    },
+    {
+     "word": "tenho",
+     "start": 2.56,
+     "end": 2.74
+    },
+    {
+     "word": "o",
+     "start": 2.74,
+     "end": 2.9
+    },
+    {
+     "word": "terno",
+     "start": 2.9,
+     "end": 3.12
+    },
+    {
+     "word": "montado",
+     "start": 3.12,
+     "end": 3.91
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 4.45,
+   "end": 5.25,
+   "text": "Vou ter que montar lá em cima",
+   "words": [
+    {
+     "word": "Vou",
+     "start": 4.45,
+     "end": 4.55
+    },
+    {
+     "word": "ter",
+     "start": 4.55,
+     "end": 4.61
+    },
+    {
+     "word": "que",
+     "start": 4.61,
+     "end": 4.71
+    },
+    {
+     "word": "montar",
+     "start": 4.71,
+     "end": 4.97
+    },
+    {
+     "word": "lá",
+     "start": 4.97,
+     "end": 5.05
+    },
+    {
+     "word": "em",
+     "start": 5.05,
+     "end": 5.17
+    },
+    {
+     "word": "cima",
+     "start": 5.17,
+     "end": 5.25
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 5.29,
+   "end": 6.79,
+   "text": "do apartamento o terno",
+   "words": [
+    {
+     "word": "do",
+     "start": 5.29,
+     "end": 5.41
+    },
+    {
+     "word": "apartamento",
+     "start": 5.41,
+     "end": 5.89
+    },
+    {
+     "word": "o",
+     "start": 5.89,
+     "end": 6.07
+    },
+    {
+     "word": "terno",
+     "start": 6.07,
+     "end": 6.79
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.83,
+   "end": 7.47,
+   "text": "porque nós vamos roubar",
+   "words": [
+    {
+     "word": "porque",
+     "start": 6.83,
+     "end": 6.93
+    },
+    {
+     "word": "nós",
+     "start": 6.93,
+     "end": 7.05
+    },
+    {
+     "word": "vamos",
+     "start": 7.05,
+     "end": 7.23
+    },
+    {
+     "word": "roubar",
+     "start": 7.23,
+     "end": 7.47
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.51,
+   "end": 8.37,
+   "text": "a missão impossível",
+   "words": [
+    {
+     "word": "a",
+     "start": 7.51,
+     "end": 7.59
+    },
+    {
+     "word": "missão",
+     "start": 7.59,
+     "end": 7.79
+    },
+    {
+     "word": "impossível",
+     "start": 7.79,
+     "end": 8.37
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 8.41,
+   "end": 9.05,
+   "text": "Não somos o casal",
+   "words": [
+    {
+     "word": "Não",
+     "start": 8.41,
+     "end": 8.49
+    },
+    {
+     "word": "somos",
+     "start": 8.49,
+     "end": 8.71
+    },
+    {
+     "word": "o",
+     "start": 8.71,
+     "end": 8.87
+    },
+    {
+     "word": "casal",
+     "start": 8.87,
+     "end": 9.05
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 9.09,
+   "end": 10.44,
+   "text": "Bonnie e Clyde mais não",
+   "words": [
+    {
+     "word": "Bonnie",
+     "start": 9.09,
+     "end": 9.51
+    },
+    {
+     "word": "e",
+     "start": 9.51,
+     "end": 9.63
+    },
+    {
+     "word": "Clyde",
+     "start": 9.63,
+     "end": 9.87
+    },
+    {
+     "word": "mais",
+     "start": 9.87,
+     "end": 10.03
+    },
+    {
+     "word": "não",
+     "start": 10.03,
+     "end": 10.44
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.69,
+   "end": 11.51,
+   "text": "Lucia me abandonou",
+   "words": [
+    {
+     "word": "Lucia",
+     "start": 10.69,
+     "end": 10.95
+    },
+    {
+     "word": "me",
+     "start": 10.95,
+     "end": 11.07
+    },
+    {
+     "word": "abandonou",
+     "start": 11.07,
+     "end": 11.51
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 11.55,
+   "end": 12.81,
+   "text": "essa vagabunda, filha da puta",
+   "words": [
+    {
+     "word": "essa",
+     "start": 11.55,
+     "end": 11.63
+    },
+    {
+     "word": "vagabunda,",
+     "start": 11.63,
+     "end": 12.13
+    },
+    {
+     "word": "filha",
+     "start": 12.19,
+     "end": 12.39
+    },
+    {
+     "word": "da",
+     "start": 12.39,
+     "end": 12.47
+    },
+    {
+     "word": "puta",
+     "start": 12.47,
+     "end": 12.81
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 12.85,
+   "end": 14.12,
+   "text": "Ela só quer saber de academia",
+   "words": [
+    {
+     "word": "Ela",
+     "start": 12.85,
+     "end": 12.89
+    },
+    {
+     "word": "só",
+     "start": 12.89,
+     "end": 12.99
+    },
+    {
+     "word": "quer",
+     "start": 12.99,
+     "end": 13.11
+    },
+    {
+     "word": "saber",
+     "start": 13.11,
+     "end": 13.27
+    },
+    {
+     "word": "de",
+     "start": 13.27,
+     "end": 13.39
+    },
+    {
+     "word": "academia",
+     "start": 13.39,
+     "end": 14.12
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 14.29,
+   "end": 15.01,
+   "text": "desgraçada",
+   "words": [
+    {
+     "word": "desgraçada",
+     "start": 14.29,
+     "end": 15.01
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 15.05,
+   "end": 16.12,
+   "text": "Tô puto com ela",
+   "words": [
+    {
+     "word": "Tô",
+     "start": 15.05,
+     "end": 15.13
+    },
+    {
+     "word": "puto",
+     "start": 15.13,
+     "end": 15.49
+    },
+    {
+     "word": "com",
+     "start": 15.49,
+     "end": 15.61
+    },
+    {
+     "word": "ela",
+     "start": 15.61,
+     "end": 16.12
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 16.23,
+   "end": 17.04,
+   "text": "Ela não quer nem que a gente",
+   "words": [
+    {
+     "word": "Ela",
+     "start": 16.23,
+     "end": 16.35
+    },
+    {
+     "word": "não",
+     "start": 16.35,
+     "end": 16.51
+    },
+    {
+     "word": "quer",
+     "start": 16.51,
+     "end": 16.61
+    },
+    {
+     "word": "nem",
+     "start": 16.61,
+     "end": 16.79
+    },
+    {
+     "word": "que",
+     "start": 16.79,
+     "end": 16.89
+    },
+    {
+     "word": "a",
+     "start": 16.89,
+     "end": 16.99
+    },
+    {
+     "word": "gente",
+     "start": 16.99,
+     "end": 17.04
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 17.07,
+   "end": 17.89,
+   "text": "fique mais junto",
+   "words": [
+    {
+     "word": "fique",
+     "start": 17.07,
+     "end": 17.29
+    },
+    {
+     "word": "mais",
+     "start": 17.29,
+     "end": 17.49
+    },
+    {
+     "word": "junto",
+     "start": 17.49,
+     "end": 17.89
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 17.93,
+   "end": 18.8,
+   "text": "Não, chamego",
+   "words": [
+    {
+     "word": "Não,",
+     "start": 17.93,
+     "end": 18.01
+    },
+    {
+     "word": "chamego",
+     "start": 18.01,
+     "end": 18.8
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 19.75,
+   "end": 20.65,
+   "text": "Deixa eu ver como é que tá",
+   "words": [
+    {
+     "word": "Deixa",
+     "start": 19.75,
+     "end": 20.17
+    },
+    {
+     "word": "eu",
+     "start": 20.17,
+     "end": 20.25
+    },
+    {
+     "word": "ver",
+     "start": 20.25,
+     "end": 20.33
+    },
+    {
+     "word": "como",
+     "start": 20.33,
+     "end": 20.49
+    },
+    {
+     "word": "é",
+     "start": 20.49,
+     "end": 20.55
+    },
+    {
+     "word": "que",
+     "start": 20.55,
+     "end": 20.6
+    },
+    {
+     "word": "tá",
+     "start": 20.6,
+     "end": 20.65
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 20.67,
+   "end": 22.2,
+   "text": "meu perfil",
+   "words": [
+    {
+     "word": "meu",
+     "start": 20.67,
+     "end": 20.91
+    },
+    {
+     "word": "perfil",
+     "start": 20.91,
+     "end": 22.2
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 25.91,
+   "end": 26.96,
+   "text": "Profissional",
+   "words": [
+    {
+     "word": "Profissional",
+     "start": 25.91,
+     "end": 26.96
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.07,
+   "end": 29.1,
+   "text": "Profissional",
+   "words": [
+    {
+     "word": "Profissional",
+     "start": 28.07,
+     "end": 29.1
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 30.23,
+   "end": 31.14,
+   "text": "Beleza, tá bem",
+   "words": [
+    {
+     "word": "Beleza,",
+     "start": 30.23,
+     "end": 30.53
+    },
+    {
+     "word": "tá",
+     "start": 30.71,
+     "end": 30.81
+    },
+    {
+     "word": "bem",
+     "start": 30.81,
+     "end": 31.14
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
