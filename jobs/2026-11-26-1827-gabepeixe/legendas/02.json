@@ -1,0 +1,506 @@
+{
+ "segments": [
+  {
+   "start": 6.0,
+   "end": 6.7,
+   "text": "Acordou todo",
+   "words": [
+    {
+     "word": "Acordou",
+     "start": 6.0,
+     "end": 6.44
+    },
+    {
+     "word": "todo",
+     "start": 6.44,
+     "end": 6.7
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.74,
+   "end": 8.31,
+   "text": "esbagaçado, viado",
+   "words": [
+    {
+     "word": "esbagaçado,",
+     "start": 6.74,
+     "end": 7.72
+    },
+    {
+     "word": "viado",
+     "start": 7.82,
+     "end": 8.31
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 9.03,
+   "end": 10.23,
+   "text": "Eu achei até que ia falar",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 9.03,
+     "end": 9.33
+    },
+    {
+     "word": "achei",
+     "start": 9.33,
+     "end": 9.51
+    },
+    {
+     "word": "até",
+     "start": 9.51,
+     "end": 9.69
+    },
+    {
+     "word": "que",
+     "start": 9.69,
+     "end": 9.87
+    },
+    {
+     "word": "ia",
+     "start": 9.87,
+     "end": 10.01
+    },
+    {
+     "word": "falar",
+     "start": 10.01,
+     "end": 10.23
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.27,
+   "end": 11.01,
+   "text": "que tem, pô, porque",
+   "words": [
+    {
+     "word": "que",
+     "start": 10.27,
+     "end": 10.47
+    },
+    {
+     "word": "tem,",
+     "start": 10.47,
+     "end": 10.69
+    },
+    {
+     "word": "pô,",
+     "start": 10.85,
+     "end": 10.91
+    },
+    {
+     "word": "porque",
+     "start": 10.95,
+     "end": 11.01
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 11.05,
+   "end": 12.49,
+   "text": "ela tá feliz com os passaportes",
+   "words": [
+    {
+     "word": "ela",
+     "start": 11.05,
+     "end": 11.17
+    },
+    {
+     "word": "tá",
+     "start": 11.17,
+     "end": 11.29
+    },
+    {
+     "word": "feliz",
+     "start": 11.29,
+     "end": 11.59
+    },
+    {
+     "word": "com",
+     "start": 11.59,
+     "end": 11.73
+    },
+    {
+     "word": "os",
+     "start": 11.73,
+     "end": 11.79
+    },
+    {
+     "word": "passaportes",
+     "start": 11.79,
+     "end": 12.49
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 12.53,
+   "end": 13.01,
+   "text": "Eu achei que ela ia",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 12.53,
+     "end": 12.61
+    },
+    {
+     "word": "achei",
+     "start": 12.61,
+     "end": 12.73
+    },
+    {
+     "word": "que",
+     "start": 12.73,
+     "end": 12.83
+    },
+    {
+     "word": "ela",
+     "start": 12.83,
+     "end": 12.93
+    },
+    {
+     "word": "ia",
+     "start": 12.93,
+     "end": 13.01
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 13.05,
+   "end": 14.24,
+   "text": "vir pra cima de mim",
+   "words": [
+    {
+     "word": "vir",
+     "start": 13.05,
+     "end": 13.23
+    },
+    {
+     "word": "pra",
+     "start": 13.23,
+     "end": 13.35
+    },
+    {
+     "word": "cima",
+     "start": 13.35,
+     "end": 13.55
+    },
+    {
+     "word": "de",
+     "start": 13.55,
+     "end": 13.73
+    },
+    {
+     "word": "mim",
+     "start": 13.73,
+     "end": 14.24
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 14.59,
+   "end": 15.4,
+   "text": "\"Ai, Jay",
+   "words": [
+    {
+     "word": "\"Ai,",
+     "start": 14.59,
+     "end": 14.85
+    },
+    {
+     "word": "Jay",
+     "start": 14.85,
+     "end": 15.4
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 15.79,
+   "end": 17.23,
+   "text": "Olha, tá dando tudo certo",
+   "words": [
+    {
+     "word": "Olha,",
+     "start": 15.79,
+     "end": 16.03
+    },
+    {
+     "word": "tá",
+     "start": 16.17,
+     "end": 16.27
+    },
+    {
+     "word": "dando",
+     "start": 16.27,
+     "end": 16.43
+    },
+    {
+     "word": "tudo",
+     "start": 16.43,
+     "end": 16.67
+    },
+    {
+     "word": "certo",
+     "start": 16.67,
+     "end": 17.23
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 17.27,
+   "end": 18.47,
+   "text": "Jay, ó meu Deus",
+   "words": [
+    {
+     "word": "Jay,",
+     "start": 17.27,
+     "end": 17.51
+    },
+    {
+     "word": "ó",
+     "start": 17.79,
+     "end": 17.89
+    },
+    {
+     "word": "meu",
+     "start": 17.89,
+     "end": 18.05
+    },
+    {
+     "word": "Deus",
+     "start": 18.05,
+     "end": 18.47
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 18.51,
+   "end": 19.98,
+   "text": "Hoje tem, hoje tem\"",
+   "words": [
+    {
+     "word": "Hoje",
+     "start": 18.51,
+     "end": 18.65
+    },
+    {
+     "word": "tem,",
+     "start": 18.65,
+     "end": 18.99
+    },
+    {
+     "word": "hoje",
+     "start": 19.19,
+     "end": 19.37
+    },
+    {
+     "word": "tem\"",
+     "start": 19.37,
+     "end": 19.98
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 20.11,
+   "end": 22.0,
+   "text": "Ploft, ploft, ploft",
+   "words": [
+    {
+     "word": "Ploft,",
+     "start": 20.11,
+     "end": 20.51
+    },
+    {
+     "word": "ploft,",
+     "start": 20.65,
+     "end": 21.13
+    },
+    {
+     "word": "ploft",
+     "start": 21.27,
+     "end": 22.0
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 22.21,
+   "end": 23.15,
+   "text": "E eu querendo melhorar",
+   "words": [
+    {
+     "word": "E",
+     "start": 22.21,
+     "end": 22.51
+    },
+    {
+     "word": "eu",
+     "start": 22.51,
+     "end": 22.61
+    },
+    {
+     "word": "querendo",
+     "start": 22.61,
+     "end": 22.87
+    },
+    {
+     "word": "melhorar",
+     "start": 22.87,
+     "end": 23.15
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 23.19,
+   "end": 23.87,
+   "text": "a relação dos dois",
+   "words": [
+    {
+     "word": "a",
+     "start": 23.19,
+     "end": 23.23
+    },
+    {
+     "word": "relação",
+     "start": 23.23,
+     "end": 23.55
+    },
+    {
+     "word": "dos",
+     "start": 23.55,
+     "end": 23.77
+    },
+    {
+     "word": "dois",
+     "start": 23.77,
+     "end": 23.87
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 23.91,
+   "end": 24.9,
+   "text": "e não vai",
+   "words": [
+    {
+     "word": "e",
+     "start": 23.91,
+     "end": 24.05
+    },
+    {
+     "word": "não",
+     "start": 24.05,
+     "end": 24.17
+    },
+    {
+     "word": "vai",
+     "start": 24.17,
+     "end": 24.9
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 25.23,
+   "end": 26.66,
+   "text": "E não vai",
+   "words": [
+    {
+     "word": "E",
+     "start": 25.23,
+     "end": 25.57
+    },
+    {
+     "word": "não",
+     "start": 25.57,
+     "end": 25.71
+    },
+    {
+     "word": "vai",
+     "start": 25.71,
+     "end": 26.66
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.49,
+   "end": 29.1,
+   "text": "Vela?",
+   "words": [
+    {
+     "word": "Vela?",
+     "start": 28.49,
+     "end": 29.1
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 29.73,
+   "end": 30.35,
+   "text": "Nem sabia que tinha",
+   "words": [
+    {
+     "word": "Nem",
+     "start": 29.73,
+     "end": 29.93
+    },
+    {
+     "word": "sabia",
+     "start": 29.93,
+     "end": 30.15
+    },
+    {
+     "word": "que",
+     "start": 30.15,
+     "end": 30.27
+    },
+    {
+     "word": "tinha",
+     "start": 30.27,
+     "end": 30.35
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 30.39,
+   "end": 31.46,
+   "text": "vela nesse banheiro",
+   "words": [
+    {
+     "word": "vela",
+     "start": 30.39,
+     "end": 30.69
+    },
+    {
+     "word": "nesse",
+     "start": 30.69,
+     "end": 30.85
+    },
+    {
+     "word": "banheiro",
+     "start": 30.85,
+     "end": 31.46
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
