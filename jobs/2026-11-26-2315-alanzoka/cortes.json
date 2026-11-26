@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, Alan, GTA 6, Lucia, Jason, Raul, loja de armas, penhores, desmaiei, missão principal, reiniciar, console, episódio filler, bebê, mano, velho, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:17:22", "fim": "0:18:35", "titulo": "LIGA PRA MIM, RAUL"},
+  {"id": "02", "inicio": "0:08:16", "fim": "0:09:12", "titulo": "VOU REINICIAR TUDO"},
+  {"id": "03", "inicio": "0:02:21", "fim": "0:03:34", "titulo": "ASSALTO NA LOJA DE ARMAS"}
+ ]
+}
