@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, Alan, GTA 6, Lucia, Jason, Raul, músculo, academia, chocolate, missão principal, sub de presente, psicopata, toque, bebê, mano, velho, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:06:21", "fim": "0:07:28", "titulo": "COMO ELA PERDE MÚSCULO"},
+  {"id": "02", "inicio": "0:14:58", "fim": "0:15:52", "titulo": "TÔ PRESO NO JOGO"},
+  {"id": "03", "inicio": "0:16:12", "fim": "0:17:12", "titulo": "VOCÊ NÃO TEM O TOQUE"}
+ ]
+}
