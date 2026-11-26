@@ -1,0 +1,223 @@
+{
+ "segments": [
+  {
+   "start": 3.43,
+   "end": 3.99,
+   "text": "Isso, mas o cara",
+   "words": [
+    {
+     "word": "Isso,",
+     "start": 3.43,
+     "end": 3.63
+    },
+    {
+     "word": "mas",
+     "start": 3.71,
+     "end": 3.77
+    },
+    {
+     "word": "o",
+     "start": 3.77,
+     "end": 3.89
+    },
+    {
+     "word": "cara",
+     "start": 3.89,
+     "end": 3.99
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 4.03,
+   "end": 5.5,
+   "text": "é uma rocha, viado",
+   "words": [
+    {
+     "word": "é",
+     "start": 4.03,
+     "end": 4.13
+    },
+    {
+     "word": "uma",
+     "start": 4.13,
+     "end": 4.27
+    },
+    {
+     "word": "rocha,",
+     "start": 4.27,
+     "end": 4.79
+    },
+    {
+     "word": "viado",
+     "start": 4.95,
+     "end": 5.5
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 13.57,
+   "end": 15.14,
+   "text": "Cara é uma rocha, viado",
+   "words": [
+    {
+     "word": "Cara",
+     "start": 13.57,
+     "end": 13.75
+    },
+    {
+     "word": "é",
+     "start": 13.75,
+     "end": 13.85
+    },
+    {
+     "word": "uma",
+     "start": 13.85,
+     "end": 13.95
+    },
+    {
+     "word": "rocha,",
+     "start": 13.95,
+     "end": 14.39
+    },
+    {
+     "word": "viado",
+     "start": 14.55,
+     "end": 15.14
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 21.18,
+   "end": 23.28,
+   "text": "Cara é rocha, viado",
+   "words": [
+    {
+     "word": "Cara",
+     "start": 21.18,
+     "end": 21.94
+    },
+    {
+     "word": "é",
+     "start": 22.25,
+     "end": 22.51
+    },
+    {
+     "word": "rocha,",
+     "start": 22.51,
+     "end": 22.71
+    },
+    {
+     "word": "viado",
+     "start": 22.85,
+     "end": 23.28
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 46.77,
+   "end": 48.02,
+   "text": "Isso, viado",
+   "words": [
+    {
+     "word": "Isso,",
+     "start": 46.77,
+     "end": 47.13
+    },
+    {
+     "word": "viado",
+     "start": 47.33,
+     "end": 48.02
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 51.04,
+   "end": 52.24,
+   "text": "Como é, eu tô batendo",
+   "words": [
+    {
+     "word": "Como",
+     "start": 51.04,
+     "end": 51.26
+    },
+    {
+     "word": "é,",
+     "start": 51.26,
+     "end": 51.4
+    },
+    {
+     "word": "eu",
+     "start": 51.66,
+     "end": 51.86
+    },
+    {
+     "word": "tô",
+     "start": 51.86,
+     "end": 51.96
+    },
+    {
+     "word": "batendo",
+     "start": 51.96,
+     "end": 52.24
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 52.28,
+   "end": 53.55,
+   "text": "uma rocha, viado",
+   "words": [
+    {
+     "word": "uma",
+     "start": 52.28,
+     "end": 52.42
+    },
+    {
+     "word": "rocha,",
+     "start": 52.42,
+     "end": 52.82
+    },
+    {
+     "word": "viado",
+     "start": 52.98,
+     "end": 53.55
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 54.2,
+   "end": 55.03,
+   "text": "Ela tá de soco",
+   "words": [
+    {
+     "word": "Ela",
+     "start": 54.2,
+     "end": 54.34
+    },
+    {
+     "word": "tá",
+     "start": 54.34,
+     "end": 54.42
+    },
+    {
+     "word": "de",
+     "start": 54.42,
+     "end": 54.52
+    },
+    {
+     "word": "soco",
+     "start": 54.52,
+     "end": 55.03
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
