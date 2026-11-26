@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, GTA 6, Jason, Lucia, Mr. Walker, hotel, manobrista, Red Dead, secundária, academia, PC, mano, velho, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:09:05", "fim": "0:10:32", "titulo": "ROUBARAM MEU CARRO"},
+  {"id": "02", "inicio": "0:12:12", "fim": "0:13:30", "titulo": "64 HORAS DE JOGO"},
+  {"id": "03", "inicio": "0:17:50", "fim": "0:19:18", "titulo": "DINHEIRO DO MEU FILHO"}
+ ]
+}
