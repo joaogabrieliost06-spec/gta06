@@ -1,0 +1,485 @@
+{
+ "segments": [
+  {
+   "start": 2.47,
+   "end": 3.13,
+   "text": "Mano, onde veio",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 2.47,
+     "end": 2.83
+    },
+    {
+     "word": "onde",
+     "start": 2.87,
+     "end": 2.95
+    },
+    {
+     "word": "veio",
+     "start": 2.95,
+     "end": 3.13
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 3.17,
+   "end": 4.67,
+   "text": "uma zebra, velho",
+   "words": [
+    {
+     "word": "uma",
+     "start": 3.17,
+     "end": 3.39
+    },
+    {
+     "word": "zebra,",
+     "start": 3.39,
+     "end": 3.89
+    },
+    {
+     "word": "velho",
+     "start": 4.09,
+     "end": 4.67
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 4.71,
+   "end": 5.38,
+   "text": "calma, isso não",
+   "words": [
+    {
+     "word": "calma,",
+     "start": 4.71,
+     "end": 5.21
+    },
+    {
+     "word": "isso",
+     "start": 5.25,
+     "end": 5.33
+    },
+    {
+     "word": "não",
+     "start": 5.33,
+     "end": 5.38
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 5.41,
+   "end": 6.39,
+   "text": "é uma zebra, isso",
+   "words": [
+    {
+     "word": "é",
+     "start": 5.41,
+     "end": 5.47
+    },
+    {
+     "word": "uma",
+     "start": 5.47,
+     "end": 5.57
+    },
+    {
+     "word": "zebra,",
+     "start": 5.57,
+     "end": 5.89
+    },
+    {
+     "word": "isso",
+     "start": 6.13,
+     "end": 6.39
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 6.43,
+   "end": 7.5,
+   "text": "é um animal raro",
+   "words": [
+    {
+     "word": "é",
+     "start": 6.43,
+     "end": 6.51
+    },
+    {
+     "word": "um",
+     "start": 6.51,
+     "end": 6.59
+    },
+    {
+     "word": "animal",
+     "start": 6.59,
+     "end": 6.81
+    },
+    {
+     "word": "raro",
+     "start": 6.81,
+     "end": 7.5
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 20.64,
+   "end": 21.41,
+   "text": "eu acho",
+   "words": [
+    {
+     "word": "eu",
+     "start": 20.64,
+     "end": 20.84
+    },
+    {
+     "word": "acho",
+     "start": 20.84,
+     "end": 21.41
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 29.43,
+   "end": 31.96,
+   "text": "com certeza é essa",
+   "words": [
+    {
+     "word": "com",
+     "start": 29.43,
+     "end": 29.67
+    },
+    {
+     "word": "certeza",
+     "start": 29.67,
+     "end": 30.15
+    },
+    {
+     "word": "é",
+     "start": 30.15,
+     "end": 30.39
+    },
+    {
+     "word": "essa",
+     "start": 30.39,
+     "end": 31.96
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 34.8,
+   "end": 35.46,
+   "text": "daqui que eu preciso",
+   "words": [
+    {
+     "word": "daqui",
+     "start": 34.8,
+     "end": 35.06
+    },
+    {
+     "word": "que",
+     "start": 35.06,
+     "end": 35.18
+    },
+    {
+     "word": "eu",
+     "start": 35.18,
+     "end": 35.26
+    },
+    {
+     "word": "preciso",
+     "start": 35.26,
+     "end": 35.46
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 35.5,
+   "end": 36.47,
+   "text": "pra matar ele",
+   "words": [
+    {
+     "word": "pra",
+     "start": 35.5,
+     "end": 35.68
+    },
+    {
+     "word": "matar",
+     "start": 35.68,
+     "end": 35.92
+    },
+    {
+     "word": "ele",
+     "start": 35.92,
+     "end": 36.47
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 38.87,
+   "end": 39.6,
+   "text": "cadê ele",
+   "words": [
+    {
+     "word": "cadê",
+     "start": 38.87,
+     "end": 39.17
+    },
+    {
+     "word": "ele",
+     "start": 39.17,
+     "end": 39.6
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 50.99,
+   "end": 51.61,
+   "text": "não é um javali",
+   "words": [
+    {
+     "word": "não",
+     "start": 50.99,
+     "end": 51.15
+    },
+    {
+     "word": "é",
+     "start": 51.15,
+     "end": 51.29
+    },
+    {
+     "word": "um",
+     "start": 51.29,
+     "end": 51.35
+    },
+    {
+     "word": "javali",
+     "start": 51.35,
+     "end": 51.61
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 51.65,
+   "end": 52.54,
+   "text": "raro, mano",
+   "words": [
+    {
+     "word": "raro,",
+     "start": 51.65,
+     "end": 52.01
+    },
+    {
+     "word": "mano",
+     "start": 52.13,
+     "end": 52.54
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 61.03,
+   "end": 61.96,
+   "text": "olê",
+   "words": [
+    {
+     "word": "olê",
+     "start": 61.03,
+     "end": 61.96
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 63.65,
+   "end": 64.46,
+   "text": "olê",
+   "words": [
+    {
+     "word": "olê",
+     "start": 63.65,
+     "end": 64.46
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 68.66,
+   "end": 69.73,
+   "text": "consigo marcar",
+   "words": [
+    {
+     "word": "consigo",
+     "start": 68.66,
+     "end": 68.96
+    },
+    {
+     "word": "marcar",
+     "start": 68.96,
+     "end": 69.73
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 71.57,
+   "end": 72.58,
+   "text": "olê",
+   "words": [
+    {
+     "word": "olê",
+     "start": 71.57,
+     "end": 72.58
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 79.93,
+   "end": 81.26,
+   "text": "arruinei a pele, mano",
+   "words": [
+    {
+     "word": "arruinei",
+     "start": 79.93,
+     "end": 80.37
+    },
+    {
+     "word": "a",
+     "start": 80.37,
+     "end": 80.51
+    },
+    {
+     "word": "pele,",
+     "start": 80.51,
+     "end": 80.73
+    },
+    {
+     "word": "mano",
+     "start": 80.85,
+     "end": 81.26
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 81.73,
+   "end": 82.35,
+   "text": "essa carcaça",
+   "words": [
+    {
+     "word": "essa",
+     "start": 81.73,
+     "end": 81.93
+    },
+    {
+     "word": "carcaça",
+     "start": 81.93,
+     "end": 82.35
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 82.39,
+   "end": 83.23,
+   "text": "de animal notável",
+   "words": [
+    {
+     "word": "de",
+     "start": 82.39,
+     "end": 82.51
+    },
+    {
+     "word": "animal",
+     "start": 82.51,
+     "end": 82.75
+    },
+    {
+     "word": "notável",
+     "start": 82.75,
+     "end": 83.23
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 83.27,
+   "end": 84.4,
+   "text": "está arruinada",
+   "words": [
+    {
+     "word": "está",
+     "start": 83.27,
+     "end": 83.53
+    },
+    {
+     "word": "arruinada",
+     "start": 83.53,
+     "end": 84.4
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 85.78,
+   "end": 86.92,
+   "text": "eu não consegui escanear esse",
+   "words": [
+    {
+     "word": "eu",
+     "start": 85.78,
+     "end": 85.9
+    },
+    {
+     "word": "não",
+     "start": 85.9,
+     "end": 86.04
+    },
+    {
+     "word": "consegui",
+     "start": 86.04,
+     "end": 86.48
+    },
+    {
+     "word": "escanear",
+     "start": 86.48,
+     "end": 86.84
+    },
+    {
+     "word": "esse",
+     "start": 86.84,
+     "end": 86.92
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 86.96,
+   "end": 88.05,
+   "text": "javali, caralho",
+   "words": [
+    {
+     "word": "javali,",
+     "start": 86.96,
+     "end": 87.38
+    },
+    {
+     "word": "caralho",
+     "start": 87.52,
+     "end": 88.05
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}

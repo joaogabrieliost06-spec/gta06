@@ -1,0 +1,391 @@
+{
+ "segments": [
+  {
+   "start": 2.22,
+   "end": 3.0,
+   "text": "Bebê, já tem",
+   "words": [
+    {
+     "word": "Bebê,",
+     "start": 2.22,
+     "end": 2.66
+    },
+    {
+     "word": "já",
+     "start": 2.76,
+     "end": 2.84
+    },
+    {
+     "word": "tem",
+     "start": 2.84,
+     "end": 3.0
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 3.04,
+   "end": 4.0,
+   "text": "helicóptero, já tem",
+   "words": [
+    {
+     "word": "helicóptero,",
+     "start": 3.04,
+     "end": 3.76
+    },
+    {
+     "word": "já",
+     "start": 3.78,
+     "end": 3.84
+    },
+    {
+     "word": "tem",
+     "start": 3.84,
+     "end": 4.0
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 4.04,
+   "end": 4.93,
+   "text": "tudo, bora",
+   "words": [
+    {
+     "word": "tudo,",
+     "start": 4.04,
+     "end": 4.32
+    },
+    {
+     "word": "bora",
+     "start": 4.42,
+     "end": 4.93
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 12.4,
+   "end": 15.75,
+   "text": "fuga",
+   "words": [
+    {
+     "word": "fuga",
+     "start": 12.4,
+     "end": 15.75
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 16.19,
+   "end": 16.85,
+   "text": "mano, impossível me",
+   "words": [
+    {
+     "word": "mano,",
+     "start": 16.19,
+     "end": 16.23
+    },
+    {
+     "word": "impossível",
+     "start": 16.29,
+     "end": 16.75
+    },
+    {
+     "word": "me",
+     "start": 16.75,
+     "end": 16.85
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 16.89,
+   "end": 17.8,
+   "text": "buscarem, mano",
+   "words": [
+    {
+     "word": "buscarem,",
+     "start": 16.89,
+     "end": 17.39
+    },
+    {
+     "word": "mano",
+     "start": 17.39,
+     "end": 17.8
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 18.1,
+   "end": 18.86,
+   "text": "impossível me",
+   "words": [
+    {
+     "word": "impossível",
+     "start": 18.1,
+     "end": 18.76
+    },
+    {
+     "word": "me",
+     "start": 18.76,
+     "end": 18.86
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 18.9,
+   "end": 19.72,
+   "text": "buscarem de moto",
+   "words": [
+    {
+     "word": "buscarem",
+     "start": 18.9,
+     "end": 19.3
+    },
+    {
+     "word": "de",
+     "start": 19.3,
+     "end": 19.4
+    },
+    {
+     "word": "moto",
+     "start": 19.4,
+     "end": 19.72
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 19.76,
+   "end": 20.41,
+   "text": "velho",
+   "words": [
+    {
+     "word": "velho",
+     "start": 19.76,
+     "end": 20.41
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 22.97,
+   "end": 23.79,
+   "text": "de moto os cara",
+   "words": [
+    {
+     "word": "de",
+     "start": 22.97,
+     "end": 23.29
+    },
+    {
+     "word": "moto",
+     "start": 23.29,
+     "end": 23.55
+    },
+    {
+     "word": "os",
+     "start": 23.55,
+     "end": 23.71
+    },
+    {
+     "word": "cara",
+     "start": 23.71,
+     "end": 23.79
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 23.83,
+   "end": 24.59,
+   "text": "não busca nóis",
+   "words": [
+    {
+     "word": "não",
+     "start": 23.83,
+     "end": 24.03
+    },
+    {
+     "word": "busca",
+     "start": 24.03,
+     "end": 24.35
+    },
+    {
+     "word": "nóis",
+     "start": 24.35,
+     "end": 24.59
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 24.63,
+   "end": 28.09,
+   "text": "Ai, ai",
+   "words": [
+    {
+     "word": "Ai,",
+     "start": 24.63,
+     "end": 25.33
+    },
+    {
+     "word": "ai",
+     "start": 27.54,
+     "end": 28.09
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 28.5,
+   "end": 29.29,
+   "text": "meu Deus",
+   "words": [
+    {
+     "word": "meu",
+     "start": 28.5,
+     "end": 28.68
+    },
+    {
+     "word": "Deus",
+     "start": 28.68,
+     "end": 29.29
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 29.62,
+   "end": 30.49,
+   "text": "meu Deus",
+   "words": [
+    {
+     "word": "meu",
+     "start": 29.62,
+     "end": 29.84
+    },
+    {
+     "word": "Deus",
+     "start": 29.84,
+     "end": 30.49
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 32.34,
+   "end": 33.19,
+   "text": "meu Deus",
+   "words": [
+    {
+     "word": "meu",
+     "start": 32.34,
+     "end": 32.54
+    },
+    {
+     "word": "Deus",
+     "start": 32.54,
+     "end": 33.19
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 34.64,
+   "end": 35.46,
+   "text": "que loucura, velho",
+   "words": [
+    {
+     "word": "que",
+     "start": 34.64,
+     "end": 34.76
+    },
+    {
+     "word": "loucura,",
+     "start": 34.76,
+     "end": 35.12
+    },
+    {
+     "word": "velho",
+     "start": 35.26,
+     "end": 35.46
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 35.5,
+   "end": 36.34,
+   "text": "tudo conspira contra",
+   "words": [
+    {
+     "word": "tudo",
+     "start": 35.5,
+     "end": 35.7
+    },
+    {
+     "word": "conspira",
+     "start": 35.7,
+     "end": 36.14
+    },
+    {
+     "word": "contra",
+     "start": 36.14,
+     "end": 36.34
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 36.38,
+   "end": 37.11,
+   "text": "mim, cara",
+   "words": [
+    {
+     "word": "mim,",
+     "start": 36.38,
+     "end": 36.6
+    },
+    {
+     "word": "cara",
+     "start": 36.72,
+     "end": 37.11
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 37.5,
+   "end": 38.55,
+   "text": "é um absurdo isso",
+   "words": [
+    {
+     "word": "é",
+     "start": 37.5,
+     "end": 37.58
+    },
+    {
+     "word": "um",
+     "start": 37.58,
+     "end": 37.66
+    },
+    {
+     "word": "absurdo",
+     "start": 37.66,
+     "end": 38.12
+    },
+    {
+     "word": "isso",
+     "start": 38.12,
+     "end": 38.55
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}

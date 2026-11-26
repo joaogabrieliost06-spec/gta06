@@ -1,0 +1,570 @@
+{
+ "segments": [
+  {
+   "start": 0.27,
+   "end": 4.01,
+   "text": "Vou ali na toa",
+   "words": [
+    {
+     "word": "Vou",
+     "start": 0.27,
+     "end": 0.79
+    },
+    {
+     "word": "ali",
+     "start": 3.53,
+     "end": 3.69
+    },
+    {
+     "word": "na",
+     "start": 3.69,
+     "end": 3.85
+    },
+    {
+     "word": "toa",
+     "start": 3.85,
+     "end": 4.01
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 4.05,
+   "end": 4.89,
+   "text": "e vou nos containers",
+   "words": [
+    {
+     "word": "e",
+     "start": 4.05,
+     "end": 4.09
+    },
+    {
+     "word": "vou",
+     "start": 4.09,
+     "end": 4.19
+    },
+    {
+     "word": "nos",
+     "start": 4.19,
+     "end": 4.35
+    },
+    {
+     "word": "containers",
+     "start": 4.35,
+     "end": 4.89
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 4.93,
+   "end": 5.84,
+   "text": "mano, ver o que que tem",
+   "words": [
+    {
+     "word": "mano,",
+     "start": 4.93,
+     "end": 4.99
+    },
+    {
+     "word": "ver",
+     "start": 5.01,
+     "end": 5.15
+    },
+    {
+     "word": "o",
+     "start": 5.15,
+     "end": 5.21
+    },
+    {
+     "word": "que",
+     "start": 5.21,
+     "end": 5.29
+    },
+    {
+     "word": "que",
+     "start": 5.29,
+     "end": 5.39
+    },
+    {
+     "word": "tem",
+     "start": 5.39,
+     "end": 5.84
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 12.4,
+   "end": 12.94,
+   "text": "Caralho, meu carro",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 12.4,
+     "end": 12.72
+    },
+    {
+     "word": "meu",
+     "start": 12.78,
+     "end": 12.84
+    },
+    {
+     "word": "carro",
+     "start": 12.84,
+     "end": 12.94
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 12.98,
+   "end": 13.94,
+   "text": "tá mais rápido, mano",
+   "words": [
+    {
+     "word": "tá",
+     "start": 12.98,
+     "end": 13.08
+    },
+    {
+     "word": "mais",
+     "start": 13.08,
+     "end": 13.34
+    },
+    {
+     "word": "rápido,",
+     "start": 13.34,
+     "end": 13.76
+    },
+    {
+     "word": "mano",
+     "start": 13.82,
+     "end": 13.94
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 13.98,
+   "end": 14.67,
+   "text": "Aqui",
+   "words": [
+    {
+     "word": "Aqui",
+     "start": 13.98,
+     "end": 14.67
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 23.94,
+   "end": 24.72,
+   "text": "foi onde eu tretei",
+   "words": [
+    {
+     "word": "foi",
+     "start": 23.94,
+     "end": 24.12
+    },
+    {
+     "word": "onde",
+     "start": 24.12,
+     "end": 24.3
+    },
+    {
+     "word": "eu",
+     "start": 24.3,
+     "end": 24.4
+    },
+    {
+     "word": "tretei",
+     "start": 24.4,
+     "end": 24.72
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 24.76,
+   "end": 25.6,
+   "text": "com o Dr. Bell",
+   "words": [
+    {
+     "word": "com",
+     "start": 24.76,
+     "end": 24.86
+    },
+    {
+     "word": "o",
+     "start": 24.86,
+     "end": 24.94
+    },
+    {
+     "word": "Dr.",
+     "start": 24.94,
+     "end": 25.16
+    },
+    {
+     "word": "Bell",
+     "start": 25.32,
+     "end": 25.6
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 25.64,
+   "end": 26.74,
+   "text": "quer dizer, que eu vim roubar",
+   "words": [
+    {
+     "word": "quer",
+     "start": 25.64,
+     "end": 25.76
+    },
+    {
+     "word": "dizer,",
+     "start": 25.76,
+     "end": 25.9
+    },
+    {
+     "word": "que",
+     "start": 26.04,
+     "end": 26.09
+    },
+    {
+     "word": "eu",
+     "start": 26.09,
+     "end": 26.22
+    },
+    {
+     "word": "vim",
+     "start": 26.22,
+     "end": 26.44
+    },
+    {
+     "word": "roubar",
+     "start": 26.44,
+     "end": 26.74
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 26.78,
+   "end": 27.36,
+   "text": "os bagulho com",
+   "words": [
+    {
+     "word": "os",
+     "start": 26.78,
+     "end": 26.98
+    },
+    {
+     "word": "bagulho",
+     "start": 26.98,
+     "end": 27.3
+    },
+    {
+     "word": "com",
+     "start": 27.3,
+     "end": 27.36
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 27.4,
+   "end": 28.0,
+   "text": "o Dr. Bell",
+   "words": [
+    {
+     "word": "o",
+     "start": 27.4,
+     "end": 27.46
+    },
+    {
+     "word": "Dr.",
+     "start": 27.46,
+     "end": 27.66
+    },
+    {
+     "word": "Bell",
+     "start": 27.72,
+     "end": 28.0
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 28.04,
+   "end": 30.15,
+   "text": "Ou tô muito louco?",
+   "words": [
+    {
+     "word": "Ou",
+     "start": 28.04,
+     "end": 28.5
+    },
+    {
+     "word": "tô",
+     "start": 29.35,
+     "end": 29.47
+    },
+    {
+     "word": "muito",
+     "start": 29.47,
+     "end": 29.67
+    },
+    {
+     "word": "louco?",
+     "start": 29.67,
+     "end": 30.15
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 30.19,
+   "end": 31.09,
+   "text": "Acho que foi, né?",
+   "words": [
+    {
+     "word": "Acho",
+     "start": 30.19,
+     "end": 30.37
+    },
+    {
+     "word": "que",
+     "start": 30.37,
+     "end": 30.47
+    },
+    {
+     "word": "foi,",
+     "start": 30.47,
+     "end": 30.73
+    },
+    {
+     "word": "né?",
+     "start": 30.81,
+     "end": 31.09
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 31.13,
+   "end": 32.64,
+   "text": "Ah, então eu já vim aqui, pô",
+   "words": [
+    {
+     "word": "Ah,",
+     "start": 31.13,
+     "end": 31.27
+    },
+    {
+     "word": "então",
+     "start": 31.33,
+     "end": 31.41
+    },
+    {
+     "word": "eu",
+     "start": 31.41,
+     "end": 31.53
+    },
+    {
+     "word": "já",
+     "start": 31.53,
+     "end": 31.61
+    },
+    {
+     "word": "vim",
+     "start": 31.61,
+     "end": 31.79
+    },
+    {
+     "word": "aqui,",
+     "start": 31.79,
+     "end": 31.97
+    },
+    {
+     "word": "pô",
+     "start": 32.03,
+     "end": 32.64
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 45.53,
+   "end": 46.13,
+   "text": "Desculpa, irmão",
+   "words": [
+    {
+     "word": "Desculpa,",
+     "start": 45.53,
+     "end": 45.85
+    },
+    {
+     "word": "irmão",
+     "start": 45.91,
+     "end": 46.13
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 46.17,
+   "end": 47.01,
+   "text": "tava explorando",
+   "words": [
+    {
+     "word": "tava",
+     "start": 46.17,
+     "end": 46.27
+    },
+    {
+     "word": "explorando",
+     "start": 46.27,
+     "end": 47.01
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 47.05,
+   "end": 48.07,
+   "text": "Não sabia que tinha",
+   "words": [
+    {
+     "word": "Não",
+     "start": 47.05,
+     "end": 47.65
+    },
+    {
+     "word": "sabia",
+     "start": 47.65,
+     "end": 47.91
+    },
+    {
+     "word": "que",
+     "start": 47.91,
+     "end": 47.99
+    },
+    {
+     "word": "tinha",
+     "start": 47.99,
+     "end": 48.07
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 48.11,
+   "end": 49.23,
+   "text": "gente morando aqui",
+   "words": [
+    {
+     "word": "gente",
+     "start": 48.11,
+     "end": 48.25
+    },
+    {
+     "word": "morando",
+     "start": 48.25,
+     "end": 48.67
+    },
+    {
+     "word": "aqui",
+     "start": 48.67,
+     "end": 49.23
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 49.27,
+   "end": 50.64,
+   "text": "desculpa",
+   "words": [
+    {
+     "word": "desculpa",
+     "start": 49.27,
+     "end": 50.64
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 53.09,
+   "end": 53.96,
+   "text": "Desculpa, mano",
+   "words": [
+    {
+     "word": "Desculpa,",
+     "start": 53.09,
+     "end": 53.41
+    },
+    {
+     "word": "mano",
+     "start": 53.49,
+     "end": 53.96
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 55.91,
+   "end": 56.49,
+   "text": "eu não tava me",
+   "words": [
+    {
+     "word": "eu",
+     "start": 55.91,
+     "end": 56.05
+    },
+    {
+     "word": "não",
+     "start": 56.05,
+     "end": 56.15
+    },
+    {
+     "word": "tava",
+     "start": 56.15,
+     "end": 56.35
+    },
+    {
+     "word": "me",
+     "start": 56.35,
+     "end": 56.49
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 56.53,
+   "end": 58.22,
+   "text": "localizando no point",
+   "words": [
+    {
+     "word": "localizando",
+     "start": 56.53,
+     "end": 57.27
+    },
+    {
+     "word": "no",
+     "start": 57.27,
+     "end": 57.55
+    },
+    {
+     "word": "point",
+     "start": 57.55,
+     "end": 58.22
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}

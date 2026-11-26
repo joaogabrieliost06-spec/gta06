@@ -1,0 +1,429 @@
+{
+ "segments": [
+  {
+   "start": 40.66,
+   "end": 41.64,
+   "text": "Cara, é literalmente",
+   "words": [
+    {
+     "word": "Cara,",
+     "start": 40.66,
+     "end": 40.98
+    },
+    {
+     "word": "é",
+     "start": 41.1,
+     "end": 41.2
+    },
+    {
+     "word": "literalmente",
+     "start": 41.2,
+     "end": 41.64
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 41.68,
+   "end": 42.71,
+   "text": "só um eventinho, não",
+   "words": [
+    {
+     "word": "só",
+     "start": 41.68,
+     "end": 41.86
+    },
+    {
+     "word": "um",
+     "start": 41.86,
+     "end": 41.96
+    },
+    {
+     "word": "eventinho,",
+     "start": 41.96,
+     "end": 42.6
+    },
+    {
+     "word": "não",
+     "start": 42.66,
+     "end": 42.71
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 42.74,
+   "end": 43.42,
+   "text": "tem nada aqui",
+   "words": [
+    {
+     "word": "tem",
+     "start": 42.74,
+     "end": 42.84
+    },
+    {
+     "word": "nada",
+     "start": 42.84,
+     "end": 43.1
+    },
+    {
+     "word": "aqui",
+     "start": 43.1,
+     "end": 43.42
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 43.46,
+   "end": 44.32,
+   "text": "é só um pessoal",
+   "words": [
+    {
+     "word": "é",
+     "start": 43.46,
+     "end": 43.76
+    },
+    {
+     "word": "só",
+     "start": 43.76,
+     "end": 43.94
+    },
+    {
+     "word": "um",
+     "start": 43.94,
+     "end": 44.06
+    },
+    {
+     "word": "pessoal",
+     "start": 44.06,
+     "end": 44.32
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 44.36,
+   "end": 45.61,
+   "text": "que acabou de se casar",
+   "words": [
+    {
+     "word": "que",
+     "start": 44.36,
+     "end": 44.52
+    },
+    {
+     "word": "acabou",
+     "start": 44.52,
+     "end": 44.76
+    },
+    {
+     "word": "de",
+     "start": 44.76,
+     "end": 44.88
+    },
+    {
+     "word": "se",
+     "start": 44.88,
+     "end": 45.02
+    },
+    {
+     "word": "casar",
+     "start": 45.02,
+     "end": 45.61
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 48.74,
+   "end": 49.44,
+   "text": "eu achei que ia",
+   "words": [
+    {
+     "word": "eu",
+     "start": 48.74,
+     "end": 48.9
+    },
+    {
+     "word": "achei",
+     "start": 48.9,
+     "end": 49.12
+    },
+    {
+     "word": "que",
+     "start": 49.12,
+     "end": 49.28
+    },
+    {
+     "word": "ia",
+     "start": 49.28,
+     "end": 49.44
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 49.48,
+   "end": 50.35,
+   "text": "ter algo",
+   "words": [
+    {
+     "word": "ter",
+     "start": 49.48,
+     "end": 49.64
+    },
+    {
+     "word": "algo",
+     "start": 49.64,
+     "end": 50.35
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 72.25,
+   "end": 73.53,
+   "text": "mas essa casa tá com cor de",
+   "words": [
+    {
+     "word": "mas",
+     "start": 72.25,
+     "end": 72.43
+    },
+    {
+     "word": "essa",
+     "start": 72.43,
+     "end": 72.65
+    },
+    {
+     "word": "casa",
+     "start": 72.65,
+     "end": 72.91
+    },
+    {
+     "word": "tá",
+     "start": 72.91,
+     "end": 73.05
+    },
+    {
+     "word": "com",
+     "start": 73.05,
+     "end": 73.19
+    },
+    {
+     "word": "cor",
+     "start": 73.19,
+     "end": 73.45
+    },
+    {
+     "word": "de",
+     "start": 73.45,
+     "end": 73.53
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 73.57,
+   "end": 74.63,
+   "text": "que dá pra entrar, não é?",
+   "words": [
+    {
+     "word": "que",
+     "start": 73.57,
+     "end": 73.67
+    },
+    {
+     "word": "dá",
+     "start": 73.67,
+     "end": 73.77
+    },
+    {
+     "word": "pra",
+     "start": 73.77,
+     "end": 73.91
+    },
+    {
+     "word": "entrar,",
+     "start": 73.91,
+     "end": 74.23
+    },
+    {
+     "word": "não",
+     "start": 74.37,
+     "end": 74.43
+    },
+    {
+     "word": "é?",
+     "start": 74.43,
+     "end": 74.63
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 74.67,
+   "end": 75.37,
+   "text": "Quando ela é roxa",
+   "words": [
+    {
+     "word": "Quando",
+     "start": 74.67,
+     "end": 74.83
+    },
+    {
+     "word": "ela",
+     "start": 74.83,
+     "end": 74.99
+    },
+    {
+     "word": "é",
+     "start": 74.99,
+     "end": 75.09
+    },
+    {
+     "word": "roxa",
+     "start": 75.09,
+     "end": 75.37
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 75.41,
+   "end": 76.32,
+   "text": "não dá pra entrar",
+   "words": [
+    {
+     "word": "não",
+     "start": 75.41,
+     "end": 75.55
+    },
+    {
+     "word": "dá",
+     "start": 75.55,
+     "end": 75.65
+    },
+    {
+     "word": "pra",
+     "start": 75.65,
+     "end": 75.77
+    },
+    {
+     "word": "entrar",
+     "start": 75.77,
+     "end": 76.32
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 76.41,
+   "end": 76.91,
+   "text": "mas não dá",
+   "words": [
+    {
+     "word": "mas",
+     "start": 76.41,
+     "end": 76.65
+    },
+    {
+     "word": "não",
+     "start": 76.65,
+     "end": 76.81
+    },
+    {
+     "word": "dá",
+     "start": 76.81,
+     "end": 76.91
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 76.95,
+   "end": 78.43,
+   "text": "pra entrar, mentiram",
+   "words": [
+    {
+     "word": "pra",
+     "start": 76.95,
+     "end": 77.13
+    },
+    {
+     "word": "entrar,",
+     "start": 77.13,
+     "end": 77.49
+    },
+    {
+     "word": "mentiram",
+     "start": 77.87,
+     "end": 78.43
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 78.47,
+   "end": 79.98,
+   "text": "pra mim então, cara",
+   "words": [
+    {
+     "word": "pra",
+     "start": 78.47,
+     "end": 78.65
+    },
+    {
+     "word": "mim",
+     "start": 78.65,
+     "end": 78.85
+    },
+    {
+     "word": "então,",
+     "start": 78.85,
+     "end": 79.17
+    },
+    {
+     "word": "cara",
+     "start": 79.21,
+     "end": 79.98
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 82.42,
+   "end": 83.59,
+   "text": "onde vê esse carro, mano?",
+   "words": [
+    {
+     "word": "onde",
+     "start": 82.42,
+     "end": 82.56
+    },
+    {
+     "word": "vê",
+     "start": 82.56,
+     "end": 82.68
+    },
+    {
+     "word": "esse",
+     "start": 82.68,
+     "end": 82.82
+    },
+    {
+     "word": "carro,",
+     "start": 82.82,
+     "end": 83.14
+    },
+    {
+     "word": "mano?",
+     "start": 83.24,
+     "end": 83.59
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
