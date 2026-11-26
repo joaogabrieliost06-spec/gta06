@@ -1,0 +1,733 @@
+{
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 0.94,
+   "text": "— Caralho,⁠ acordei⁠ de⁠ noite⁠",
+   "words": [
+    {
+     "word": "— Caralho,⁠",
+     "start": 0.0,
+     "end": 0.26
+    },
+    {
+     "word": "acordei⁠",
+     "start": 0.3,
+     "end": 0.58
+    },
+    {
+     "word": "de⁠",
+     "start": 0.58,
+     "end": 0.7
+    },
+    {
+     "word": "noite⁠",
+     "start": 0.7,
+     "end": 0.94
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 0.98,
+   "end": 1.75,
+   "text": "ainda,⁠ mano⁠",
+   "words": [
+    {
+     "word": "ainda,⁠",
+     "start": 0.98,
+     "end": 1.24
+    },
+    {
+     "word": "mano⁠",
+     "start": 1.36,
+     "end": 1.75
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 2.96,
+   "end": 4.11,
+   "text": "É⁠ de⁠ manhã?⁠ Que⁠ horas⁠ são?⁠",
+   "words": [
+    {
+     "word": "É⁠",
+     "start": 2.96,
+     "end": 3.04
+    },
+    {
+     "word": "de⁠",
+     "start": 3.04,
+     "end": 3.12
+    },
+    {
+     "word": "manhã?⁠",
+     "start": 3.12,
+     "end": 3.36
+    },
+    {
+     "word": "Que⁠",
+     "start": 3.44,
+     "end": 3.5
+    },
+    {
+     "word": "horas⁠",
+     "start": 3.5,
+     "end": 3.6
+    },
+    {
+     "word": "são?⁠",
+     "start": 3.6,
+     "end": 4.11
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 8.29,
+   "end": 8.77,
+   "text": "Que⁠ horas⁠ são?⁠",
+   "words": [
+    {
+     "word": "Que⁠",
+     "start": 8.29,
+     "end": 8.39
+    },
+    {
+     "word": "horas⁠",
+     "start": 8.39,
+     "end": 8.49
+    },
+    {
+     "word": "são?⁠",
+     "start": 8.49,
+     "end": 8.77
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 8.81,
+   "end": 10.34,
+   "text": "5⁠ da⁠ manhã,⁠ mano.⁠ Pô⁠",
+   "words": [
+    {
+     "word": "5⁠",
+     "start": 8.81,
+     "end": 8.95
+    },
+    {
+     "word": "da⁠",
+     "start": 8.95,
+     "end": 9.09
+    },
+    {
+     "word": "manhã,⁠",
+     "start": 9.09,
+     "end": 9.37
+    },
+    {
+     "word": "mano.⁠",
+     "start": 9.43,
+     "end": 9.65
+    },
+    {
+     "word": "Pô⁠",
+     "start": 9.65,
+     "end": 10.34
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.47,
+   "end": 11.41,
+   "text": "Mas até aquele save",
+   "words": [
+    {
+     "word": "Mas",
+     "start": 10.47,
+     "end": 10.57
+    },
+    {
+     "word": "até",
+     "start": 10.57,
+     "end": 10.69
+    },
+    {
+     "word": "aquele",
+     "start": 10.69,
+     "end": 10.89
+    },
+    {
+     "word": "save",
+     "start": 10.89,
+     "end": 11.41
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 11.45,
+   "end": 12.25,
+   "text": "a gente não aumentou",
+   "words": [
+    {
+     "word": "a",
+     "start": 11.45,
+     "end": 11.63
+    },
+    {
+     "word": "gente",
+     "start": 11.63,
+     "end": 11.75
+    },
+    {
+     "word": "não",
+     "start": 11.75,
+     "end": 11.91
+    },
+    {
+     "word": "aumentou",
+     "start": 11.91,
+     "end": 12.25
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 12.29,
+   "end": 13.03,
+   "text": "nada na história",
+   "words": [
+    {
+     "word": "nada",
+     "start": 12.29,
+     "end": 12.49
+    },
+    {
+     "word": "na",
+     "start": 12.49,
+     "end": 12.63
+    },
+    {
+     "word": "história",
+     "start": 12.63,
+     "end": 13.03
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 13.07,
+   "end": 13.55,
+   "text": "Mas agora a gente vai",
+   "words": [
+    {
+     "word": "Mas",
+     "start": 13.07,
+     "end": 13.13
+    },
+    {
+     "word": "agora",
+     "start": 13.13,
+     "end": 13.33
+    },
+    {
+     "word": "a",
+     "start": 13.33,
+     "end": 13.43
+    },
+    {
+     "word": "gente",
+     "start": 13.43,
+     "end": 13.49
+    },
+    {
+     "word": "vai",
+     "start": 13.49,
+     "end": 13.55
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 13.59,
+   "end": 14.57,
+   "text": "aumentar, né, chat?",
+   "words": [
+    {
+     "word": "aumentar,",
+     "start": 13.59,
+     "end": 13.95
+    },
+    {
+     "word": "né,",
+     "start": 14.05,
+     "end": 14.13
+    },
+    {
+     "word": "chat?",
+     "start": 14.21,
+     "end": 14.57
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 14.61,
+   "end": 15.7,
+   "text": "Não fala um dia não, hein",
+   "words": [
+    {
+     "word": "Não",
+     "start": 14.61,
+     "end": 14.73
+    },
+    {
+     "word": "fala",
+     "start": 14.73,
+     "end": 14.93
+    },
+    {
+     "word": "um",
+     "start": 14.93,
+     "end": 15.03
+    },
+    {
+     "word": "dia",
+     "start": 15.03,
+     "end": 15.11
+    },
+    {
+     "word": "não,",
+     "start": 15.11,
+     "end": 15.29
+    },
+    {
+     "word": "hein",
+     "start": 15.35,
+     "end": 15.7
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 16.1,
+   "end": 16.92,
+   "text": "— Tomar⁠ bamba,⁠ ele⁠ já⁠ tá⁠",
+   "words": [
+    {
+     "word": "— Tomar⁠",
+     "start": 16.1,
+     "end": 16.3
+    },
+    {
+     "word": "bamba,⁠",
+     "start": 16.3,
+     "end": 16.6
+    },
+    {
+     "word": "ele⁠",
+     "start": 16.7,
+     "end": 16.75
+    },
+    {
+     "word": "já⁠",
+     "start": 16.75,
+     "end": 16.86
+    },
+    {
+     "word": "tá⁠",
+     "start": 16.86,
+     "end": 16.92
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 16.96,
+   "end": 17.89,
+   "text": "em⁠ emote⁠ mode⁠",
+   "words": [
+    {
+     "word": "em⁠",
+     "start": 16.96,
+     "end": 17.06
+    },
+    {
+     "word": "emote⁠",
+     "start": 17.06,
+     "end": 17.3
+    },
+    {
+     "word": "mode⁠",
+     "start": 17.3,
+     "end": 17.89
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 18.36,
+   "end": 21.09,
+   "text": "6,37...⁠ 74%,⁠ mano⁠",
+   "words": [
+    {
+     "word": "6,37...⁠",
+     "start": 18.36,
+     "end": 19.32
+    },
+    {
+     "word": "74%,⁠",
+     "start": 19.42,
+     "end": 20.38
+    },
+    {
+     "word": "mano⁠",
+     "start": 20.38,
+     "end": 21.09
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 21.38,
+   "end": 22.59,
+   "text": "Maravilha,⁠ GG⁠",
+   "words": [
+    {
+     "word": "Maravilha,⁠",
+     "start": 21.38,
+     "end": 21.74
+    },
+    {
+     "word": "GG⁠",
+     "start": 21.98,
+     "end": 22.59
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 23.6,
+   "end": 24.58,
+   "text": "Cortar aqui no YouTube",
+   "words": [
+    {
+     "word": "Cortar",
+     "start": 23.6,
+     "end": 23.96
+    },
+    {
+     "word": "aqui",
+     "start": 23.96,
+     "end": 24.12
+    },
+    {
+     "word": "no",
+     "start": 24.12,
+     "end": 24.24
+    },
+    {
+     "word": "YouTube",
+     "start": 24.24,
+     "end": 24.58
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 24.62,
+   "end": 25.48,
+   "text": "chat, vou mijar",
+   "words": [
+    {
+     "word": "chat,",
+     "start": 24.62,
+     "end": 24.72
+    },
+    {
+     "word": "vou",
+     "start": 24.72,
+     "end": 24.94
+    },
+    {
+     "word": "mijar",
+     "start": 24.94,
+     "end": 25.48
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 25.52,
+   "end": 26.44,
+   "text": "Vou mijar",
+   "words": [
+    {
+     "word": "Vou",
+     "start": 25.52,
+     "end": 25.92
+    },
+    {
+     "word": "mijar",
+     "start": 25.92,
+     "end": 26.44
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 26.48,
+   "end": 28.0,
+   "text": "Loibri, 61",
+   "words": [
+    {
+     "word": "Loibri,",
+     "start": 26.48,
+     "end": 26.98
+    },
+    {
+     "word": "61",
+     "start": 27.34,
+     "end": 28.0
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.04,
+   "end": 29.68,
+   "text": "Deus Atena, 6 meses",
+   "words": [
+    {
+     "word": "Deus",
+     "start": 28.04,
+     "end": 28.2
+    },
+    {
+     "word": "Atena,",
+     "start": 28.2,
+     "end": 28.62
+    },
+    {
+     "word": "6",
+     "start": 28.96,
+     "end": 29.26
+    },
+    {
+     "word": "meses",
+     "start": 29.26,
+     "end": 29.68
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 29.72,
+   "end": 32.06,
+   "text": "Um abraço, Cassia Gil, 58",
+   "words": [
+    {
+     "word": "Um",
+     "start": 29.72,
+     "end": 29.88
+    },
+    {
+     "word": "abraço,",
+     "start": 29.88,
+     "end": 30.46
+    },
+    {
+     "word": "Cassia",
+     "start": 30.46,
+     "end": 30.82
+    },
+    {
+     "word": "Gil,",
+     "start": 30.82,
+     "end": 30.96
+    },
+    {
+     "word": "58",
+     "start": 31.28,
+     "end": 32.06
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 32.1,
+   "end": 33.5,
+   "text": "MGN, 5, sub de presente",
+   "words": [
+    {
+     "word": "MGN,",
+     "start": 32.1,
+     "end": 32.48
+    },
+    {
+     "word": "5,",
+     "start": 32.76,
+     "end": 32.94
+    },
+    {
+     "word": "sub",
+     "start": 33.0,
+     "end": 33.1
+    },
+    {
+     "word": "de",
+     "start": 33.1,
+     "end": 33.22
+    },
+    {
+     "word": "presente",
+     "start": 33.22,
+     "end": 33.5
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 33.54,
+   "end": 35.84,
+   "text": "Venix, Sub Ribas",
+   "words": [
+    {
+     "word": "Venix,",
+     "start": 33.54,
+     "end": 34.14
+    },
+    {
+     "word": "Sub",
+     "start": 34.5,
+     "end": 34.76
+    },
+    {
+     "word": "Ribas",
+     "start": 34.76,
+     "end": 35.84
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 35.88,
+   "end": 36.84,
+   "text": "Briapolos 27, Souzinho",
+   "words": [
+    {
+     "word": "Briapolos",
+     "start": 35.88,
+     "end": 36.14
+    },
+    {
+     "word": "27,",
+     "start": 36.14,
+     "end": 36.4
+    },
+    {
+     "word": "Souzinho",
+     "start": 36.54,
+     "end": 36.84
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 36.88,
+   "end": 37.71,
+   "text": "Briapolos 3",
+   "words": [
+    {
+     "word": "Briapolos",
+     "start": 36.88,
+     "end": 37.3
+    },
+    {
+     "word": "3",
+     "start": 37.3,
+     "end": 37.71
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 38.26,
+   "end": 39.24,
+   "text": "Leroy Jenkins",
+   "words": [
+    {
+     "word": "Leroy",
+     "start": 38.26,
+     "end": 38.78
+    },
+    {
+     "word": "Jenkins",
+     "start": 38.78,
+     "end": 39.24
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 39.28,
+   "end": 41.33,
+   "text": "Estourando todos os ovos",
+   "words": [
+    {
+     "word": "Estourando",
+     "start": 39.28,
+     "end": 40.2
+    },
+    {
+     "word": "todos",
+     "start": 40.2,
+     "end": 40.44
+    },
+    {
+     "word": "os",
+     "start": 40.44,
+     "end": 40.66
+    },
+    {
+     "word": "ovos",
+     "start": 40.66,
+     "end": 41.33
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 41.51,
+   "end": 43.08,
+   "text": "— Bons⁠ tempos,⁠ né,⁠ mano⁠",
+   "words": [
+    {
+     "word": "— Bons⁠",
+     "start": 41.51,
+     "end": 42.13
+    },
+    {
+     "word": "tempos,⁠",
+     "start": 42.13,
+     "end": 42.57
+    },
+    {
+     "word": "né,⁠",
+     "start": 42.59,
+     "end": 42.67
+    },
+    {
+     "word": "mano⁠",
+     "start": 42.67,
+     "end": 43.08
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
