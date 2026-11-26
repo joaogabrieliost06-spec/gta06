@@ -1,0 +1,508 @@
+{
+ "segments": [
+  {
+   "start": 2.22,
+   "end": 3.3,
+   "text": "Que é isso, viado?",
+   "words": [
+    {
+     "word": "Que",
+     "start": 2.22,
+     "end": 2.42
+    },
+    {
+     "word": "é",
+     "start": 2.42,
+     "end": 2.54
+    },
+    {
+     "word": "isso,",
+     "start": 2.54,
+     "end": 2.74
+    },
+    {
+     "word": "viado?",
+     "start": 2.84,
+     "end": 3.3
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 3.34,
+   "end": 3.94,
+   "text": "Calma aí",
+   "words": [
+    {
+     "word": "Calma",
+     "start": 3.34,
+     "end": 3.58
+    },
+    {
+     "word": "aí",
+     "start": 3.58,
+     "end": 3.94
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 9.68,
+   "end": 11.7,
+   "text": "Tempestade, visibilidade",
+   "words": [
+    {
+     "word": "Tempestade,",
+     "start": 9.68,
+     "end": 11.24
+    },
+    {
+     "word": "visibilidade",
+     "start": 11.24,
+     "end": 11.7
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 11.74,
+   "end": 12.51,
+   "text": "menos de um",
+   "words": [
+    {
+     "word": "menos",
+     "start": 11.74,
+     "end": 12.0
+    },
+    {
+     "word": "de",
+     "start": 12.0,
+     "end": 12.16
+    },
+    {
+     "word": "um",
+     "start": 12.16,
+     "end": 12.51
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 12.82,
+   "end": 14.28,
+   "text": "Por que você tá bravo, mano?",
+   "words": [
+    {
+     "word": "Por",
+     "start": 12.82,
+     "end": 13.3
+    },
+    {
+     "word": "que",
+     "start": 13.38,
+     "end": 13.48
+    },
+    {
+     "word": "você",
+     "start": 13.48,
+     "end": 13.62
+    },
+    {
+     "word": "tá",
+     "start": 13.62,
+     "end": 13.76
+    },
+    {
+     "word": "bravo,",
+     "start": 13.76,
+     "end": 14.1
+    },
+    {
+     "word": "mano?",
+     "start": 14.14,
+     "end": 14.28
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 14.32,
+   "end": 15.28,
+   "text": "Só fica parado lendo",
+   "words": [
+    {
+     "word": "Só",
+     "start": 14.32,
+     "end": 14.44
+    },
+    {
+     "word": "fica",
+     "start": 14.44,
+     "end": 14.68
+    },
+    {
+     "word": "parado",
+     "start": 14.68,
+     "end": 15.02
+    },
+    {
+     "word": "lendo",
+     "start": 15.02,
+     "end": 15.28
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 15.32,
+   "end": 16.96,
+   "text": "não fala comigo e os caralho",
+   "words": [
+    {
+     "word": "não",
+     "start": 15.32,
+     "end": 15.46
+    },
+    {
+     "word": "fala",
+     "start": 15.46,
+     "end": 16.04
+    },
+    {
+     "word": "comigo",
+     "start": 16.04,
+     "end": 16.36
+    },
+    {
+     "word": "e",
+     "start": 16.36,
+     "end": 16.52
+    },
+    {
+     "word": "os",
+     "start": 16.52,
+     "end": 16.62
+    },
+    {
+     "word": "caralho",
+     "start": 16.62,
+     "end": 16.96
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 17.0,
+   "end": 17.62,
+   "text": "Tô sem sinal",
+   "words": [
+    {
+     "word": "Tô",
+     "start": 17.0,
+     "end": 17.18
+    },
+    {
+     "word": "sem",
+     "start": 17.18,
+     "end": 17.34
+    },
+    {
+     "word": "sinal",
+     "start": 17.34,
+     "end": 17.62
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 17.66,
+   "end": 18.92,
+   "text": "entediado pra porra, mano",
+   "words": [
+    {
+     "word": "entediado",
+     "start": 17.66,
+     "end": 18.16
+    },
+    {
+     "word": "pra",
+     "start": 18.16,
+     "end": 18.32
+    },
+    {
+     "word": "porra,",
+     "start": 18.32,
+     "end": 18.74
+    },
+    {
+     "word": "mano",
+     "start": 18.76,
+     "end": 18.92
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 18.96,
+   "end": 20.04,
+   "text": "Acabei de mijar",
+   "words": [
+    {
+     "word": "Acabei",
+     "start": 18.96,
+     "end": 19.66
+    },
+    {
+     "word": "de",
+     "start": 19.66,
+     "end": 19.82
+    },
+    {
+     "word": "mijar",
+     "start": 19.82,
+     "end": 20.04
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 20.08,
+   "end": 20.82,
+   "text": "no seu café, mano",
+   "words": [
+    {
+     "word": "no",
+     "start": 20.08,
+     "end": 20.14
+    },
+    {
+     "word": "seu",
+     "start": 20.14,
+     "end": 20.28
+    },
+    {
+     "word": "café,",
+     "start": 20.28,
+     "end": 20.62
+    },
+    {
+     "word": "mano",
+     "start": 20.7,
+     "end": 20.82
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 20.86,
+   "end": 21.84,
+   "text": "Nem vou te contar agora",
+   "words": [
+    {
+     "word": "Nem",
+     "start": 20.86,
+     "end": 21.02
+    },
+    {
+     "word": "vou",
+     "start": 21.02,
+     "end": 21.18
+    },
+    {
+     "word": "te",
+     "start": 21.18,
+     "end": 21.3
+    },
+    {
+     "word": "contar",
+     "start": 21.3,
+     "end": 21.56
+    },
+    {
+     "word": "agora",
+     "start": 21.56,
+     "end": 21.84
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 21.88,
+   "end": 23.44,
+   "text": "vou esperar você ver isso de manhã",
+   "words": [
+    {
+     "word": "vou",
+     "start": 21.88,
+     "end": 22.0
+    },
+    {
+     "word": "esperar",
+     "start": 22.0,
+     "end": 22.3
+    },
+    {
+     "word": "você",
+     "start": 22.3,
+     "end": 22.56
+    },
+    {
+     "word": "ver",
+     "start": 22.56,
+     "end": 22.74
+    },
+    {
+     "word": "isso",
+     "start": 22.74,
+     "end": 23.0
+    },
+    {
+     "word": "de",
+     "start": 23.0,
+     "end": 23.16
+    },
+    {
+     "word": "manhã",
+     "start": 23.16,
+     "end": 23.44
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 23.48,
+   "end": 25.44,
+   "text": "Você caiu na pegadinha, mano",
+   "words": [
+    {
+     "word": "Você",
+     "start": 23.48,
+     "end": 23.96
+    },
+    {
+     "word": "caiu",
+     "start": 24.24,
+     "end": 24.5
+    },
+    {
+     "word": "na",
+     "start": 24.5,
+     "end": 24.58
+    },
+    {
+     "word": "pegadinha,",
+     "start": 24.58,
+     "end": 25.18
+    },
+    {
+     "word": "mano",
+     "start": 25.26,
+     "end": 25.44
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 25.48,
+   "end": 26.5,
+   "text": "Tava gostoso?",
+   "words": [
+    {
+     "word": "Tava",
+     "start": 25.48,
+     "end": 25.64
+    },
+    {
+     "word": "gostoso?",
+     "start": 25.64,
+     "end": 26.5
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 26.54,
+   "end": 27.5,
+   "text": "Mas sério, cara",
+   "words": [
+    {
+     "word": "Mas",
+     "start": 26.54,
+     "end": 26.88
+    },
+    {
+     "word": "sério,",
+     "start": 26.88,
+     "end": 27.2
+    },
+    {
+     "word": "cara",
+     "start": 27.3,
+     "end": 27.5
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 27.54,
+   "end": 28.0,
+   "text": "vai se fuder",
+   "words": [
+    {
+     "word": "vai",
+     "start": 27.54,
+     "end": 27.6
+    },
+    {
+     "word": "se",
+     "start": 27.6,
+     "end": 27.76
+    },
+    {
+     "word": "fuder",
+     "start": 27.76,
+     "end": 28.0
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 28.04,
+   "end": 31.33,
+   "text": "Você ouviu a Morial no rádio?",
+   "words": [
+    {
+     "word": "Você",
+     "start": 28.04,
+     "end": 28.56
+    },
+    {
+     "word": "ouviu",
+     "start": 28.56,
+     "end": 28.84
+    },
+    {
+     "word": "a",
+     "start": 28.84,
+     "end": 28.96
+    },
+    {
+     "word": "Morial",
+     "start": 28.96,
+     "end": 29.2
+    },
+    {
+     "word": "no",
+     "start": 29.2,
+     "end": 30.46
+    },
+    {
+     "word": "rádio?",
+     "start": 30.46,
+     "end": 31.33
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
