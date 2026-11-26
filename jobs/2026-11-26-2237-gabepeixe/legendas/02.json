@@ -1,0 +1,337 @@
+{
+ "segments": [
+  {
+   "start": 9.69,
+   "end": 10.53,
+   "text": "Exatamente a mesma coisa",
+   "words": [
+    {
+     "word": "Exatamente",
+     "start": 9.69,
+     "end": 10.05
+    },
+    {
+     "word": "a",
+     "start": 10.05,
+     "end": 10.23
+    },
+    {
+     "word": "mesma",
+     "start": 10.23,
+     "end": 10.33
+    },
+    {
+     "word": "coisa",
+     "start": 10.33,
+     "end": 10.53
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.57,
+   "end": 11.8,
+   "text": "que eu fiz da primeira vez",
+   "words": [
+    {
+     "word": "que",
+     "start": 10.57,
+     "end": 10.67
+    },
+    {
+     "word": "eu",
+     "start": 10.67,
+     "end": 10.79
+    },
+    {
+     "word": "fiz",
+     "start": 10.79,
+     "end": 10.89
+    },
+    {
+     "word": "da",
+     "start": 10.89,
+     "end": 11.01
+    },
+    {
+     "word": "primeira",
+     "start": 11.01,
+     "end": 11.21
+    },
+    {
+     "word": "vez",
+     "start": 11.21,
+     "end": 11.8
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 42.83,
+   "end": 43.87,
+   "text": "Aqui a gente já sabe",
+   "words": [
+    {
+     "word": "Aqui",
+     "start": 42.83,
+     "end": 43.19
+    },
+    {
+     "word": "a",
+     "start": 43.19,
+     "end": 43.55
+    },
+    {
+     "word": "gente",
+     "start": 43.55,
+     "end": 43.6
+    },
+    {
+     "word": "já",
+     "start": 43.6,
+     "end": 43.73
+    },
+    {
+     "word": "sabe",
+     "start": 43.73,
+     "end": 43.87
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 43.91,
+   "end": 44.43,
+   "text": "o que a gente vai tirar",
+   "words": [
+    {
+     "word": "o",
+     "start": 43.91,
+     "end": 43.97
+    },
+    {
+     "word": "que",
+     "start": 43.97,
+     "end": 44.02
+    },
+    {
+     "word": "a",
+     "start": 44.02,
+     "end": 44.07
+    },
+    {
+     "word": "gente",
+     "start": 44.07,
+     "end": 44.17
+    },
+    {
+     "word": "vai",
+     "start": 44.17,
+     "end": 44.29
+    },
+    {
+     "word": "tirar",
+     "start": 44.29,
+     "end": 44.43
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 44.47,
+   "end": 45.3,
+   "text": "da mesa, né?",
+   "words": [
+    {
+     "word": "da",
+     "start": 44.47,
+     "end": 44.61
+    },
+    {
+     "word": "mesa,",
+     "start": 44.61,
+     "end": 44.89
+    },
+    {
+     "word": "né?",
+     "start": 44.99,
+     "end": 45.3
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 45.7,
+   "end": 47.04,
+   "text": "Vamos tirar os nerdão aqui",
+   "words": [
+    {
+     "word": "Vamos",
+     "start": 45.7,
+     "end": 45.82
+    },
+    {
+     "word": "tirar",
+     "start": 45.82,
+     "end": 46.1
+    },
+    {
+     "word": "os",
+     "start": 46.1,
+     "end": 46.3
+    },
+    {
+     "word": "nerdão",
+     "start": 46.3,
+     "end": 46.74
+    },
+    {
+     "word": "aqui",
+     "start": 46.74,
+     "end": 47.04
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 47.08,
+   "end": 47.74,
+   "text": "mano, não tem jeito",
+   "words": [
+    {
+     "word": "mano,",
+     "start": 47.08,
+     "end": 47.16
+    },
+    {
+     "word": "não",
+     "start": 47.26,
+     "end": 47.38
+    },
+    {
+     "word": "tem",
+     "start": 47.38,
+     "end": 47.5
+    },
+    {
+     "word": "jeito",
+     "start": 47.5,
+     "end": 47.74
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 47.78,
+   "end": 49.06,
+   "text": "eles já pagaram 50 mil",
+   "words": [
+    {
+     "word": "eles",
+     "start": 47.78,
+     "end": 47.92
+    },
+    {
+     "word": "já",
+     "start": 47.92,
+     "end": 48.06
+    },
+    {
+     "word": "pagaram",
+     "start": 48.06,
+     "end": 48.42
+    },
+    {
+     "word": "50",
+     "start": 48.42,
+     "end": 48.74
+    },
+    {
+     "word": "mil",
+     "start": 48.74,
+     "end": 49.06
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 49.1,
+   "end": 50.44,
+   "text": "Eu preciso da mídia",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 49.1,
+     "end": 49.58
+    },
+    {
+     "word": "preciso",
+     "start": 49.58,
+     "end": 49.8
+    },
+    {
+     "word": "da",
+     "start": 49.8,
+     "end": 49.96
+    },
+    {
+     "word": "mídia",
+     "start": 49.96,
+     "end": 50.44
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 50.48,
+   "end": 51.54,
+   "text": "quase 500 mil de",
+   "words": [
+    {
+     "word": "quase",
+     "start": 50.48,
+     "end": 50.8
+    },
+    {
+     "word": "500",
+     "start": 50.8,
+     "end": 51.1
+    },
+    {
+     "word": "mil",
+     "start": 51.1,
+     "end": 51.42
+    },
+    {
+     "word": "de",
+     "start": 51.42,
+     "end": 51.54
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 51.58,
+   "end": 52.79,
+   "text": "movimento na mídia",
+   "words": [
+    {
+     "word": "movimento",
+     "start": 51.58,
+     "end": 51.9
+    },
+    {
+     "word": "na",
+     "start": 51.9,
+     "end": 52.14
+    },
+    {
+     "word": "mídia",
+     "start": 52.14,
+     "end": 52.79
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
