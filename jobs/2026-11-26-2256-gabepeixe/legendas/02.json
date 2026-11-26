@@ -1,0 +1,384 @@
+{
+ "segments": [
+  {
+   "start": 6.86,
+   "end": 7.32,
+   "text": "Tá bom, né?",
+   "words": [
+    {
+     "word": "Tá",
+     "start": 6.86,
+     "end": 6.94
+    },
+    {
+     "word": "bom,",
+     "start": 6.94,
+     "end": 7.08
+    },
+    {
+     "word": "né?",
+     "start": 7.18,
+     "end": 7.32
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 7.36,
+   "end": 8.1,
+   "text": "Meio academia",
+   "words": [
+    {
+     "word": "Meio",
+     "start": 7.36,
+     "end": 7.54
+    },
+    {
+     "word": "academia",
+     "start": 7.54,
+     "end": 8.1
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 8.14,
+   "end": 9.09,
+   "text": "meio saindo, não?",
+   "words": [
+    {
+     "word": "meio",
+     "start": 8.14,
+     "end": 8.24
+    },
+    {
+     "word": "saindo,",
+     "start": 8.24,
+     "end": 8.68
+    },
+    {
+     "word": "não?",
+     "start": 8.74,
+     "end": 9.09
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 10.19,
+   "end": 10.75,
+   "text": "Tipo assim, eu tinha",
+   "words": [
+    {
+     "word": "Tipo",
+     "start": 10.19,
+     "end": 10.47
+    },
+    {
+     "word": "assim,",
+     "start": 10.47,
+     "end": 10.55
+    },
+    {
+     "word": "eu",
+     "start": 10.65,
+     "end": 10.7
+    },
+    {
+     "word": "tinha",
+     "start": 10.7,
+     "end": 10.75
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 10.77,
+   "end": 11.33,
+   "text": "que botar um pouco",
+   "words": [
+    {
+     "word": "que",
+     "start": 10.77,
+     "end": 10.89
+    },
+    {
+     "word": "botar",
+     "start": 10.89,
+     "end": 11.13
+    },
+    {
+     "word": "um",
+     "start": 11.13,
+     "end": 11.21
+    },
+    {
+     "word": "pouco",
+     "start": 11.21,
+     "end": 11.33
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 11.37,
+   "end": 12.15,
+   "text": "de roupa de academia",
+   "words": [
+    {
+     "word": "de",
+     "start": 11.37,
+     "end": 11.47
+    },
+    {
+     "word": "roupa",
+     "start": 11.47,
+     "end": 11.65
+    },
+    {
+     "word": "de",
+     "start": 11.65,
+     "end": 11.73
+    },
+    {
+     "word": "academia",
+     "start": 11.73,
+     "end": 12.15
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 12.19,
+   "end": 13.13,
+   "text": "então é meio academia",
+   "words": [
+    {
+     "word": "então",
+     "start": 12.19,
+     "end": 12.33
+    },
+    {
+     "word": "é",
+     "start": 12.33,
+     "end": 12.45
+    },
+    {
+     "word": "meio",
+     "start": 12.45,
+     "end": 12.53
+    },
+    {
+     "word": "academia",
+     "start": 12.53,
+     "end": 13.13
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 13.17,
+   "end": 13.94,
+   "text": "meio",
+   "words": [
+    {
+     "word": "meio",
+     "start": 13.17,
+     "end": 13.94
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 15.24,
+   "end": 15.79,
+   "text": "Você vai ter que",
+   "words": [
+    {
+     "word": "Você",
+     "start": 15.24,
+     "end": 15.5
+    },
+    {
+     "word": "vai",
+     "start": 15.5,
+     "end": 15.6
+    },
+    {
+     "word": "ter",
+     "start": 15.6,
+     "end": 15.74
+    },
+    {
+     "word": "que",
+     "start": 15.74,
+     "end": 15.79
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 15.82,
+   "end": 16.74,
+   "text": "ir pra academia, né?",
+   "words": [
+    {
+     "word": "ir",
+     "start": 15.82,
+     "end": 15.88
+    },
+    {
+     "word": "pra",
+     "start": 15.88,
+     "end": 15.94
+    },
+    {
+     "word": "academia,",
+     "start": 15.94,
+     "end": 16.3
+    },
+    {
+     "word": "né?",
+     "start": 16.48,
+     "end": 16.74
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 16.78,
+   "end": 18.67,
+   "text": "Não vai pra academia",
+   "words": [
+    {
+     "word": "Não",
+     "start": 16.78,
+     "end": 16.9
+    },
+    {
+     "word": "vai",
+     "start": 17.91,
+     "end": 18.09
+    },
+    {
+     "word": "pra",
+     "start": 18.09,
+     "end": 18.19
+    },
+    {
+     "word": "academia",
+     "start": 18.19,
+     "end": 18.67
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 18.71,
+   "end": 20.28,
+   "text": "eu tenho que manter o",
+   "words": [
+    {
+     "word": "eu",
+     "start": 18.71,
+     "end": 18.75
+    },
+    {
+     "word": "tenho",
+     "start": 18.75,
+     "end": 18.85
+    },
+    {
+     "word": "que",
+     "start": 18.85,
+     "end": 18.93
+    },
+    {
+     "word": "manter",
+     "start": 18.93,
+     "end": 19.19
+    },
+    {
+     "word": "o",
+     "start": 19.19,
+     "end": 20.28
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 26.52,
+   "end": 27.61,
+   "text": "Nota 4?",
+   "words": [
+    {
+     "word": "Nota",
+     "start": 26.52,
+     "end": 27.0
+    },
+    {
+     "word": "4?",
+     "start": 27.0,
+     "end": 27.61
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 30.01,
+   "end": 31.62,
+   "text": "Que se foder! Tem",
+   "words": [
+    {
+     "word": "Que",
+     "start": 30.01,
+     "end": 30.19
+    },
+    {
+     "word": "se",
+     "start": 30.19,
+     "end": 30.35
+    },
+    {
+     "word": "foder!",
+     "start": 30.35,
+     "end": 30.73
+    },
+    {
+     "word": "Tem",
+     "start": 31.23,
+     "end": 31.62
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 55.78,
+   "end": 57.11,
+   "text": "certeza que academia não?",
+   "words": [
+    {
+     "word": "certeza",
+     "start": 55.78,
+     "end": 56.14
+    },
+    {
+     "word": "que",
+     "start": 56.14,
+     "end": 56.28
+    },
+    {
+     "word": "academia",
+     "start": 56.28,
+     "end": 56.54
+    },
+    {
+     "word": "não?",
+     "start": 56.54,
+     "end": 57.11
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
