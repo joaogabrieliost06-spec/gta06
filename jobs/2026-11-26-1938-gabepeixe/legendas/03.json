@@ -1,0 +1,307 @@
+{
+ "segments": [
+  {
+   "start": 9.91,
+   "end": 13.34,
+   "text": "Não chega aqui rasgada, por favor",
+   "words": [
+    {
+     "word": "Não",
+     "start": 9.91,
+     "end": 10.27
+    },
+    {
+     "word": "chega",
+     "start": 11.57,
+     "end": 11.93
+    },
+    {
+     "word": "aqui",
+     "start": 11.93,
+     "end": 12.11
+    },
+    {
+     "word": "rasgada,",
+     "start": 12.11,
+     "end": 12.55
+    },
+    {
+     "word": "por",
+     "start": 12.61,
+     "end": 12.77
+    },
+    {
+     "word": "favor",
+     "start": 12.77,
+     "end": 13.34
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 13.7,
+   "end": 14.4,
+   "text": "Se for pra chegar aqui",
+   "words": [
+    {
+     "word": "Se",
+     "start": 13.7,
+     "end": 13.9
+    },
+    {
+     "word": "for",
+     "start": 13.9,
+     "end": 14.0
+    },
+    {
+     "word": "pra",
+     "start": 14.0,
+     "end": 14.08
+    },
+    {
+     "word": "chegar",
+     "start": 14.08,
+     "end": 14.26
+    },
+    {
+     "word": "aqui",
+     "start": 14.26,
+     "end": 14.4
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 14.44,
+   "end": 15.54,
+   "text": "rasgada, nem vem, Lucia",
+   "words": [
+    {
+     "word": "rasgada,",
+     "start": 14.44,
+     "end": 14.82
+    },
+    {
+     "word": "nem",
+     "start": 14.86,
+     "end": 14.98
+    },
+    {
+     "word": "vem,",
+     "start": 14.98,
+     "end": 15.16
+    },
+    {
+     "word": "Lucia",
+     "start": 15.26,
+     "end": 15.54
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 15.58,
+   "end": 17.62,
+   "text": "Mais uma festa",
+   "words": [
+    {
+     "word": "Mais",
+     "start": 15.58,
+     "end": 16.22
+    },
+    {
+     "word": "uma",
+     "start": 17.14,
+     "end": 17.34
+    },
+    {
+     "word": "festa",
+     "start": 17.34,
+     "end": 17.62
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 17.66,
+   "end": 18.36,
+   "text": "que não faz sentido",
+   "words": [
+    {
+     "word": "que",
+     "start": 17.66,
+     "end": 17.8
+    },
+    {
+     "word": "não",
+     "start": 17.8,
+     "end": 17.9
+    },
+    {
+     "word": "faz",
+     "start": 17.9,
+     "end": 18.08
+    },
+    {
+     "word": "sentido",
+     "start": 18.08,
+     "end": 18.36
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 18.4,
+   "end": 19.12,
+   "text": "ela tá vindo junto",
+   "words": [
+    {
+     "word": "ela",
+     "start": 18.4,
+     "end": 18.54
+    },
+    {
+     "word": "tá",
+     "start": 18.66,
+     "end": 18.71
+    },
+    {
+     "word": "vindo",
+     "start": 18.71,
+     "end": 18.9
+    },
+    {
+     "word": "junto",
+     "start": 18.9,
+     "end": 19.12
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 19.16,
+   "end": 20.24,
+   "text": "Ela chegou rasgada",
+   "words": [
+    {
+     "word": "Ela",
+     "start": 19.16,
+     "end": 19.34
+    },
+    {
+     "word": "chegou",
+     "start": 19.34,
+     "end": 19.66
+    },
+    {
+     "word": "rasgada",
+     "start": 19.66,
+     "end": 20.24
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 20.28,
+   "end": 21.13,
+   "text": "de academia",
+   "words": [
+    {
+     "word": "de",
+     "start": 20.28,
+     "end": 20.4
+    },
+    {
+     "word": "academia",
+     "start": 20.4,
+     "end": 21.13
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 23.28,
+   "end": 23.96,
+   "text": "Não tem nem como",
+   "words": [
+    {
+     "word": "Não",
+     "start": 23.28,
+     "end": 23.64
+    },
+    {
+     "word": "tem",
+     "start": 23.64,
+     "end": 23.78
+    },
+    {
+     "word": "nem",
+     "start": 23.78,
+     "end": 23.88
+    },
+    {
+     "word": "como",
+     "start": 23.88,
+     "end": 23.96
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 24.0,
+   "end": 24.62,
+   "text": "eu trocar roupa?",
+   "words": [
+    {
+     "word": "eu",
+     "start": 24.0,
+     "end": 24.1
+    },
+    {
+     "word": "trocar",
+     "start": 24.1,
+     "end": 24.22
+    },
+    {
+     "word": "roupa?",
+     "start": 24.22,
+     "end": 24.62
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 24.66,
+   "end": 25.51,
+   "text": "Ela tá só na academia",
+   "words": [
+    {
+     "word": "Ela",
+     "start": 24.66,
+     "end": 24.68
+    },
+    {
+     "word": "tá",
+     "start": 24.68,
+     "end": 24.73
+    },
+    {
+     "word": "só",
+     "start": 24.73,
+     "end": 24.86
+    },
+    {
+     "word": "na",
+     "start": 24.86,
+     "end": 24.98
+    },
+    {
+     "word": "academia",
+     "start": 24.98,
+     "end": 25.51
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
