@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, Alan, GTA 6, Lucia, Jason, Nuvem, Steam, Arx Fatalis, Death Stranding, Phantom Blade, bebê, missão principal, rastreador, mano, velho, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:01:44", "fim": "0:02:30", "titulo": "COMO A NUVEM TEM LUCRO"},
+  {"id": "02", "inicio": "0:06:05", "fim": "0:07:35", "titulo": "EU SÓ VIVO GTA"},
+  {"id": "03", "inicio": "0:12:30", "fim": "0:14:00", "titulo": "ATROPELOU COM CARINHO"}
+ ]
+}
