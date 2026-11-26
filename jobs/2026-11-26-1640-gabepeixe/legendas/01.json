@@ -1,0 +1,93 @@
+{
+ "segments": [
+  {
+   "start": 29.27,
+   "end": 30.79,
+   "text": "Mano, que porra de corrida",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 29.27,
+     "end": 29.91
+    },
+    {
+     "word": "que",
+     "start": 29.93,
+     "end": 30.03
+    },
+    {
+     "word": "porra",
+     "start": 30.03,
+     "end": 30.43
+    },
+    {
+     "word": "de",
+     "start": 30.43,
+     "end": 30.51
+    },
+    {
+     "word": "corrida",
+     "start": 30.51,
+     "end": 30.79
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 30.83,
+   "end": 31.96,
+   "text": "Eu não ganhei do cara",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 30.83,
+     "end": 30.95
+    },
+    {
+     "word": "não",
+     "start": 30.95,
+     "end": 31.0
+    },
+    {
+     "word": "ganhei",
+     "start": 31.0,
+     "end": 31.27
+    },
+    {
+     "word": "do",
+     "start": 31.27,
+     "end": 31.39
+    },
+    {
+     "word": "cara",
+     "start": 31.39,
+     "end": 31.96
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 32.58,
+   "end": 34.25,
+   "text": "Que maconha braba",
+   "words": [
+    {
+     "word": "Que",
+     "start": 32.58,
+     "end": 32.98
+    },
+    {
+     "word": "maconha",
+     "start": 32.98,
+     "end": 33.6
+    },
+    {
+     "word": "braba",
+     "start": 33.6,
+     "end": 34.25
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
