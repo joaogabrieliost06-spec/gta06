@@ -1,0 +1,286 @@
+{
+ "segments": [
+  {
+   "start": 7.75,
+   "end": 8.9,
+   "text": "Ué, não tem como eu",
+   "words": [
+    {
+     "word": "Ué,",
+     "start": 7.75,
+     "end": 7.99
+    },
+    {
+     "word": "não",
+     "start": 8.03,
+     "end": 8.13
+    },
+    {
+     "word": "tem",
+     "start": 8.13,
+     "end": 8.29
+    },
+    {
+     "word": "como",
+     "start": 8.29,
+     "end": 8.51
+    },
+    {
+     "word": "eu",
+     "start": 8.51,
+     "end": 8.9
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 11.29,
+   "end": 12.56,
+   "text": "Eu errei o tiro, é isso?",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 11.29,
+     "end": 11.41
+    },
+    {
+     "word": "errei",
+     "start": 11.41,
+     "end": 11.65
+    },
+    {
+     "word": "o",
+     "start": 11.65,
+     "end": 11.79
+    },
+    {
+     "word": "tiro,",
+     "start": 11.79,
+     "end": 11.95
+    },
+    {
+     "word": "é",
+     "start": 12.07,
+     "end": 12.12
+    },
+    {
+     "word": "isso?",
+     "start": 12.12,
+     "end": 12.56
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 13.16,
+   "end": 14.75,
+   "text": "Eu errei o tiro, foi mal",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 13.16,
+     "end": 13.34
+    },
+    {
+     "word": "errei",
+     "start": 13.34,
+     "end": 13.54
+    },
+    {
+     "word": "o",
+     "start": 13.54,
+     "end": 13.64
+    },
+    {
+     "word": "tiro,",
+     "start": 13.64,
+     "end": 13.88
+    },
+    {
+     "word": "foi",
+     "start": 14.14,
+     "end": 14.3
+    },
+    {
+     "word": "mal",
+     "start": 14.3,
+     "end": 14.75
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 14.97,
+   "end": 15.81,
+   "text": "Matei animal em vão",
+   "words": [
+    {
+     "word": "Matei",
+     "start": 14.97,
+     "end": 15.33
+    },
+    {
+     "word": "animal",
+     "start": 15.33,
+     "end": 15.53
+    },
+    {
+     "word": "em",
+     "start": 15.53,
+     "end": 15.69
+    },
+    {
+     "word": "vão",
+     "start": 15.69,
+     "end": 15.81
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 15.85,
+   "end": 18.02,
+   "text": "Não, é porque eu tenho",
+   "words": [
+    {
+     "word": "Não,",
+     "start": 15.85,
+     "end": 16.39
+    },
+    {
+     "word": "é",
+     "start": 17.22,
+     "end": 17.3
+    },
+    {
+     "word": "porque",
+     "start": 17.3,
+     "end": 17.78
+    },
+    {
+     "word": "eu",
+     "start": 17.78,
+     "end": 17.9
+    },
+    {
+     "word": "tenho",
+     "start": 17.9,
+     "end": 18.02
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 18.06,
+   "end": 19.04,
+   "text": "um trabalho de caça",
+   "words": [
+    {
+     "word": "um",
+     "start": 18.06,
+     "end": 18.22
+    },
+    {
+     "word": "trabalho",
+     "start": 18.22,
+     "end": 18.46
+    },
+    {
+     "word": "de",
+     "start": 18.46,
+     "end": 18.62
+    },
+    {
+     "word": "caça",
+     "start": 18.62,
+     "end": 19.04
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 19.08,
+   "end": 20.5,
+   "text": "Calma, galera, não zoa",
+   "words": [
+    {
+     "word": "Calma,",
+     "start": 19.08,
+     "end": 19.3
+    },
+    {
+     "word": "galera,",
+     "start": 19.32,
+     "end": 19.56
+    },
+    {
+     "word": "não",
+     "start": 19.72,
+     "end": 19.86
+    },
+    {
+     "word": "zoa",
+     "start": 19.86,
+     "end": 20.5
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 20.54,
+   "end": 21.12,
+   "text": "Porque eu tenho um trabalho",
+   "words": [
+    {
+     "word": "Porque",
+     "start": 20.54,
+     "end": 20.62
+    },
+    {
+     "word": "eu",
+     "start": 20.62,
+     "end": 20.72
+    },
+    {
+     "word": "tenho",
+     "start": 20.72,
+     "end": 20.82
+    },
+    {
+     "word": "um",
+     "start": 20.82,
+     "end": 20.92
+    },
+    {
+     "word": "trabalho",
+     "start": 20.92,
+     "end": 21.12
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 21.16,
+   "end": 22.13,
+   "text": "de caça, mano",
+   "words": [
+    {
+     "word": "de",
+     "start": 21.16,
+     "end": 21.3
+    },
+    {
+     "word": "caça,",
+     "start": 21.3,
+     "end": 21.66
+    },
+    {
+     "word": "mano",
+     "start": 21.72,
+     "end": 22.13
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
