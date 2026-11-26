@@ -1,0 +1,55 @@
+{
+ "segments": [
+  {
+   "start": 4.0,
+   "end": 4.96,
+   "text": "Moleque, tá cheio",
+   "words": [
+    {
+     "word": "Moleque,",
+     "start": 4.0,
+     "end": 4.465
+    },
+    {
+     "word": "tá",
+     "start": 4.465,
+     "end": 4.62
+    },
+    {
+     "word": "cheio",
+     "start": 4.62,
+     "end": 4.96
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 5.0,
+   "end": 6.21,
+   "text": "de evento aqui, mano",
+   "words": [
+    {
+     "word": "de",
+     "start": 5.0,
+     "end": 5.1
+    },
+    {
+     "word": "evento",
+     "start": 5.1,
+     "end": 5.42
+    },
+    {
+     "word": "aqui,",
+     "start": 5.42,
+     "end": 5.7
+    },
+    {
+     "word": "mano",
+     "start": 5.78,
+     "end": 6.21
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
