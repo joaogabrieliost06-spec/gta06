@@ -1,0 +1,226 @@
+{
+ "segments": [
+  {
+   "start": 0.23,
+   "end": 3.25,
+   "text": "Meu Deus, mano",
+   "words": [
+    {
+     "word": "Meu",
+     "start": 0.23,
+     "end": 1.13
+    },
+    {
+     "word": "Deus,",
+     "start": 2.53,
+     "end": 2.77
+    },
+    {
+     "word": "mano",
+     "start": 2.99,
+     "end": 3.25
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 3.29,
+   "end": 4.64,
+   "text": "os tiras, velho",
+   "words": [
+    {
+     "word": "os",
+     "start": 3.29,
+     "end": 3.51
+    },
+    {
+     "word": "tiras,",
+     "start": 3.51,
+     "end": 3.91
+    },
+    {
+     "word": "velho",
+     "start": 4.07,
+     "end": 4.64
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 5.79,
+   "end": 7.24,
+   "text": "mano",
+   "words": [
+    {
+     "word": "mano",
+     "start": 5.79,
+     "end": 7.24
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 7.53,
+   "end": 8.33,
+   "text": "eu perdi uma sacola",
+   "words": [
+    {
+     "word": "eu",
+     "start": 7.53,
+     "end": 7.61
+    },
+    {
+     "word": "perdi",
+     "start": 7.61,
+     "end": 7.77
+    },
+    {
+     "word": "uma",
+     "start": 7.77,
+     "end": 7.91
+    },
+    {
+     "word": "sacola",
+     "start": 7.91,
+     "end": 8.33
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 8.37,
+   "end": 9.55,
+   "text": "de dinheiro, velho",
+   "words": [
+    {
+     "word": "de",
+     "start": 8.37,
+     "end": 8.55
+    },
+    {
+     "word": "dinheiro,",
+     "start": 8.55,
+     "end": 9.01
+    },
+    {
+     "word": "velho",
+     "start": 9.25,
+     "end": 9.55
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 9.59,
+   "end": 11.02,
+   "text": "não, não, não",
+   "words": [
+    {
+     "word": "não,",
+     "start": 9.59,
+     "end": 9.75
+    },
+    {
+     "word": "não,",
+     "start": 10.23,
+     "end": 10.41
+    },
+    {
+     "word": "não",
+     "start": 10.55,
+     "end": 11.02
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 77.28,
+   "end": 78.7,
+   "text": "nem queria fazer um salto",
+   "words": [
+    {
+     "word": "nem",
+     "start": 77.28,
+     "end": 77.72
+    },
+    {
+     "word": "queria",
+     "start": 77.72,
+     "end": 77.96
+    },
+    {
+     "word": "fazer",
+     "start": 77.96,
+     "end": 78.18
+    },
+    {
+     "word": "um",
+     "start": 78.18,
+     "end": 78.32
+    },
+    {
+     "word": "salto",
+     "start": 78.32,
+     "end": 78.7
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 78.74,
+   "end": 79.4,
+   "text": "para o cara falar",
+   "words": [
+    {
+     "word": "para",
+     "start": 78.74,
+     "end": 79.02
+    },
+    {
+     "word": "o",
+     "start": 79.02,
+     "end": 79.14
+    },
+    {
+     "word": "cara",
+     "start": 79.14,
+     "end": 79.22
+    },
+    {
+     "word": "falar",
+     "start": 79.22,
+     "end": 79.4
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 79.44,
+   "end": 80.79,
+   "text": "que eu fracassei, velho",
+   "words": [
+    {
+     "word": "que",
+     "start": 79.44,
+     "end": 79.58
+    },
+    {
+     "word": "eu",
+     "start": 79.58,
+     "end": 79.63
+    },
+    {
+     "word": "fracassei,",
+     "start": 79.63,
+     "end": 80.32
+    },
+    {
+     "word": "velho",
+     "start": 80.32,
+     "end": 80.79
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}

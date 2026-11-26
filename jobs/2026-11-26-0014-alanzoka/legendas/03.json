@@ -1,0 +1,768 @@
+{
+ "segments": [
+  {
+   "start": 0.36,
+   "end": 1.89,
+   "text": "Os caras só prendem",
+   "words": [
+    {
+     "word": "Os",
+     "start": 0.36,
+     "end": 0.64
+    },
+    {
+     "word": "caras",
+     "start": 0.64,
+     "end": 0.82
+    },
+    {
+     "word": "só",
+     "start": 0.82,
+     "end": 1.0
+    },
+    {
+     "word": "prendem",
+     "start": 1.0,
+     "end": 1.89
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 4.18,
+   "end": 4.82,
+   "text": "Calma aí, cara",
+   "words": [
+    {
+     "word": "Calma",
+     "start": 4.18,
+     "end": 4.5
+    },
+    {
+     "word": "aí,",
+     "start": 4.5,
+     "end": 4.62
+    },
+    {
+     "word": "cara",
+     "start": 4.7,
+     "end": 4.82
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 4.86,
+   "end": 6.19,
+   "text": "É tua bike, essa porra?",
+   "words": [
+    {
+     "word": "É",
+     "start": 4.86,
+     "end": 4.94
+    },
+    {
+     "word": "tua",
+     "start": 4.94,
+     "end": 5.08
+    },
+    {
+     "word": "bike,",
+     "start": 5.08,
+     "end": 5.34
+    },
+    {
+     "word": "essa",
+     "start": 5.36,
+     "end": 5.56
+    },
+    {
+     "word": "porra?",
+     "start": 5.56,
+     "end": 6.19
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 7.49,
+   "end": 9.22,
+   "text": "Vem, bebê. Você tem que vir comigo, né?",
+   "words": [
+    {
+     "word": "Vem,",
+     "start": 7.49,
+     "end": 7.67
+    },
+    {
+     "word": "bebê.",
+     "start": 7.77,
+     "end": 7.93
+    },
+    {
+     "word": "Você",
+     "start": 8.01,
+     "end": 8.06
+    },
+    {
+     "word": "tem",
+     "start": 8.06,
+     "end": 8.17
+    },
+    {
+     "word": "que",
+     "start": 8.17,
+     "end": 8.23
+    },
+    {
+     "word": "vir",
+     "start": 8.23,
+     "end": 8.33
+    },
+    {
+     "word": "comigo,",
+     "start": 8.33,
+     "end": 8.71
+    },
+    {
+     "word": "né?",
+     "start": 8.83,
+     "end": 9.22
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 12.6,
+   "end": 13.92,
+   "text": "A gente vai pegar nosso dinheiro de volta",
+   "words": [
+    {
+     "word": "A",
+     "start": 12.6,
+     "end": 12.72
+    },
+    {
+     "word": "gente",
+     "start": 12.72,
+     "end": 12.78
+    },
+    {
+     "word": "vai",
+     "start": 12.78,
+     "end": 12.86
+    },
+    {
+     "word": "pegar",
+     "start": 12.86,
+     "end": 13.04
+    },
+    {
+     "word": "nosso",
+     "start": 13.04,
+     "end": 13.18
+    },
+    {
+     "word": "dinheiro",
+     "start": 13.18,
+     "end": 13.42
+    },
+    {
+     "word": "de",
+     "start": 13.42,
+     "end": 13.58
+    },
+    {
+     "word": "volta",
+     "start": 13.58,
+     "end": 13.92
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 13.96,
+   "end": 14.56,
+   "text": "Vamos",
+   "words": [
+    {
+     "word": "Vamos",
+     "start": 13.96,
+     "end": 14.56
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 16.35,
+   "end": 17.27,
+   "text": "Eu parei, cara",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 16.35,
+     "end": 16.67
+    },
+    {
+     "word": "parei,",
+     "start": 16.67,
+     "end": 16.97
+    },
+    {
+     "word": "cara",
+     "start": 17.05,
+     "end": 17.27
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 17.31,
+   "end": 18.51,
+   "text": "A Lúcia não quer vir. Não entendi",
+   "words": [
+    {
+     "word": "A",
+     "start": 17.31,
+     "end": 17.41
+    },
+    {
+     "word": "Lúcia",
+     "start": 17.41,
+     "end": 17.57
+    },
+    {
+     "word": "não",
+     "start": 17.57,
+     "end": 17.73
+    },
+    {
+     "word": "quer",
+     "start": 17.73,
+     "end": 17.87
+    },
+    {
+     "word": "vir.",
+     "start": 17.87,
+     "end": 18.03
+    },
+    {
+     "word": "Não",
+     "start": 18.13,
+     "end": 18.18
+    },
+    {
+     "word": "entendi",
+     "start": 18.18,
+     "end": 18.51
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 18.55,
+   "end": 19.35,
+   "text": "Para, para, para",
+   "words": [
+    {
+     "word": "Para,",
+     "start": 18.55,
+     "end": 18.69
+    },
+    {
+     "word": "para,",
+     "start": 18.73,
+     "end": 18.97
+    },
+    {
+     "word": "para",
+     "start": 18.97,
+     "end": 19.35
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 19.39,
+   "end": 20.15,
+   "text": "de ligar pra polícia",
+   "words": [
+    {
+     "word": "de",
+     "start": 19.39,
+     "end": 19.45
+    },
+    {
+     "word": "ligar",
+     "start": 19.45,
+     "end": 19.57
+    },
+    {
+     "word": "pra",
+     "start": 19.57,
+     "end": 19.67
+    },
+    {
+     "word": "polícia",
+     "start": 19.67,
+     "end": 20.15
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 20.19,
+   "end": 21.22,
+   "text": "Para de ligar pra polícia, para",
+   "words": [
+    {
+     "word": "Para",
+     "start": 20.19,
+     "end": 20.31
+    },
+    {
+     "word": "de",
+     "start": 20.31,
+     "end": 20.39
+    },
+    {
+     "word": "ligar",
+     "start": 20.39,
+     "end": 20.53
+    },
+    {
+     "word": "pra",
+     "start": 20.53,
+     "end": 20.63
+    },
+    {
+     "word": "polícia,",
+     "start": 20.63,
+     "end": 20.85
+    },
+    {
+     "word": "para",
+     "start": 20.89,
+     "end": 21.22
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 21.67,
+   "end": 23.5,
+   "text": "Para de ligar pra polícia, cara",
+   "words": [
+    {
+     "word": "Para",
+     "start": 21.67,
+     "end": 21.99
+    },
+    {
+     "word": "de",
+     "start": 21.99,
+     "end": 22.09
+    },
+    {
+     "word": "ligar",
+     "start": 22.09,
+     "end": 22.29
+    },
+    {
+     "word": "pra",
+     "start": 22.29,
+     "end": 22.39
+    },
+    {
+     "word": "polícia,",
+     "start": 22.39,
+     "end": 22.85
+    },
+    {
+     "word": "cara",
+     "start": 23.01,
+     "end": 23.5
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 23.65,
+   "end": 24.42,
+   "text": "É louco",
+   "words": [
+    {
+     "word": "É",
+     "start": 23.65,
+     "end": 23.81
+    },
+    {
+     "word": "louco",
+     "start": 23.81,
+     "end": 24.42
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 27.4,
+   "end": 28.0,
+   "text": "Relaxa",
+   "words": [
+    {
+     "word": "Relaxa",
+     "start": 27.4,
+     "end": 28.0
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 30.3,
+   "end": 30.9,
+   "text": "Relaxa",
+   "words": [
+    {
+     "word": "Relaxa",
+     "start": 30.3,
+     "end": 30.9
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 31.21,
+   "end": 32.3,
+   "text": "Tá? Fica tranquilo",
+   "words": [
+    {
+     "word": "Tá?",
+     "start": 31.21,
+     "end": 31.37
+    },
+    {
+     "word": "Fica",
+     "start": 31.49,
+     "end": 31.71
+    },
+    {
+     "word": "tranquilo",
+     "start": 31.71,
+     "end": 32.3
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 43.44,
+   "end": 45.1,
+   "text": "só cabia nessa bicicleta",
+   "words": [
+    {
+     "word": "só",
+     "start": 43.44,
+     "end": 43.58
+    },
+    {
+     "word": "cabia",
+     "start": 43.58,
+     "end": 44.02
+    },
+    {
+     "word": "nessa",
+     "start": 44.02,
+     "end": 44.26
+    },
+    {
+     "word": "bicicleta",
+     "start": 44.26,
+     "end": 45.1
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 45.14,
+   "end": 46.2,
+   "text": "Agora que eu percebi",
+   "words": [
+    {
+     "word": "Agora",
+     "start": 45.14,
+     "end": 45.28
+    },
+    {
+     "word": "que",
+     "start": 45.28,
+     "end": 45.46
+    },
+    {
+     "word": "eu",
+     "start": 45.46,
+     "end": 45.56
+    },
+    {
+     "word": "percebi",
+     "start": 45.56,
+     "end": 46.2
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 46.24,
+   "end": 47.79,
+   "text": "Por isso que ela não sobe",
+   "words": [
+    {
+     "word": "Por",
+     "start": 46.24,
+     "end": 46.36
+    },
+    {
+     "word": "isso",
+     "start": 46.36,
+     "end": 46.44
+    },
+    {
+     "word": "que",
+     "start": 46.44,
+     "end": 46.54
+    },
+    {
+     "word": "ela",
+     "start": 46.54,
+     "end": 46.66
+    },
+    {
+     "word": "não",
+     "start": 46.66,
+     "end": 46.86
+    },
+    {
+     "word": "sobe",
+     "start": 46.86,
+     "end": 47.79
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 57.61,
+   "end": 58.3,
+   "text": "Ai, mano",
+   "words": [
+    {
+     "word": "Ai,",
+     "start": 57.61,
+     "end": 57.75
+    },
+    {
+     "word": "mano",
+     "start": 57.89,
+     "end": 58.3
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 64.31,
+   "end": 66.22,
+   "text": "Bora, Lu. Recuperar nosso dinheiro, mano",
+   "words": [
+    {
+     "word": "Bora,",
+     "start": 64.31,
+     "end": 64.63
+    },
+    {
+     "word": "Lu.",
+     "start": 64.75,
+     "end": 64.8
+    },
+    {
+     "word": "Recuperar",
+     "start": 64.83,
+     "end": 65.13
+    },
+    {
+     "word": "nosso",
+     "start": 65.13,
+     "end": 65.25
+    },
+    {
+     "word": "dinheiro,",
+     "start": 65.25,
+     "end": 65.61
+    },
+    {
+     "word": "mano",
+     "start": 65.77,
+     "end": 66.22
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 68.41,
+   "end": 69.13,
+   "text": "mil, chat",
+   "words": [
+    {
+     "word": "mil,",
+     "start": 68.41,
+     "end": 68.77
+    },
+    {
+     "word": "chat",
+     "start": 68.89,
+     "end": 69.13
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 69.17,
+   "end": 70.45,
+   "text": "Os caras prenderam o dinheiro só",
+   "words": [
+    {
+     "word": "Os",
+     "start": 69.17,
+     "end": 69.19
+    },
+    {
+     "word": "caras",
+     "start": 69.19,
+     "end": 69.35
+    },
+    {
+     "word": "prenderam",
+     "start": 69.35,
+     "end": 69.83
+    },
+    {
+     "word": "o",
+     "start": 69.83,
+     "end": 69.91
+    },
+    {
+     "word": "dinheiro",
+     "start": 69.91,
+     "end": 70.13
+    },
+    {
+     "word": "só",
+     "start": 70.13,
+     "end": 70.45
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 70.49,
+   "end": 71.36,
+   "text": "fica tranquilo",
+   "words": [
+    {
+     "word": "fica",
+     "start": 70.49,
+     "end": 70.59
+    },
+    {
+     "word": "tranquilo",
+     "start": 70.59,
+     "end": 71.36
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 72.04,
+   "end": 73.21,
+   "text": "A gente recupera",
+   "words": [
+    {
+     "word": "A",
+     "start": 72.04,
+     "end": 72.22
+    },
+    {
+     "word": "gente",
+     "start": 72.22,
+     "end": 72.34
+    },
+    {
+     "word": "recupera",
+     "start": 72.34,
+     "end": 73.21
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 77.01,
+   "end": 77.83,
+   "text": "atropelou o cachorro",
+   "words": [
+    {
+     "word": "atropelou",
+     "start": 77.01,
+     "end": 77.41
+    },
+    {
+     "word": "o",
+     "start": 77.41,
+     "end": 77.51
+    },
+    {
+     "word": "cachorro",
+     "start": 77.51,
+     "end": 77.83
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 77.87,
+   "end": 78.49,
+   "text": "e caiu, velho",
+   "words": [
+    {
+     "word": "e",
+     "start": 77.87,
+     "end": 77.97
+    },
+    {
+     "word": "caiu,",
+     "start": 77.97,
+     "end": 78.27
+    },
+    {
+     "word": "velho",
+     "start": 78.29,
+     "end": 78.49
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 78.53,
+   "end": 79.2,
+   "text": "Fala sério",
+   "words": [
+    {
+     "word": "Fala",
+     "start": 78.53,
+     "end": 78.61
+    },
+    {
+     "word": "sério",
+     "start": 78.61,
+     "end": 79.2
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}

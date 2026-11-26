@@ -1,0 +1,277 @@
+{
+ "segments": [
+  {
+   "start": 17.71,
+   "end": 18.48,
+   "text": "Pô",
+   "words": [
+    {
+     "word": "Pô",
+     "start": 17.71,
+     "end": 18.48
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 21.88,
+   "end": 22.77,
+   "text": "deu tudo errado",
+   "words": [
+    {
+     "word": "deu",
+     "start": 21.88,
+     "end": 22.0
+    },
+    {
+     "word": "tudo",
+     "start": 22.0,
+     "end": 22.18
+    },
+    {
+     "word": "errado",
+     "start": 22.18,
+     "end": 22.77
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 52.77,
+   "end": 54.06,
+   "text": "ganância é",
+   "words": [
+    {
+     "word": "ganância",
+     "start": 52.77,
+     "end": 53.29
+    },
+    {
+     "word": "é",
+     "start": 53.29,
+     "end": 54.06
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 55.85,
+   "end": 57.64,
+   "text": "a perdição do homem, mano",
+   "words": [
+    {
+     "word": "a",
+     "start": 55.85,
+     "end": 56.01
+    },
+    {
+     "word": "perdição",
+     "start": 56.01,
+     "end": 56.63
+    },
+    {
+     "word": "do",
+     "start": 56.63,
+     "end": 56.81
+    },
+    {
+     "word": "homem,",
+     "start": 56.81,
+     "end": 57.13
+    },
+    {
+     "word": "mano",
+     "start": 57.25,
+     "end": 57.64
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 62.18,
+   "end": 64.09,
+   "text": "A ganância é",
+   "words": [
+    {
+     "word": "A",
+     "start": 62.18,
+     "end": 62.66
+    },
+    {
+     "word": "ganância",
+     "start": 62.66,
+     "end": 63.36
+    },
+    {
+     "word": "é",
+     "start": 63.36,
+     "end": 64.09
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 68.27,
+   "end": 70.04,
+   "text": "a perdição do homem, mano",
+   "words": [
+    {
+     "word": "a",
+     "start": 68.27,
+     "end": 68.41
+    },
+    {
+     "word": "perdição",
+     "start": 68.41,
+     "end": 69.05
+    },
+    {
+     "word": "do",
+     "start": 69.05,
+     "end": 69.21
+    },
+    {
+     "word": "homem,",
+     "start": 69.21,
+     "end": 69.53
+    },
+    {
+     "word": "mano",
+     "start": 69.57,
+     "end": 70.04
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 73.54,
+   "end": 74.89,
+   "text": "ganância é",
+   "words": [
+    {
+     "word": "ganância",
+     "start": 73.54,
+     "end": 74.16
+    },
+    {
+     "word": "é",
+     "start": 74.16,
+     "end": 74.89
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 75.94,
+   "end": 76.99,
+   "text": "a perdição",
+   "words": [
+    {
+     "word": "a",
+     "start": 75.94,
+     "end": 76.12
+    },
+    {
+     "word": "perdição",
+     "start": 76.12,
+     "end": 76.99
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 78.15,
+   "end": 79.99,
+   "text": "Calma, tá apreendido o meu dinheiro",
+   "words": [
+    {
+     "word": "Calma,",
+     "start": 78.15,
+     "end": 78.55
+    },
+    {
+     "word": "tá",
+     "start": 78.75,
+     "end": 78.87
+    },
+    {
+     "word": "apreendido",
+     "start": 78.87,
+     "end": 79.39
+    },
+    {
+     "word": "o",
+     "start": 79.39,
+     "end": 79.47
+    },
+    {
+     "word": "meu",
+     "start": 79.47,
+     "end": 79.53
+    },
+    {
+     "word": "dinheiro",
+     "start": 79.53,
+     "end": 79.99
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 80.03,
+   "end": 81.23,
+   "text": "chat, dá pra eu pegar de volta",
+   "words": [
+    {
+     "word": "chat,",
+     "start": 80.03,
+     "end": 80.15
+    },
+    {
+     "word": "dá",
+     "start": 80.15,
+     "end": 80.25
+    },
+    {
+     "word": "pra",
+     "start": 80.25,
+     "end": 80.35
+    },
+    {
+     "word": "eu",
+     "start": 80.35,
+     "end": 80.43
+    },
+    {
+     "word": "pegar",
+     "start": 80.43,
+     "end": 80.63
+    },
+    {
+     "word": "de",
+     "start": 80.63,
+     "end": 80.77
+    },
+    {
+     "word": "volta",
+     "start": 80.77,
+     "end": 81.23
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 81.27,
+   "end": 81.87,
+   "text": "calma",
+   "words": [
+    {
+     "word": "calma",
+     "start": 81.27,
+     "end": 81.87
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
