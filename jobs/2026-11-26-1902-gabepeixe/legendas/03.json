@@ -290,24 +290,16 @@
   },
   {
    "start": 15.35,
-   "end": 15.65,
-   "text": "irmão?",
+   "end": 16.23,
+   "text": "Irmão, eu só dancei",
    "words": [
     {
-     "word": "irmão?",
+     "word": "Irmão,",
      "start": 15.35,
-     "end": 15.65
-    }
-   ],
-   "pos": 0.46
-  },
-  {
-   "start": 15.69,
-   "end": 16.63,
-   "text": "Eu só dancei pra ganhar",
-   "words": [
+     "end": 15.61
+    },
     {
-     "word": "Eu",
+     "word": "eu",
      "start": 15.69,
      "end": 15.75
     },
@@ -319,8 +311,16 @@
     {
      "word": "dancei",
      "start": 15.85,
-     "end": 16.27
-    },
+     "end": 16.23
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 16.27,
+   "end": 17.57,
+   "text": "pra ganhar o bagulho ali, mano",
+   "words": [
     {
      "word": "pra",
      "start": 16.27,
@@ -329,16 +329,8 @@
     {
      "word": "ganhar",
      "start": 16.43,
-     "end": 16.63
-    }
-   ],
-   "pos": 0.46
-  },
-  {
-   "start": 16.67,
-   "end": 17.57,
-   "text": "o bagulho ali, mano",
-   "words": [
+     "end": 16.67
+    },
     {
      "word": "o",
      "start": 16.67,
