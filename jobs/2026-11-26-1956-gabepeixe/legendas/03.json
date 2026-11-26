@@ -1,0 +1,580 @@
+{
+ "segments": [
+  {
+   "start": 2.63,
+   "end": 4.47,
+   "text": "Meu Deus, ele vendeu os bagulho",
+   "words": [
+    {
+     "word": "Meu",
+     "start": 2.63,
+     "end": 2.97
+    },
+    {
+     "word": "Deus,",
+     "start": 2.97,
+     "end": 3.15
+    },
+    {
+     "word": "ele",
+     "start": 3.27,
+     "end": 3.37
+    },
+    {
+     "word": "vendeu",
+     "start": 3.37,
+     "end": 3.77
+    },
+    {
+     "word": "os",
+     "start": 3.77,
+     "end": 3.95
+    },
+    {
+     "word": "bagulho",
+     "start": 3.95,
+     "end": 4.47
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 4.51,
+   "end": 5.29,
+   "text": "Eu era pra ter vendido",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 4.51,
+     "end": 4.63
+    },
+    {
+     "word": "era",
+     "start": 4.63,
+     "end": 4.73
+    },
+    {
+     "word": "pra",
+     "start": 4.73,
+     "end": 4.83
+    },
+    {
+     "word": "ter",
+     "start": 4.83,
+     "end": 4.97
+    },
+    {
+     "word": "vendido",
+     "start": 4.97,
+     "end": 5.29
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 5.33,
+   "end": 6.8,
+   "text": "antes de pular, viado",
+   "words": [
+    {
+     "word": "antes",
+     "start": 5.33,
+     "end": 5.57
+    },
+    {
+     "word": "de",
+     "start": 5.57,
+     "end": 5.77
+    },
+    {
+     "word": "pular,",
+     "start": 5.77,
+     "end": 6.17
+    },
+    {
+     "word": "viado",
+     "start": 6.31,
+     "end": 6.8
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 9.88,
+   "end": 10.96,
+   "text": "Ele vendeu os bagulho",
+   "words": [
+    {
+     "word": "Ele",
+     "start": 9.88,
+     "end": 9.96
+    },
+    {
+     "word": "vendeu",
+     "start": 9.96,
+     "end": 10.38
+    },
+    {
+     "word": "os",
+     "start": 10.38,
+     "end": 10.54
+    },
+    {
+     "word": "bagulho",
+     "start": 10.54,
+     "end": 10.96
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 11.0,
+   "end": 12.53,
+   "text": "Eu não consigo mais, mano",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 11.0,
+     "end": 11.06
+    },
+    {
+     "word": "não",
+     "start": 11.06,
+     "end": 11.14
+    },
+    {
+     "word": "consigo",
+     "start": 11.14,
+     "end": 11.6
+    },
+    {
+     "word": "mais,",
+     "start": 11.6,
+     "end": 12.0
+    },
+    {
+     "word": "mano",
+     "start": 12.14,
+     "end": 12.53
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 23.17,
+   "end": 24.52,
+   "text": "Não consigo ver o chão",
+   "words": [
+    {
+     "word": "Não",
+     "start": 23.17,
+     "end": 23.35
+    },
+    {
+     "word": "consigo",
+     "start": 23.35,
+     "end": 23.65
+    },
+    {
+     "word": "ver",
+     "start": 23.65,
+     "end": 23.85
+    },
+    {
+     "word": "o",
+     "start": 23.85,
+     "end": 23.97
+    },
+    {
+     "word": "chão",
+     "start": 23.97,
+     "end": 24.52
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 59.68,
+   "end": 60.88,
+   "text": "Meu Deus, eu caí",
+   "words": [
+    {
+     "word": "Meu",
+     "start": 59.68,
+     "end": 60.06
+    },
+    {
+     "word": "Deus,",
+     "start": 60.06,
+     "end": 60.44
+    },
+    {
+     "word": "eu",
+     "start": 60.64,
+     "end": 60.69
+    },
+    {
+     "word": "caí",
+     "start": 60.69,
+     "end": 60.88
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 60.92,
+   "end": 62.3,
+   "text": "no maior golpe de todos",
+   "words": [
+    {
+     "word": "no",
+     "start": 60.92,
+     "end": 61.04
+    },
+    {
+     "word": "maior",
+     "start": 61.04,
+     "end": 61.3
+    },
+    {
+     "word": "golpe",
+     "start": 61.3,
+     "end": 61.72
+    },
+    {
+     "word": "de",
+     "start": 61.72,
+     "end": 61.96
+    },
+    {
+     "word": "todos",
+     "start": 61.96,
+     "end": 62.3
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 62.34,
+   "end": 64.21,
+   "text": "Eu era pra ter vendido, viado",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 62.34,
+     "end": 62.42
+    },
+    {
+     "word": "era",
+     "start": 62.42,
+     "end": 62.56
+    },
+    {
+     "word": "pra",
+     "start": 62.56,
+     "end": 62.66
+    },
+    {
+     "word": "ter",
+     "start": 62.66,
+     "end": 62.84
+    },
+    {
+     "word": "vendido,",
+     "start": 62.84,
+     "end": 63.46
+    },
+    {
+     "word": "viado",
+     "start": 63.62,
+     "end": 64.21
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 64.5,
+   "end": 66.41,
+   "text": "Ia dar 25 mil, mano",
+   "words": [
+    {
+     "word": "Ia",
+     "start": 64.5,
+     "end": 64.66
+    },
+    {
+     "word": "dar",
+     "start": 64.66,
+     "end": 64.82
+    },
+    {
+     "word": "25",
+     "start": 64.82,
+     "end": 65.38
+    },
+    {
+     "word": "mil,",
+     "start": 65.38,
+     "end": 65.78
+    },
+    {
+     "word": "mano",
+     "start": 65.96,
+     "end": 66.41
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 67.13,
+   "end": 68.59,
+   "text": "Porra, mas foi muito bem contado",
+   "words": [
+    {
+     "word": "Porra,",
+     "start": 67.13,
+     "end": 67.33
+    },
+    {
+     "word": "mas",
+     "start": 67.41,
+     "end": 67.51
+    },
+    {
+     "word": "foi",
+     "start": 67.51,
+     "end": 67.69
+    },
+    {
+     "word": "muito",
+     "start": 67.69,
+     "end": 67.93
+    },
+    {
+     "word": "bem",
+     "start": 67.93,
+     "end": 68.11
+    },
+    {
+     "word": "contado",
+     "start": 68.11,
+     "end": 68.59
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 68.63,
+   "end": 69.87,
+   "text": "Valeu a crítica social",
+   "words": [
+    {
+     "word": "Valeu",
+     "start": 68.63,
+     "end": 69.01
+    },
+    {
+     "word": "a",
+     "start": 69.01,
+     "end": 69.15
+    },
+    {
+     "word": "crítica",
+     "start": 69.15,
+     "end": 69.43
+    },
+    {
+     "word": "social",
+     "start": 69.43,
+     "end": 69.87
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 69.91,
+   "end": 71.15,
+   "text": "e o golpe que eu caí, mano",
+   "words": [
+    {
+     "word": "e",
+     "start": 69.91,
+     "end": 70.07
+    },
+    {
+     "word": "o",
+     "start": 70.07,
+     "end": 70.17
+    },
+    {
+     "word": "golpe",
+     "start": 70.17,
+     "end": 70.41
+    },
+    {
+     "word": "que",
+     "start": 70.41,
+     "end": 70.55
+    },
+    {
+     "word": "eu",
+     "start": 70.55,
+     "end": 70.67
+    },
+    {
+     "word": "caí,",
+     "start": 70.67,
+     "end": 70.95
+    },
+    {
+     "word": "mano",
+     "start": 71.03,
+     "end": 71.15
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 71.19,
+   "end": 73.23,
+   "text": "Basicamente ele não tá ficando velho",
+   "words": [
+    {
+     "word": "Basicamente",
+     "start": 71.19,
+     "end": 72.05
+    },
+    {
+     "word": "ele",
+     "start": 72.05,
+     "end": 72.31
+    },
+    {
+     "word": "não",
+     "start": 72.31,
+     "end": 72.45
+    },
+    {
+     "word": "tá",
+     "start": 72.45,
+     "end": 72.59
+    },
+    {
+     "word": "ficando",
+     "start": 72.59,
+     "end": 72.91
+    },
+    {
+     "word": "velho",
+     "start": 72.91,
+     "end": 73.23
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 73.27,
+   "end": 74.43,
+   "text": "Ele tentou meter o louco",
+   "words": [
+    {
+     "word": "Ele",
+     "start": 73.27,
+     "end": 73.37
+    },
+    {
+     "word": "tentou",
+     "start": 73.37,
+     "end": 73.67
+    },
+    {
+     "word": "meter",
+     "start": 73.67,
+     "end": 73.93
+    },
+    {
+     "word": "o",
+     "start": 73.93,
+     "end": 74.11
+    },
+    {
+     "word": "louco",
+     "start": 74.11,
+     "end": 74.43
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 74.47,
+   "end": 76.61,
+   "text": "Cara, que roteirinho maneiro, mano",
+   "words": [
+    {
+     "word": "Cara,",
+     "start": 74.47,
+     "end": 74.67
+    },
+    {
+     "word": "que",
+     "start": 74.77,
+     "end": 74.93
+    },
+    {
+     "word": "roteirinho",
+     "start": 74.93,
+     "end": 75.63
+    },
+    {
+     "word": "maneiro,",
+     "start": 75.63,
+     "end": 76.49
+    },
+    {
+     "word": "mano",
+     "start": 76.51,
+     "end": 76.61
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 76.65,
+   "end": 79.58,
+   "text": "Eu caí no golpe total, viado",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 76.65,
+     "end": 77.17
+    },
+    {
+     "word": "caí",
+     "start": 77.35,
+     "end": 77.65
+    },
+    {
+     "word": "no",
+     "start": 77.65,
+     "end": 77.75
+    },
+    {
+     "word": "golpe",
+     "start": 77.75,
+     "end": 78.13
+    },
+    {
+     "word": "total,",
+     "start": 78.13,
+     "end": 78.65
+    },
+    {
+     "word": "viado",
+     "start": 78.95,
+     "end": 79.58
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
