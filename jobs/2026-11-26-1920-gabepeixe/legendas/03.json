@@ -1,0 +1,872 @@
+{
+ "segments": [
+  {
+   "start": 2.12,
+   "end": 3.59,
+   "text": "Tironi e o Yasmani",
+   "words": [
+    {
+     "word": "Tironi",
+     "start": 2.12,
+     "end": 2.48
+    },
+    {
+     "word": "e",
+     "start": 2.48,
+     "end": 2.64
+    },
+    {
+     "word": "o",
+     "start": 2.64,
+     "end": 2.74
+    },
+    {
+     "word": "Yasmani",
+     "start": 2.74,
+     "end": 3.59
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 4.99,
+   "end": 6.52,
+   "text": "Não é possível, viado",
+   "words": [
+    {
+     "word": "Não",
+     "start": 4.99,
+     "end": 5.27
+    },
+    {
+     "word": "é",
+     "start": 5.27,
+     "end": 5.35
+    },
+    {
+     "word": "possível,",
+     "start": 5.35,
+     "end": 5.85
+    },
+    {
+     "word": "viado",
+     "start": 5.89,
+     "end": 6.52
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.35,
+   "end": 8.47,
+   "text": "Não, não, não",
+   "words": [
+    {
+     "word": "Não,",
+     "start": 7.35,
+     "end": 7.77
+    },
+    {
+     "word": "não,",
+     "start": 7.95,
+     "end": 8.13
+    },
+    {
+     "word": "não",
+     "start": 8.21,
+     "end": 8.47
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 8.51,
+   "end": 9.78,
+   "text": "acredito, mano",
+   "words": [
+    {
+     "word": "acredito,",
+     "start": 8.51,
+     "end": 9.17
+    },
+    {
+     "word": "mano",
+     "start": 9.31,
+     "end": 9.78
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 12.68,
+   "end": 13.81,
+   "text": "Tá brincando",
+   "words": [
+    {
+     "word": "Tá",
+     "start": 12.68,
+     "end": 12.8
+    },
+    {
+     "word": "brincando",
+     "start": 12.8,
+     "end": 13.81
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 15.93,
+   "end": 17.03,
+   "text": "Não, tá brincando",
+   "words": [
+    {
+     "word": "Não,",
+     "start": 15.93,
+     "end": 16.07
+    },
+    {
+     "word": "tá",
+     "start": 16.25,
+     "end": 16.37
+    },
+    {
+     "word": "brincando",
+     "start": 16.37,
+     "end": 17.03
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 17.07,
+   "end": 18.0,
+   "text": "tá brincando",
+   "words": [
+    {
+     "word": "tá",
+     "start": 17.07,
+     "end": 17.19
+    },
+    {
+     "word": "brincando",
+     "start": 17.19,
+     "end": 18.0
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 19.4,
+   "end": 20.27,
+   "text": "Tá brincando",
+   "words": [
+    {
+     "word": "Tá",
+     "start": 19.4,
+     "end": 19.58
+    },
+    {
+     "word": "brincando",
+     "start": 19.58,
+     "end": 20.27
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.14,
+   "end": 28.7,
+   "text": "Os dois salvaram",
+   "words": [
+    {
+     "word": "Os",
+     "start": 28.14,
+     "end": 28.28
+    },
+    {
+     "word": "dois",
+     "start": 28.28,
+     "end": 28.46
+    },
+    {
+     "word": "salvaram",
+     "start": 28.46,
+     "end": 28.7
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.74,
+   "end": 29.51,
+   "text": "no mesmo lugar",
+   "words": [
+    {
+     "word": "no",
+     "start": 28.74,
+     "end": 28.86
+    },
+    {
+     "word": "mesmo",
+     "start": 28.86,
+     "end": 29.02
+    },
+    {
+     "word": "lugar",
+     "start": 29.02,
+     "end": 29.51
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 29.76,
+   "end": 30.46,
+   "text": "Foda-se, não vou fazer",
+   "words": [
+    {
+     "word": "Foda-se,",
+     "start": 29.76,
+     "end": 30.1
+    },
+    {
+     "word": "não",
+     "start": 30.1,
+     "end": 30.24
+    },
+    {
+     "word": "vou",
+     "start": 30.24,
+     "end": 30.34
+    },
+    {
+     "word": "fazer",
+     "start": 30.34,
+     "end": 30.46
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 30.5,
+   "end": 31.58,
+   "text": "essa missão agora, não",
+   "words": [
+    {
+     "word": "essa",
+     "start": 30.5,
+     "end": 30.62
+    },
+    {
+     "word": "missão",
+     "start": 30.62,
+     "end": 30.88
+    },
+    {
+     "word": "agora,",
+     "start": 30.88,
+     "end": 31.14
+    },
+    {
+     "word": "não",
+     "start": 31.28,
+     "end": 31.58
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 31.8,
+   "end": 32.4,
+   "text": "Mais tarde a gente",
+   "words": [
+    {
+     "word": "Mais",
+     "start": 31.8,
+     "end": 32.02
+    },
+    {
+     "word": "tarde",
+     "start": 32.02,
+     "end": 32.22
+    },
+    {
+     "word": "a",
+     "start": 32.22,
+     "end": 32.32
+    },
+    {
+     "word": "gente",
+     "start": 32.32,
+     "end": 32.4
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 32.44,
+   "end": 33.51,
+   "text": "curte ela de novo",
+   "words": [
+    {
+     "word": "curte",
+     "start": 32.44,
+     "end": 32.76
+    },
+    {
+     "word": "ela",
+     "start": 32.76,
+     "end": 32.88
+    },
+    {
+     "word": "de",
+     "start": 32.88,
+     "end": 33.02
+    },
+    {
+     "word": "novo",
+     "start": 33.02,
+     "end": 33.51
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 34.16,
+   "end": 36.13,
+   "text": "Vai se foder, porra",
+   "words": [
+    {
+     "word": "Vai",
+     "start": 34.16,
+     "end": 34.42
+    },
+    {
+     "word": "se",
+     "start": 34.42,
+     "end": 34.68
+    },
+    {
+     "word": "foder,",
+     "start": 34.68,
+     "end": 35.2
+    },
+    {
+     "word": "porra",
+     "start": 35.52,
+     "end": 36.13
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 36.85,
+   "end": 37.69,
+   "text": "Que isso, a gente devia",
+   "words": [
+    {
+     "word": "Que",
+     "start": 36.85,
+     "end": 37.01
+    },
+    {
+     "word": "isso,",
+     "start": 37.01,
+     "end": 37.33
+    },
+    {
+     "word": "a",
+     "start": 37.41,
+     "end": 37.49
+    },
+    {
+     "word": "gente",
+     "start": 37.49,
+     "end": 37.55
+    },
+    {
+     "word": "devia",
+     "start": 37.55,
+     "end": 37.69
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 37.73,
+   "end": 38.63,
+   "text": "estar no fim da missão",
+   "words": [
+    {
+     "word": "estar",
+     "start": 37.73,
+     "end": 37.83
+    },
+    {
+     "word": "no",
+     "start": 37.83,
+     "end": 37.97
+    },
+    {
+     "word": "fim",
+     "start": 37.97,
+     "end": 38.13
+    },
+    {
+     "word": "da",
+     "start": 38.13,
+     "end": 38.25
+    },
+    {
+     "word": "missão",
+     "start": 38.25,
+     "end": 38.63
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 38.67,
+   "end": 40.12,
+   "text": "O bagulho travou, viado",
+   "words": [
+    {
+     "word": "O",
+     "start": 38.67,
+     "end": 38.71
+    },
+    {
+     "word": "bagulho",
+     "start": 38.71,
+     "end": 38.89
+    },
+    {
+     "word": "travou,",
+     "start": 38.89,
+     "end": 39.39
+    },
+    {
+     "word": "viado",
+     "start": 39.49,
+     "end": 40.12
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 47.37,
+   "end": 49.66,
+   "text": "Que porra foi essa, mané?",
+   "words": [
+    {
+     "word": "Que",
+     "start": 47.37,
+     "end": 47.53
+    },
+    {
+     "word": "porra",
+     "start": 47.53,
+     "end": 48.13
+    },
+    {
+     "word": "foi",
+     "start": 48.13,
+     "end": 48.45
+    },
+    {
+     "word": "essa,",
+     "start": 48.45,
+     "end": 48.95
+    },
+    {
+     "word": "mané?",
+     "start": 49.09,
+     "end": 49.66
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 50.54,
+   "end": 51.04,
+   "text": "Não tem problema não",
+   "words": [
+    {
+     "word": "Não",
+     "start": 50.54,
+     "end": 50.7
+    },
+    {
+     "word": "tem",
+     "start": 50.7,
+     "end": 50.75
+    },
+    {
+     "word": "problema",
+     "start": 50.75,
+     "end": 50.92
+    },
+    {
+     "word": "não",
+     "start": 50.92,
+     "end": 51.04
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 51.08,
+   "end": 52.37,
+   "text": "a gente faz ela daqui a pouquinho",
+   "words": [
+    {
+     "word": "a",
+     "start": 51.08,
+     "end": 51.18
+    },
+    {
+     "word": "gente",
+     "start": 51.18,
+     "end": 51.23
+    },
+    {
+     "word": "faz",
+     "start": 51.23,
+     "end": 51.38
+    },
+    {
+     "word": "ela",
+     "start": 51.38,
+     "end": 51.52
+    },
+    {
+     "word": "daqui",
+     "start": 51.52,
+     "end": 51.72
+    },
+    {
+     "word": "a",
+     "start": 51.72,
+     "end": 51.8
+    },
+    {
+     "word": "pouquinho",
+     "start": 51.8,
+     "end": 52.37
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 52.74,
+   "end": 54.14,
+   "text": "Deixa o Xbox ficar de castigo",
+   "words": [
+    {
+     "word": "Deixa",
+     "start": 52.74,
+     "end": 52.9
+    },
+    {
+     "word": "o",
+     "start": 52.9,
+     "end": 53.0
+    },
+    {
+     "word": "Xbox",
+     "start": 53.0,
+     "end": 53.26
+    },
+    {
+     "word": "ficar",
+     "start": 53.26,
+     "end": 53.6
+    },
+    {
+     "word": "de",
+     "start": 53.6,
+     "end": 53.74
+    },
+    {
+     "word": "castigo",
+     "start": 53.74,
+     "end": 54.14
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 54.18,
+   "end": 55.01,
+   "text": "vamos pra próxima",
+   "words": [
+    {
+     "word": "vamos",
+     "start": 54.18,
+     "end": 54.28
+    },
+    {
+     "word": "pra",
+     "start": 54.28,
+     "end": 54.42
+    },
+    {
+     "word": "próxima",
+     "start": 54.42,
+     "end": 55.01
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 56.59,
+   "end": 58.45,
+   "text": "Caralho, moleque, o pior",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 56.59,
+     "end": 57.11
+    },
+    {
+     "word": "moleque,",
+     "start": 57.11,
+     "end": 57.81
+    },
+    {
+     "word": "o",
+     "start": 57.99,
+     "end": 58.11
+    },
+    {
+     "word": "pior",
+     "start": 58.11,
+     "end": 58.45
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 58.49,
+   "end": 59.77,
+   "text": "é que é uma missão longa",
+   "words": [
+    {
+     "word": "é",
+     "start": 58.49,
+     "end": 58.71
+    },
+    {
+     "word": "que",
+     "start": 58.71,
+     "end": 58.87
+    },
+    {
+     "word": "é",
+     "start": 58.87,
+     "end": 58.95
+    },
+    {
+     "word": "uma",
+     "start": 58.95,
+     "end": 59.05
+    },
+    {
+     "word": "missão",
+     "start": 59.05,
+     "end": 59.39
+    },
+    {
+     "word": "longa",
+     "start": 59.39,
+     "end": 59.77
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 59.81,
+   "end": 61.37,
+   "text": "Você escolhe a galera da festa",
+   "words": [
+    {
+     "word": "Você",
+     "start": 59.81,
+     "end": 60.01
+    },
+    {
+     "word": "escolhe",
+     "start": 60.01,
+     "end": 60.37
+    },
+    {
+     "word": "a",
+     "start": 60.37,
+     "end": 60.45
+    },
+    {
+     "word": "galera",
+     "start": 60.45,
+     "end": 60.63
+    },
+    {
+     "word": "da",
+     "start": 60.63,
+     "end": 60.77
+    },
+    {
+     "word": "festa",
+     "start": 60.77,
+     "end": 61.37
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 61.41,
+   "end": 63.89,
+   "text": "Você cai na porrada com os caras",
+   "words": [
+    {
+     "word": "Você",
+     "start": 61.41,
+     "end": 61.91
+    },
+    {
+     "word": "cai",
+     "start": 61.91,
+     "end": 62.09
+    },
+    {
+     "word": "na",
+     "start": 62.09,
+     "end": 62.19
+    },
+    {
+     "word": "porrada",
+     "start": 62.19,
+     "end": 62.57
+    },
+    {
+     "word": "com",
+     "start": 62.57,
+     "end": 62.69
+    },
+    {
+     "word": "os",
+     "start": 62.69,
+     "end": 62.83
+    },
+    {
+     "word": "caras",
+     "start": 62.83,
+     "end": 63.89
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 63.93,
+   "end": 64.89,
+   "text": "Porra, mano",
+   "words": [
+    {
+     "word": "Porra,",
+     "start": 63.93,
+     "end": 64.51
+    },
+    {
+     "word": "mano",
+     "start": 64.61,
+     "end": 64.89
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 64.93,
+   "end": 66.88,
+   "text": "Não podia pelo menos",
+   "words": [
+    {
+     "word": "Não",
+     "start": 64.93,
+     "end": 65.55
+    },
+    {
+     "word": "podia",
+     "start": 66.24,
+     "end": 66.56
+    },
+    {
+     "word": "pelo",
+     "start": 66.56,
+     "end": 66.76
+    },
+    {
+     "word": "menos",
+     "start": 66.76,
+     "end": 66.88
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 66.92,
+   "end": 67.76,
+   "text": "dar um savezinho",
+   "words": [
+    {
+     "word": "dar",
+     "start": 66.92,
+     "end": 67.06
+    },
+    {
+     "word": "um",
+     "start": 67.06,
+     "end": 67.26
+    },
+    {
+     "word": "savezinho",
+     "start": 67.26,
+     "end": 67.76
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 67.8,
+   "end": 69.09,
+   "text": "no meio da missão, mano?",
+   "words": [
+    {
+     "word": "no",
+     "start": 67.8,
+     "end": 67.96
+    },
+    {
+     "word": "meio",
+     "start": 67.96,
+     "end": 68.06
+    },
+    {
+     "word": "da",
+     "start": 68.06,
+     "end": 68.14
+    },
+    {
+     "word": "missão,",
+     "start": 68.14,
+     "end": 68.52
+    },
+    {
+     "word": "mano?",
+     "start": 68.62,
+     "end": 69.09
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
