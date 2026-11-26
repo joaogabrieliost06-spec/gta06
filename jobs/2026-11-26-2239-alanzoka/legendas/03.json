@@ -241,8 +241,8 @@
   },
   {
    "start": 24.97,
-   "end": 25.91,
-   "text": "a gente nunca vai conseguir",
+   "end": 25.61,
+   "text": "a gente nunca vai",
    "words": [
     {
      "word": "a",
@@ -262,26 +262,34 @@
     {
      "word": "vai",
      "start": 25.51,
-     "end": 25.65
-    },
-    {
-     "word": "conseguir",
-     "start": 25.65,
-     "end": 25.91
+     "end": 25.61
     }
    ],
    "pos": 0.76
   },
   {
-   "start": 25.95,
-   "end": 27.44,
-   "text": "zerar esse jogo, literalmente",
+   "start": 25.65,
+   "end": 26.21,
+   "text": "conseguir zerar",
    "words": [
+    {
+     "word": "conseguir",
+     "start": 25.65,
+     "end": 25.95
+    },
     {
      "word": "zerar",
      "start": 25.95,
-     "end": 26.25
-    },
+     "end": 26.21
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 26.25,
+   "end": 27.44,
+   "text": "esse jogo, literalmente",
+   "words": [
     {
      "word": "esse",
      "start": 26.25,
