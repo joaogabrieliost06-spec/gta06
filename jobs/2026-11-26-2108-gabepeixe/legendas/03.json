@@ -1,0 +1,612 @@
+{
+ "segments": [
+  {
+   "start": 0.91,
+   "end": 1.89,
+   "text": "Mano, posso fazer uma pergunta",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 0.91,
+     "end": 1.19
+    },
+    {
+     "word": "posso",
+     "start": 1.21,
+     "end": 1.37
+    },
+    {
+     "word": "fazer",
+     "start": 1.37,
+     "end": 1.51
+    },
+    {
+     "word": "uma",
+     "start": 1.51,
+     "end": 1.61
+    },
+    {
+     "word": "pergunta",
+     "start": 1.61,
+     "end": 1.89
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 1.93,
+   "end": 3.36,
+   "text": "pra vocês aqui, cá entre nós?",
+   "words": [
+    {
+     "word": "pra",
+     "start": 1.93,
+     "end": 2.05
+    },
+    {
+     "word": "vocês",
+     "start": 2.05,
+     "end": 2.31
+    },
+    {
+     "word": "aqui,",
+     "start": 2.31,
+     "end": 2.49
+    },
+    {
+     "word": "cá",
+     "start": 2.51,
+     "end": 2.65
+    },
+    {
+     "word": "entre",
+     "start": 2.65,
+     "end": 2.81
+    },
+    {
+     "word": "nós?",
+     "start": 2.81,
+     "end": 3.36
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 4.23,
+   "end": 5.13,
+   "text": "Suponhamos que vocês",
+   "words": [
+    {
+     "word": "Suponhamos",
+     "start": 4.23,
+     "end": 4.85
+    },
+    {
+     "word": "que",
+     "start": 4.85,
+     "end": 4.99
+    },
+    {
+     "word": "vocês",
+     "start": 4.99,
+     "end": 5.13
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 5.17,
+   "end": 6.3,
+   "text": "vão no casamento",
+   "words": [
+    {
+     "word": "vão",
+     "start": 5.17,
+     "end": 5.37
+    },
+    {
+     "word": "no",
+     "start": 5.37,
+     "end": 5.47
+    },
+    {
+     "word": "casamento",
+     "start": 5.47,
+     "end": 6.3
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 8.53,
+   "end": 10.31,
+   "text": "Vai ter comida, bebida, pá",
+   "words": [
+    {
+     "word": "Vai",
+     "start": 8.53,
+     "end": 8.59
+    },
+    {
+     "word": "ter",
+     "start": 8.59,
+     "end": 8.71
+    },
+    {
+     "word": "comida,",
+     "start": 8.71,
+     "end": 9.15
+    },
+    {
+     "word": "bebida,",
+     "start": 9.25,
+     "end": 9.77
+    },
+    {
+     "word": "pá",
+     "start": 9.93,
+     "end": 10.31
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.35,
+   "end": 11.0,
+   "text": "tão mal",
+   "words": [
+    {
+     "word": "tão",
+     "start": 10.35,
+     "end": 10.55
+    },
+    {
+     "word": "mal",
+     "start": 10.55,
+     "end": 11.0
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 11.4,
+   "end": 12.73,
+   "text": "que tem narguilé no casamento?",
+   "words": [
+    {
+     "word": "que",
+     "start": 11.4,
+     "end": 11.52
+    },
+    {
+     "word": "tem",
+     "start": 11.52,
+     "end": 11.64
+    },
+    {
+     "word": "narguilé",
+     "start": 11.64,
+     "end": 12.0
+    },
+    {
+     "word": "no",
+     "start": 12.0,
+     "end": 12.1
+    },
+    {
+     "word": "casamento?",
+     "start": 12.1,
+     "end": 12.73
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.52,
+   "end": 29.87,
+   "text": "Cheguei aqui pra",
+   "words": [
+    {
+     "word": "Cheguei",
+     "start": 28.52,
+     "end": 28.88
+    },
+    {
+     "word": "aqui",
+     "start": 28.88,
+     "end": 29.18
+    },
+    {
+     "word": "pra",
+     "start": 29.18,
+     "end": 29.87
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 38.38,
+   "end": 39.66,
+   "text": "ensinar pra vocês como é que se faz",
+   "words": [
+    {
+     "word": "ensinar",
+     "start": 38.38,
+     "end": 38.5
+    },
+    {
+     "word": "pra",
+     "start": 38.5,
+     "end": 38.62
+    },
+    {
+     "word": "vocês",
+     "start": 38.62,
+     "end": 38.88
+    },
+    {
+     "word": "como",
+     "start": 38.88,
+     "end": 39.1
+    },
+    {
+     "word": "é",
+     "start": 39.1,
+     "end": 39.16
+    },
+    {
+     "word": "que",
+     "start": 39.16,
+     "end": 39.21
+    },
+    {
+     "word": "se",
+     "start": 39.21,
+     "end": 39.28
+    },
+    {
+     "word": "faz",
+     "start": 39.28,
+     "end": 39.66
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 39.7,
+   "end": 43.2,
+   "text": "Não, mas tipo assim",
+   "words": [
+    {
+     "word": "Não,",
+     "start": 39.7,
+     "end": 40.1
+    },
+    {
+     "word": "mas",
+     "start": 42.68,
+     "end": 42.73
+    },
+    {
+     "word": "tipo",
+     "start": 42.73,
+     "end": 42.86
+    },
+    {
+     "word": "assim",
+     "start": 42.86,
+     "end": 43.2
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 43.24,
+   "end": 43.86,
+   "text": "depois de todo",
+   "words": [
+    {
+     "word": "depois",
+     "start": 43.24,
+     "end": 43.46
+    },
+    {
+     "word": "de",
+     "start": 43.46,
+     "end": 43.64
+    },
+    {
+     "word": "todo",
+     "start": 43.64,
+     "end": 43.86
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 43.9,
+   "end": 45.02,
+   "text": "acabou a cerimônia",
+   "words": [
+    {
+     "word": "acabou",
+     "start": 43.9,
+     "end": 44.2
+    },
+    {
+     "word": "a",
+     "start": 44.2,
+     "end": 44.38
+    },
+    {
+     "word": "cerimônia",
+     "start": 44.38,
+     "end": 45.02
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 45.06,
+   "end": 46.33,
+   "text": "todo mundo começou a beber",
+   "words": [
+    {
+     "word": "todo",
+     "start": 45.06,
+     "end": 45.16
+    },
+    {
+     "word": "mundo",
+     "start": 45.16,
+     "end": 45.34
+    },
+    {
+     "word": "começou",
+     "start": 45.34,
+     "end": 45.68
+    },
+    {
+     "word": "a",
+     "start": 45.68,
+     "end": 45.8
+    },
+    {
+     "word": "beber",
+     "start": 45.8,
+     "end": 46.33
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 60.35,
+   "end": 62.0,
+   "text": "Casamento é bagulho sagrado?",
+   "words": [
+    {
+     "word": "Casamento",
+     "start": 60.35,
+     "end": 60.85
+    },
+    {
+     "word": "é",
+     "start": 60.85,
+     "end": 60.95
+    },
+    {
+     "word": "bagulho",
+     "start": 60.95,
+     "end": 61.23
+    },
+    {
+     "word": "sagrado?",
+     "start": 61.23,
+     "end": 62.0
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 62.82,
+   "end": 63.66,
+   "text": "Por que que o narguilé",
+   "words": [
+    {
+     "word": "Por",
+     "start": 62.82,
+     "end": 63.1
+    },
+    {
+     "word": "que",
+     "start": 63.1,
+     "end": 63.2
+    },
+    {
+     "word": "que",
+     "start": 63.2,
+     "end": 63.28
+    },
+    {
+     "word": "o",
+     "start": 63.28,
+     "end": 63.36
+    },
+    {
+     "word": "narguilé",
+     "start": 63.36,
+     "end": 63.66
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 63.7,
+   "end": 65.2,
+   "text": "tem a ver com não ser sagrado",
+   "words": [
+    {
+     "word": "tem",
+     "start": 63.7,
+     "end": 63.82
+    },
+    {
+     "word": "a",
+     "start": 63.82,
+     "end": 63.88
+    },
+    {
+     "word": "ver",
+     "start": 63.88,
+     "end": 63.96
+    },
+    {
+     "word": "com",
+     "start": 63.96,
+     "end": 64.14
+    },
+    {
+     "word": "não",
+     "start": 64.14,
+     "end": 64.62
+    },
+    {
+     "word": "ser",
+     "start": 64.62,
+     "end": 64.82
+    },
+    {
+     "word": "sagrado",
+     "start": 64.82,
+     "end": 65.2
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 65.24,
+   "end": 66.61,
+   "text": "ou ser sagrado?",
+   "words": [
+    {
+     "word": "ou",
+     "start": 65.24,
+     "end": 65.38
+    },
+    {
+     "word": "ser",
+     "start": 65.38,
+     "end": 65.92
+    },
+    {
+     "word": "sagrado?",
+     "start": 65.92,
+     "end": 66.61
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 67.71,
+   "end": 68.85,
+   "text": "Se for parar pra analisar",
+   "words": [
+    {
+     "word": "Se",
+     "start": 67.71,
+     "end": 67.79
+    },
+    {
+     "word": "for",
+     "start": 67.79,
+     "end": 67.87
+    },
+    {
+     "word": "parar",
+     "start": 67.87,
+     "end": 68.13
+    },
+    {
+     "word": "pra",
+     "start": 68.13,
+     "end": 68.23
+    },
+    {
+     "word": "analisar",
+     "start": 68.23,
+     "end": 68.85
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 68.89,
+   "end": 70.71,
+   "text": "teu bagulho não faz sentido, pô",
+   "words": [
+    {
+     "word": "teu",
+     "start": 68.89,
+     "end": 69.15
+    },
+    {
+     "word": "bagulho",
+     "start": 69.15,
+     "end": 69.91
+    },
+    {
+     "word": "não",
+     "start": 69.91,
+     "end": 69.99
+    },
+    {
+     "word": "faz",
+     "start": 69.99,
+     "end": 70.11
+    },
+    {
+     "word": "sentido,",
+     "start": 70.11,
+     "end": 70.45
+    },
+    {
+     "word": "pô",
+     "start": 70.53,
+     "end": 70.71
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 70.75,
+   "end": 71.7,
+   "text": "Bebida",
+   "words": [
+    {
+     "word": "Bebida",
+     "start": 70.75,
+     "end": 71.7
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 72.88,
+   "end": 73.48,
+   "text": "E aí?",
+   "words": [
+    {
+     "word": "E",
+     "start": 72.88,
+     "end": 73.0
+    },
+    {
+     "word": "aí?",
+     "start": 73.0,
+     "end": 73.48
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
