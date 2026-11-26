@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Jason, Yajmani, joalheria, cofre, anel, missão, bugou, Staff Only, mano, bicho, viado, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:11:30", "fim": "0:13:00", "titulo": "CADÊ O COFRE"},
+  {"id": "02", "inicio": "0:13:28", "fim": "0:14:58", "titulo": "NÃO TEM COFRE, VIADO"},
+  {"id": "03", "inicio": "0:17:20", "fim": "0:18:40", "titulo": "O COFRE TAVA ESCONDIDO"}
+ ]
+}
