@@ -1,0 +1,564 @@
+{
+ "segments": [
+  {
+   "start": 2.83,
+   "end": 4.54,
+   "text": "Roube um caminhão, é",
+   "words": [
+    {
+     "word": "Roube",
+     "start": 2.83,
+     "end": 3.21
+    },
+    {
+     "word": "um",
+     "start": 3.21,
+     "end": 3.31
+    },
+    {
+     "word": "caminhão,",
+     "start": 3.31,
+     "end": 3.73
+    },
+    {
+     "word": "é",
+     "start": 3.73,
+     "end": 4.54
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 8.21,
+   "end": 8.97,
+   "text": "O seguinte, moça",
+   "words": [
+    {
+     "word": "O",
+     "start": 8.21,
+     "end": 8.33
+    },
+    {
+     "word": "seguinte,",
+     "start": 8.33,
+     "end": 8.49
+    },
+    {
+     "word": "moça",
+     "start": 8.49,
+     "end": 8.97
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 9.01,
+   "end": 10.83,
+   "text": "Eu posso te seduzir",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 9.01,
+     "end": 9.41
+    },
+    {
+     "word": "posso",
+     "start": 9.41,
+     "end": 10.27
+    },
+    {
+     "word": "te",
+     "start": 10.27,
+     "end": 10.43
+    },
+    {
+     "word": "seduzir",
+     "start": 10.43,
+     "end": 10.83
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.87,
+   "end": 12.03,
+   "text": "com meu humilde charme?",
+   "words": [
+    {
+     "word": "com",
+     "start": 10.87,
+     "end": 11.03
+    },
+    {
+     "word": "meu",
+     "start": 11.03,
+     "end": 11.23
+    },
+    {
+     "word": "humilde",
+     "start": 11.23,
+     "end": 11.55
+    },
+    {
+     "word": "charme?",
+     "start": 11.55,
+     "end": 12.03
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 12.07,
+   "end": 13.67,
+   "text": "Eu sou um cara",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 12.07,
+     "end": 13.27
+    },
+    {
+     "word": "sou",
+     "start": 13.27,
+     "end": 13.45
+    },
+    {
+     "word": "um",
+     "start": 13.45,
+     "end": 13.57
+    },
+    {
+     "word": "cara",
+     "start": 13.57,
+     "end": 13.67
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 13.71,
+   "end": 15.12,
+   "text": "muito elegante, mulher",
+   "words": [
+    {
+     "word": "muito",
+     "start": 13.71,
+     "end": 13.97
+    },
+    {
+     "word": "elegante,",
+     "start": 13.97,
+     "end": 14.55
+    },
+    {
+     "word": "mulher",
+     "start": 14.55,
+     "end": 15.12
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 15.34,
+   "end": 16.16,
+   "text": "Ô mulher",
+   "words": [
+    {
+     "word": "Ô",
+     "start": 15.34,
+     "end": 15.82
+    },
+    {
+     "word": "mulher",
+     "start": 15.82,
+     "end": 16.16
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 16.2,
+   "end": 19.34,
+   "text": "e gatinha",
+   "words": [
+    {
+     "word": "e",
+     "start": 16.2,
+     "end": 16.68
+    },
+    {
+     "word": "gatinha",
+     "start": 16.68,
+     "end": 19.34
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 19.38,
+   "end": 22.55,
+   "text": "Quero te encontrar",
+   "words": [
+    {
+     "word": "Quero",
+     "start": 19.38,
+     "end": 21.2
+    },
+    {
+     "word": "te",
+     "start": 21.35,
+     "end": 21.69
+    },
+    {
+     "word": "encontrar",
+     "start": 21.69,
+     "end": 22.55
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 22.59,
+   "end": 27.32,
+   "text": "vou falar tudo",
+   "words": [
+    {
+     "word": "vou",
+     "start": 22.59,
+     "end": 23.65
+    },
+    {
+     "word": "falar",
+     "start": 23.65,
+     "end": 24.31
+    },
+    {
+     "word": "tudo",
+     "start": 24.31,
+     "end": 27.32
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.31,
+   "end": 29.56,
+   "text": "bem, tudo bem",
+   "words": [
+    {
+     "word": "bem,",
+     "start": 28.31,
+     "end": 28.53
+    },
+    {
+     "word": "tudo",
+     "start": 28.53,
+     "end": 29.07
+    },
+    {
+     "word": "bem",
+     "start": 29.44,
+     "end": 29.56
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 29.6,
+   "end": 31.25,
+   "text": "Tudo bem? Com licença, tá?",
+   "words": [
+    {
+     "word": "Tudo",
+     "start": 29.6,
+     "end": 29.78
+    },
+    {
+     "word": "bem?",
+     "start": 29.78,
+     "end": 29.96
+    },
+    {
+     "word": "Com",
+     "start": 29.96,
+     "end": 30.44
+    },
+    {
+     "word": "licença,",
+     "start": 30.44,
+     "end": 30.82
+    },
+    {
+     "word": "tá?",
+     "start": 30.82,
+     "end": 31.25
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 31.95,
+   "end": 33.63,
+   "text": "Menina, ali",
+   "words": [
+    {
+     "word": "Menina,",
+     "start": 31.95,
+     "end": 33.17
+    },
+    {
+     "word": "ali",
+     "start": 33.17,
+     "end": 33.63
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 33.67,
+   "end": 37.09,
+   "text": "Você conquistou",
+   "words": [
+    {
+     "word": "Você",
+     "start": 33.67,
+     "end": 35.97
+    },
+    {
+     "word": "conquistou",
+     "start": 35.97,
+     "end": 37.09
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 37.13,
+   "end": 38.65,
+   "text": "o meu coração",
+   "words": [
+    {
+     "word": "o",
+     "start": 37.13,
+     "end": 37.59
+    },
+    {
+     "word": "meu",
+     "start": 37.59,
+     "end": 37.91
+    },
+    {
+     "word": "coração",
+     "start": 37.91,
+     "end": 38.65
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 38.69,
+   "end": 40.88,
+   "text": "Tô vibrado",
+   "words": [
+    {
+     "word": "Tô",
+     "start": 38.69,
+     "end": 39.51
+    },
+    {
+     "word": "vibrado",
+     "start": 39.51,
+     "end": 40.88
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 42.76,
+   "end": 43.71,
+   "text": "Ok",
+   "words": [
+    {
+     "word": "Ok",
+     "start": 42.76,
+     "end": 43.71
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 58.44,
+   "end": 59.65,
+   "text": "Que seja esse caminhão",
+   "words": [
+    {
+     "word": "Que",
+     "start": 58.44,
+     "end": 58.68
+    },
+    {
+     "word": "seja",
+     "start": 58.68,
+     "end": 58.73
+    },
+    {
+     "word": "esse",
+     "start": 58.73,
+     "end": 58.92
+    },
+    {
+     "word": "caminhão",
+     "start": 58.92,
+     "end": 59.65
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 62.17,
+   "end": 65.26,
+   "text": "Menina linda, você",
+   "words": [
+    {
+     "word": "Menina",
+     "start": 62.17,
+     "end": 63.33
+    },
+    {
+     "word": "linda,",
+     "start": 63.33,
+     "end": 64.31
+    },
+    {
+     "word": "você",
+     "start": 64.31,
+     "end": 65.26
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 65.41,
+   "end": 67.91,
+   "text": "conquistou",
+   "words": [
+    {
+     "word": "conquistou",
+     "start": 65.41,
+     "end": 67.91
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 67.95,
+   "end": 69.47,
+   "text": "meu coração",
+   "words": [
+    {
+     "word": "meu",
+     "start": 67.95,
+     "end": 68.49
+    },
+    {
+     "word": "coração",
+     "start": 68.49,
+     "end": 69.47
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 69.51,
+   "end": 70.98,
+   "text": "Mano",
+   "words": [
+    {
+     "word": "Mano",
+     "start": 69.51,
+     "end": 70.98
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 72.46,
+   "end": 73.18,
+   "text": "Vocês querem stealth",
+   "words": [
+    {
+     "word": "Vocês",
+     "start": 72.46,
+     "end": 72.56
+    },
+    {
+     "word": "querem",
+     "start": 72.56,
+     "end": 72.84
+    },
+    {
+     "word": "stealth",
+     "start": 72.84,
+     "end": 73.18
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 73.22,
+   "end": 74.4,
+   "text": "ou quer lá caralho?",
+   "words": [
+    {
+     "word": "ou",
+     "start": 73.22,
+     "end": 73.58
+    },
+    {
+     "word": "quer",
+     "start": 73.58,
+     "end": 73.74
+    },
+    {
+     "word": "lá",
+     "start": 73.74,
+     "end": 73.9
+    },
+    {
+     "word": "caralho?",
+     "start": 73.9,
+     "end": 74.4
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 74.44,
+   "end": 76.15,
+   "text": "Vou deixar vocês escolherem",
+   "words": [
+    {
+     "word": "Vou",
+     "start": 74.44,
+     "end": 74.52
+    },
+    {
+     "word": "deixar",
+     "start": 74.52,
+     "end": 74.76
+    },
+    {
+     "word": "vocês",
+     "start": 74.96,
+     "end": 75.3
+    },
+    {
+     "word": "escolherem",
+     "start": 75.3,
+     "end": 76.15
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
