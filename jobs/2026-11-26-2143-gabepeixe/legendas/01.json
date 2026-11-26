@@ -1,0 +1,534 @@
+{
+ "segments": [
+  {
+   "start": 3.24,
+   "end": 4.81,
+   "text": "Notas pra essa fuga",
+   "words": [
+    {
+     "word": "Notas",
+     "start": 3.24,
+     "end": 3.76
+    },
+    {
+     "word": "pra",
+     "start": 3.76,
+     "end": 3.94
+    },
+    {
+     "word": "essa",
+     "start": 3.94,
+     "end": 4.14
+    },
+    {
+     "word": "fuga",
+     "start": 4.14,
+     "end": 4.81
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 5.22,
+   "end": 5.96,
+   "text": "Moleque, o cofre tava",
+   "words": [
+    {
+     "word": "Moleque,",
+     "start": 5.22,
+     "end": 5.48
+    },
+    {
+     "word": "o",
+     "start": 5.5,
+     "end": 5.64
+    },
+    {
+     "word": "cofre",
+     "start": 5.64,
+     "end": 5.86
+    },
+    {
+     "word": "tava",
+     "start": 5.86,
+     "end": 5.96
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.0,
+   "end": 7.29,
+   "text": "escondidinho, mano",
+   "words": [
+    {
+     "word": "escondidinho,",
+     "start": 6.0,
+     "end": 6.82
+    },
+    {
+     "word": "mano",
+     "start": 6.86,
+     "end": 7.29
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 8.33,
+   "end": 9.86,
+   "text": "Cara, eu sou muito burro",
+   "words": [
+    {
+     "word": "Cara,",
+     "start": 8.33,
+     "end": 8.49
+    },
+    {
+     "word": "eu",
+     "start": 8.57,
+     "end": 8.65
+    },
+    {
+     "word": "sou",
+     "start": 8.65,
+     "end": 8.77
+    },
+    {
+     "word": "muito",
+     "start": 8.77,
+     "end": 9.11
+    },
+    {
+     "word": "burro",
+     "start": 9.11,
+     "end": 9.86
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 13.93,
+   "end": 14.65,
+   "text": "Cara, como é que eu posso",
+   "words": [
+    {
+     "word": "Cara,",
+     "start": 13.93,
+     "end": 14.09
+    },
+    {
+     "word": "como",
+     "start": 14.19,
+     "end": 14.33
+    },
+    {
+     "word": "é",
+     "start": 14.33,
+     "end": 14.41
+    },
+    {
+     "word": "que",
+     "start": 14.41,
+     "end": 14.46
+    },
+    {
+     "word": "eu",
+     "start": 14.46,
+     "end": 14.51
+    },
+    {
+     "word": "posso",
+     "start": 14.51,
+     "end": 14.65
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 14.69,
+   "end": 16.12,
+   "text": "ser tão burro assim, bicho",
+   "words": [
+    {
+     "word": "ser",
+     "start": 14.69,
+     "end": 14.83
+    },
+    {
+     "word": "tão",
+     "start": 14.83,
+     "end": 14.99
+    },
+    {
+     "word": "burro",
+     "start": 14.99,
+     "end": 15.27
+    },
+    {
+     "word": "assim,",
+     "start": 15.27,
+     "end": 15.49
+    },
+    {
+     "word": "bicho",
+     "start": 15.65,
+     "end": 16.12
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 19.7,
+   "end": 20.59,
+   "text": "Pega nada",
+   "words": [
+    {
+     "word": "Pega",
+     "start": 19.7,
+     "end": 19.96
+    },
+    {
+     "word": "nada",
+     "start": 19.96,
+     "end": 20.59
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 45.72,
+   "end": 46.58,
+   "text": "Pô, pelo menos de fugir",
+   "words": [
+    {
+     "word": "Pô,",
+     "start": 45.72,
+     "end": 45.82
+    },
+    {
+     "word": "pelo",
+     "start": 45.9,
+     "end": 45.98
+    },
+    {
+     "word": "menos",
+     "start": 45.98,
+     "end": 46.14
+    },
+    {
+     "word": "de",
+     "start": 46.14,
+     "end": 46.26
+    },
+    {
+     "word": "fugir",
+     "start": 46.26,
+     "end": 46.58
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 46.62,
+   "end": 47.45,
+   "text": "eu sou bom, né?",
+   "words": [
+    {
+     "word": "eu",
+     "start": 46.62,
+     "end": 46.72
+    },
+    {
+     "word": "sou",
+     "start": 46.72,
+     "end": 46.8
+    },
+    {
+     "word": "bom,",
+     "start": 46.8,
+     "end": 47.02
+    },
+    {
+     "word": "né?",
+     "start": 47.14,
+     "end": 47.45
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 48.27,
+   "end": 49.07,
+   "text": "Chatizão, quem não tá",
+   "words": [
+    {
+     "word": "Chatizão,",
+     "start": 48.27,
+     "end": 48.69
+    },
+    {
+     "word": "quem",
+     "start": 48.77,
+     "end": 48.87
+    },
+    {
+     "word": "não",
+     "start": 48.87,
+     "end": 48.99
+    },
+    {
+     "word": "tá",
+     "start": 48.99,
+     "end": 49.07
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 49.11,
+   "end": 50.31,
+   "text": "seguindo, já segue aí",
+   "words": [
+    {
+     "word": "seguindo,",
+     "start": 49.11,
+     "end": 49.49
+    },
+    {
+     "word": "já",
+     "start": 49.49,
+     "end": 49.65
+    },
+    {
+     "word": "segue",
+     "start": 49.65,
+     "end": 50.01
+    },
+    {
+     "word": "aí",
+     "start": 50.01,
+     "end": 50.31
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 50.35,
+   "end": 51.21,
+   "text": "Comenta pra participar",
+   "words": [
+    {
+     "word": "Comenta",
+     "start": 50.35,
+     "end": 50.79
+    },
+    {
+     "word": "pra",
+     "start": 50.79,
+     "end": 50.93
+    },
+    {
+     "word": "participar",
+     "start": 50.93,
+     "end": 51.21
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 51.25,
+   "end": 52.71,
+   "text": "do nosso sorteio",
+   "words": [
+    {
+     "word": "do",
+     "start": 51.25,
+     "end": 51.49
+    },
+    {
+     "word": "nosso",
+     "start": 51.49,
+     "end": 51.85
+    },
+    {
+     "word": "sorteio",
+     "start": 51.85,
+     "end": 52.71
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 52.75,
+   "end": 54.0,
+   "text": "de um PlayStation",
+   "words": [
+    {
+     "word": "de",
+     "start": 52.75,
+     "end": 53.01
+    },
+    {
+     "word": "um",
+     "start": 53.01,
+     "end": 53.17
+    },
+    {
+     "word": "PlayStation",
+     "start": 53.17,
+     "end": 54.0
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 54.61,
+   "end": 55.5,
+   "text": "— PlayStation!⁠",
+   "words": [
+    {
+     "word": "— PlayStation!⁠",
+     "start": 54.61,
+     "end": 55.5
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 57.65,
+   "end": 60.05,
+   "text": "Vamos entregar isso aqui",
+   "words": [
+    {
+     "word": "Vamos",
+     "start": 57.65,
+     "end": 58.77
+    },
+    {
+     "word": "entregar",
+     "start": 59.49,
+     "end": 59.81
+    },
+    {
+     "word": "isso",
+     "start": 59.81,
+     "end": 59.95
+    },
+    {
+     "word": "aqui",
+     "start": 59.95,
+     "end": 60.05
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 60.09,
+   "end": 60.77,
+   "text": "pra esse lendário",
+   "words": [
+    {
+     "word": "pra",
+     "start": 60.09,
+     "end": 60.23
+    },
+    {
+     "word": "esse",
+     "start": 60.23,
+     "end": 60.35
+    },
+    {
+     "word": "lendário",
+     "start": 60.35,
+     "end": 60.77
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 60.81,
+   "end": 61.59,
+   "text": "Pelo menos fiz a missão",
+   "words": [
+    {
+     "word": "Pelo",
+     "start": 60.81,
+     "end": 60.91
+    },
+    {
+     "word": "menos",
+     "start": 60.91,
+     "end": 61.05
+    },
+    {
+     "word": "fiz",
+     "start": 61.05,
+     "end": 61.23
+    },
+    {
+     "word": "a",
+     "start": 61.23,
+     "end": 61.33
+    },
+    {
+     "word": "missão",
+     "start": 61.33,
+     "end": 61.59
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 61.63,
+   "end": 62.29,
+   "text": "dele, né?",
+   "words": [
+    {
+     "word": "dele,",
+     "start": 61.63,
+     "end": 61.83
+    },
+    {
+     "word": "né?",
+     "start": 61.99,
+     "end": 62.29
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 69.55,
+   "end": 70.66,
+   "text": "E tem uma dica nova",
+   "words": [
+    {
+     "word": "E",
+     "start": 69.55,
+     "end": 69.63
+    },
+    {
+     "word": "tem",
+     "start": 69.63,
+     "end": 69.81
+    },
+    {
+     "word": "uma",
+     "start": 69.81,
+     "end": 69.93
+    },
+    {
+     "word": "dica",
+     "start": 69.93,
+     "end": 70.15
+    },
+    {
+     "word": "nova",
+     "start": 70.15,
+     "end": 70.66
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
