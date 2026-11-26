@@ -1,0 +1,1588 @@
+{
+ "segments": [
+  {
+   "start": 0.46,
+   "end": 2.04,
+   "text": "16, mas o Brabox alugou",
+   "words": [
+    {
+     "word": "16,",
+     "start": 0.46,
+     "end": 0.76
+    },
+    {
+     "word": "mas",
+     "start": 0.88,
+     "end": 1.06
+    },
+    {
+     "word": "o",
+     "start": 1.06,
+     "end": 1.32
+    },
+    {
+     "word": "Brabox",
+     "start": 1.32,
+     "end": 1.66
+    },
+    {
+     "word": "alugou",
+     "start": 1.66,
+     "end": 2.04
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 2.08,
+   "end": 2.58,
+   "text": "ele não comprou",
+   "words": [
+    {
+     "word": "ele",
+     "start": 2.08,
+     "end": 2.14
+    },
+    {
+     "word": "não",
+     "start": 2.14,
+     "end": 2.24
+    },
+    {
+     "word": "comprou",
+     "start": 2.24,
+     "end": 2.58
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 2.62,
+   "end": 3.56,
+   "text": "Se ele comprasse, ele ia",
+   "words": [
+    {
+     "word": "Se",
+     "start": 2.62,
+     "end": 2.68
+    },
+    {
+     "word": "ele",
+     "start": 2.68,
+     "end": 2.8
+    },
+    {
+     "word": "comprasse,",
+     "start": 2.8,
+     "end": 3.38
+    },
+    {
+     "word": "ele",
+     "start": 3.38,
+     "end": 3.5
+    },
+    {
+     "word": "ia",
+     "start": 3.5,
+     "end": 3.56
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 3.6,
+   "end": 4.77,
+   "text": "gastar isso também, mano",
+   "words": [
+    {
+     "word": "gastar",
+     "start": 3.6,
+     "end": 3.88
+    },
+    {
+     "word": "isso",
+     "start": 3.88,
+     "end": 4.08
+    },
+    {
+     "word": "também,",
+     "start": 4.08,
+     "end": 4.32
+    },
+    {
+     "word": "mano",
+     "start": 4.4,
+     "end": 4.77
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 5.07,
+   "end": 5.9,
+   "text": "Cadê essa mulher?",
+   "words": [
+    {
+     "word": "Cadê",
+     "start": 5.07,
+     "end": 5.27
+    },
+    {
+     "word": "essa",
+     "start": 5.27,
+     "end": 5.43
+    },
+    {
+     "word": "mulher?",
+     "start": 5.43,
+     "end": 5.9
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.74,
+   "end": 7.56,
+   "text": "Ela já se trocou",
+   "words": [
+    {
+     "word": "Ela",
+     "start": 6.74,
+     "end": 6.9
+    },
+    {
+     "word": "já",
+     "start": 6.9,
+     "end": 7.0
+    },
+    {
+     "word": "se",
+     "start": 7.0,
+     "end": 7.16
+    },
+    {
+     "word": "trocou",
+     "start": 7.16,
+     "end": 7.56
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.6,
+   "end": 9.09,
+   "text": "tá se vestindo igual mendiga",
+   "words": [
+    {
+     "word": "tá",
+     "start": 7.6,
+     "end": 7.68
+    },
+    {
+     "word": "se",
+     "start": 7.68,
+     "end": 7.82
+    },
+    {
+     "word": "vestindo",
+     "start": 7.82,
+     "end": 8.12
+    },
+    {
+     "word": "igual",
+     "start": 8.12,
+     "end": 8.28
+    },
+    {
+     "word": "mendiga",
+     "start": 8.42,
+     "end": 9.09
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 14.04,
+   "end": 14.82,
+   "text": "O menino tem que ficar",
+   "words": [
+    {
+     "word": "O",
+     "start": 14.04,
+     "end": 14.16
+    },
+    {
+     "word": "menino",
+     "start": 14.16,
+     "end": 14.5
+    },
+    {
+     "word": "tem",
+     "start": 14.5,
+     "end": 14.64
+    },
+    {
+     "word": "que",
+     "start": 14.64,
+     "end": 14.72
+    },
+    {
+     "word": "ficar",
+     "start": 14.72,
+     "end": 14.82
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 14.86,
+   "end": 16.15,
+   "text": "como você gosta, gente",
+   "words": [
+    {
+     "word": "como",
+     "start": 14.86,
+     "end": 15.04
+    },
+    {
+     "word": "você",
+     "start": 15.04,
+     "end": 15.3
+    },
+    {
+     "word": "gosta,",
+     "start": 15.3,
+     "end": 15.62
+    },
+    {
+     "word": "gente",
+     "start": 15.72,
+     "end": 16.15
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 16.41,
+   "end": 17.74,
+   "text": "Eu não tô acostumado",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 16.41,
+     "end": 16.61
+    },
+    {
+     "word": "não",
+     "start": 16.61,
+     "end": 16.73
+    },
+    {
+     "word": "tô",
+     "start": 16.73,
+     "end": 16.87
+    },
+    {
+     "word": "acostumado",
+     "start": 16.87,
+     "end": 17.74
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 17.87,
+   "end": 19.58,
+   "text": "O blusão, ele fica",
+   "words": [
+    {
+     "word": "O",
+     "start": 17.87,
+     "end": 18.15
+    },
+    {
+     "word": "blusão,",
+     "start": 18.15,
+     "end": 18.61
+    },
+    {
+     "word": "ele",
+     "start": 18.96,
+     "end": 19.38
+    },
+    {
+     "word": "fica",
+     "start": 19.38,
+     "end": 19.58
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 19.62,
+   "end": 20.3,
+   "text": "dentro da calça",
+   "words": [
+    {
+     "word": "dentro",
+     "start": 19.62,
+     "end": 19.78
+    },
+    {
+     "word": "da",
+     "start": 19.78,
+     "end": 19.9
+    },
+    {
+     "word": "calça",
+     "start": 19.9,
+     "end": 20.3
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 20.34,
+   "end": 21.54,
+   "text": "Vou explicar pra vocês, calma aí",
+   "words": [
+    {
+     "word": "Vou",
+     "start": 20.34,
+     "end": 20.44
+    },
+    {
+     "word": "explicar",
+     "start": 20.44,
+     "end": 20.72
+    },
+    {
+     "word": "pra",
+     "start": 20.72,
+     "end": 20.88
+    },
+    {
+     "word": "vocês,",
+     "start": 20.88,
+     "end": 21.2
+    },
+    {
+     "word": "calma",
+     "start": 21.34,
+     "end": 21.48
+    },
+    {
+     "word": "aí",
+     "start": 21.48,
+     "end": 21.54
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 21.58,
+   "end": 22.81,
+   "text": "Ele fica dentro da calça",
+   "words": [
+    {
+     "word": "Ele",
+     "start": 21.58,
+     "end": 21.66
+    },
+    {
+     "word": "fica",
+     "start": 21.66,
+     "end": 21.86
+    },
+    {
+     "word": "dentro",
+     "start": 21.86,
+     "end": 22.0
+    },
+    {
+     "word": "da",
+     "start": 22.0,
+     "end": 22.16
+    },
+    {
+     "word": "calça",
+     "start": 22.16,
+     "end": 22.81
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 23.03,
+   "end": 24.0,
+   "text": "Aí é o seguinte",
+   "words": [
+    {
+     "word": "Aí",
+     "start": 23.03,
+     "end": 23.21
+    },
+    {
+     "word": "é",
+     "start": 23.21,
+     "end": 23.33
+    },
+    {
+     "word": "o",
+     "start": 23.33,
+     "end": 23.41
+    },
+    {
+     "word": "seguinte",
+     "start": 23.41,
+     "end": 24.0
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 24.28,
+   "end": 25.27,
+   "text": "o bagulho fica com a minha",
+   "words": [
+    {
+     "word": "o",
+     "start": 24.28,
+     "end": 24.4
+    },
+    {
+     "word": "bagulho",
+     "start": 24.4,
+     "end": 24.74
+    },
+    {
+     "word": "fica",
+     "start": 24.74,
+     "end": 24.98
+    },
+    {
+     "word": "com",
+     "start": 24.98,
+     "end": 25.14
+    },
+    {
+     "word": "a",
+     "start": 25.14,
+     "end": 25.22
+    },
+    {
+     "word": "minha",
+     "start": 25.22,
+     "end": 25.27
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 25.24,
+   "end": 26.42,
+   "text": "barriga assim, marcando",
+   "words": [
+    {
+     "word": "barriga",
+     "start": 25.24,
+     "end": 25.62
+    },
+    {
+     "word": "assim,",
+     "start": 25.62,
+     "end": 25.8
+    },
+    {
+     "word": "marcando",
+     "start": 26.02,
+     "end": 26.42
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 26.46,
+   "end": 27.18,
+   "text": "Eu sinto que eu fico",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 26.46,
+     "end": 26.58
+    },
+    {
+     "word": "sinto",
+     "start": 26.58,
+     "end": 26.76
+    },
+    {
+     "word": "que",
+     "start": 26.76,
+     "end": 26.86
+    },
+    {
+     "word": "eu",
+     "start": 26.86,
+     "end": 26.96
+    },
+    {
+     "word": "fico",
+     "start": 26.96,
+     "end": 27.18
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 27.22,
+   "end": 28.99,
+   "text": "pançudinho, marcando a barriga",
+   "words": [
+    {
+     "word": "pançudinho,",
+     "start": 27.22,
+     "end": 27.8
+    },
+    {
+     "word": "marcando",
+     "start": 27.98,
+     "end": 28.16
+    },
+    {
+     "word": "a",
+     "start": 28.16,
+     "end": 28.26
+    },
+    {
+     "word": "barriga",
+     "start": 28.26,
+     "end": 28.99
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 30.5,
+   "end": 31.04,
+   "text": "Sei lá, mano",
+   "words": [
+    {
+     "word": "Sei",
+     "start": 30.5,
+     "end": 30.66
+    },
+    {
+     "word": "lá,",
+     "start": 30.66,
+     "end": 30.86
+    },
+    {
+     "word": "mano",
+     "start": 30.98,
+     "end": 31.04
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 31.08,
+   "end": 32.12,
+   "text": "é muito ruim o bagulho",
+   "words": [
+    {
+     "word": "é",
+     "start": 31.08,
+     "end": 31.14
+    },
+    {
+     "word": "muito",
+     "start": 31.14,
+     "end": 31.36
+    },
+    {
+     "word": "ruim",
+     "start": 31.36,
+     "end": 31.66
+    },
+    {
+     "word": "o",
+     "start": 31.66,
+     "end": 31.76
+    },
+    {
+     "word": "bagulho",
+     "start": 31.76,
+     "end": 32.12
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 32.16,
+   "end": 33.11,
+   "text": "Mano, não sei explicar",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 32.16,
+     "end": 32.2
+    },
+    {
+     "word": "não",
+     "start": 32.28,
+     "end": 32.38
+    },
+    {
+     "word": "sei",
+     "start": 32.38,
+     "end": 32.43
+    },
+    {
+     "word": "explicar",
+     "start": 32.43,
+     "end": 33.11
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 33.35,
+   "end": 34.88,
+   "text": "Não me deixou confortável, pô",
+   "words": [
+    {
+     "word": "Não",
+     "start": 33.35,
+     "end": 33.47
+    },
+    {
+     "word": "me",
+     "start": 33.47,
+     "end": 33.59
+    },
+    {
+     "word": "deixou",
+     "start": 33.59,
+     "end": 33.83
+    },
+    {
+     "word": "confortável,",
+     "start": 33.83,
+     "end": 34.41
+    },
+    {
+     "word": "pô",
+     "start": 34.53,
+     "end": 34.88
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 39.29,
+   "end": 40.27,
+   "text": "Sei lá, não sei explicar",
+   "words": [
+    {
+     "word": "Sei",
+     "start": 39.29,
+     "end": 39.61
+    },
+    {
+     "word": "lá,",
+     "start": 39.61,
+     "end": 39.77
+    },
+    {
+     "word": "não",
+     "start": 39.83,
+     "end": 39.93
+    },
+    {
+     "word": "sei",
+     "start": 39.93,
+     "end": 40.01
+    },
+    {
+     "word": "explicar",
+     "start": 40.01,
+     "end": 40.27
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 40.31,
+   "end": 44.23,
+   "text": "O bom é que essa calça, esse smoking",
+   "words": [
+    {
+     "word": "O",
+     "start": 40.31,
+     "end": 40.81
+    },
+    {
+     "word": "bom",
+     "start": 42.91,
+     "end": 43.07
+    },
+    {
+     "word": "é",
+     "start": 43.07,
+     "end": 43.17
+    },
+    {
+     "word": "que",
+     "start": 43.17,
+     "end": 43.25
+    },
+    {
+     "word": "essa",
+     "start": 43.25,
+     "end": 43.43
+    },
+    {
+     "word": "calça,",
+     "start": 43.43,
+     "end": 43.79
+    },
+    {
+     "word": "esse",
+     "start": 43.85,
+     "end": 43.95
+    },
+    {
+     "word": "smoking",
+     "start": 43.95,
+     "end": 44.23
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 44.27,
+   "end": 45.41,
+   "text": "A calça tem um bagulho",
+   "words": [
+    {
+     "word": "A",
+     "start": 44.27,
+     "end": 44.51
+    },
+    {
+     "word": "calça",
+     "start": 44.51,
+     "end": 44.83
+    },
+    {
+     "word": "tem",
+     "start": 44.93,
+     "end": 45.07
+    },
+    {
+     "word": "um",
+     "start": 45.07,
+     "end": 45.19
+    },
+    {
+     "word": "bagulho",
+     "start": 45.19,
+     "end": 45.41
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 45.45,
+   "end": 46.92,
+   "text": "que já é um cinto incluso",
+   "words": [
+    {
+     "word": "que",
+     "start": 45.45,
+     "end": 45.55
+    },
+    {
+     "word": "já",
+     "start": 45.55,
+     "end": 45.67
+    },
+    {
+     "word": "é",
+     "start": 45.67,
+     "end": 45.75
+    },
+    {
+     "word": "um",
+     "start": 45.75,
+     "end": 45.85
+    },
+    {
+     "word": "cinto",
+     "start": 45.85,
+     "end": 46.17
+    },
+    {
+     "word": "incluso",
+     "start": 46.17,
+     "end": 46.92
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 48.15,
+   "end": 49.21,
+   "text": "Opa, tô a fim de aprontar",
+   "words": [
+    {
+     "word": "Opa,",
+     "start": 48.15,
+     "end": 48.47
+    },
+    {
+     "word": "tô",
+     "start": 48.59,
+     "end": 48.65
+    },
+    {
+     "word": "a",
+     "start": 48.65,
+     "end": 48.703
+    },
+    {
+     "word": "fim",
+     "start": 48.703,
+     "end": 48.81
+    },
+    {
+     "word": "de",
+     "start": 48.81,
+     "end": 48.89
+    },
+    {
+     "word": "aprontar",
+     "start": 48.89,
+     "end": 49.21
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 49.25,
+   "end": 50.6,
+   "text": "Tô a fim de aprontar",
+   "words": [
+    {
+     "word": "Tô",
+     "start": 49.25,
+     "end": 49.47
+    },
+    {
+     "word": "a",
+     "start": 49.47,
+     "end": 49.52
+    },
+    {
+     "word": "fim",
+     "start": 49.52,
+     "end": 49.57
+    },
+    {
+     "word": "de",
+     "start": 49.57,
+     "end": 49.63
+    },
+    {
+     "word": "aprontar",
+     "start": 49.63,
+     "end": 50.6
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 54.11,
+   "end": 55.26,
+   "text": "Desconfortável, mano",
+   "words": [
+    {
+     "word": "Desconfortável,",
+     "start": 54.11,
+     "end": 54.83
+    },
+    {
+     "word": "mano",
+     "start": 54.87,
+     "end": 55.26
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 56.18,
+   "end": 57.4,
+   "text": "Vou passar a cerimônia",
+   "words": [
+    {
+     "word": "Vou",
+     "start": 56.18,
+     "end": 56.34
+    },
+    {
+     "word": "passar",
+     "start": 56.34,
+     "end": 56.78
+    },
+    {
+     "word": "a",
+     "start": 56.78,
+     "end": 56.94
+    },
+    {
+     "word": "cerimônia",
+     "start": 56.94,
+     "end": 57.4
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 57.44,
+   "end": 58.69,
+   "text": "acabou a cerimônia",
+   "words": [
+    {
+     "word": "acabou",
+     "start": 57.44,
+     "end": 57.76
+    },
+    {
+     "word": "a",
+     "start": 57.76,
+     "end": 57.92
+    },
+    {
+     "word": "cerimônia",
+     "start": 57.92,
+     "end": 58.69
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 59.1,
+   "end": 60.22,
+   "text": "tô tirando toda essa",
+   "words": [
+    {
+     "word": "tô",
+     "start": 59.1,
+     "end": 59.24
+    },
+    {
+     "word": "tirando",
+     "start": 59.24,
+     "end": 59.64
+    },
+    {
+     "word": "toda",
+     "start": 59.64,
+     "end": 60.08
+    },
+    {
+     "word": "essa",
+     "start": 60.08,
+     "end": 60.22
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 60.26,
+   "end": 60.98,
+   "text": "roupa de casamento",
+   "words": [
+    {
+     "word": "roupa",
+     "start": 60.26,
+     "end": 60.52
+    },
+    {
+     "word": "de",
+     "start": 60.52,
+     "end": 60.62
+    },
+    {
+     "word": "casamento",
+     "start": 60.62,
+     "end": 60.98
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 61.02,
+   "end": 62.38,
+   "text": "Tô ficando igual um mendigo, viado",
+   "words": [
+    {
+     "word": "Tô",
+     "start": 61.02,
+     "end": 61.22
+    },
+    {
+     "word": "ficando",
+     "start": 61.22,
+     "end": 61.48
+    },
+    {
+     "word": "igual",
+     "start": 61.48,
+     "end": 61.64
+    },
+    {
+     "word": "um",
+     "start": 61.64,
+     "end": 61.76
+    },
+    {
+     "word": "mendigo,",
+     "start": 61.76,
+     "end": 62.08
+    },
+    {
+     "word": "viado",
+     "start": 62.16,
+     "end": 62.38
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 62.42,
+   "end": 64.44,
+   "text": "Eu morro aqui mesmo",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 62.42,
+     "end": 62.86
+    },
+    {
+     "word": "morro",
+     "start": 63.49,
+     "end": 63.71
+    },
+    {
+     "word": "aqui",
+     "start": 63.71,
+     "end": 63.87
+    },
+    {
+     "word": "mesmo",
+     "start": 63.87,
+     "end": 64.44
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 64.87,
+   "end": 65.73,
+   "text": "Tô ficando igual um mendigo",
+   "words": [
+    {
+     "word": "Tô",
+     "start": 64.87,
+     "end": 64.97
+    },
+    {
+     "word": "ficando",
+     "start": 64.97,
+     "end": 65.25
+    },
+    {
+     "word": "igual",
+     "start": 65.25,
+     "end": 65.41
+    },
+    {
+     "word": "um",
+     "start": 65.41,
+     "end": 65.53
+    },
+    {
+     "word": "mendigo",
+     "start": 65.53,
+     "end": 65.73
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 65.77,
+   "end": 66.65,
+   "text": "Acabou a cerimônia",
+   "words": [
+    {
+     "word": "Acabou",
+     "start": 65.77,
+     "end": 66.13
+    },
+    {
+     "word": "a",
+     "start": 66.13,
+     "end": 66.25
+    },
+    {
+     "word": "cerimônia",
+     "start": 66.25,
+     "end": 66.65
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 66.69,
+   "end": 67.51,
+   "text": "vou ficar igual um mendigo",
+   "words": [
+    {
+     "word": "vou",
+     "start": 66.69,
+     "end": 66.77
+    },
+    {
+     "word": "ficar",
+     "start": 66.77,
+     "end": 66.91
+    },
+    {
+     "word": "igual",
+     "start": 66.91,
+     "end": 67.07
+    },
+    {
+     "word": "um",
+     "start": 67.07,
+     "end": 67.19
+    },
+    {
+     "word": "mendigo",
+     "start": 67.19,
+     "end": 67.51
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 67.55,
+   "end": 68.57,
+   "text": "Não quero nem saber, mano",
+   "words": [
+    {
+     "word": "Não",
+     "start": 67.55,
+     "end": 67.81
+    },
+    {
+     "word": "quero",
+     "start": 67.81,
+     "end": 67.97
+    },
+    {
+     "word": "nem",
+     "start": 67.97,
+     "end": 68.09
+    },
+    {
+     "word": "saber,",
+     "start": 68.09,
+     "end": 68.35
+    },
+    {
+     "word": "mano",
+     "start": 68.45,
+     "end": 68.57
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 68.61,
+   "end": 69.23,
+   "text": "Já falei logo",
+   "words": [
+    {
+     "word": "Já",
+     "start": 68.61,
+     "end": 68.77
+    },
+    {
+     "word": "falei",
+     "start": 68.77,
+     "end": 69.01
+    },
+    {
+     "word": "logo",
+     "start": 69.01,
+     "end": 69.23
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 69.27,
+   "end": 70.63,
+   "text": "Nem me piro, não quero saber",
+   "words": [
+    {
+     "word": "Nem",
+     "start": 69.27,
+     "end": 69.53
+    },
+    {
+     "word": "me",
+     "start": 69.53,
+     "end": 69.95
+    },
+    {
+     "word": "piro,",
+     "start": 69.95,
+     "end": 70.23
+    },
+    {
+     "word": "não",
+     "start": 70.27,
+     "end": 70.33
+    },
+    {
+     "word": "quero",
+     "start": 70.33,
+     "end": 70.47
+    },
+    {
+     "word": "saber",
+     "start": 70.47,
+     "end": 70.63
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 70.67,
+   "end": 71.51,
+   "text": "se vai tá Neymar",
+   "words": [
+    {
+     "word": "se",
+     "start": 70.67,
+     "end": 70.77
+    },
+    {
+     "word": "vai",
+     "start": 70.77,
+     "end": 70.89
+    },
+    {
+     "word": "tá",
+     "start": 70.89,
+     "end": 71.03
+    },
+    {
+     "word": "Neymar",
+     "start": 71.03,
+     "end": 71.51
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 71.55,
+   "end": 72.94,
+   "text": "se vai tá",
+   "words": [
+    {
+     "word": "se",
+     "start": 71.55,
+     "end": 72.15
+    },
+    {
+     "word": "vai",
+     "start": 72.15,
+     "end": 72.31
+    },
+    {
+     "word": "tá",
+     "start": 72.31,
+     "end": 72.94
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 74.43,
+   "end": 76.94,
+   "text": "Silvester Stallone",
+   "words": [
+    {
+     "word": "Silvester",
+     "start": 74.43,
+     "end": 76.38
+    },
+    {
+     "word": "Stallone",
+     "start": 76.38,
+     "end": 76.94
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 76.98,
+   "end": 78.45,
+   "text": "Eu tô pouco me fudendo, mano",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 76.98,
+     "end": 77.12
+    },
+    {
+     "word": "tô",
+     "start": 77.12,
+     "end": 77.24
+    },
+    {
+     "word": "pouco",
+     "start": 77.24,
+     "end": 77.48
+    },
+    {
+     "word": "me",
+     "start": 77.48,
+     "end": 77.68
+    },
+    {
+     "word": "fudendo,",
+     "start": 77.68,
+     "end": 78.04
+    },
+    {
+     "word": "mano",
+     "start": 78.04,
+     "end": 78.45
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 79.14,
+   "end": 80.56,
+   "text": "Acabou a cerimônia",
+   "words": [
+    {
+     "word": "Acabou",
+     "start": 79.14,
+     "end": 79.8
+    },
+    {
+     "word": "a",
+     "start": 79.8,
+     "end": 79.96
+    },
+    {
+     "word": "cerimônia",
+     "start": 79.96,
+     "end": 80.56
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 80.6,
+   "end": 82.27,
+   "text": "eu vou ficar igual um mendigo",
+   "words": [
+    {
+     "word": "eu",
+     "start": 80.6,
+     "end": 81.18
+    },
+    {
+     "word": "vou",
+     "start": 81.27,
+     "end": 81.41
+    },
+    {
+     "word": "ficar",
+     "start": 81.41,
+     "end": 81.63
+    },
+    {
+     "word": "igual",
+     "start": 81.63,
+     "end": 81.77
+    },
+    {
+     "word": "um",
+     "start": 81.77,
+     "end": 81.89
+    },
+    {
+     "word": "mendigo",
+     "start": 81.89,
+     "end": 82.27
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 82.31,
+   "end": 83.39,
+   "text": "no casamento, mano",
+   "words": [
+    {
+     "word": "no",
+     "start": 82.31,
+     "end": 82.47
+    },
+    {
+     "word": "casamento,",
+     "start": 82.47,
+     "end": 83.17
+    },
+    {
+     "word": "mano",
+     "start": 83.17,
+     "end": 83.39
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 83.43,
+   "end": 85.38,
+   "text": "Se der pra usar cueca rasgada",
+   "words": [
+    {
+     "word": "Se",
+     "start": 83.43,
+     "end": 83.87
+    },
+    {
+     "word": "der",
+     "start": 84.14,
+     "end": 84.24
+    },
+    {
+     "word": "pra",
+     "start": 84.24,
+     "end": 84.38
+    },
+    {
+     "word": "usar",
+     "start": 84.38,
+     "end": 84.58
+    },
+    {
+     "word": "cueca",
+     "start": 84.58,
+     "end": 84.98
+    },
+    {
+     "word": "rasgada",
+     "start": 84.98,
+     "end": 85.38
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 85.42,
+   "end": 86.7,
+   "text": "e calça rasgada, eu tô usando",
+   "words": [
+    {
+     "word": "e",
+     "start": 85.42,
+     "end": 85.54
+    },
+    {
+     "word": "calça",
+     "start": 85.54,
+     "end": 85.82
+    },
+    {
+     "word": "rasgada,",
+     "start": 85.82,
+     "end": 86.22
+    },
+    {
+     "word": "eu",
+     "start": 86.22,
+     "end": 86.32
+    },
+    {
+     "word": "tô",
+     "start": 86.32,
+     "end": 86.42
+    },
+    {
+     "word": "usando",
+     "start": 86.42,
+     "end": 86.7
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 86.74,
+   "end": 88.3,
+   "text": "Opa, pegou fogo",
+   "words": [
+    {
+     "word": "Opa,",
+     "start": 86.74,
+     "end": 87.56
+    },
+    {
+     "word": "pegou",
+     "start": 87.74,
+     "end": 87.98
+    },
+    {
+     "word": "fogo",
+     "start": 87.98,
+     "end": 88.3
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 88.34,
+   "end": 89.43,
+   "text": "o relacionamento, hein",
+   "words": [
+    {
+     "word": "o",
+     "start": 88.34,
+     "end": 88.4
+    },
+    {
+     "word": "relacionamento,",
+     "start": 88.4,
+     "end": 88.98
+    },
+    {
+     "word": "hein",
+     "start": 89.06,
+     "end": 89.43
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
