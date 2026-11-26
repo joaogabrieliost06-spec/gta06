@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Jason, Fleeca, banco, roubo, câmera, máscara, polícia, input lag, preso, mano, bicho, viado, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:03:42", "fim": "0:04:14", "titulo": "CRIME DENUNCIADO, PARABÉNS"},
+  {"id": "02", "inicio": "0:10:13", "fim": "0:11:18", "titulo": "A CULPA É DO INPUT LAG"},
+  {"id": "03", "inicio": "0:15:30", "fim": "0:16:58", "titulo": "PRESO PELA PRIMEIRA VEZ"}
+ ]
+}
