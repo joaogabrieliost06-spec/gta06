@@ -1,0 +1,317 @@
+{
+ "segments": [
+  {
+   "start": 6.72,
+   "end": 7.52,
+   "text": "Será que o cara",
+   "words": [
+    {
+     "word": "Será",
+     "start": 6.72,
+     "end": 7.24
+    },
+    {
+     "word": "que",
+     "start": 7.24,
+     "end": 7.32
+    },
+    {
+     "word": "o",
+     "start": 7.32,
+     "end": 7.37
+    },
+    {
+     "word": "cara",
+     "start": 7.37,
+     "end": 7.52
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.56,
+   "end": 8.67,
+   "text": "queria matar ele?",
+   "words": [
+    {
+     "word": "queria",
+     "start": 7.56,
+     "end": 7.8
+    },
+    {
+     "word": "matar",
+     "start": 7.8,
+     "end": 8.1
+    },
+    {
+     "word": "ele?",
+     "start": 8.1,
+     "end": 8.67
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 14.89,
+   "end": 17.6,
+   "text": "O cara saiu fantasiado",
+   "words": [
+    {
+     "word": "O",
+     "start": 14.89,
+     "end": 15.41
+    },
+    {
+     "word": "cara",
+     "start": 15.94,
+     "end": 16.46
+    },
+    {
+     "word": "saiu",
+     "start": 16.46,
+     "end": 16.98
+    },
+    {
+     "word": "fantasiado",
+     "start": 16.98,
+     "end": 17.6
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 17.64,
+   "end": 18.99,
+   "text": "de veado e tomou um tiro",
+   "words": [
+    {
+     "word": "de",
+     "start": 17.64,
+     "end": 17.76
+    },
+    {
+     "word": "veado",
+     "start": 17.76,
+     "end": 18.0
+    },
+    {
+     "word": "e",
+     "start": 18.0,
+     "end": 18.1
+    },
+    {
+     "word": "tomou",
+     "start": 18.1,
+     "end": 18.32
+    },
+    {
+     "word": "um",
+     "start": 18.32,
+     "end": 18.46
+    },
+    {
+     "word": "tiro",
+     "start": 18.46,
+     "end": 18.99
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 62.19,
+   "end": 63.33,
+   "text": "Vou aproveitar pra olhar",
+   "words": [
+    {
+     "word": "Vou",
+     "start": 62.19,
+     "end": 62.59
+    },
+    {
+     "word": "aproveitar",
+     "start": 62.59,
+     "end": 63.05
+    },
+    {
+     "word": "pra",
+     "start": 63.05,
+     "end": 63.17
+    },
+    {
+     "word": "olhar",
+     "start": 63.17,
+     "end": 63.33
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 63.37,
+   "end": 64.09,
+   "text": "todos esses lugares",
+   "words": [
+    {
+     "word": "todos",
+     "start": 63.37,
+     "end": 63.63
+    },
+    {
+     "word": "esses",
+     "start": 63.63,
+     "end": 63.85
+    },
+    {
+     "word": "lugares",
+     "start": 63.85,
+     "end": 64.09
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 64.13,
+   "end": 65.66,
+   "text": "que tão escuros aqui, mano",
+   "words": [
+    {
+     "word": "que",
+     "start": 64.13,
+     "end": 64.27
+    },
+    {
+     "word": "tão",
+     "start": 64.27,
+     "end": 64.39
+    },
+    {
+     "word": "escuros",
+     "start": 64.39,
+     "end": 65.03
+    },
+    {
+     "word": "aqui,",
+     "start": 65.03,
+     "end": 65.21
+    },
+    {
+     "word": "mano",
+     "start": 65.31,
+     "end": 65.66
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 66.28,
+   "end": 67.51,
+   "text": "Do nada, viado",
+   "words": [
+    {
+     "word": "Do",
+     "start": 66.28,
+     "end": 66.46
+    },
+    {
+     "word": "nada,",
+     "start": 66.46,
+     "end": 66.86
+    },
+    {
+     "word": "viado",
+     "start": 67.06,
+     "end": 67.51
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 83.89,
+   "end": 85.34,
+   "text": "Tá vestido de veado, mano",
+   "words": [
+    {
+     "word": "Tá",
+     "start": 83.89,
+     "end": 83.97
+    },
+    {
+     "word": "vestido",
+     "start": 83.97,
+     "end": 84.35
+    },
+    {
+     "word": "de",
+     "start": 84.35,
+     "end": 84.49
+    },
+    {
+     "word": "veado,",
+     "start": 84.49,
+     "end": 84.85
+    },
+    {
+     "word": "mano",
+     "start": 84.87,
+     "end": 85.34
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 88.68,
+   "end": 89.46,
+   "text": "Sou o Uber agora",
+   "words": [
+    {
+     "word": "Sou",
+     "start": 88.68,
+     "end": 88.96
+    },
+    {
+     "word": "o",
+     "start": 88.96,
+     "end": 89.08
+    },
+    {
+     "word": "Uber",
+     "start": 89.08,
+     "end": 89.24
+    },
+    {
+     "word": "agora",
+     "start": 89.24,
+     "end": 89.46
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 89.5,
+   "end": 90.23,
+   "text": "vou levar os dois",
+   "words": [
+    {
+     "word": "vou",
+     "start": 89.5,
+     "end": 89.6
+    },
+    {
+     "word": "levar",
+     "start": 89.6,
+     "end": 89.74
+    },
+    {
+     "word": "os",
+     "start": 89.74,
+     "end": 89.88
+    },
+    {
+     "word": "dois",
+     "start": 89.88,
+     "end": 90.23
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
