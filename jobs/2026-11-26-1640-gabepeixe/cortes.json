@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Lucia, homem das cavernas, torre, vigia, Calaga, Morial, café, grudento, mano, bicho, viado, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:01:56", "fim": "0:02:34", "titulo": "PERDI A CORRIDA PRO HOMEM DAS CAVERNAS"},
+  {"id": "02", "inicio": "0:04:28", "fim": "0:05:12", "titulo": "ELA TÁ ME IGNORANDO"},
+  {"id": "03", "inicio": "0:10:58", "fim": "0:11:30", "titulo": "MIJEI NO SEU CAFÉ"}
+ ]
+}
