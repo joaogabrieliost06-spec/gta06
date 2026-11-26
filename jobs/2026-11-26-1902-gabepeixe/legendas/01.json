@@ -1,0 +1,338 @@
+{
+ "segments": [
+  {
+   "start": 6.84,
+   "end": 7.94,
+   "text": "Cara, eu acho que",
+   "words": [
+    {
+     "word": "Cara,",
+     "start": 6.84,
+     "end": 7.26
+    },
+    {
+     "word": "eu",
+     "start": 7.52,
+     "end": 7.57
+    },
+    {
+     "word": "acho",
+     "start": 7.57,
+     "end": 7.74
+    },
+    {
+     "word": "que",
+     "start": 7.74,
+     "end": 7.94
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.98,
+   "end": 9.17,
+   "text": "ter ele vale a pena",
+   "words": [
+    {
+     "word": "ter",
+     "start": 7.98,
+     "end": 8.1
+    },
+    {
+     "word": "ele",
+     "start": 8.1,
+     "end": 8.32
+    },
+    {
+     "word": "vale",
+     "start": 8.32,
+     "end": 8.52
+    },
+    {
+     "word": "a",
+     "start": 8.52,
+     "end": 8.68
+    },
+    {
+     "word": "pena",
+     "start": 8.68,
+     "end": 9.17
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 9.47,
+   "end": 10.22,
+   "text": "tá ligado?",
+   "words": [
+    {
+     "word": "tá",
+     "start": 9.47,
+     "end": 9.59
+    },
+    {
+     "word": "ligado?",
+     "start": 9.59,
+     "end": 10.22
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.27,
+   "end": 11.51,
+   "text": "Porque ele é muito famoso",
+   "words": [
+    {
+     "word": "Porque",
+     "start": 10.27,
+     "end": 10.69
+    },
+    {
+     "word": "ele",
+     "start": 10.69,
+     "end": 10.83
+    },
+    {
+     "word": "é",
+     "start": 10.83,
+     "end": 10.89
+    },
+    {
+     "word": "muito",
+     "start": 10.89,
+     "end": 11.01
+    },
+    {
+     "word": "famoso",
+     "start": 11.01,
+     "end": 11.51
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 11.55,
+   "end": 12.5,
+   "text": "ele movimenta",
+   "words": [
+    {
+     "word": "ele",
+     "start": 11.55,
+     "end": 11.61
+    },
+    {
+     "word": "movimenta",
+     "start": 11.61,
+     "end": 12.5
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 20.37,
+   "end": 21.47,
+   "text": "É o",
+   "words": [
+    {
+     "word": "É",
+     "start": 20.37,
+     "end": 20.55
+    },
+    {
+     "word": "o",
+     "start": 20.55,
+     "end": 21.47
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 21.51,
+   "end": 23.22,
+   "text": "filho do Michael, do GTA V",
+   "words": [
+    {
+     "word": "filho",
+     "start": 21.51,
+     "end": 21.65
+    },
+    {
+     "word": "do",
+     "start": 21.65,
+     "end": 21.81
+    },
+    {
+     "word": "Michael,",
+     "start": 21.81,
+     "end": 21.99
+    },
+    {
+     "word": "do",
+     "start": 22.25,
+     "end": 22.33
+    },
+    {
+     "word": "GTA",
+     "start": 22.33,
+     "end": 22.55
+    },
+    {
+     "word": "V",
+     "start": 22.55,
+     "end": 23.22
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 26.29,
+   "end": 26.96,
+   "text": "Tá",
+   "words": [
+    {
+     "word": "Tá",
+     "start": 26.29,
+     "end": 26.96
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 42.22,
+   "end": 42.85,
+   "text": "vamos lá",
+   "words": [
+    {
+     "word": "vamos",
+     "start": 42.22,
+     "end": 42.38
+    },
+    {
+     "word": "lá",
+     "start": 42.38,
+     "end": 42.85
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 45.27,
+   "end": 46.21,
+   "text": "Vou atribuir a mesa",
+   "words": [
+    {
+     "word": "Vou",
+     "start": 45.27,
+     "end": 45.63
+    },
+    {
+     "word": "atribuir",
+     "start": 45.63,
+     "end": 45.99
+    },
+    {
+     "word": "a",
+     "start": 45.99,
+     "end": 46.09
+    },
+    {
+     "word": "mesa",
+     "start": 46.09,
+     "end": 46.21
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 46.25,
+   "end": 47.18,
+   "text": "ao Donatello",
+   "words": [
+    {
+     "word": "ao",
+     "start": 46.25,
+     "end": 46.37
+    },
+    {
+     "word": "Donatello",
+     "start": 46.37,
+     "end": 47.18
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 48.03,
+   "end": 49.11,
+   "text": "Vou atribuir a mesa",
+   "words": [
+    {
+     "word": "Vou",
+     "start": 48.03,
+     "end": 48.39
+    },
+    {
+     "word": "atribuir",
+     "start": 48.39,
+     "end": 48.75
+    },
+    {
+     "word": "a",
+     "start": 48.75,
+     "end": 48.87
+    },
+    {
+     "word": "mesa",
+     "start": 48.87,
+     "end": 49.11
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 49.15,
+   "end": 50.82,
+   "text": "a esse cara que tem muito dinheiro",
+   "words": [
+    {
+     "word": "a",
+     "start": 49.15,
+     "end": 49.31
+    },
+    {
+     "word": "esse",
+     "start": 49.31,
+     "end": 49.47
+    },
+    {
+     "word": "cara",
+     "start": 49.47,
+     "end": 49.65
+    },
+    {
+     "word": "que",
+     "start": 49.65,
+     "end": 49.77
+    },
+    {
+     "word": "tem",
+     "start": 49.77,
+     "end": 49.89
+    },
+    {
+     "word": "muito",
+     "start": 49.89,
+     "end": 50.17
+    },
+    {
+     "word": "dinheiro",
+     "start": 50.17,
+     "end": 50.82
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
