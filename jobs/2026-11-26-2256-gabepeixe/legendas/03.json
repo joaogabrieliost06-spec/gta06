@@ -1,0 +1,458 @@
+{
+ "segments": [
+  {
+   "start": 1.96,
+   "end": 3.92,
+   "text": "46 mil, eu ganhei",
+   "words": [
+    {
+     "word": "46",
+     "start": 1.96,
+     "end": 2.6
+    },
+    {
+     "word": "mil,",
+     "start": 2.6,
+     "end": 3.0
+    },
+    {
+     "word": "eu",
+     "start": 3.3,
+     "end": 3.7
+    },
+    {
+     "word": "ganhei",
+     "start": 3.7,
+     "end": 3.92
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 3.96,
+   "end": 5.11,
+   "text": "46 mil",
+   "words": [
+    {
+     "word": "46",
+     "start": 3.96,
+     "end": 4.52
+    },
+    {
+     "word": "mil",
+     "start": 4.52,
+     "end": 5.11
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.31,
+   "end": 10.83,
+   "text": "da boate lá, mano",
+   "words": [
+    {
+     "word": "da",
+     "start": 7.31,
+     "end": 9.65
+    },
+    {
+     "word": "boate",
+     "start": 9.65,
+     "end": 10.09
+    },
+    {
+     "word": "lá,",
+     "start": 10.09,
+     "end": 10.33
+    },
+    {
+     "word": "mano",
+     "start": 10.55,
+     "end": 10.83
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.87,
+   "end": 11.83,
+   "text": "voa, caralho",
+   "words": [
+    {
+     "word": "voa,",
+     "start": 10.87,
+     "end": 11.37
+    },
+    {
+     "word": "caralho",
+     "start": 11.37,
+     "end": 11.83
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 11.87,
+   "end": 12.84,
+   "text": "já vou salvar o jogo",
+   "words": [
+    {
+     "word": "já",
+     "start": 11.87,
+     "end": 11.93
+    },
+    {
+     "word": "vou",
+     "start": 11.93,
+     "end": 12.03
+    },
+    {
+     "word": "salvar",
+     "start": 12.03,
+     "end": 12.25
+    },
+    {
+     "word": "o",
+     "start": 12.25,
+     "end": 12.39
+    },
+    {
+     "word": "jogo",
+     "start": 12.39,
+     "end": 12.84
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 17.07,
+   "end": 18.74,
+   "text": "91%",
+   "words": [
+    {
+     "word": "91%",
+     "start": 17.07,
+     "end": 18.74
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 21.3,
+   "end": 23.32,
+   "text": "estamos com 236 mil",
+   "words": [
+    {
+     "word": "estamos",
+     "start": 21.3,
+     "end": 21.66
+    },
+    {
+     "word": "com",
+     "start": 21.66,
+     "end": 21.94
+    },
+    {
+     "word": "236",
+     "start": 21.94,
+     "end": 23.12
+    },
+    {
+     "word": "mil",
+     "start": 23.12,
+     "end": 23.32
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 23.36,
+   "end": 24.49,
+   "text": "e 1 milhão na conta",
+   "words": [
+    {
+     "word": "e",
+     "start": 23.36,
+     "end": 23.48
+    },
+    {
+     "word": "1",
+     "start": 23.48,
+     "end": 23.6
+    },
+    {
+     "word": "milhão",
+     "start": 23.6,
+     "end": 23.78
+    },
+    {
+     "word": "na",
+     "start": 23.78,
+     "end": 23.9
+    },
+    {
+     "word": "conta",
+     "start": 23.9,
+     "end": 24.49
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 34.3,
+   "end": 34.96,
+   "text": "trocar essa roupa",
+   "words": [
+    {
+     "word": "trocar",
+     "start": 34.3,
+     "end": 34.58
+    },
+    {
+     "word": "essa",
+     "start": 34.58,
+     "end": 34.72
+    },
+    {
+     "word": "roupa",
+     "start": 34.72,
+     "end": 34.96
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 35.0,
+   "end": 35.85,
+   "text": "que eu não aguento mais",
+   "words": [
+    {
+     "word": "que",
+     "start": 35.0,
+     "end": 35.08
+    },
+    {
+     "word": "eu",
+     "start": 35.08,
+     "end": 35.13
+    },
+    {
+     "word": "não",
+     "start": 35.13,
+     "end": 35.18
+    },
+    {
+     "word": "aguento",
+     "start": 35.18,
+     "end": 35.38
+    },
+    {
+     "word": "mais",
+     "start": 35.38,
+     "end": 35.85
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 39.17,
+   "end": 40.22,
+   "text": "não era hoje, será?",
+   "words": [
+    {
+     "word": "não",
+     "start": 39.17,
+     "end": 39.29
+    },
+    {
+     "word": "era",
+     "start": 39.29,
+     "end": 39.43
+    },
+    {
+     "word": "hoje,",
+     "start": 39.43,
+     "end": 39.67
+    },
+    {
+     "word": "será?",
+     "start": 39.87,
+     "end": 40.22
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 40.69,
+   "end": 41.69,
+   "text": "Cara, acho difícil",
+   "words": [
+    {
+     "word": "Cara,",
+     "start": 40.69,
+     "end": 40.83
+    },
+    {
+     "word": "acho",
+     "start": 40.93,
+     "end": 41.07
+    },
+    {
+     "word": "difícil",
+     "start": 41.07,
+     "end": 41.69
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 41.73,
+   "end": 42.51,
+   "text": "pela quantidade de missão",
+   "words": [
+    {
+     "word": "pela",
+     "start": 41.73,
+     "end": 41.83
+    },
+    {
+     "word": "quantidade",
+     "start": 41.83,
+     "end": 42.11
+    },
+    {
+     "word": "de",
+     "start": 42.11,
+     "end": 42.29
+    },
+    {
+     "word": "missão",
+     "start": 42.29,
+     "end": 42.51
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 42.55,
+   "end": 43.64,
+   "text": "que eu vejo",
+   "words": [
+    {
+     "word": "que",
+     "start": 42.55,
+     "end": 42.69
+    },
+    {
+     "word": "eu",
+     "start": 42.69,
+     "end": 42.81
+    },
+    {
+     "word": "vejo",
+     "start": 42.81,
+     "end": 43.64
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 43.77,
+   "end": 44.51,
+   "text": "ontem eu fiz só",
+   "words": [
+    {
+     "word": "ontem",
+     "start": 43.77,
+     "end": 44.07
+    },
+    {
+     "word": "eu",
+     "start": 44.07,
+     "end": 44.17
+    },
+    {
+     "word": "fiz",
+     "start": 44.17,
+     "end": 44.35
+    },
+    {
+     "word": "só",
+     "start": 44.35,
+     "end": 44.51
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 44.55,
+   "end": 45.29,
+   "text": "a missão principal",
+   "words": [
+    {
+     "word": "a",
+     "start": 44.55,
+     "end": 44.63
+    },
+    {
+     "word": "missão",
+     "start": 44.63,
+     "end": 44.83
+    },
+    {
+     "word": "principal",
+     "start": 44.83,
+     "end": 45.29
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 45.33,
+   "end": 45.92,
+   "text": "basicamente, foram",
+   "words": [
+    {
+     "word": "basicamente,",
+     "start": 45.33,
+     "end": 45.71
+    },
+    {
+     "word": "foram",
+     "start": 45.87,
+     "end": 45.92
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 45.91,
+   "end": 47.38,
+   "text": "13 horas de live",
+   "words": [
+    {
+     "word": "13",
+     "start": 45.91,
+     "end": 46.63
+    },
+    {
+     "word": "horas",
+     "start": 46.63,
+     "end": 46.83
+    },
+    {
+     "word": "de",
+     "start": 46.83,
+     "end": 46.97
+    },
+    {
+     "word": "live",
+     "start": 46.97,
+     "end": 47.38
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
