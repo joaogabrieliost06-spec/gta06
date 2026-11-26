@@ -1,0 +1,467 @@
+{
+ "segments": [
+  {
+   "start": 3.4,
+   "end": 4.18,
+   "text": "Pô, nem uma cartinha",
+   "words": [
+    {
+     "word": "Pô,",
+     "start": 3.4,
+     "end": 3.66
+    },
+    {
+     "word": "nem",
+     "start": 3.72,
+     "end": 3.77
+    },
+    {
+     "word": "uma",
+     "start": 3.77,
+     "end": 3.88
+    },
+    {
+     "word": "cartinha",
+     "start": 3.88,
+     "end": 4.18
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 4.22,
+   "end": 5.53,
+   "text": "colecionável, bicho",
+   "words": [
+    {
+     "word": "colecionável,",
+     "start": 4.22,
+     "end": 4.9
+    },
+    {
+     "word": "bicho",
+     "start": 5.02,
+     "end": 5.53
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 19.18,
+   "end": 20.79,
+   "text": "Deixei alguma coisa passar",
+   "words": [
+    {
+     "word": "Deixei",
+     "start": 19.18,
+     "end": 19.56
+    },
+    {
+     "word": "alguma",
+     "start": 19.56,
+     "end": 19.74
+    },
+    {
+     "word": "coisa",
+     "start": 19.74,
+     "end": 20.02
+    },
+    {
+     "word": "passar",
+     "start": 20.02,
+     "end": 20.79
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 21.51,
+   "end": 23.03,
+   "text": "Lugar bonito da porra, né",
+   "words": [
+    {
+     "word": "Lugar",
+     "start": 21.51,
+     "end": 21.73
+    },
+    {
+     "word": "bonito",
+     "start": 21.73,
+     "end": 22.11
+    },
+    {
+     "word": "da",
+     "start": 22.11,
+     "end": 22.29
+    },
+    {
+     "word": "porra,",
+     "start": 22.29,
+     "end": 22.71
+    },
+    {
+     "word": "né",
+     "start": 22.79,
+     "end": 23.03
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 23.07,
+   "end": 24.43,
+   "text": "Trazer a Lucia pra cá, mano",
+   "words": [
+    {
+     "word": "Trazer",
+     "start": 23.07,
+     "end": 23.27
+    },
+    {
+     "word": "a",
+     "start": 23.27,
+     "end": 23.39
+    },
+    {
+     "word": "Lucia",
+     "start": 23.39,
+     "end": 23.71
+    },
+    {
+     "word": "pra",
+     "start": 23.71,
+     "end": 23.89
+    },
+    {
+     "word": "cá,",
+     "start": 23.89,
+     "end": 24.11
+    },
+    {
+     "word": "mano",
+     "start": 24.29,
+     "end": 24.43
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 24.47,
+   "end": 25.17,
+   "text": "Quer dizer, vou não",
+   "words": [
+    {
+     "word": "Quer",
+     "start": 24.47,
+     "end": 24.57
+    },
+    {
+     "word": "dizer,",
+     "start": 24.57,
+     "end": 24.69
+    },
+    {
+     "word": "vou",
+     "start": 24.83,
+     "end": 24.97
+    },
+    {
+     "word": "não",
+     "start": 24.97,
+     "end": 25.17
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 25.21,
+   "end": 26.03,
+   "text": "Ela tá me ignorando",
+   "words": [
+    {
+     "word": "Ela",
+     "start": 25.21,
+     "end": 25.29
+    },
+    {
+     "word": "tá",
+     "start": 25.29,
+     "end": 25.41
+    },
+    {
+     "word": "me",
+     "start": 25.41,
+     "end": 25.53
+    },
+    {
+     "word": "ignorando",
+     "start": 25.53,
+     "end": 26.03
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 26.07,
+   "end": 27.22,
+   "text": "falando que eu sou grudento",
+   "words": [
+    {
+     "word": "falando",
+     "start": 26.07,
+     "end": 26.17
+    },
+    {
+     "word": "que",
+     "start": 26.17,
+     "end": 26.29
+    },
+    {
+     "word": "eu",
+     "start": 26.29,
+     "end": 26.34
+    },
+    {
+     "word": "sou",
+     "start": 26.34,
+     "end": 26.49
+    },
+    {
+     "word": "grudento",
+     "start": 26.49,
+     "end": 27.22
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 27.73,
+   "end": 29.0,
+   "text": "Toma no cu",
+   "words": [
+    {
+     "word": "Toma",
+     "start": 27.73,
+     "end": 28.01
+    },
+    {
+     "word": "no",
+     "start": 28.25,
+     "end": 28.5
+    },
+    {
+     "word": "cu",
+     "start": 28.5,
+     "end": 29.0
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 29.8,
+   "end": 31.31,
+   "text": "Lucia, não fode",
+   "words": [
+    {
+     "word": "Lucia,",
+     "start": 29.8,
+     "end": 30.32
+    },
+    {
+     "word": "não",
+     "start": 30.52,
+     "end": 30.62
+    },
+    {
+     "word": "fode",
+     "start": 30.62,
+     "end": 31.31
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 32.71,
+   "end": 33.79,
+   "text": "Tá, e uma antena",
+   "words": [
+    {
+     "word": "Tá,",
+     "start": 32.71,
+     "end": 32.85
+    },
+    {
+     "word": "e",
+     "start": 33.03,
+     "end": 33.19
+    },
+    {
+     "word": "uma",
+     "start": 33.19,
+     "end": 33.33
+    },
+    {
+     "word": "antena",
+     "start": 33.33,
+     "end": 33.79
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 33.83,
+   "end": 34.71,
+   "text": "Aqui é o lugar mais alto?",
+   "words": [
+    {
+     "word": "Aqui",
+     "start": 33.83,
+     "end": 33.91
+    },
+    {
+     "word": "é",
+     "start": 33.91,
+     "end": 33.97
+    },
+    {
+     "word": "o",
+     "start": 33.97,
+     "end": 34.02
+    },
+    {
+     "word": "lugar",
+     "start": 34.02,
+     "end": 34.17
+    },
+    {
+     "word": "mais",
+     "start": 34.17,
+     "end": 34.39
+    },
+    {
+     "word": "alto?",
+     "start": 34.39,
+     "end": 34.71
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 34.75,
+   "end": 35.7,
+   "text": "Aquela ali não é",
+   "words": [
+    {
+     "word": "Aquela",
+     "start": 34.75,
+     "end": 34.91
+    },
+    {
+     "word": "ali",
+     "start": 34.91,
+     "end": 35.07
+    },
+    {
+     "word": "não",
+     "start": 35.07,
+     "end": 35.21
+    },
+    {
+     "word": "é",
+     "start": 35.21,
+     "end": 35.7
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 37.76,
+   "end": 38.44,
+   "text": "Talvez pra cá",
+   "words": [
+    {
+     "word": "Talvez",
+     "start": 37.76,
+     "end": 37.96
+    },
+    {
+     "word": "pra",
+     "start": 37.96,
+     "end": 38.2
+    },
+    {
+     "word": "cá",
+     "start": 38.2,
+     "end": 38.44
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 38.48,
+   "end": 39.04,
+   "text": "Deixa eu ir mais pra essa",
+   "words": [
+    {
+     "word": "Deixa",
+     "start": 38.48,
+     "end": 38.6
+    },
+    {
+     "word": "eu",
+     "start": 38.6,
+     "end": 38.68
+    },
+    {
+     "word": "ir",
+     "start": 38.68,
+     "end": 38.76
+    },
+    {
+     "word": "mais",
+     "start": 38.76,
+     "end": 38.84
+    },
+    {
+     "word": "pra",
+     "start": 38.84,
+     "end": 38.96
+    },
+    {
+     "word": "essa",
+     "start": 38.96,
+     "end": 39.04
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 39.08,
+   "end": 40.21,
+   "text": "direção aqui pra ver",
+   "words": [
+    {
+     "word": "direção",
+     "start": 39.08,
+     "end": 39.5
+    },
+    {
+     "word": "aqui",
+     "start": 39.5,
+     "end": 39.64
+    },
+    {
+     "word": "pra",
+     "start": 39.64,
+     "end": 39.78
+    },
+    {
+     "word": "ver",
+     "start": 39.78,
+     "end": 40.21
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
