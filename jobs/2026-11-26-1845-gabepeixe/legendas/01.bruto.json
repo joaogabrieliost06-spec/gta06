@@ -1,0 +1,177 @@
+{
+ "duracao": 49.0,
+ "idioma": "pt",
+ "falantes": 1,
+ "palavras": [
+  {
+   "w": "rarararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararar",
+   "s": 36.13,
+   "e": 37.53,
+   "p": 0.98,
+   "f": 1
+  },
+  {
+   "w": "Eu",
+   "s": 37.64,
+   "e": 38.14,
+   "p": 0.63,
+   "f": 1
+  },
+  {
+   "w": "já",
+   "s": 38.14,
+   "e": 38.28,
+   "p": 1.0,
+   "f": 1
+  },
+  {
+   "w": "me",
+   "s": 38.28,
+   "e": 38.44,
+   "p": 1.0,
+   "f": 1
+  },
+  {
+   "w": "deixei",
+   "s": 38.44,
+   "e": 38.76,
+   "p": 0.62,
+   "f": 1
+  },
+  {
+   "w": "a",
+   "s": 38.76,
+   "e": 38.88,
+   "p": 0.89,
+   "f": 1
+  },
+  {
+   "w": "caráter",
+   "s": 38.88,
+   "e": 39.26,
+   "p": 0.99,
+   "f": 1
+  },
+  {
+   "w": "aqui,",
+   "s": 39.26,
+   "e": 39.5,
+   "p": 0.99,
+   "f": 1
+  },
+  {
+   "w": "né?",
+   "s": 39.54,
+   "e": 39.66,
+   "p": 1.0,
+   "f": 1
+  },
+  {
+   "w": "Agora",
+   "s": 40.91,
+   "e": 41.27,
+   "p": 1.0,
+   "f": 1
+  },
+  {
+   "w": "eu",
+   "s": 41.27,
+   "e": 41.47,
+   "p": 1.0,
+   "f": 1
+  },
+  {
+   "w": "tô",
+   "s": 41.47,
+   "e": 41.63,
+   "p": 0.8,
+   "f": 1
+  },
+  {
+   "w": "arrumado,",
+   "s": 41.84,
+   "e": 42.84,
+   "p": 0.91,
+   "f": 1
+  },
+  {
+   "w": "bicho.",
+   "s": 42.94,
+   "e": 43.22,
+   "p": 0.99,
+   "f": 1
+  },
+  {
+   "w": "Não",
+   "s": 48.34,
+   "e": 48.46,
+   "p": 0.99,
+   "f": 1
+  },
+  {
+   "w": "tem",
+   "s": 48.46,
+   "e": 48.62,
+   "p": 1.0,
+   "f": 1
+  },
+  {
+   "w": "como",
+   "s": 48.62,
+   "e": 48.8,
+   "p": 1.0,
+   "f": 1
+  },
+  {
+   "w": "você...",
+   "s": 48.8,
+   "e": 48.98,
+   "p": 0.68,
+   "f": 1
+  }
+ ],
+ "blocos": [
+  {
+   "f": 1,
+   "texto": "rarararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararar",
+   "de": 36.13,
+   "ate": 37.53,
+   "pos": 0.46
+  },
+  {
+   "f": 1,
+   "texto": "Eu já me deixei",
+   "de": 37.64,
+   "ate": 38.76,
+   "pos": 0.46
+  },
+  {
+   "f": 1,
+   "texto": "a caráter aqui, né?",
+   "de": 38.76,
+   "ate": 39.66,
+   "pos": 0.46
+  },
+  {
+   "f": 1,
+   "texto": "Agora eu",
+   "de": 40.91,
+   "ate": 41.47,
+   "pos": 0.46
+  },
+  {
+   "f": 1,
+   "texto": "tô arrumado, bicho.",
+   "de": 41.47,
+   "ate": 43.22,
+   "pos": 0.46
+  },
+  {
+   "f": 1,
+   "texto": "Não tem como você...",
+   "de": 48.34,
+   "ate": 48.98,
+   "pos": 0.46
+  }
+ ]
+}
