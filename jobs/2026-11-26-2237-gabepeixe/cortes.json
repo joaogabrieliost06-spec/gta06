@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Jason, Lucia, Jimmy, camarim, boate, seguidores, impressões, mídia, videogame, travou, porrada, mano, viado, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:02:03", "fim": "0:03:31", "titulo": "QUEM ENTRA NO CAMARIM"},
+  {"id": "02", "inicio": "0:10:22", "fim": "0:11:20", "titulo": "EU PRECISO DA MÍDIA"},
+  {"id": "03", "inicio": "0:17:08", "fim": "0:18:20", "titulo": "AQUI QUE DEU RUIM"}
+ ]
+}

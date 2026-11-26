@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, Alan, GTA 6, Lucia, Jason, Raul, Felipe, Porsche, Rolls Royce, Urus, rastreador, Mercedes, carro raro, missão principal, bebê, mano, velho, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:03:58", "fim": "0:05:00", "titulo": "ELE SAIU DO PORSCHE"},
+  {"id": "02", "inicio": "0:08:04", "fim": "0:08:50", "titulo": "REGREDIU PRA APAIXONADO"},
+  {"id": "03", "inicio": "0:12:40", "fim": "0:13:12", "titulo": "NUNCA VOU ZERAR ESSE JOGO"}
+ ]
+}
