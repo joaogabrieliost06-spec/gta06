@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, GTA 6, Jason, Lucia, Luce, banco, cofre, moto, sacola de dinheiro, ganância, patinete, Corsa, mano, velho, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:03:42", "fim": "0:05:10", "titulo": "PERDI A SACOLA DE DINHEIRO"},
+  {"id": "02", "inicio": "0:15:28", "fim": "0:16:52", "titulo": "A GANANCIA E A PERDICAO"},
+  {"id": "03", "inicio": "0:16:53", "fim": "0:18:21", "titulo": "A LU NAO QUER VIR"}
+ ]
+}
