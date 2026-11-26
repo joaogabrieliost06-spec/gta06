@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, GTA, Xbox, missão, save, superaquecimento, travou, festa, mano, bicho, viado, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:02:38", "fim": "0:03:37", "titulo": "O CARA É UMA ROCHA"},
+  {"id": "02", "inicio": "0:10:14", "fim": "0:11:07", "titulo": "NÃO FOI O XBOX QUE TRAVOU"},
+  {"id": "03", "inicio": "0:12:24", "fim": "0:13:36", "titulo": "PERDEU A MISSÃO INTEIRA"}
+ ]
+}
