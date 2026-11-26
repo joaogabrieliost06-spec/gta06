@@ -1,0 +1,331 @@
+{
+ "segments": [
+  {
+   "start": 1.35,
+   "end": 2.11,
+   "text": "Eu vou precisar ter",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 1.35,
+     "end": 1.39
+    },
+    {
+     "word": "vou",
+     "start": 1.39,
+     "end": 1.51
+    },
+    {
+     "word": "precisar",
+     "start": 1.51,
+     "end": 1.85
+    },
+    {
+     "word": "ter",
+     "start": 1.85,
+     "end": 2.11
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 2.15,
+   "end": 3.2,
+   "text": "as minas, mano",
+   "words": [
+    {
+     "word": "as",
+     "start": 2.15,
+     "end": 2.35
+    },
+    {
+     "word": "minas,",
+     "start": 2.35,
+     "end": 2.69
+    },
+    {
+     "word": "mano",
+     "start": 2.79,
+     "end": 3.2
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 3.54,
+   "end": 4.5,
+   "text": "Vou ter que levar as minas",
+   "words": [
+    {
+     "word": "Vou",
+     "start": 3.54,
+     "end": 3.58
+    },
+    {
+     "word": "ter",
+     "start": 3.58,
+     "end": 3.7
+    },
+    {
+     "word": "que",
+     "start": 3.7,
+     "end": 3.84
+    },
+    {
+     "word": "levar",
+     "start": 3.84,
+     "end": 4.02
+    },
+    {
+     "word": "as",
+     "start": 4.02,
+     "end": 4.22
+    },
+    {
+     "word": "minas",
+     "start": 4.22,
+     "end": 4.5
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 4.54,
+   "end": 5.2,
+   "text": "esse cara vai trazer",
+   "words": [
+    {
+     "word": "esse",
+     "start": 4.54,
+     "end": 4.66
+    },
+    {
+     "word": "cara",
+     "start": 4.66,
+     "end": 4.86
+    },
+    {
+     "word": "vai",
+     "start": 4.86,
+     "end": 5.0
+    },
+    {
+     "word": "trazer",
+     "start": 5.0,
+     "end": 5.2
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 5.24,
+   "end": 6.63,
+   "text": "as minas também, é isso",
+   "words": [
+    {
+     "word": "as",
+     "start": 5.24,
+     "end": 5.44
+    },
+    {
+     "word": "minas",
+     "start": 5.44,
+     "end": 5.7
+    },
+    {
+     "word": "também,",
+     "start": 5.7,
+     "end": 5.94
+    },
+    {
+     "word": "é",
+     "start": 6.12,
+     "end": 6.22
+    },
+    {
+     "word": "isso",
+     "start": 6.22,
+     "end": 6.63
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.78,
+   "end": 7.9,
+   "text": "Um com dinheiro",
+   "words": [
+    {
+     "word": "Um",
+     "start": 6.78,
+     "end": 7.02
+    },
+    {
+     "word": "com",
+     "start": 7.02,
+     "end": 7.28
+    },
+    {
+     "word": "dinheiro",
+     "start": 7.28,
+     "end": 7.9
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.94,
+   "end": 8.56,
+   "text": "um com fama",
+   "words": [
+    {
+     "word": "um",
+     "start": 7.94,
+     "end": 8.06
+    },
+    {
+     "word": "com",
+     "start": 8.06,
+     "end": 8.2
+    },
+    {
+     "word": "fama",
+     "start": 8.2,
+     "end": 8.56
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 8.6,
+   "end": 9.69,
+   "text": "e outro com mulheres",
+   "words": [
+    {
+     "word": "e",
+     "start": 8.6,
+     "end": 8.66
+    },
+    {
+     "word": "outro",
+     "start": 8.66,
+     "end": 8.82
+    },
+    {
+     "word": "com",
+     "start": 8.82,
+     "end": 9.04
+    },
+    {
+     "word": "mulheres",
+     "start": 9.04,
+     "end": 9.69
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 9.94,
+   "end": 10.71,
+   "text": "Não tem erro",
+   "words": [
+    {
+     "word": "Não",
+     "start": 9.94,
+     "end": 10.02
+    },
+    {
+     "word": "tem",
+     "start": 10.02,
+     "end": 10.2
+    },
+    {
+     "word": "erro",
+     "start": 10.2,
+     "end": 10.71
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 13.45,
+   "end": 14.26,
+   "text": "Mulheres",
+   "words": [
+    {
+     "word": "Mulheres",
+     "start": 13.45,
+     "end": 14.26
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 14.59,
+   "end": 15.44,
+   "text": "dinheiro",
+   "words": [
+    {
+     "word": "dinheiro",
+     "start": 14.59,
+     "end": 15.44
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 16.87,
+   "end": 18.2,
+   "text": "fama",
+   "words": [
+    {
+     "word": "fama",
+     "start": 16.87,
+     "end": 18.2
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 20.3,
+   "end": 20.99,
+   "text": "É isso",
+   "words": [
+    {
+     "word": "É",
+     "start": 20.3,
+     "end": 20.44
+    },
+    {
+     "word": "isso",
+     "start": 20.44,
+     "end": 20.99
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 21.14,
+   "end": 23.5,
+   "text": "foda-se o Jimmy",
+   "words": [
+    {
+     "word": "foda-se",
+     "start": 21.14,
+     "end": 22.94
+    },
+    {
+     "word": "o",
+     "start": 23.03,
+     "end": 23.09
+    },
+    {
+     "word": "Jimmy",
+     "start": 23.09,
+     "end": 23.5
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
