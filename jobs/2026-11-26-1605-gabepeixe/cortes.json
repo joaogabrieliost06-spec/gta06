@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Lucia, evento, Uber, canyon, Los Angeles, Kicks, anjinho, mano, bicho, viado, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:05:28", "fim": "0:06:14", "titulo": "A LENDA DO CHUPA-CU"},
+  {"id": "02", "inicio": "0:07:20", "fim": "0:08:50", "titulo": "VIREI UBER NO GTA"},
+  {"id": "03", "inicio": "0:13:12", "fim": "0:14:14", "titulo": "ELE PEGOU A MULHER DO CARA"}
+ ]
+}
