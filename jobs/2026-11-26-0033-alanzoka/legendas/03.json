@@ -1,0 +1,327 @@
+{
+ "segments": [
+  {
+   "start": 3.55,
+   "end": 4.33,
+   "text": "Ameaça chover, cara",
+   "words": [
+    {
+     "word": "Ameaça",
+     "start": 3.55,
+     "end": 3.85
+    },
+    {
+     "word": "chover,",
+     "start": 3.85,
+     "end": 4.15
+    },
+    {
+     "word": "cara",
+     "start": 4.23,
+     "end": 4.33
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 4.37,
+   "end": 6.04,
+   "text": "tá com mó cara de chuva, não tá?",
+   "words": [
+    {
+     "word": "tá",
+     "start": 4.37,
+     "end": 4.43
+    },
+    {
+     "word": "com",
+     "start": 4.43,
+     "end": 4.55
+    },
+    {
+     "word": "mó",
+     "start": 4.55,
+     "end": 4.67
+    },
+    {
+     "word": "cara",
+     "start": 4.67,
+     "end": 4.89
+    },
+    {
+     "word": "de",
+     "start": 4.89,
+     "end": 5.05
+    },
+    {
+     "word": "chuva,",
+     "start": 5.05,
+     "end": 5.43
+    },
+    {
+     "word": "não",
+     "start": 5.49,
+     "end": 5.57
+    },
+    {
+     "word": "tá?",
+     "start": 5.57,
+     "end": 6.04
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 27.35,
+   "end": 29.04,
+   "text": "Caralho, querida, sai da rua, ô",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 27.35,
+     "end": 27.65
+    },
+    {
+     "word": "querida,",
+     "start": 27.73,
+     "end": 27.93
+    },
+    {
+     "word": "sai",
+     "start": 27.93,
+     "end": 28.15
+    },
+    {
+     "word": "da",
+     "start": 28.15,
+     "end": 28.29
+    },
+    {
+     "word": "rua,",
+     "start": 28.29,
+     "end": 28.61
+    },
+    {
+     "word": "ô",
+     "start": 28.73,
+     "end": 29.04
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 38.1,
+   "end": 38.94,
+   "text": "É, atropelada",
+   "words": [
+    {
+     "word": "É,",
+     "start": 38.1,
+     "end": 38.26
+    },
+    {
+     "word": "atropelada",
+     "start": 38.44,
+     "end": 38.94
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 38.98,
+   "end": 39.91,
+   "text": "a culpa é minha, né?",
+   "words": [
+    {
+     "word": "a",
+     "start": 38.98,
+     "end": 39.0
+    },
+    {
+     "word": "culpa",
+     "start": 39.0,
+     "end": 39.14
+    },
+    {
+     "word": "é",
+     "start": 39.14,
+     "end": 39.3
+    },
+    {
+     "word": "minha,",
+     "start": 39.3,
+     "end": 39.48
+    },
+    {
+     "word": "né?",
+     "start": 39.56,
+     "end": 39.91
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 46.22,
+   "end": 47.32,
+   "text": "Ciclofaixa não é enfeite não",
+   "words": [
+    {
+     "word": "Ciclofaixa",
+     "start": 46.22,
+     "end": 46.52
+    },
+    {
+     "word": "não",
+     "start": 46.52,
+     "end": 46.62
+    },
+    {
+     "word": "é",
+     "start": 46.62,
+     "end": 46.72
+    },
+    {
+     "word": "enfeite",
+     "start": 46.72,
+     "end": 47.08
+    },
+    {
+     "word": "não",
+     "start": 47.08,
+     "end": 47.32
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 47.36,
+   "end": 48.15,
+   "text": "ô seu merda",
+   "words": [
+    {
+     "word": "ô",
+     "start": 47.36,
+     "end": 47.4
+    },
+    {
+     "word": "seu",
+     "start": 47.4,
+     "end": 47.52
+    },
+    {
+     "word": "merda",
+     "start": 47.52,
+     "end": 48.15
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 60.83,
+   "end": 62.25,
+   "text": "Vamos trocar de roupa, chat",
+   "words": [
+    {
+     "word": "Vamos",
+     "start": 60.83,
+     "end": 61.13
+    },
+    {
+     "word": "trocar",
+     "start": 61.13,
+     "end": 61.43
+    },
+    {
+     "word": "de",
+     "start": 61.43,
+     "end": 61.55
+    },
+    {
+     "word": "roupa,",
+     "start": 61.55,
+     "end": 61.83
+    },
+    {
+     "word": "chat",
+     "start": 61.85,
+     "end": 62.25
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 62.29,
+   "end": 62.89,
+   "text": "Amanhã a gente vai",
+   "words": [
+    {
+     "word": "Amanhã",
+     "start": 62.29,
+     "end": 62.59
+    },
+    {
+     "word": "a",
+     "start": 62.59,
+     "end": 62.73
+    },
+    {
+     "word": "gente",
+     "start": 62.73,
+     "end": 62.81
+    },
+    {
+     "word": "vai",
+     "start": 62.81,
+     "end": 62.89
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 62.93,
+   "end": 64.34,
+   "text": "montar uns looks novos",
+   "words": [
+    {
+     "word": "montar",
+     "start": 62.93,
+     "end": 63.23
+    },
+    {
+     "word": "uns",
+     "start": 63.23,
+     "end": 63.37
+    },
+    {
+     "word": "looks",
+     "start": 63.37,
+     "end": 63.59
+    },
+    {
+     "word": "novos",
+     "start": 63.59,
+     "end": 64.34
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 66.39,
+   "end": 67.24,
+   "text": "Vários fotógrafos",
+   "words": [
+    {
+     "word": "Vários",
+     "start": 66.39,
+     "end": 66.69
+    },
+    {
+     "word": "fotógrafos",
+     "start": 66.69,
+     "end": 67.24
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}

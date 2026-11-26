@@ -1,0 +1,660 @@
+{
+ "segments": [
+  {
+   "start": 2.57,
+   "end": 4.38,
+   "text": "Ah, aqui eu dropei esse veículo, mano",
+   "words": [
+    {
+     "word": "Ah,",
+     "start": 2.57,
+     "end": 2.79
+    },
+    {
+     "word": "aqui",
+     "start": 2.81,
+     "end": 2.91
+    },
+    {
+     "word": "eu",
+     "start": 2.91,
+     "end": 3.03
+    },
+    {
+     "word": "dropei",
+     "start": 3.03,
+     "end": 3.27
+    },
+    {
+     "word": "esse",
+     "start": 3.27,
+     "end": 3.43
+    },
+    {
+     "word": "veículo,",
+     "start": 3.43,
+     "end": 3.81
+    },
+    {
+     "word": "mano",
+     "start": 3.95,
+     "end": 4.38
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 11.45,
+   "end": 12.9,
+   "text": "irmão, que carro foda, tá?",
+   "words": [
+    {
+     "word": "irmão,",
+     "start": 11.45,
+     "end": 11.55
+    },
+    {
+     "word": "que",
+     "start": 11.61,
+     "end": 11.73
+    },
+    {
+     "word": "carro",
+     "start": 11.73,
+     "end": 12.05
+    },
+    {
+     "word": "foda,",
+     "start": 12.05,
+     "end": 12.45
+    },
+    {
+     "word": "tá?",
+     "start": 12.55,
+     "end": 12.9
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 18.42,
+   "end": 19.71,
+   "text": "carro foda, mano",
+   "words": [
+    {
+     "word": "carro",
+     "start": 18.42,
+     "end": 18.68
+    },
+    {
+     "word": "foda,",
+     "start": 18.68,
+     "end": 19.1
+    },
+    {
+     "word": "mano",
+     "start": 19.2,
+     "end": 19.71
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 22.49,
+   "end": 23.91,
+   "text": "Aí, chat, deu tudo certo",
+   "words": [
+    {
+     "word": "Aí,",
+     "start": 22.49,
+     "end": 22.89
+    },
+    {
+     "word": "chat,",
+     "start": 23.05,
+     "end": 23.21
+    },
+    {
+     "word": "deu",
+     "start": 23.33,
+     "end": 23.45
+    },
+    {
+     "word": "tudo",
+     "start": 23.45,
+     "end": 23.67
+    },
+    {
+     "word": "certo",
+     "start": 23.67,
+     "end": 23.91
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 23.95,
+   "end": 25.76,
+   "text": "no final, cara, fala dele",
+   "words": [
+    {
+     "word": "no",
+     "start": 23.95,
+     "end": 24.15
+    },
+    {
+     "word": "final,",
+     "start": 24.15,
+     "end": 24.41
+    },
+    {
+     "word": "cara,",
+     "start": 24.53,
+     "end": 24.73
+    },
+    {
+     "word": "fala",
+     "start": 24.91,
+     "end": 25.13
+    },
+    {
+     "word": "dele",
+     "start": 25.13,
+     "end": 25.76
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 28.1,
+   "end": 28.58,
+   "text": "tá ligado?",
+   "words": [
+    {
+     "word": "tá",
+     "start": 28.1,
+     "end": 28.2
+    },
+    {
+     "word": "ligado?",
+     "start": 28.2,
+     "end": 28.58
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 28.62,
+   "end": 30.49,
+   "text": "Não tem muito o falar, mano. Foi",
+   "words": [
+    {
+     "word": "Não",
+     "start": 28.62,
+     "end": 28.74
+    },
+    {
+     "word": "tem",
+     "start": 28.74,
+     "end": 28.9
+    },
+    {
+     "word": "muito",
+     "start": 28.9,
+     "end": 29.08
+    },
+    {
+     "word": "o",
+     "start": 29.08,
+     "end": 29.18
+    },
+    {
+     "word": "falar,",
+     "start": 29.18,
+     "end": 29.44
+    },
+    {
+     "word": "mano.",
+     "start": 29.54,
+     "end": 29.74
+    },
+    {
+     "word": "Foi",
+     "start": 29.74,
+     "end": 30.49
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 36.41,
+   "end": 37.2,
+   "text": "sorte?",
+   "words": [
+    {
+     "word": "sorte?",
+     "start": 36.41,
+     "end": 37.2
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 37.43,
+   "end": 38.29,
+   "text": "Nunca foi sorte",
+   "words": [
+    {
+     "word": "Nunca",
+     "start": 37.43,
+     "end": 37.83
+    },
+    {
+     "word": "foi",
+     "start": 37.83,
+     "end": 37.99
+    },
+    {
+     "word": "sorte",
+     "start": 37.99,
+     "end": 38.29
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 38.33,
+   "end": 40.1,
+   "text": "sempre foi Deus, caralho, mano",
+   "words": [
+    {
+     "word": "sempre",
+     "start": 38.33,
+     "end": 38.51
+    },
+    {
+     "word": "foi",
+     "start": 38.51,
+     "end": 38.77
+    },
+    {
+     "word": "Deus,",
+     "start": 38.77,
+     "end": 39.01
+    },
+    {
+     "word": "caralho,",
+     "start": 39.23,
+     "end": 39.49
+    },
+    {
+     "word": "mano",
+     "start": 39.63,
+     "end": 40.1
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 41.69,
+   "end": 42.34,
+   "text": "Cara",
+   "words": [
+    {
+     "word": "Cara",
+     "start": 41.69,
+     "end": 42.34
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 53.71,
+   "end": 54.43,
+   "text": "se esse jogo não tivesse",
+   "words": [
+    {
+     "word": "se",
+     "start": 53.71,
+     "end": 53.75
+    },
+    {
+     "word": "esse",
+     "start": 53.75,
+     "end": 53.91
+    },
+    {
+     "word": "jogo",
+     "start": 53.91,
+     "end": 54.09
+    },
+    {
+     "word": "não",
+     "start": 54.09,
+     "end": 54.21
+    },
+    {
+     "word": "tivesse",
+     "start": 54.21,
+     "end": 54.43
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 54.47,
+   "end": 55.97,
+   "text": "um input lag tão grande, mano",
+   "words": [
+    {
+     "word": "um",
+     "start": 54.47,
+     "end": 54.61
+    },
+    {
+     "word": "input",
+     "start": 54.61,
+     "end": 54.93
+    },
+    {
+     "word": "lag",
+     "start": 54.93,
+     "end": 55.15
+    },
+    {
+     "word": "tão",
+     "start": 55.15,
+     "end": 55.37
+    },
+    {
+     "word": "grande,",
+     "start": 55.37,
+     "end": 55.73
+    },
+    {
+     "word": "mano",
+     "start": 55.83,
+     "end": 55.97
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 56.01,
+   "end": 57.72,
+   "text": "eu nunca bateria o carro. Errei",
+   "words": [
+    {
+     "word": "eu",
+     "start": 56.01,
+     "end": 56.15
+    },
+    {
+     "word": "nunca",
+     "start": 56.15,
+     "end": 56.35
+    },
+    {
+     "word": "bateria",
+     "start": 56.35,
+     "end": 56.73
+    },
+    {
+     "word": "o",
+     "start": 56.73,
+     "end": 56.78
+    },
+    {
+     "word": "carro.",
+     "start": 56.78,
+     "end": 57.01
+    },
+    {
+     "word": "Errei",
+     "start": 57.01,
+     "end": 57.72
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 62.23,
+   "end": 62.88,
+   "text": "o caminho",
+   "words": [
+    {
+     "word": "o",
+     "start": 62.23,
+     "end": 62.31
+    },
+    {
+     "word": "caminho",
+     "start": 62.31,
+     "end": 62.88
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 63.5,
+   "end": 64.49,
+   "text": "errei o caminho",
+   "words": [
+    {
+     "word": "errei",
+     "start": 63.5,
+     "end": 63.88
+    },
+    {
+     "word": "o",
+     "start": 63.88,
+     "end": 63.98
+    },
+    {
+     "word": "caminho",
+     "start": 63.98,
+     "end": 64.49
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 65.27,
+   "end": 65.89,
+   "text": "Errei o caminho",
+   "words": [
+    {
+     "word": "Errei",
+     "start": 65.27,
+     "end": 65.55
+    },
+    {
+     "word": "o",
+     "start": 65.55,
+     "end": 65.63
+    },
+    {
+     "word": "caminho",
+     "start": 65.63,
+     "end": 65.89
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 65.93,
+   "end": 67.77,
+   "text": "Não, é que eu vou pegar outro caminho",
+   "words": [
+    {
+     "word": "Não,",
+     "start": 65.93,
+     "end": 66.43
+    },
+    {
+     "word": "é",
+     "start": 66.69,
+     "end": 66.74
+    },
+    {
+     "word": "que",
+     "start": 66.74,
+     "end": 66.81
+    },
+    {
+     "word": "eu",
+     "start": 66.81,
+     "end": 66.89
+    },
+    {
+     "word": "vou",
+     "start": 66.89,
+     "end": 67.03
+    },
+    {
+     "word": "pegar",
+     "start": 67.03,
+     "end": 67.23
+    },
+    {
+     "word": "outro",
+     "start": 67.23,
+     "end": 67.47
+    },
+    {
+     "word": "caminho",
+     "start": 67.47,
+     "end": 67.77
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 67.81,
+   "end": 68.62,
+   "text": "vou pegar esse",
+   "words": [
+    {
+     "word": "vou",
+     "start": 67.81,
+     "end": 67.91
+    },
+    {
+     "word": "pegar",
+     "start": 67.91,
+     "end": 68.09
+    },
+    {
+     "word": "esse",
+     "start": 68.09,
+     "end": 68.62
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 71.55,
+   "end": 72.47,
+   "text": "Caralho, mano, tá com o maior cara",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 71.55,
+     "end": 71.81
+    },
+    {
+     "word": "mano,",
+     "start": 71.89,
+     "end": 71.95
+    },
+    {
+     "word": "tá",
+     "start": 72.01,
+     "end": 72.09
+    },
+    {
+     "word": "com",
+     "start": 72.09,
+     "end": 72.23
+    },
+    {
+     "word": "o",
+     "start": 72.23,
+     "end": 72.31
+    },
+    {
+     "word": "maior",
+     "start": 72.31,
+     "end": 72.39
+    },
+    {
+     "word": "cara",
+     "start": 72.39,
+     "end": 72.47
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 72.51,
+   "end": 73.71,
+   "text": "de tempestade agora, hein",
+   "words": [
+    {
+     "word": "de",
+     "start": 72.51,
+     "end": 72.61
+    },
+    {
+     "word": "tempestade",
+     "start": 72.61,
+     "end": 73.23
+    },
+    {
+     "word": "agora,",
+     "start": 73.23,
+     "end": 73.55
+    },
+    {
+     "word": "hein",
+     "start": 73.63,
+     "end": 73.71
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 73.75,
+   "end": 75.22,
+   "text": "Olha o céu como tá",
+   "words": [
+    {
+     "word": "Olha",
+     "start": 73.75,
+     "end": 74.21
+    },
+    {
+     "word": "o",
+     "start": 74.21,
+     "end": 74.37
+    },
+    {
+     "word": "céu",
+     "start": 74.37,
+     "end": 74.53
+    },
+    {
+     "word": "como",
+     "start": 74.53,
+     "end": 74.77
+    },
+    {
+     "word": "tá",
+     "start": 74.77,
+     "end": 75.22
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
