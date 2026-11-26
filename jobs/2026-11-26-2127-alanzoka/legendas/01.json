@@ -1,0 +1,333 @@
+{
+ "segments": [
+  {
+   "start": 6.12,
+   "end": 7.85,
+   "text": "Caralho, Saturno, Uranus",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 6.12,
+     "end": 6.52
+    },
+    {
+     "word": "Saturno,",
+     "start": 6.52,
+     "end": 6.92
+    },
+    {
+     "word": "Uranus",
+     "start": 6.98,
+     "end": 7.85
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.65,
+   "end": 12.64,
+   "text": "Todos os mundos existem",
+   "words": [
+    {
+     "word": "Todos",
+     "start": 10.65,
+     "end": 11.05
+    },
+    {
+     "word": "os",
+     "start": 11.05,
+     "end": 11.35
+    },
+    {
+     "word": "mundos",
+     "start": 11.35,
+     "end": 11.77
+    },
+    {
+     "word": "existem",
+     "start": 11.77,
+     "end": 12.64
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 19.42,
+   "end": 20.85,
+   "text": "Dá pra eu voltar pra Terra",
+   "words": [
+    {
+     "word": "Dá",
+     "start": 19.42,
+     "end": 19.52
+    },
+    {
+     "word": "pra",
+     "start": 19.52,
+     "end": 19.62
+    },
+    {
+     "word": "eu",
+     "start": 19.62,
+     "end": 19.74
+    },
+    {
+     "word": "voltar",
+     "start": 19.74,
+     "end": 19.94
+    },
+    {
+     "word": "pra",
+     "start": 19.94,
+     "end": 20.14
+    },
+    {
+     "word": "Terra",
+     "start": 20.14,
+     "end": 20.85
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 23.43,
+   "end": 24.85,
+   "text": "Dá pra eu socar Uranus",
+   "words": [
+    {
+     "word": "Dá",
+     "start": 23.43,
+     "end": 23.57
+    },
+    {
+     "word": "pra",
+     "start": 23.57,
+     "end": 23.65
+    },
+    {
+     "word": "eu",
+     "start": 23.65,
+     "end": 23.77
+    },
+    {
+     "word": "socar",
+     "start": 23.77,
+     "end": 24.35
+    },
+    {
+     "word": "Uranus",
+     "start": 24.35,
+     "end": 24.85
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 24.89,
+   "end": 26.38,
+   "text": "Eu sempre quis socar Uranus",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 24.89,
+     "end": 24.99
+    },
+    {
+     "word": "sempre",
+     "start": 24.99,
+     "end": 25.13
+    },
+    {
+     "word": "quis",
+     "start": 25.13,
+     "end": 25.29
+    },
+    {
+     "word": "socar",
+     "start": 25.29,
+     "end": 25.57
+    },
+    {
+     "word": "Uranus",
+     "start": 25.57,
+     "end": 26.38
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 35.79,
+   "end": 36.92,
+   "text": "Sol, mano",
+   "words": [
+    {
+     "word": "Sol,",
+     "start": 35.79,
+     "end": 36.23
+    },
+    {
+     "word": "mano",
+     "start": 36.41,
+     "end": 36.92
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 42.57,
+   "end": 43.64,
+   "text": "Olha",
+   "words": [
+    {
+     "word": "Olha",
+     "start": 42.57,
+     "end": 43.64
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 47.15,
+   "end": 48.08,
+   "text": "minha casa!",
+   "words": [
+    {
+     "word": "minha",
+     "start": 47.15,
+     "end": 47.35
+    },
+    {
+     "word": "casa!",
+     "start": 47.35,
+     "end": 48.08
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 49.1,
+   "end": 50.18,
+   "text": "Rodar pra esquerda",
+   "words": [
+    {
+     "word": "Rodar",
+     "start": 49.1,
+     "end": 49.46
+    },
+    {
+     "word": "pra",
+     "start": 49.46,
+     "end": 49.62
+    },
+    {
+     "word": "esquerda",
+     "start": 49.62,
+     "end": 50.18
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 50.22,
+   "end": 51.43,
+   "text": "rodar pra direita",
+   "words": [
+    {
+     "word": "rodar",
+     "start": 50.22,
+     "end": 50.42
+    },
+    {
+     "word": "pra",
+     "start": 50.42,
+     "end": 50.54
+    },
+    {
+     "word": "direita",
+     "start": 50.54,
+     "end": 51.43
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 51.84,
+   "end": 53.09,
+   "text": "Roda pra direita",
+   "words": [
+    {
+     "word": "Roda",
+     "start": 51.84,
+     "end": 52.18
+    },
+    {
+     "word": "pra",
+     "start": 52.18,
+     "end": 52.32
+    },
+    {
+     "word": "direita",
+     "start": 52.32,
+     "end": 53.09
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 54.69,
+   "end": 55.27,
+   "text": "Não entendi, pra que",
+   "words": [
+    {
+     "word": "Não",
+     "start": 54.69,
+     "end": 54.85
+    },
+    {
+     "word": "entendi,",
+     "start": 54.85,
+     "end": 55.09
+    },
+    {
+     "word": "pra",
+     "start": 55.15,
+     "end": 55.21
+    },
+    {
+     "word": "que",
+     "start": 55.21,
+     "end": 55.27
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 55.31,
+   "end": 56.38,
+   "text": "eu tô rodando, mano",
+   "words": [
+    {
+     "word": "eu",
+     "start": 55.31,
+     "end": 55.43
+    },
+    {
+     "word": "tô",
+     "start": 55.43,
+     "end": 55.51
+    },
+    {
+     "word": "rodando,",
+     "start": 55.51,
+     "end": 55.93
+    },
+    {
+     "word": "mano",
+     "start": 56.01,
+     "end": 56.38
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
