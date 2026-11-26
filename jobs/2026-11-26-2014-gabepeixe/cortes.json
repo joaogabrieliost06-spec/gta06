@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Jason, Lucia, Bonnie e Clyde, Yajmani, roubo, relógio, terno, alarme, live, capítulo, mano, bicho, viado, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:02:26", "fim": "0:02:58", "titulo": "A LUCIA ME ABANDONOU"},
+  {"id": "02", "inicio": "0:03:14", "fim": "0:03:51", "titulo": "TEM CARA QUE ASSISTE COM A BUNDA"},
+  {"id": "03", "inicio": "0:18:47", "fim": "0:19:37", "titulo": "ESSE ROUBO FOI DOIDEIRA"}
+ ]
+}
