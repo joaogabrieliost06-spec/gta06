@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, GTA V, Jason, Lucia, Jimmy, Michael, Donatello, KD, mesa, boate, mano, bicho, viado, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:02:20", "fim": "0:03:12", "titulo": "É O FILHO DO MICHAEL"},
+  {"id": "02", "inicio": "0:03:44", "fim": "0:04:16", "titulo": "DINHEIRO, FAMA E MULHERES"},
+  {"id": "03", "inicio": "0:14:15", "fim": "0:15:03", "titulo": "ELA NEM ENCOSTOU EM MIM"}
+ ]
+}
