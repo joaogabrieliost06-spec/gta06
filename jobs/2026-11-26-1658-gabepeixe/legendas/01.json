@@ -1,0 +1,294 @@
+{
+ "segments": [
+  {
+   "start": 4.01,
+   "end": 5.85,
+   "text": "Viado, não, é a torre",
+   "words": [
+    {
+     "word": "Viado,",
+     "start": 4.01,
+     "end": 4.67
+    },
+    {
+     "word": "não,",
+     "start": 4.77,
+     "end": 5.35
+    },
+    {
+     "word": "é",
+     "start": 5.59,
+     "end": 5.64
+    },
+    {
+     "word": "a",
+     "start": 5.64,
+     "end": 5.73
+    },
+    {
+     "word": "torre",
+     "start": 5.73,
+     "end": 5.85
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 5.89,
+   "end": 6.72,
+   "text": "que eu fui",
+   "words": [
+    {
+     "word": "que",
+     "start": 5.89,
+     "end": 6.01
+    },
+    {
+     "word": "eu",
+     "start": 6.01,
+     "end": 6.13
+    },
+    {
+     "word": "fui",
+     "start": 6.13,
+     "end": 6.72
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 7.06,
+   "end": 7.88,
+   "text": "Mas por que caralhos",
+   "words": [
+    {
+     "word": "Mas",
+     "start": 7.06,
+     "end": 7.16
+    },
+    {
+     "word": "por",
+     "start": 7.16,
+     "end": 7.34
+    },
+    {
+     "word": "que",
+     "start": 7.34,
+     "end": 7.5
+    },
+    {
+     "word": "caralhos",
+     "start": 7.5,
+     "end": 7.88
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 7.92,
+   "end": 10.13,
+   "text": "ele tá dando lugar, viado?",
+   "words": [
+    {
+     "word": "ele",
+     "start": 7.92,
+     "end": 8.02
+    },
+    {
+     "word": "tá",
+     "start": 8.02,
+     "end": 8.14
+    },
+    {
+     "word": "dando",
+     "start": 8.14,
+     "end": 8.34
+    },
+    {
+     "word": "lugar,",
+     "start": 8.34,
+     "end": 8.76
+    },
+    {
+     "word": "viado?",
+     "start": 9.34,
+     "end": 10.13
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 12.33,
+   "end": 13.79,
+   "text": "Ele tá procurando o caminho",
+   "words": [
+    {
+     "word": "Ele",
+     "start": 12.33,
+     "end": 12.79
+    },
+    {
+     "word": "tá",
+     "start": 12.79,
+     "end": 12.91
+    },
+    {
+     "word": "procurando",
+     "start": 12.91,
+     "end": 13.33
+    },
+    {
+     "word": "o",
+     "start": 13.33,
+     "end": 13.49
+    },
+    {
+     "word": "caminho",
+     "start": 13.49,
+     "end": 13.79
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 13.83,
+   "end": 15.12,
+   "text": "pra eu seguir, mano",
+   "words": [
+    {
+     "word": "pra",
+     "start": 13.83,
+     "end": 14.03
+    },
+    {
+     "word": "eu",
+     "start": 14.03,
+     "end": 14.19
+    },
+    {
+     "word": "seguir,",
+     "start": 14.19,
+     "end": 14.49
+    },
+    {
+     "word": "mano",
+     "start": 14.67,
+     "end": 15.12
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 16.3,
+   "end": 17.01,
+   "text": "Meu Deus",
+   "words": [
+    {
+     "word": "Meu",
+     "start": 16.3,
+     "end": 16.48
+    },
+    {
+     "word": "Deus",
+     "start": 16.48,
+     "end": 17.01
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 23.92,
+   "end": 24.94,
+   "text": "Esse GPS do jogo tá",
+   "words": [
+    {
+     "word": "Esse",
+     "start": 23.92,
+     "end": 24.06
+    },
+    {
+     "word": "GPS",
+     "start": 24.06,
+     "end": 24.46
+    },
+    {
+     "word": "do",
+     "start": 24.46,
+     "end": 24.68
+    },
+    {
+     "word": "jogo",
+     "start": 24.68,
+     "end": 24.84
+    },
+    {
+     "word": "tá",
+     "start": 24.84,
+     "end": 24.94
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 24.98,
+   "end": 26.43,
+   "text": "igual da vida real, bicho",
+   "words": [
+    {
+     "word": "igual",
+     "start": 24.98,
+     "end": 25.14
+    },
+    {
+     "word": "da",
+     "start": 25.14,
+     "end": 25.26
+    },
+    {
+     "word": "vida",
+     "start": 25.26,
+     "end": 25.46
+    },
+    {
+     "word": "real,",
+     "start": 25.46,
+     "end": 25.84
+    },
+    {
+     "word": "bicho",
+     "start": 26.02,
+     "end": 26.43
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 35.75,
+   "end": 37.1,
+   "text": "Ó, dá um passinho",
+   "words": [
+    {
+     "word": "Ó,",
+     "start": 35.75,
+     "end": 35.89
+    },
+    {
+     "word": "dá",
+     "start": 36.11,
+     "end": 36.27
+    },
+    {
+     "word": "um",
+     "start": 36.27,
+     "end": 36.37
+    },
+    {
+     "word": "passinho",
+     "start": 36.37,
+     "end": 37.1
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
