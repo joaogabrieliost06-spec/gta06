@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Jason, Lucia, Jay, missão principal, baleia, orca, PlayStation, Xbox, relacionamento, mocreia, humilhação, mano, viado, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:05:50", "fim": "0:06:56", "titulo": "EM MINHA DEFESA"},
+  {"id": "02", "inicio": "0:04:26", "fim": "0:05:10", "titulo": "ENTORTOU O PESCOÇO"},
+  {"id": "03", "inicio": "0:11:14", "fim": "0:12:04", "titulo": "SÓ HUMILHAÇÃO EM MIM"}
+ ]
+}

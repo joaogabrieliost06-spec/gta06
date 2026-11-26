@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, Alan, GTA 6, Lucia, Jason, Raul, Randy, ghost, cabeleireiro, missão principal, Ocean Drive, Brawler, rastreador, Nuvem, bebê, mano, velho, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:07:22", "fim": "0:08:50", "titulo": "TOMEI GHOST DO RAUL"},
+  {"id": "02", "inicio": "0:09:02", "fim": "0:10:04", "titulo": "NÃO EXISTE CARRO PRA MIM"},
+  {"id": "03", "inicio": "0:17:02", "fim": "0:17:36", "titulo": "O JASON TÁ CARENTE"}
+ ]
+}
