@@ -1,0 +1,187 @@
+{
+ "segments": [
+  {
+   "start": 31.53,
+   "end": 32.63,
+   "text": "Ei, eu tava na mesma",
+   "words": [
+    {
+     "word": "Ei,",
+     "start": 31.53,
+     "end": 31.63
+    },
+    {
+     "word": "eu",
+     "start": 32.01,
+     "end": 32.19
+    },
+    {
+     "word": "tava",
+     "start": 32.19,
+     "end": 32.35
+    },
+    {
+     "word": "na",
+     "start": 32.35,
+     "end": 32.49
+    },
+    {
+     "word": "mesma",
+     "start": 32.49,
+     "end": 32.63
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 32.67,
+   "end": 33.81,
+   "text": "altura de sempre, viado",
+   "words": [
+    {
+     "word": "altura",
+     "start": 32.67,
+     "end": 32.97
+    },
+    {
+     "word": "de",
+     "start": 32.97,
+     "end": 33.13
+    },
+    {
+     "word": "sempre,",
+     "start": 33.13,
+     "end": 33.35
+    },
+    {
+     "word": "viado",
+     "start": 33.57,
+     "end": 33.81
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 33.85,
+   "end": 34.91,
+   "text": "Peço até perdão, mano",
+   "words": [
+    {
+     "word": "Peço",
+     "start": 33.85,
+     "end": 33.95
+    },
+    {
+     "word": "até",
+     "start": 33.95,
+     "end": 34.11
+    },
+    {
+     "word": "perdão,",
+     "start": 34.11,
+     "end": 34.47
+    },
+    {
+     "word": "mano",
+     "start": 34.61,
+     "end": 34.91
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 35.26,
+   "end": 36.08,
+   "text": "O jogo já tinha avisado",
+   "words": [
+    {
+     "word": "O",
+     "start": 35.26,
+     "end": 35.5
+    },
+    {
+     "word": "jogo",
+     "start": 35.5,
+     "end": 35.6
+    },
+    {
+     "word": "já",
+     "start": 35.6,
+     "end": 35.78
+    },
+    {
+     "word": "tinha",
+     "start": 35.78,
+     "end": 35.86
+    },
+    {
+     "word": "avisado",
+     "start": 35.86,
+     "end": 36.08
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 36.12,
+   "end": 37.38,
+   "text": "duas vezes e continuou",
+   "words": [
+    {
+     "word": "duas",
+     "start": 36.12,
+     "end": 36.3
+    },
+    {
+     "word": "vezes",
+     "start": 36.3,
+     "end": 36.7
+    },
+    {
+     "word": "e",
+     "start": 36.7,
+     "end": 36.82
+    },
+    {
+     "word": "continuou",
+     "start": 36.82,
+     "end": 37.38
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 37.42,
+   "end": 38.43,
+   "text": "Tipo, não deu o melhor",
+   "words": [
+    {
+     "word": "Tipo,",
+     "start": 37.42,
+     "end": 37.54
+    },
+    {
+     "word": "não",
+     "start": 37.62,
+     "end": 37.82
+    },
+    {
+     "word": "deu",
+     "start": 37.82,
+     "end": 37.98
+    },
+    {
+     "word": "o",
+     "start": 37.98,
+     "end": 38.06
+    },
+    {
+     "word": "melhor",
+     "start": 38.06,
+     "end": 38.43
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
