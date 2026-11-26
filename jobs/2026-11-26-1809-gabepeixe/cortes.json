@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Jason, Lucia, Peixão, caminhão, polícia, pilotagem, mano, bicho, bichão, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:03:58", "fim": "0:04:35", "titulo": "ESSA PILOTAGEM MINHA"},
+  {"id": "02", "inicio": "0:05:13", "fim": "0:06:30", "titulo": "VOCÊ CONQUISTOU MEU CORAÇÃO"},
+  {"id": "03", "inicio": "0:12:55", "fim": "0:14:25", "titulo": "FUGA DA POLÍCIA"}
+ ]
+}
