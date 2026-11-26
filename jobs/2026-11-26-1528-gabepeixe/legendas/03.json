@@ -1,0 +1,317 @@
+{
+ "segments": [
+  {
+   "start": 2.02,
+   "end": 3.11,
+   "text": "Peço perdão, tá",
+   "words": [
+    {
+     "word": "Peço",
+     "start": 2.02,
+     "end": 2.24
+    },
+    {
+     "word": "perdão,",
+     "start": 2.24,
+     "end": 2.68
+    },
+    {
+     "word": "tá",
+     "start": 2.76,
+     "end": 3.11
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 4.24,
+   "end": 5.52,
+   "text": "Alguém aceita aí, mano?",
+   "words": [
+    {
+     "word": "Alguém",
+     "start": 4.24,
+     "end": 4.48
+    },
+    {
+     "word": "aceita",
+     "start": 4.48,
+     "end": 4.94
+    },
+    {
+     "word": "aí,",
+     "start": 4.94,
+     "end": 5.12
+    },
+    {
+     "word": "mano?",
+     "start": 5.18,
+     "end": 5.52
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 5.56,
+   "end": 7.87,
+   "text": "Um arroz, farofa, fritas",
+   "words": [
+    {
+     "word": "Um",
+     "start": 5.56,
+     "end": 5.72
+    },
+    {
+     "word": "arroz,",
+     "start": 5.72,
+     "end": 6.56
+    },
+    {
+     "word": "farofa,",
+     "start": 6.74,
+     "end": 7.2
+    },
+    {
+     "word": "fritas",
+     "start": 7.34,
+     "end": 7.87
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 8.42,
+   "end": 10.19,
+   "text": "um bife e um ovo frito",
+   "words": [
+    {
+     "word": "um",
+     "start": 8.42,
+     "end": 8.52
+    },
+    {
+     "word": "bife",
+     "start": 8.52,
+     "end": 8.92
+    },
+    {
+     "word": "e",
+     "start": 8.92,
+     "end": 9.16
+    },
+    {
+     "word": "um",
+     "start": 9.16,
+     "end": 9.28
+    },
+    {
+     "word": "ovo",
+     "start": 9.28,
+     "end": 9.48
+    },
+    {
+     "word": "frito",
+     "start": 9.48,
+     "end": 10.19
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 10.32,
+   "end": 10.92,
+   "text": "Gosta?",
+   "words": [
+    {
+     "word": "Gosta?",
+     "start": 10.32,
+     "end": 10.92
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 14.47,
+   "end": 15.66,
+   "text": "Bom demais, viado",
+   "words": [
+    {
+     "word": "Bom",
+     "start": 14.47,
+     "end": 14.79
+    },
+    {
+     "word": "demais,",
+     "start": 14.79,
+     "end": 15.09
+    },
+    {
+     "word": "viado",
+     "start": 15.19,
+     "end": 15.66
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 17.38,
+   "end": 19.85,
+   "text": "Pô, mano, esses tempos todos",
+   "words": [
+    {
+     "word": "Pô,",
+     "start": 17.38,
+     "end": 17.54
+    },
+    {
+     "word": "mano,",
+     "start": 17.54,
+     "end": 17.72
+    },
+    {
+     "word": "esses",
+     "start": 19.19,
+     "end": 19.39
+    },
+    {
+     "word": "tempos",
+     "start": 19.39,
+     "end": 19.77
+    },
+    {
+     "word": "todos",
+     "start": 19.77,
+     "end": 19.85
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 19.89,
+   "end": 21.12,
+   "text": "que eu tô com vocês aqui",
+   "words": [
+    {
+     "word": "que",
+     "start": 19.89,
+     "end": 20.01
+    },
+    {
+     "word": "eu",
+     "start": 20.01,
+     "end": 20.06
+    },
+    {
+     "word": "tô",
+     "start": 20.06,
+     "end": 20.13
+    },
+    {
+     "word": "com",
+     "start": 20.13,
+     "end": 20.27
+    },
+    {
+     "word": "vocês",
+     "start": 20.27,
+     "end": 20.57
+    },
+    {
+     "word": "aqui",
+     "start": 20.57,
+     "end": 21.12
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 21.45,
+   "end": 23.16,
+   "text": "Live não tem jeito, bicho",
+   "words": [
+    {
+     "word": "Live",
+     "start": 21.45,
+     "end": 21.73
+    },
+    {
+     "word": "não",
+     "start": 21.89,
+     "end": 22.07
+    },
+    {
+     "word": "tem",
+     "start": 22.07,
+     "end": 22.27
+    },
+    {
+     "word": "jeito,",
+     "start": 22.27,
+     "end": 22.57
+    },
+    {
+     "word": "bicho",
+     "start": 22.71,
+     "end": 23.16
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 25.77,
+   "end": 26.71,
+   "text": "Tem que comer em live",
+   "words": [
+    {
+     "word": "Tem",
+     "start": 25.77,
+     "end": 25.91
+    },
+    {
+     "word": "que",
+     "start": 25.91,
+     "end": 26.01
+    },
+    {
+     "word": "comer",
+     "start": 26.01,
+     "end": 26.19
+    },
+    {
+     "word": "em",
+     "start": 26.19,
+     "end": 26.37
+    },
+    {
+     "word": "live",
+     "start": 26.37,
+     "end": 26.71
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 26.75,
+   "end": 27.66,
+   "text": "cagar em live",
+   "words": [
+    {
+     "word": "cagar",
+     "start": 26.75,
+     "end": 26.99
+    },
+    {
+     "word": "em",
+     "start": 26.99,
+     "end": 27.15
+    },
+    {
+     "word": "live",
+     "start": 27.15,
+     "end": 27.66
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
