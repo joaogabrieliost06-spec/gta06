@@ -1,0 +1,11 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, Alan, GTA 6, Jason, Lucia, Faustão, João Fausto, Dino, teclado, vizinho, paraquedas, garça, pomba, bombada, academia, chat, mano",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:05:48", "fim": "0:07:18", "titulo": "O DINO NÃO CONSEGUE NEM JOGAR"},
+  {"id": "02", "inicio": "0:09:10", "fim": "0:10:10", "titulo": "O VIZINHO GIGANTE"},
+  {"id": "03", "inicio": "0:10:50", "fim": "0:11:50", "titulo": "A GARÇA ATROPELOU A POMBA"},
+  {"id": "04", "inicio": "0:12:40", "fim": "0:14:10", "titulo": "A LUCIA TÁ MUITO BOMBADA"}
+ ]
+}
