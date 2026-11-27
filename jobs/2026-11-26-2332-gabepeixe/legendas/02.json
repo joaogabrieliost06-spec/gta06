@@ -1,0 +1,808 @@
+{
+ "segments": [
+  {
+   "start": 12.97,
+   "end": 13.75,
+   "text": "Cara está no meio",
+   "words": [
+    {
+     "word": "Cara",
+     "start": 12.97,
+     "end": 13.29
+    },
+    {
+     "word": "está",
+     "start": 13.29,
+     "end": 13.45
+    },
+    {
+     "word": "no",
+     "start": 13.45,
+     "end": 13.61
+    },
+    {
+     "word": "meio",
+     "start": 13.61,
+     "end": 13.75
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 13.79,
+   "end": 14.83,
+   "text": "do aeroporto",
+   "words": [
+    {
+     "word": "do",
+     "start": 13.79,
+     "end": 13.91
+    },
+    {
+     "word": "aeroporto",
+     "start": 13.91,
+     "end": 14.83
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 14.87,
+   "end": 15.99,
+   "text": "no tablet, tablet",
+   "words": [
+    {
+     "word": "no",
+     "start": 14.87,
+     "end": 15.11
+    },
+    {
+     "word": "tablet,",
+     "start": 15.11,
+     "end": 15.47
+    },
+    {
+     "word": "tablet",
+     "start": 15.65,
+     "end": 15.99
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 16.03,
+   "end": 17.12,
+   "text": "tablet ali, mano",
+   "words": [
+    {
+     "word": "tablet",
+     "start": 16.03,
+     "end": 16.25
+    },
+    {
+     "word": "ali,",
+     "start": 16.25,
+     "end": 16.61
+    },
+    {
+     "word": "mano",
+     "start": 16.73,
+     "end": 17.12
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 17.57,
+   "end": 18.82,
+   "text": "só clac, clac, clac",
+   "words": [
+    {
+     "word": "só",
+     "start": 17.57,
+     "end": 17.65
+    },
+    {
+     "word": "clac,",
+     "start": 17.65,
+     "end": 18.05
+    },
+    {
+     "word": "clac,",
+     "start": 18.19,
+     "end": 18.31
+    },
+    {
+     "word": "clac",
+     "start": 18.37,
+     "end": 18.82
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 18.95,
+   "end": 19.91,
+   "text": "ninguém vai ver nada",
+   "words": [
+    {
+     "word": "ninguém",
+     "start": 18.95,
+     "end": 19.05
+    },
+    {
+     "word": "vai",
+     "start": 19.05,
+     "end": 19.37
+    },
+    {
+     "word": "ver",
+     "start": 19.37,
+     "end": 19.57
+    },
+    {
+     "word": "nada",
+     "start": 19.57,
+     "end": 19.91
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 19.95,
+   "end": 21.03,
+   "text": "tudo bem, mas sempre",
+   "words": [
+    {
+     "word": "tudo",
+     "start": 19.95,
+     "end": 20.07
+    },
+    {
+     "word": "bem,",
+     "start": 20.07,
+     "end": 20.35
+    },
+    {
+     "word": "mas",
+     "start": 20.67,
+     "end": 20.83
+    },
+    {
+     "word": "sempre",
+     "start": 20.83,
+     "end": 21.03
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 21.07,
+   "end": 21.81,
+   "text": "passa um, mano",
+   "words": [
+    {
+     "word": "passa",
+     "start": 21.07,
+     "end": 21.39
+    },
+    {
+     "word": "um,",
+     "start": 21.39,
+     "end": 21.61
+    },
+    {
+     "word": "mano",
+     "start": 21.75,
+     "end": 21.81
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 21.85,
+   "end": 22.35,
+   "text": "você acaba vendo",
+   "words": [
+    {
+     "word": "você",
+     "start": 21.85,
+     "end": 21.93
+    },
+    {
+     "word": "acaba",
+     "start": 21.93,
+     "end": 22.15
+    },
+    {
+     "word": "vendo",
+     "start": 22.15,
+     "end": 22.35
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 22.39,
+   "end": 22.93,
+   "text": "uma curiosidade",
+   "words": [
+    {
+     "word": "uma",
+     "start": 22.39,
+     "end": 22.55
+    },
+    {
+     "word": "curiosidade",
+     "start": 22.55,
+     "end": 22.93
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 22.97,
+   "end": 23.64,
+   "text": "de um ou outro",
+   "words": [
+    {
+     "word": "de",
+     "start": 22.97,
+     "end": 23.09
+    },
+    {
+     "word": "um",
+     "start": 23.09,
+     "end": 23.17
+    },
+    {
+     "word": "ou",
+     "start": 23.17,
+     "end": 23.27
+    },
+    {
+     "word": "outro",
+     "start": 23.27,
+     "end": 23.64
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 23.73,
+   "end": 24.73,
+   "text": "aeroporto, mano",
+   "words": [
+    {
+     "word": "aeroporto,",
+     "start": 23.73,
+     "end": 24.45
+    },
+    {
+     "word": "mano",
+     "start": 24.55,
+     "end": 24.73
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 24.77,
+   "end": 25.31,
+   "text": "quando você fica",
+   "words": [
+    {
+     "word": "quando",
+     "start": 24.77,
+     "end": 24.89
+    },
+    {
+     "word": "você",
+     "start": 24.89,
+     "end": 25.13
+    },
+    {
+     "word": "fica",
+     "start": 25.13,
+     "end": 25.31
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 25.35,
+   "end": 26.03,
+   "text": "muito tempo fazendo",
+   "words": [
+    {
+     "word": "muito",
+     "start": 25.35,
+     "end": 25.51
+    },
+    {
+     "word": "tempo",
+     "start": 25.51,
+     "end": 25.75
+    },
+    {
+     "word": "fazendo",
+     "start": 25.75,
+     "end": 26.03
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 26.07,
+   "end": 27.58,
+   "text": "conexão, não sei o que",
+   "words": [
+    {
+     "word": "conexão,",
+     "start": 26.07,
+     "end": 26.77
+    },
+    {
+     "word": "não",
+     "start": 26.91,
+     "end": 26.99
+    },
+    {
+     "word": "sei",
+     "start": 26.99,
+     "end": 27.07
+    },
+    {
+     "word": "o",
+     "start": 27.07,
+     "end": 27.23
+    },
+    {
+     "word": "que",
+     "start": 27.23,
+     "end": 27.58
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 28.15,
+   "end": 29.27,
+   "text": "você mexe um pouco",
+   "words": [
+    {
+     "word": "você",
+     "start": 28.15,
+     "end": 28.27
+    },
+    {
+     "word": "mexe",
+     "start": 28.27,
+     "end": 29.07
+    },
+    {
+     "word": "um",
+     "start": 29.07,
+     "end": 29.15
+    },
+    {
+     "word": "pouco",
+     "start": 29.15,
+     "end": 29.27
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 29.31,
+   "end": 30.05,
+   "text": "no telefone",
+   "words": [
+    {
+     "word": "no",
+     "start": 29.31,
+     "end": 29.41
+    },
+    {
+     "word": "telefone",
+     "start": 29.41,
+     "end": 30.05
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 30.09,
+   "end": 30.67,
+   "text": "você compra alguma coisa",
+   "words": [
+    {
+     "word": "você",
+     "start": 30.09,
+     "end": 30.13
+    },
+    {
+     "word": "compra",
+     "start": 30.13,
+     "end": 30.37
+    },
+    {
+     "word": "alguma",
+     "start": 30.37,
+     "end": 30.51
+    },
+    {
+     "word": "coisa",
+     "start": 30.51,
+     "end": 30.67
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 30.71,
+   "end": 31.37,
+   "text": "para comer",
+   "words": [
+    {
+     "word": "para",
+     "start": 30.71,
+     "end": 30.85
+    },
+    {
+     "word": "comer",
+     "start": 30.85,
+     "end": 31.37
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 31.41,
+   "end": 31.97,
+   "text": "aí você fica ali",
+   "words": [
+    {
+     "word": "aí",
+     "start": 31.41,
+     "end": 31.53
+    },
+    {
+     "word": "você",
+     "start": 31.53,
+     "end": 31.67
+    },
+    {
+     "word": "fica",
+     "start": 31.67,
+     "end": 31.91
+    },
+    {
+     "word": "ali",
+     "start": 31.91,
+     "end": 31.97
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 32.01,
+   "end": 32.49,
+   "text": "na cadeira",
+   "words": [
+    {
+     "word": "na",
+     "start": 32.01,
+     "end": 32.13
+    },
+    {
+     "word": "cadeira",
+     "start": 32.13,
+     "end": 32.49
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 32.53,
+   "end": 33.41,
+   "text": "aí você começa a observar",
+   "words": [
+    {
+     "word": "aí",
+     "start": 32.53,
+     "end": 32.57
+    },
+    {
+     "word": "você",
+     "start": 32.57,
+     "end": 32.65
+    },
+    {
+     "word": "começa",
+     "start": 32.65,
+     "end": 32.93
+    },
+    {
+     "word": "a",
+     "start": 32.93,
+     "end": 33.03
+    },
+    {
+     "word": "observar",
+     "start": 33.03,
+     "end": 33.41
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 33.45,
+   "end": 34.9,
+   "text": "Ah, mesmo, em aeroporto",
+   "words": [
+    {
+     "word": "Ah,",
+     "start": 33.45,
+     "end": 33.55
+    },
+    {
+     "word": "mesmo,",
+     "start": 33.67,
+     "end": 33.97
+    },
+    {
+     "word": "em",
+     "start": 34.07,
+     "end": 34.12
+    },
+    {
+     "word": "aeroporto",
+     "start": 34.12,
+     "end": 34.9
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 34.94,
+   "end": 35.5,
+   "text": "chega num momento",
+   "words": [
+    {
+     "word": "chega",
+     "start": 34.94,
+     "end": 35.16
+    },
+    {
+     "word": "num",
+     "start": 35.16,
+     "end": 35.28
+    },
+    {
+     "word": "momento",
+     "start": 35.28,
+     "end": 35.5
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 35.54,
+   "end": 36.26,
+   "text": "que quando tem que demorar",
+   "words": [
+    {
+     "word": "que",
+     "start": 35.54,
+     "end": 35.68
+    },
+    {
+     "word": "quando",
+     "start": 35.68,
+     "end": 35.78
+    },
+    {
+     "word": "tem",
+     "start": 35.78,
+     "end": 35.9
+    },
+    {
+     "word": "que",
+     "start": 35.9,
+     "end": 36.0
+    },
+    {
+     "word": "demorar",
+     "start": 36.0,
+     "end": 36.26
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 36.3,
+   "end": 36.96,
+   "text": "duas, três horas",
+   "words": [
+    {
+     "word": "duas,",
+     "start": 36.3,
+     "end": 36.54
+    },
+    {
+     "word": "três",
+     "start": 36.7,
+     "end": 36.82
+    },
+    {
+     "word": "horas",
+     "start": 36.82,
+     "end": 36.96
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 37.0,
+   "end": 37.54,
+   "text": "pra alguma coisa",
+   "words": [
+    {
+     "word": "pra",
+     "start": 37.0,
+     "end": 37.1
+    },
+    {
+     "word": "alguma",
+     "start": 37.1,
+     "end": 37.26
+    },
+    {
+     "word": "coisa",
+     "start": 37.26,
+     "end": 37.54
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 37.58,
+   "end": 38.12,
+   "text": "você começa a ficar",
+   "words": [
+    {
+     "word": "você",
+     "start": 37.58,
+     "end": 37.62
+    },
+    {
+     "word": "começa",
+     "start": 37.62,
+     "end": 37.9
+    },
+    {
+     "word": "a",
+     "start": 37.9,
+     "end": 38.0
+    },
+    {
+     "word": "ficar",
+     "start": 38.0,
+     "end": 38.12
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 38.16,
+   "end": 39.18,
+   "text": "tipo assim, observando",
+   "words": [
+    {
+     "word": "tipo",
+     "start": 38.16,
+     "end": 38.42
+    },
+    {
+     "word": "assim,",
+     "start": 38.42,
+     "end": 38.6
+    },
+    {
+     "word": "observando",
+     "start": 38.78,
+     "end": 39.18
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 39.22,
+   "end": 39.74,
+   "text": "o que as pessoas estão",
+   "words": [
+    {
+     "word": "o",
+     "start": 39.22,
+     "end": 39.32
+    },
+    {
+     "word": "que",
+     "start": 39.32,
+     "end": 39.47
+    },
+    {
+     "word": "as",
+     "start": 39.47,
+     "end": 39.52
+    },
+    {
+     "word": "pessoas",
+     "start": 39.52,
+     "end": 39.64
+    },
+    {
+     "word": "estão",
+     "start": 39.64,
+     "end": 39.74
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 39.78,
+   "end": 40.55,
+   "text": "fazendo",
+   "words": [
+    {
+     "word": "fazendo",
+     "start": 39.78,
+     "end": 40.55
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 40.87,
+   "end": 42.38,
+   "text": "olhando, só pelo",
+   "words": [
+    {
+     "word": "olhando,",
+     "start": 40.87,
+     "end": 41.67
+    },
+    {
+     "word": "só",
+     "start": 41.81,
+     "end": 41.89
+    },
+    {
+     "word": "pelo",
+     "start": 41.89,
+     "end": 42.38
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 42.45,
+   "end": 43.28,
+   "text": "tá ligado?",
+   "words": [
+    {
+     "word": "tá",
+     "start": 42.45,
+     "end": 42.69
+    },
+    {
+     "word": "ligado?",
+     "start": 42.69,
+     "end": 43.28
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
