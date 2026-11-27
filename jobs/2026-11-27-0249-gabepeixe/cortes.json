@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Lucia, Jason, cinco estrelas, procurado, passaporte, avião, polícia, mano, viado, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:03:45", "fim": "0:04:45", "titulo": "PROCURADO NO MAPA INTEIRO"},
+  {"id": "02", "inicio": "0:16:15", "fim": "0:16:52", "titulo": "O GABE NÃO PERCEBEU"},
+  {"id": "03", "inicio": "0:05:00", "fim": "0:05:36", "titulo": "SÓ QUERO UM PASSAPORTE"}
+ ]
+}
