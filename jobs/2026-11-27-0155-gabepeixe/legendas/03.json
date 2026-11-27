@@ -1,0 +1,305 @@
+{
+ "segments": [
+  {
+   "start": 0.12,
+   "end": 0.87,
+   "text": "acontecendo",
+   "words": [
+    {
+     "word": "acontecendo",
+     "start": 0.12,
+     "end": 0.87
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 2.27,
+   "end": 2.93,
+   "text": "tô querendo já matar",
+   "words": [
+    {
+     "word": "tô",
+     "start": 2.27,
+     "end": 2.37
+    },
+    {
+     "word": "querendo",
+     "start": 2.37,
+     "end": 2.61
+    },
+    {
+     "word": "já",
+     "start": 2.61,
+     "end": 2.71
+    },
+    {
+     "word": "matar",
+     "start": 2.71,
+     "end": 2.93
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 2.97,
+   "end": 3.64,
+   "text": "os dois já, não",
+   "words": [
+    {
+     "word": "os",
+     "start": 2.97,
+     "end": 3.17
+    },
+    {
+     "word": "dois",
+     "start": 3.17,
+     "end": 3.31
+    },
+    {
+     "word": "já,",
+     "start": 3.31,
+     "end": 3.49
+    },
+    {
+     "word": "não",
+     "start": 3.59,
+     "end": 3.64
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 3.65,
+   "end": 4.05,
+   "text": "quero nem esperar",
+   "words": [
+    {
+     "word": "quero",
+     "start": 3.65,
+     "end": 3.77
+    },
+    {
+     "word": "nem",
+     "start": 3.77,
+     "end": 3.89
+    },
+    {
+     "word": "esperar",
+     "start": 3.89,
+     "end": 4.05
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 4.09,
+   "end": 5.36,
+   "text": "no capítulo 5, mano",
+   "words": [
+    {
+     "word": "no",
+     "start": 4.09,
+     "end": 4.23
+    },
+    {
+     "word": "capítulo",
+     "start": 4.23,
+     "end": 4.59
+    },
+    {
+     "word": "5,",
+     "start": 4.59,
+     "end": 4.89
+    },
+    {
+     "word": "mano",
+     "start": 5.01,
+     "end": 5.36
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 5.51,
+   "end": 6.25,
+   "text": "vontade de botar",
+   "words": [
+    {
+     "word": "vontade",
+     "start": 5.51,
+     "end": 5.77
+    },
+    {
+     "word": "de",
+     "start": 5.77,
+     "end": 5.95
+    },
+    {
+     "word": "botar",
+     "start": 5.95,
+     "end": 6.25
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.29,
+   "end": 6.83,
+   "text": "os dois na ponte",
+   "words": [
+    {
+     "word": "os",
+     "start": 6.29,
+     "end": 6.37
+    },
+    {
+     "word": "dois",
+     "start": 6.37,
+     "end": 6.51
+    },
+    {
+     "word": "na",
+     "start": 6.51,
+     "end": 6.63
+    },
+    {
+     "word": "ponte",
+     "start": 6.63,
+     "end": 6.83
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.87,
+   "end": 7.77,
+   "text": "e jogar dentro d'água com",
+   "words": [
+    {
+     "word": "e",
+     "start": 6.87,
+     "end": 6.97
+    },
+    {
+     "word": "jogar",
+     "start": 6.97,
+     "end": 7.13
+    },
+    {
+     "word": "dentro",
+     "start": 7.13,
+     "end": 7.35
+    },
+    {
+     "word": "d'água",
+     "start": 7.35,
+     "end": 7.59
+    },
+    {
+     "word": "com",
+     "start": 7.59,
+     "end": 7.77
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.81,
+   "end": 9.15,
+   "text": "uma bigorna de 350",
+   "words": [
+    {
+     "word": "uma",
+     "start": 7.81,
+     "end": 8.39
+    },
+    {
+     "word": "bigorna",
+     "start": 8.39,
+     "end": 8.75
+    },
+    {
+     "word": "de",
+     "start": 8.75,
+     "end": 8.85
+    },
+    {
+     "word": "350",
+     "start": 8.85,
+     "end": 9.15
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 9.19,
+   "end": 10.45,
+   "text": "quilos, pra eles",
+   "words": [
+    {
+     "word": "quilos,",
+     "start": 9.19,
+     "end": 9.69
+    },
+    {
+     "word": "pra",
+     "start": 10.25,
+     "end": 10.39
+    },
+    {
+     "word": "eles",
+     "start": 10.39,
+     "end": 10.45
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.49,
+   "end": 11.39,
+   "text": "se afundarem, morrer",
+   "words": [
+    {
+     "word": "se",
+     "start": 10.49,
+     "end": 10.59
+    },
+    {
+     "word": "afundarem,",
+     "start": 10.59,
+     "end": 11.07
+    },
+    {
+     "word": "morrer",
+     "start": 11.23,
+     "end": 11.39
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 11.43,
+   "end": 12.4,
+   "text": "afogados os dois",
+   "words": [
+    {
+     "word": "afogados",
+     "start": 11.43,
+     "end": 11.81
+    },
+    {
+     "word": "os",
+     "start": 11.81,
+     "end": 11.99
+    },
+    {
+     "word": "dois",
+     "start": 11.99,
+     "end": 12.4
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
