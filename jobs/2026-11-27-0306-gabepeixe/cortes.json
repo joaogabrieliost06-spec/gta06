@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Lucia, Jason, Matias, Vinny, Kevin, Orcas, frigorífico, baú, mano, viado, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:02:22", "fim": "0:03:22", "titulo": "ERREI TUDO, ERA UM FRIGORÍFICO"},
+  {"id": "02", "inicio": "0:05:20", "fim": "0:06:45", "titulo": "NÃO MATEI E ME ARREPENDI"},
+  {"id": "03", "inicio": "0:09:18", "fim": "0:10:12", "titulo": "SEMPRE TRABALHANDO PRA ALGUÉM"}
+ ]
+}
