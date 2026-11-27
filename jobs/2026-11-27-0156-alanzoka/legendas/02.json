@@ -1,0 +1,529 @@
+{
+ "segments": [
+  {
+   "start": 0.61,
+   "end": 1.26,
+   "text": "— Por⁠",
+   "words": [
+    {
+     "word": "— Por⁠",
+     "start": 0.61,
+     "end": 1.26
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 1.61,
+   "end": 1.84,
+   "text": "que que eu tô",
+   "words": [
+    {
+     "word": "que",
+     "start": 1.61,
+     "end": 1.65
+    },
+    {
+     "word": "que",
+     "start": 1.65,
+     "end": 1.71
+    },
+    {
+     "word": "eu",
+     "start": 1.71,
+     "end": 1.79
+    },
+    {
+     "word": "tô",
+     "start": 1.79,
+     "end": 1.84
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 1.85,
+   "end": 2.77,
+   "text": "trancado, mano?",
+   "words": [
+    {
+     "word": "trancado,",
+     "start": 1.85,
+     "end": 2.43
+    },
+    {
+     "word": "mano?",
+     "start": 2.55,
+     "end": 2.77
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 2.81,
+   "end": 3.27,
+   "text": "Ah, a gente não",
+   "words": [
+    {
+     "word": "Ah,",
+     "start": 2.81,
+     "end": 2.95
+    },
+    {
+     "word": "a",
+     "start": 3.01,
+     "end": 3.07
+    },
+    {
+     "word": "gente",
+     "start": 3.07,
+     "end": 3.19
+    },
+    {
+     "word": "não",
+     "start": 3.19,
+     "end": 3.27
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 3.31,
+   "end": 4.31,
+   "text": "pode ser visto junto",
+   "words": [
+    {
+     "word": "pode",
+     "start": 3.31,
+     "end": 3.47
+    },
+    {
+     "word": "ser",
+     "start": 3.47,
+     "end": 3.59
+    },
+    {
+     "word": "visto",
+     "start": 3.59,
+     "end": 3.83
+    },
+    {
+     "word": "junto",
+     "start": 3.83,
+     "end": 4.31
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 4.35,
+   "end": 5.39,
+   "text": "Calma, não",
+   "words": [
+    {
+     "word": "Calma,",
+     "start": 4.35,
+     "end": 4.87
+    },
+    {
+     "word": "não",
+     "start": 5.13,
+     "end": 5.39
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 5.43,
+   "end": 6.19,
+   "text": "é possível entrar",
+   "words": [
+    {
+     "word": "é",
+     "start": 5.43,
+     "end": 5.53
+    },
+    {
+     "word": "possível",
+     "start": 5.53,
+     "end": 5.89
+    },
+    {
+     "word": "entrar",
+     "start": 5.89,
+     "end": 6.19
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.23,
+   "end": 6.75,
+   "text": "no hotel",
+   "words": [
+    {
+     "word": "no",
+     "start": 6.23,
+     "end": 6.43
+    },
+    {
+     "word": "hotel",
+     "start": 6.43,
+     "end": 6.75
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.79,
+   "end": 8.03,
+   "text": "com perturbações",
+   "words": [
+    {
+     "word": "com",
+     "start": 6.79,
+     "end": 7.35
+    },
+    {
+     "word": "perturbações",
+     "start": 7.35,
+     "end": 8.03
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 8.07,
+   "end": 9.06,
+   "text": "por perto?",
+   "words": [
+    {
+     "word": "por",
+     "start": 8.07,
+     "end": 8.31
+    },
+    {
+     "word": "perto?",
+     "start": 8.31,
+     "end": 9.06
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 9.85,
+   "end": 10.35,
+   "text": "Será que",
+   "words": [
+    {
+     "word": "Será",
+     "start": 9.85,
+     "end": 10.25
+    },
+    {
+     "word": "que",
+     "start": 10.25,
+     "end": 10.35
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.39,
+   "end": 11.23,
+   "text": "a perturbação",
+   "words": [
+    {
+     "word": "a",
+     "start": 10.39,
+     "end": 10.59
+    },
+    {
+     "word": "perturbação",
+     "start": 10.59,
+     "end": 11.23
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 11.27,
+   "end": 11.99,
+   "text": "foi eu pousando",
+   "words": [
+    {
+     "word": "foi",
+     "start": 11.27,
+     "end": 11.49
+    },
+    {
+     "word": "eu",
+     "start": 11.49,
+     "end": 11.63
+    },
+    {
+     "word": "pousando",
+     "start": 11.63,
+     "end": 11.99
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 12.03,
+   "end": 12.9,
+   "text": "— com⁠ o⁠ avião?⁠",
+   "words": [
+    {
+     "word": "— com⁠",
+     "start": 12.03,
+     "end": 12.21
+    },
+    {
+     "word": "o⁠",
+     "start": 12.21,
+     "end": 12.26
+    },
+    {
+     "word": "avião?⁠",
+     "start": 12.26,
+     "end": 12.9
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 21.6,
+   "end": 22.25,
+   "text": "Será⁠",
+   "words": [
+    {
+     "word": "Será⁠",
+     "start": 21.6,
+     "end": 22.25
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 23.11,
+   "end": 24.37,
+   "text": "que⁠ a⁠ perturbação⁠",
+   "words": [
+    {
+     "word": "que⁠",
+     "start": 23.11,
+     "end": 23.51
+    },
+    {
+     "word": "a⁠",
+     "start": 23.51,
+     "end": 23.63
+    },
+    {
+     "word": "perturbação⁠",
+     "start": 23.63,
+     "end": 24.37
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 24.41,
+   "end": 25.13,
+   "text": "foi⁠ eu⁠ pousando⁠",
+   "words": [
+    {
+     "word": "foi⁠",
+     "start": 24.41,
+     "end": 24.61
+    },
+    {
+     "word": "eu⁠",
+     "start": 24.61,
+     "end": 24.73
+    },
+    {
+     "word": "pousando⁠",
+     "start": 24.73,
+     "end": 25.13
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 25.17,
+   "end": 26.2,
+   "text": "com⁠ o⁠ avião,⁠ mano?⁠",
+   "words": [
+    {
+     "word": "com⁠",
+     "start": 25.17,
+     "end": 25.29
+    },
+    {
+     "word": "o⁠",
+     "start": 25.29,
+     "end": 25.35
+    },
+    {
+     "word": "avião,⁠",
+     "start": 25.35,
+     "end": 25.69
+    },
+    {
+     "word": "mano?⁠",
+     "start": 25.75,
+     "end": 26.2
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 27.23,
+   "end": 27.83,
+   "text": "Pô",
+   "words": [
+    {
+     "word": "Pô",
+     "start": 27.23,
+     "end": 27.83
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 30.67,
+   "end": 31.51,
+   "text": "só queria dormir",
+   "words": [
+    {
+     "word": "só",
+     "start": 30.67,
+     "end": 30.87
+    },
+    {
+     "word": "queria",
+     "start": 30.87,
+     "end": 31.07
+    },
+    {
+     "word": "dormir",
+     "start": 31.07,
+     "end": 31.51
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 31.55,
+   "end": 32.15,
+   "text": "mano",
+   "words": [
+    {
+     "word": "mano",
+     "start": 31.55,
+     "end": 32.15
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 39.47,
+   "end": 41.14,
+   "text": "tô louco, mano Tá",
+   "words": [
+    {
+     "word": "tô",
+     "start": 39.47,
+     "end": 39.61
+    },
+    {
+     "word": "louco,",
+     "start": 39.61,
+     "end": 40.05
+    },
+    {
+     "word": "mano",
+     "start": 40.11,
+     "end": 40.49
+    },
+    {
+     "word": "Tá",
+     "start": 40.49,
+     "end": 41.14
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 46.47,
+   "end": 47.39,
+   "text": "louco, chat, e aí",
+   "words": [
+    {
+     "word": "louco,",
+     "start": 46.47,
+     "end": 46.65
+    },
+    {
+     "word": "chat,",
+     "start": 46.71,
+     "end": 46.93
+    },
+    {
+     "word": "e",
+     "start": 47.01,
+     "end": 47.13
+    },
+    {
+     "word": "aí",
+     "start": 47.13,
+     "end": 47.39
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 47.43,
+   "end": 48.03,
+   "text": "mano?",
+   "words": [
+    {
+     "word": "mano?",
+     "start": 47.43,
+     "end": 48.03
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 48.09,
+   "end": 49.1,
+   "text": "Vou dormir na rua?",
+   "words": [
+    {
+     "word": "Vou",
+     "start": 48.09,
+     "end": 48.19
+    },
+    {
+     "word": "dormir",
+     "start": 48.19,
+     "end": 48.39
+    },
+    {
+     "word": "na",
+     "start": 48.39,
+     "end": 48.55
+    },
+    {
+     "word": "rua?",
+     "start": 48.55,
+     "end": 49.1
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
