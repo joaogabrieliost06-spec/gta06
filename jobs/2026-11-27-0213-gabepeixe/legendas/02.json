@@ -1,0 +1,497 @@
+{
+ "segments": [
+  {
+   "start": 0.07,
+   "end": 1.26,
+   "text": "Pelo amor de Deus",
+   "words": [
+    {
+     "word": "Pelo",
+     "start": 0.07,
+     "end": 0.33
+    },
+    {
+     "word": "amor",
+     "start": 0.33,
+     "end": 0.51
+    },
+    {
+     "word": "de",
+     "start": 0.51,
+     "end": 0.69
+    },
+    {
+     "word": "Deus",
+     "start": 0.69,
+     "end": 1.26
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 2.44,
+   "end": 3.46,
+   "text": "já botei pra tirar",
+   "words": [
+    {
+     "word": "já",
+     "start": 2.44,
+     "end": 2.58
+    },
+    {
+     "word": "botei",
+     "start": 2.58,
+     "end": 3.16
+    },
+    {
+     "word": "pra",
+     "start": 3.16,
+     "end": 3.26
+    },
+    {
+     "word": "tirar",
+     "start": 3.26,
+     "end": 3.46
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 3.5,
+   "end": 4.24,
+   "text": "e botar a máscara",
+   "words": [
+    {
+     "word": "e",
+     "start": 3.5,
+     "end": 3.6
+    },
+    {
+     "word": "botar",
+     "start": 3.6,
+     "end": 3.9
+    },
+    {
+     "word": "a",
+     "start": 3.9,
+     "end": 4.02
+    },
+    {
+     "word": "máscara",
+     "start": 4.02,
+     "end": 4.24
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 4.28,
+   "end": 5.21,
+   "text": "de novo",
+   "words": [
+    {
+     "word": "de",
+     "start": 4.28,
+     "end": 4.42
+    },
+    {
+     "word": "novo",
+     "start": 4.42,
+     "end": 5.21
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.06,
+   "end": 6.66,
+   "text": "ó",
+   "words": [
+    {
+     "word": "ó",
+     "start": 6.06,
+     "end": 6.66
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.7,
+   "end": 8.12,
+   "text": "não, não tem máscara",
+   "words": [
+    {
+     "word": "não,",
+     "start": 6.7,
+     "end": 6.98
+    },
+    {
+     "word": "não",
+     "start": 7.24,
+     "end": 7.38
+    },
+    {
+     "word": "tem",
+     "start": 7.38,
+     "end": 7.58
+    },
+    {
+     "word": "máscara",
+     "start": 7.58,
+     "end": 8.12
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 8.16,
+   "end": 8.95,
+   "text": "Se",
+   "words": [
+    {
+     "word": "Se",
+     "start": 8.16,
+     "end": 8.95
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 30.77,
+   "end": 31.43,
+   "text": "essa filha da puta",
+   "words": [
+    {
+     "word": "essa",
+     "start": 30.77,
+     "end": 30.93
+    },
+    {
+     "word": "filha",
+     "start": 30.93,
+     "end": 31.19
+    },
+    {
+     "word": "da",
+     "start": 31.19,
+     "end": 31.27
+    },
+    {
+     "word": "puta",
+     "start": 31.27,
+     "end": 31.43
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 31.47,
+   "end": 32.19,
+   "text": "tiver de máscara",
+   "words": [
+    {
+     "word": "tiver",
+     "start": 31.47,
+     "end": 31.67
+    },
+    {
+     "word": "de",
+     "start": 31.67,
+     "end": 31.81
+    },
+    {
+     "word": "máscara",
+     "start": 31.81,
+     "end": 32.19
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 32.23,
+   "end": 32.75,
+   "text": "a gente foi pego",
+   "words": [
+    {
+     "word": "a",
+     "start": 32.23,
+     "end": 32.29
+    },
+    {
+     "word": "gente",
+     "start": 32.29,
+     "end": 32.37
+    },
+    {
+     "word": "foi",
+     "start": 32.37,
+     "end": 32.55
+    },
+    {
+     "word": "pego",
+     "start": 32.55,
+     "end": 32.75
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 32.79,
+   "end": 33.39,
+   "text": "de novo, porque ela",
+   "words": [
+    {
+     "word": "de",
+     "start": 32.79,
+     "end": 32.89
+    },
+    {
+     "word": "novo,",
+     "start": 32.89,
+     "end": 33.13
+    },
+    {
+     "word": "porque",
+     "start": 33.25,
+     "end": 33.33
+    },
+    {
+     "word": "ela",
+     "start": 33.33,
+     "end": 33.39
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 33.43,
+   "end": 34.33,
+   "text": "não tirou E eu",
+   "words": [
+    {
+     "word": "não",
+     "start": 33.43,
+     "end": 33.57
+    },
+    {
+     "word": "tirou",
+     "start": 33.57,
+     "end": 33.91
+    },
+    {
+     "word": "E",
+     "start": 33.91,
+     "end": 34.27
+    },
+    {
+     "word": "eu",
+     "start": 34.27,
+     "end": 34.33
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 34.37,
+   "end": 34.87,
+   "text": "já mandei tirar",
+   "words": [
+    {
+     "word": "já",
+     "start": 34.37,
+     "end": 34.43
+    },
+    {
+     "word": "mandei",
+     "start": 34.43,
+     "end": 34.71
+    },
+    {
+     "word": "tirar",
+     "start": 34.71,
+     "end": 34.87
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 34.91,
+   "end": 35.92,
+   "text": "cinco vezes",
+   "words": [
+    {
+     "word": "cinco",
+     "start": 34.91,
+     "end": 35.25
+    },
+    {
+     "word": "vezes",
+     "start": 35.25,
+     "end": 35.92
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 36.3,
+   "end": 37.12,
+   "text": "eu faço isso direto",
+   "words": [
+    {
+     "word": "eu",
+     "start": 36.3,
+     "end": 36.4
+    },
+    {
+     "word": "faço",
+     "start": 36.4,
+     "end": 36.68
+    },
+    {
+     "word": "isso",
+     "start": 36.68,
+     "end": 36.82
+    },
+    {
+     "word": "direto",
+     "start": 36.82,
+     "end": 37.12
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 37.16,
+   "end": 37.9,
+   "text": "de tirar a máscara",
+   "words": [
+    {
+     "word": "de",
+     "start": 37.16,
+     "end": 37.28
+    },
+    {
+     "word": "tirar",
+     "start": 37.28,
+     "end": 37.46
+    },
+    {
+     "word": "a",
+     "start": 37.46,
+     "end": 37.62
+    },
+    {
+     "word": "máscara",
+     "start": 37.62,
+     "end": 37.9
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 37.94,
+   "end": 38.58,
+   "text": "colocar a máscara",
+   "words": [
+    {
+     "word": "colocar",
+     "start": 37.94,
+     "end": 38.16
+    },
+    {
+     "word": "a",
+     "start": 38.16,
+     "end": 38.4
+    },
+    {
+     "word": "máscara",
+     "start": 38.4,
+     "end": 38.58
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 38.62,
+   "end": 39.62,
+   "text": "Quando um tira",
+   "words": [
+    {
+     "word": "Quando",
+     "start": 38.62,
+     "end": 39.14
+    },
+    {
+     "word": "um",
+     "start": 39.14,
+     "end": 39.32
+    },
+    {
+     "word": "tira",
+     "start": 39.32,
+     "end": 39.62
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 39.66,
+   "end": 40.51,
+   "text": "os dois tiram",
+   "words": [
+    {
+     "word": "os",
+     "start": 39.66,
+     "end": 39.72
+    },
+    {
+     "word": "dois",
+     "start": 39.72,
+     "end": 39.88
+    },
+    {
+     "word": "tiram",
+     "start": 39.88,
+     "end": 40.51
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 40.73,
+   "end": 41.51,
+   "text": "vou ficar maluco",
+   "words": [
+    {
+     "word": "vou",
+     "start": 40.73,
+     "end": 40.81
+    },
+    {
+     "word": "ficar",
+     "start": 40.81,
+     "end": 41.01
+    },
+    {
+     "word": "maluco",
+     "start": 41.01,
+     "end": 41.51
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 41.55,
+   "end": 42.15,
+   "text": "viado",
+   "words": [
+    {
+     "word": "viado",
+     "start": 41.55,
+     "end": 42.15
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
