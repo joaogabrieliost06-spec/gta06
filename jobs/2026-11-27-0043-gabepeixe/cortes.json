@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Lucia, Jason, bug, missão, garagem, interior, furacão, mano, viado, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:03:30", "fim": "0:04:05", "titulo": "BUGOU O JOGO"},
+  {"id": "02", "inicio": "0:10:05", "fim": "0:10:32", "titulo": "115 MIL"},
+  {"id": "03", "inicio": "0:16:05", "fim": "0:16:47", "titulo": "ESSE JOGO TÁ CHEIO DE LOUCURA"}
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, Alan, GTA 6, Lucia, Jason, The Darkness, carteira, aliens, mano, velho, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:07:10", "fim": "0:07:56", "titulo": "ISSO É UM THE DARKNESS"},
+  {"id": "02", "inicio": "0:13:10", "fim": "0:13:42", "titulo": "NÃO SABE DIRIGIR NÃO?"},
+  {"id": "03", "inicio": "0:15:22", "fim": "0:15:46", "titulo": "ACHEI O CARA DO COMEÇO"}
+ ]
+}
