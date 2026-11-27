@@ -1,0 +1,152 @@
+{
+ "segments": [
+  {
+   "start": 4.52,
+   "end": 5.46,
+   "text": "Cara, meu controle",
+   "words": [
+    {
+     "word": "Cara,",
+     "start": 4.52,
+     "end": 4.88
+    },
+    {
+     "word": "meu",
+     "start": 5.02,
+     "end": 5.16
+    },
+    {
+     "word": "controle",
+     "start": 5.16,
+     "end": 5.46
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 5.5,
+   "end": 6.13,
+   "text": "vibrando com o",
+   "words": [
+    {
+     "word": "vibrando",
+     "start": 5.5,
+     "end": 5.92
+    },
+    {
+     "word": "com",
+     "start": 5.92,
+     "end": 6.08
+    },
+    {
+     "word": "o",
+     "start": 6.08,
+     "end": 6.13
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 6.16,
+   "end": 8.19,
+   "text": "ritmo da música",
+   "words": [
+    {
+     "word": "ritmo",
+     "start": 6.16,
+     "end": 7.54
+    },
+    {
+     "word": "da",
+     "start": 7.54,
+     "end": 7.7
+    },
+    {
+     "word": "música",
+     "start": 7.7,
+     "end": 8.19
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 13.22,
+   "end": 13.8,
+   "text": "Ele quer limão",
+   "words": [
+    {
+     "word": "Ele",
+     "start": 13.22,
+     "end": 13.3
+    },
+    {
+     "word": "quer",
+     "start": 13.3,
+     "end": 13.46
+    },
+    {
+     "word": "limão",
+     "start": 13.46,
+     "end": 13.8
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 13.84,
+   "end": 14.89,
+   "text": "agora ele quer limão",
+   "words": [
+    {
+     "word": "agora",
+     "start": 13.84,
+     "end": 14.02
+    },
+    {
+     "word": "ele",
+     "start": 14.02,
+     "end": 14.2
+    },
+    {
+     "word": "quer",
+     "start": 14.2,
+     "end": 14.3
+    },
+    {
+     "word": "limão",
+     "start": 14.3,
+     "end": 14.89
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 16.72,
+   "end": 18.11,
+   "text": "Agora ele quer limão!",
+   "words": [
+    {
+     "word": "Agora",
+     "start": 16.72,
+     "end": 17.08
+    },
+    {
+     "word": "ele",
+     "start": 17.08,
+     "end": 17.36
+    },
+    {
+     "word": "quer",
+     "start": 17.36,
+     "end": 17.48
+    },
+    {
+     "word": "limão!",
+     "start": 17.48,
+     "end": 18.11
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
