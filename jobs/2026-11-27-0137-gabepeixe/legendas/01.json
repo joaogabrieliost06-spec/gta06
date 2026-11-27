@@ -1,0 +1,1029 @@
+{
+ "segments": [
+  {
+   "start": 1.37,
+   "end": 2.09,
+   "text": "vendeu uma tabacaria",
+   "words": [
+    {
+     "word": "vendeu",
+     "start": 1.37,
+     "end": 1.59
+    },
+    {
+     "word": "uma",
+     "start": 1.59,
+     "end": 1.71
+    },
+    {
+     "word": "tabacaria",
+     "start": 1.71,
+     "end": 2.09
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 2.13,
+   "end": 3.01,
+   "text": "mais barata, tá bom",
+   "words": [
+    {
+     "word": "mais",
+     "start": 2.13,
+     "end": 2.31
+    },
+    {
+     "word": "barata,",
+     "start": 2.31,
+     "end": 2.57
+    },
+    {
+     "word": "tá",
+     "start": 2.69,
+     "end": 2.77
+    },
+    {
+     "word": "bom",
+     "start": 2.77,
+     "end": 3.01
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 3.05,
+   "end": 3.63,
+   "text": "mas deve ter perdido",
+   "words": [
+    {
+     "word": "mas",
+     "start": 3.05,
+     "end": 3.15
+    },
+    {
+     "word": "deve",
+     "start": 3.15,
+     "end": 3.31
+    },
+    {
+     "word": "ter",
+     "start": 3.31,
+     "end": 3.43
+    },
+    {
+     "word": "perdido",
+     "start": 3.43,
+     "end": 3.63
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 3.67,
+   "end": 4.51,
+   "text": "uns 10 mil só",
+   "words": [
+    {
+     "word": "uns",
+     "start": 3.67,
+     "end": 3.79
+    },
+    {
+     "word": "10",
+     "start": 3.79,
+     "end": 3.93
+    },
+    {
+     "word": "mil",
+     "start": 3.93,
+     "end": 4.11
+    },
+    {
+     "word": "só",
+     "start": 4.11,
+     "end": 4.51
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 4.55,
+   "end": 5.72,
+   "text": "valeu a pena pelo menos",
+   "words": [
+    {
+     "word": "valeu",
+     "start": 4.55,
+     "end": 4.81
+    },
+    {
+     "word": "a",
+     "start": 4.81,
+     "end": 4.86
+    },
+    {
+     "word": "pena",
+     "start": 4.86,
+     "end": 5.01
+    },
+    {
+     "word": "pelo",
+     "start": 5.01,
+     "end": 5.21
+    },
+    {
+     "word": "menos",
+     "start": 5.21,
+     "end": 5.72
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 5.93,
+   "end": 6.47,
+   "text": "pô, a gente ganhou",
+   "words": [
+    {
+     "word": "pô,",
+     "start": 5.93,
+     "end": 6.03
+    },
+    {
+     "word": "a",
+     "start": 6.05,
+     "end": 6.11
+    },
+    {
+     "word": "gente",
+     "start": 6.11,
+     "end": 6.21
+    },
+    {
+     "word": "ganhou",
+     "start": 6.21,
+     "end": 6.47
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.51,
+   "end": 7.55,
+   "text": "100 mil no banco",
+   "words": [
+    {
+     "word": "100",
+     "start": 6.51,
+     "end": 6.93
+    },
+    {
+     "word": "mil",
+     "start": 6.93,
+     "end": 7.13
+    },
+    {
+     "word": "no",
+     "start": 7.13,
+     "end": 7.27
+    },
+    {
+     "word": "banco",
+     "start": 7.27,
+     "end": 7.55
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.59,
+   "end": 8.45,
+   "text": "mas era um banco",
+   "words": [
+    {
+     "word": "mas",
+     "start": 7.59,
+     "end": 8.05
+    },
+    {
+     "word": "era",
+     "start": 8.05,
+     "end": 8.23
+    },
+    {
+     "word": "um",
+     "start": 8.23,
+     "end": 8.31
+    },
+    {
+     "word": "banco",
+     "start": 8.31,
+     "end": 8.45
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 8.49,
+   "end": 9.53,
+   "text": "de 200 mil, cara",
+   "words": [
+    {
+     "word": "de",
+     "start": 8.49,
+     "end": 8.63
+    },
+    {
+     "word": "200",
+     "start": 8.63,
+     "end": 9.03
+    },
+    {
+     "word": "mil,",
+     "start": 9.03,
+     "end": 9.31
+    },
+    {
+     "word": "cara",
+     "start": 9.47,
+     "end": 9.53
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 9.57,
+   "end": 10.45,
+   "text": "era muito dinheiro",
+   "words": [
+    {
+     "word": "era",
+     "start": 9.57,
+     "end": 9.73
+    },
+    {
+     "word": "muito",
+     "start": 9.73,
+     "end": 10.01
+    },
+    {
+     "word": "dinheiro",
+     "start": 10.01,
+     "end": 10.45
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.49,
+   "end": 11.38,
+   "text": "deu tudo errado",
+   "words": [
+    {
+     "word": "deu",
+     "start": 10.49,
+     "end": 10.61
+    },
+    {
+     "word": "tudo",
+     "start": 10.61,
+     "end": 10.83
+    },
+    {
+     "word": "errado",
+     "start": 10.83,
+     "end": 11.38
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 11.81,
+   "end": 12.77,
+   "text": "tudo porque eu",
+   "words": [
+    {
+     "word": "tudo",
+     "start": 11.81,
+     "end": 12.11
+    },
+    {
+     "word": "porque",
+     "start": 12.11,
+     "end": 12.53
+    },
+    {
+     "word": "eu",
+     "start": 12.53,
+     "end": 12.77
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 12.81,
+   "end": 13.84,
+   "text": "apertei X, só",
+   "words": [
+    {
+     "word": "apertei",
+     "start": 12.81,
+     "end": 13.29
+    },
+    {
+     "word": "X,",
+     "start": 13.29,
+     "end": 13.59
+    },
+    {
+     "word": "só",
+     "start": 13.79,
+     "end": 13.84
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 13.87,
+   "end": 14.47,
+   "text": "que eu tava sem",
+   "words": [
+    {
+     "word": "que",
+     "start": 13.87,
+     "end": 13.99
+    },
+    {
+     "word": "eu",
+     "start": 13.99,
+     "end": 14.09
+    },
+    {
+     "word": "tava",
+     "start": 14.09,
+     "end": 14.23
+    },
+    {
+     "word": "sem",
+     "start": 14.23,
+     "end": 14.47
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 14.51,
+   "end": 15.22,
+   "text": "arma na mão, sei",
+   "words": [
+    {
+     "word": "arma",
+     "start": 14.51,
+     "end": 14.75
+    },
+    {
+     "word": "na",
+     "start": 14.75,
+     "end": 14.89
+    },
+    {
+     "word": "mão,",
+     "start": 14.89,
+     "end": 15.03
+    },
+    {
+     "word": "sei",
+     "start": 15.17,
+     "end": 15.22
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 15.25,
+   "end": 15.73,
+   "text": "lá porque que",
+   "words": [
+    {
+     "word": "lá",
+     "start": 15.25,
+     "end": 15.35
+    },
+    {
+     "word": "porque",
+     "start": 15.35,
+     "end": 15.61
+    },
+    {
+     "word": "que",
+     "start": 15.61,
+     "end": 15.73
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 15.77,
+   "end": 16.31,
+   "text": "o boneco tirou arma",
+   "words": [
+    {
+     "word": "o",
+     "start": 15.77,
+     "end": 15.79
+    },
+    {
+     "word": "boneco",
+     "start": 15.79,
+     "end": 16.03
+    },
+    {
+     "word": "tirou",
+     "start": 16.03,
+     "end": 16.21
+    },
+    {
+     "word": "arma",
+     "start": 16.21,
+     "end": 16.31
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 16.35,
+   "end": 16.95,
+   "text": "na mão",
+   "words": [
+    {
+     "word": "na",
+     "start": 16.35,
+     "end": 16.47
+    },
+    {
+     "word": "mão",
+     "start": 16.47,
+     "end": 16.95
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 17.5,
+   "end": 18.18,
+   "text": "não sei porque",
+   "words": [
+    {
+     "word": "não",
+     "start": 17.5,
+     "end": 17.6
+    },
+    {
+     "word": "sei",
+     "start": 17.6,
+     "end": 17.8
+    },
+    {
+     "word": "porque",
+     "start": 17.8,
+     "end": 18.18
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 18.22,
+   "end": 18.82,
+   "text": "caralho, esse boneco",
+   "words": [
+    {
+     "word": "caralho,",
+     "start": 18.22,
+     "end": 18.46
+    },
+    {
+     "word": "esse",
+     "start": 18.48,
+     "end": 18.56
+    },
+    {
+     "word": "boneco",
+     "start": 18.56,
+     "end": 18.82
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 18.86,
+   "end": 19.79,
+   "text": "tirou arma na mão",
+   "words": [
+    {
+     "word": "tirou",
+     "start": 18.86,
+     "end": 19.08
+    },
+    {
+     "word": "arma",
+     "start": 19.08,
+     "end": 19.2
+    },
+    {
+     "word": "na",
+     "start": 19.2,
+     "end": 19.32
+    },
+    {
+     "word": "mão",
+     "start": 19.32,
+     "end": 19.79
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 21.94,
+   "end": 22.94,
+   "text": "tá ligado, não sei",
+   "words": [
+    {
+     "word": "tá",
+     "start": 21.94,
+     "end": 22.06
+    },
+    {
+     "word": "ligado,",
+     "start": 22.06,
+     "end": 22.4
+    },
+    {
+     "word": "não",
+     "start": 22.58,
+     "end": 22.78
+    },
+    {
+     "word": "sei",
+     "start": 22.78,
+     "end": 22.94
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 22.98,
+   "end": 23.96,
+   "text": "porque, aí ele ficou",
+   "words": [
+    {
+     "word": "porque,",
+     "start": 22.98,
+     "end": 23.28
+    },
+    {
+     "word": "aí",
+     "start": 23.54,
+     "end": 23.66
+    },
+    {
+     "word": "ele",
+     "start": 23.66,
+     "end": 23.8
+    },
+    {
+     "word": "ficou",
+     "start": 23.8,
+     "end": 23.96
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 24.0,
+   "end": 24.78,
+   "text": "socando a porra",
+   "words": [
+    {
+     "word": "socando",
+     "start": 24.0,
+     "end": 24.5
+    },
+    {
+     "word": "a",
+     "start": 24.5,
+     "end": 24.64
+    },
+    {
+     "word": "porra",
+     "start": 24.64,
+     "end": 24.78
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 24.82,
+   "end": 26.11,
+   "text": "do PM, alertou tudo",
+   "words": [
+    {
+     "word": "do",
+     "start": 24.82,
+     "end": 24.9
+    },
+    {
+     "word": "PM,",
+     "start": 24.9,
+     "end": 25.14
+    },
+    {
+     "word": "alertou",
+     "start": 25.24,
+     "end": 25.6
+    },
+    {
+     "word": "tudo",
+     "start": 25.6,
+     "end": 26.11
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 26.43,
+   "end": 27.27,
+   "text": "não era pra acontecer isso",
+   "words": [
+    {
+     "word": "não",
+     "start": 26.43,
+     "end": 26.53
+    },
+    {
+     "word": "era",
+     "start": 26.53,
+     "end": 26.65
+    },
+    {
+     "word": "pra",
+     "start": 26.65,
+     "end": 26.75
+    },
+    {
+     "word": "acontecer",
+     "start": 26.75,
+     "end": 27.07
+    },
+    {
+     "word": "isso",
+     "start": 27.07,
+     "end": 27.27
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 27.31,
+   "end": 27.83,
+   "text": "ia ser um roubo",
+   "words": [
+    {
+     "word": "ia",
+     "start": 27.31,
+     "end": 27.43
+    },
+    {
+     "word": "ser",
+     "start": 27.43,
+     "end": 27.55
+    },
+    {
+     "word": "um",
+     "start": 27.55,
+     "end": 27.67
+    },
+    {
+     "word": "roubo",
+     "start": 27.67,
+     "end": 27.83
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 27.87,
+   "end": 28.62,
+   "text": "bonito",
+   "words": [
+    {
+     "word": "bonito",
+     "start": 27.87,
+     "end": 28.62
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 29.1,
+   "end": 29.64,
+   "text": "mano, eu vou",
+   "words": [
+    {
+     "word": "mano,",
+     "start": 29.1,
+     "end": 29.3
+    },
+    {
+     "word": "eu",
+     "start": 29.38,
+     "end": 29.5
+    },
+    {
+     "word": "vou",
+     "start": 29.5,
+     "end": 29.64
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 29.68,
+   "end": 30.56,
+   "text": "entregar essa felicidade",
+   "words": [
+    {
+     "word": "entregar",
+     "start": 29.68,
+     "end": 30.02
+    },
+    {
+     "word": "essa",
+     "start": 30.02,
+     "end": 30.16
+    },
+    {
+     "word": "felicidade",
+     "start": 30.16,
+     "end": 30.56
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 30.6,
+   "end": 31.69,
+   "text": "pra vocês, mano",
+   "words": [
+    {
+     "word": "pra",
+     "start": 30.6,
+     "end": 30.76
+    },
+    {
+     "word": "vocês,",
+     "start": 30.76,
+     "end": 31.14
+    },
+    {
+     "word": "mano",
+     "start": 31.3,
+     "end": 31.69
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 35.67,
+   "end": 36.25,
+   "text": "que crime que foi",
+   "words": [
+    {
+     "word": "que",
+     "start": 35.67,
+     "end": 35.81
+    },
+    {
+     "word": "crime",
+     "start": 35.81,
+     "end": 36.05
+    },
+    {
+     "word": "que",
+     "start": 36.05,
+     "end": 36.17
+    },
+    {
+     "word": "foi",
+     "start": 36.17,
+     "end": 36.25
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 36.29,
+   "end": 37.19,
+   "text": "denunciado, meu senhor",
+   "words": [
+    {
+     "word": "denunciado,",
+     "start": 36.29,
+     "end": 36.83
+    },
+    {
+     "word": "meu",
+     "start": 36.95,
+     "end": 37.05
+    },
+    {
+     "word": "senhor",
+     "start": 37.05,
+     "end": 37.19
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 37.23,
+   "end": 38.65,
+   "text": "Que crime que foi",
+   "words": [
+    {
+     "word": "Que",
+     "start": 37.23,
+     "end": 37.83
+    },
+    {
+     "word": "crime",
+     "start": 38.14,
+     "end": 38.46
+    },
+    {
+     "word": "que",
+     "start": 38.46,
+     "end": 38.6
+    },
+    {
+     "word": "foi",
+     "start": 38.6,
+     "end": 38.65
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 38.68,
+   "end": 39.38,
+   "text": "denunciado, crime",
+   "words": [
+    {
+     "word": "denunciado,",
+     "start": 38.68,
+     "end": 39.18
+    },
+    {
+     "word": "crime",
+     "start": 39.22,
+     "end": 39.38
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 39.42,
+   "end": 41.21,
+   "text": "de que Que crime",
+   "words": [
+    {
+     "word": "de",
+     "start": 39.42,
+     "end": 39.6
+    },
+    {
+     "word": "que",
+     "start": 39.6,
+     "end": 39.86
+    },
+    {
+     "word": "Que",
+     "start": 39.86,
+     "end": 40.42
+    },
+    {
+     "word": "crime",
+     "start": 40.85,
+     "end": 41.21
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 41.25,
+   "end": 42.11,
+   "text": "que a gente cometeu",
+   "words": [
+    {
+     "word": "que",
+     "start": 41.25,
+     "end": 41.39
+    },
+    {
+     "word": "a",
+     "start": 41.39,
+     "end": 41.47
+    },
+    {
+     "word": "gente",
+     "start": 41.47,
+     "end": 41.61
+    },
+    {
+     "word": "cometeu",
+     "start": 41.61,
+     "end": 42.11
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 42.15,
+   "end": 42.99,
+   "text": "Em bater num carro",
+   "words": [
+    {
+     "word": "Em",
+     "start": 42.15,
+     "end": 42.25
+    },
+    {
+     "word": "bater",
+     "start": 42.25,
+     "end": 42.45
+    },
+    {
+     "word": "num",
+     "start": 42.45,
+     "end": 42.63
+    },
+    {
+     "word": "carro",
+     "start": 42.63,
+     "end": 42.99
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 43.03,
+   "end": 43.69,
+   "text": "eu nunca vi bater",
+   "words": [
+    {
+     "word": "eu",
+     "start": 43.03,
+     "end": 43.21
+    },
+    {
+     "word": "nunca",
+     "start": 43.21,
+     "end": 43.37
+    },
+    {
+     "word": "vi",
+     "start": 43.37,
+     "end": 43.53
+    },
+    {
+     "word": "bater",
+     "start": 43.53,
+     "end": 43.69
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 43.73,
+   "end": 44.72,
+   "text": "carro Que crime",
+   "words": [
+    {
+     "word": "carro",
+     "start": 43.73,
+     "end": 43.99
+    },
+    {
+     "word": "Que",
+     "start": 43.99,
+     "end": 44.13
+    },
+    {
+     "word": "crime",
+     "start": 44.13,
+     "end": 44.72
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
