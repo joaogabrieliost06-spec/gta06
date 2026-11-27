@@ -1,0 +1,352 @@
+{
+ "segments": [
+  {
+   "start": 3.27,
+   "end": 3.87,
+   "text": "Os meus caras",
+   "words": [
+    {
+     "word": "Os",
+     "start": 3.27,
+     "end": 3.49
+    },
+    {
+     "word": "meus",
+     "start": 3.49,
+     "end": 3.61
+    },
+    {
+     "word": "caras",
+     "start": 3.61,
+     "end": 3.87
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 3.91,
+   "end": 4.75,
+   "text": "do local do mergulho",
+   "words": [
+    {
+     "word": "do",
+     "start": 3.91,
+     "end": 3.93
+    },
+    {
+     "word": "local",
+     "start": 3.93,
+     "end": 4.25
+    },
+    {
+     "word": "do",
+     "start": 4.25,
+     "end": 4.43
+    },
+    {
+     "word": "mergulho",
+     "start": 4.43,
+     "end": 4.75
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 4.79,
+   "end": 5.75,
+   "text": "do Bobcat venderam",
+   "words": [
+    {
+     "word": "do",
+     "start": 4.79,
+     "end": 4.91
+    },
+    {
+     "word": "Bobcat",
+     "start": 4.91,
+     "end": 5.33
+    },
+    {
+     "word": "venderam",
+     "start": 5.33,
+     "end": 5.75
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 5.79,
+   "end": 7.7,
+   "text": "facinho, mais 31 mil",
+   "words": [
+    {
+     "word": "facinho,",
+     "start": 5.79,
+     "end": 6.23
+    },
+    {
+     "word": "mais",
+     "start": 6.27,
+     "end": 6.47
+    },
+    {
+     "word": "31",
+     "start": 6.47,
+     "end": 6.91
+    },
+    {
+     "word": "mil",
+     "start": 6.91,
+     "end": 7.7
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 11.15,
+   "end": 12.51,
+   "text": "Irmão, pegar tesouro",
+   "words": [
+    {
+     "word": "Irmão,",
+     "start": 11.15,
+     "end": 11.57
+    },
+    {
+     "word": "pegar",
+     "start": 11.69,
+     "end": 11.89
+    },
+    {
+     "word": "tesouro",
+     "start": 11.89,
+     "end": 12.51
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 12.55,
+   "end": 13.52,
+   "text": "rende, tá?",
+   "words": [
+    {
+     "word": "rende,",
+     "start": 12.55,
+     "end": 13.13
+    },
+    {
+     "word": "tá?",
+     "start": 13.15,
+     "end": 13.52
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 14.05,
+   "end": 14.99,
+   "text": "Pegar tesouro",
+   "words": [
+    {
+     "word": "Pegar",
+     "start": 14.05,
+     "end": 14.47
+    },
+    {
+     "word": "tesouro",
+     "start": 14.47,
+     "end": 14.99
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 15.03,
+   "end": 16.05,
+   "text": "dá dinheiro",
+   "words": [
+    {
+     "word": "dá",
+     "start": 15.03,
+     "end": 15.39
+    },
+    {
+     "word": "dinheiro",
+     "start": 15.39,
+     "end": 16.05
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 16.09,
+   "end": 17.04,
+   "text": "Capacete, senão",
+   "words": [
+    {
+     "word": "Capacete,",
+     "start": 16.09,
+     "end": 16.87
+    },
+    {
+     "word": "senão",
+     "start": 16.99,
+     "end": 17.04
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 17.07,
+   "end": 17.61,
+   "text": "a água espirra",
+   "words": [
+    {
+     "word": "a",
+     "start": 17.07,
+     "end": 17.17
+    },
+    {
+     "word": "água",
+     "start": 17.17,
+     "end": 17.31
+    },
+    {
+     "word": "espirra",
+     "start": 17.31,
+     "end": 17.61
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 17.65,
+   "end": 18.48,
+   "text": "na cara, né?",
+   "words": [
+    {
+     "word": "na",
+     "start": 17.65,
+     "end": 17.77
+    },
+    {
+     "word": "cara,",
+     "start": 17.77,
+     "end": 18.09
+    },
+    {
+     "word": "né?",
+     "start": 18.11,
+     "end": 18.48
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 25.73,
+   "end": 26.47,
+   "text": "A degrau do lado",
+   "words": [
+    {
+     "word": "A",
+     "start": 25.73,
+     "end": 25.93
+    },
+    {
+     "word": "degrau",
+     "start": 25.93,
+     "end": 26.29
+    },
+    {
+     "word": "do",
+     "start": 26.29,
+     "end": 26.41
+    },
+    {
+     "word": "lado",
+     "start": 26.41,
+     "end": 26.47
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 26.51,
+   "end": 27.17,
+   "text": "da polícia, mano",
+   "words": [
+    {
+     "word": "da",
+     "start": 26.51,
+     "end": 26.61
+    },
+    {
+     "word": "polícia,",
+     "start": 26.61,
+     "end": 27.07
+    },
+    {
+     "word": "mano",
+     "start": 27.07,
+     "end": 27.17
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 27.21,
+   "end": 30.77,
+   "text": "Nossa, chat, nossa",
+   "words": [
+    {
+     "word": "Nossa,",
+     "start": 27.21,
+     "end": 27.49
+    },
+    {
+     "word": "chat,",
+     "start": 30.47,
+     "end": 30.59
+    },
+    {
+     "word": "nossa",
+     "start": 30.63,
+     "end": 30.77
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 30.81,
+   "end": 32.17,
+   "text": "primeira chuvosa",
+   "words": [
+    {
+     "word": "primeira",
+     "start": 30.81,
+     "end": 31.21
+    },
+    {
+     "word": "chuvosa",
+     "start": 31.21,
+     "end": 32.17
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 32.21,
+   "end": 32.81,
+   "text": "mano",
+   "words": [
+    {
+     "word": "mano",
+     "start": 32.21,
+     "end": 32.81
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
