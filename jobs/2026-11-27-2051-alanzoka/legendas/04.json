@@ -1,0 +1,980 @@
+{
+ "segments": [
+  {
+   "start": 0.49,
+   "end": 1.27,
+   "text": "\"Salvar acessório",
+   "words": [
+    {
+     "word": "\"Salvar",
+     "start": 0.49,
+     "end": 0.83
+    },
+    {
+     "word": "acessório",
+     "start": 0.83,
+     "end": 1.27
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 1.31,
+   "end": 2.84,
+   "text": "de cabeça encontrado\"?",
+   "words": [
+    {
+     "word": "de",
+     "start": 1.31,
+     "end": 1.43
+    },
+    {
+     "word": "cabeça",
+     "start": 1.43,
+     "end": 1.77
+    },
+    {
+     "word": "encontrado\"?",
+     "start": 1.77,
+     "end": 2.84
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 5.6,
+   "end": 6.42,
+   "text": "Salva? Nem sei o",
+   "words": [
+    {
+     "word": "Salva?",
+     "start": 5.6,
+     "end": 5.92
+    },
+    {
+     "word": "Nem",
+     "start": 6.06,
+     "end": 6.18
+    },
+    {
+     "word": "sei",
+     "start": 6.18,
+     "end": 6.34
+    },
+    {
+     "word": "o",
+     "start": 6.34,
+     "end": 6.42
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 6.46,
+   "end": 7.06,
+   "text": "que é isso",
+   "words": [
+    {
+     "word": "que",
+     "start": 6.46,
+     "end": 6.48
+    },
+    {
+     "word": "é",
+     "start": 6.48,
+     "end": 6.56
+    },
+    {
+     "word": "isso",
+     "start": 6.56,
+     "end": 7.06
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 15.29,
+   "end": 15.96,
+   "text": "Me estressando. Ela",
+   "words": [
+    {
+     "word": "Me",
+     "start": 15.29,
+     "end": 15.43
+    },
+    {
+     "word": "estressando.",
+     "start": 15.43,
+     "end": 15.83
+    },
+    {
+     "word": "Ela",
+     "start": 15.91,
+     "end": 15.96
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 15.97,
+   "end": 16.71,
+   "text": "tá muito forte, mano",
+   "words": [
+    {
+     "word": "tá",
+     "start": 15.97,
+     "end": 16.01
+    },
+    {
+     "word": "muito",
+     "start": 16.01,
+     "end": 16.19
+    },
+    {
+     "word": "forte,",
+     "start": 16.19,
+     "end": 16.53
+    },
+    {
+     "word": "mano",
+     "start": 16.55,
+     "end": 16.71
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 16.75,
+   "end": 17.5,
+   "text": "Olha",
+   "words": [
+    {
+     "word": "Olha",
+     "start": 16.75,
+     "end": 17.5
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 26.16,
+   "end": 27.75,
+   "text": "esses abs, meu! Tá",
+   "words": [
+    {
+     "word": "esses",
+     "start": 26.16,
+     "end": 26.4
+    },
+    {
+     "word": "abs,",
+     "start": 26.4,
+     "end": 26.72
+    },
+    {
+     "word": "meu!",
+     "start": 26.86,
+     "end": 27.08
+    },
+    {
+     "word": "Tá",
+     "start": 27.38,
+     "end": 27.75
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 35.17,
+   "end": 35.61,
+   "text": "muito",
+   "words": [
+    {
+     "word": "muito",
+     "start": 35.17,
+     "end": 35.61
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 35.65,
+   "end": 38.35,
+   "text": "Eu preciso terminar",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 35.65,
+     "end": 36.19
+    },
+    {
+     "word": "preciso",
+     "start": 38.07,
+     "end": 38.21
+    },
+    {
+     "word": "terminar",
+     "start": 38.21,
+     "end": 38.35
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 38.39,
+   "end": 39.49,
+   "text": "essa missão urgente",
+   "words": [
+    {
+     "word": "essa",
+     "start": 38.39,
+     "end": 38.55
+    },
+    {
+     "word": "missão",
+     "start": 38.55,
+     "end": 38.87
+    },
+    {
+     "word": "urgente",
+     "start": 38.87,
+     "end": 39.49
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 39.53,
+   "end": 40.52,
+   "text": "cara. Não",
+   "words": [
+    {
+     "word": "cara.",
+     "start": 39.53,
+     "end": 39.77
+    },
+    {
+     "word": "Não",
+     "start": 39.77,
+     "end": 40.52
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 45.47,
+   "end": 46.39,
+   "text": "gostei, cara, não",
+   "words": [
+    {
+     "word": "gostei,",
+     "start": 45.47,
+     "end": 45.91
+    },
+    {
+     "word": "cara,",
+     "start": 45.97,
+     "end": 46.21
+    },
+    {
+     "word": "não",
+     "start": 46.25,
+     "end": 46.39
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 46.43,
+   "end": 47.96,
+   "text": "gostei, tá?",
+   "words": [
+    {
+     "word": "gostei,",
+     "start": 46.43,
+     "end": 46.93
+    },
+    {
+     "word": "tá?",
+     "start": 47.31,
+     "end": 47.96
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 57.79,
+   "end": 58.33,
+   "text": "É diferente de mini",
+   "words": [
+    {
+     "word": "É",
+     "start": 57.79,
+     "end": 57.85
+    },
+    {
+     "word": "diferente",
+     "start": 57.85,
+     "end": 58.03
+    },
+    {
+     "word": "de",
+     "start": 58.03,
+     "end": 58.25
+    },
+    {
+     "word": "mini",
+     "start": 58.25,
+     "end": 58.33
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 58.37,
+   "end": 59.36,
+   "text": "pra maxi?",
+   "words": [
+    {
+     "word": "pra",
+     "start": 58.37,
+     "end": 58.57
+    },
+    {
+     "word": "maxi?",
+     "start": 58.57,
+     "end": 59.36
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 60.09,
+   "end": 60.95,
+   "text": "Ah, acho que maxi",
+   "words": [
+    {
+     "word": "Ah,",
+     "start": 60.09,
+     "end": 60.25
+    },
+    {
+     "word": "acho",
+     "start": 60.45,
+     "end": 60.55
+    },
+    {
+     "word": "que",
+     "start": 60.55,
+     "end": 60.63
+    },
+    {
+     "word": "maxi",
+     "start": 60.63,
+     "end": 60.95
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 60.99,
+   "end": 61.73,
+   "text": "é as grande, né",
+   "words": [
+    {
+     "word": "é",
+     "start": 60.99,
+     "end": 61.05
+    },
+    {
+     "word": "as",
+     "start": 61.05,
+     "end": 61.21
+    },
+    {
+     "word": "grande,",
+     "start": 61.21,
+     "end": 61.57
+    },
+    {
+     "word": "né",
+     "start": 61.67,
+     "end": 61.73
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 61.77,
+   "end": 62.54,
+   "text": "Nossa",
+   "words": [
+    {
+     "word": "Nossa",
+     "start": 61.77,
+     "end": 62.54
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 63.54,
+   "end": 64.3,
+   "text": "mas esses abs, tá",
+   "words": [
+    {
+     "word": "mas",
+     "start": 63.54,
+     "end": 63.62
+    },
+    {
+     "word": "esses",
+     "start": 63.62,
+     "end": 63.82
+    },
+    {
+     "word": "abs,",
+     "start": 63.82,
+     "end": 64.06
+    },
+    {
+     "word": "tá",
+     "start": 64.24,
+     "end": 64.3
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 64.34,
+   "end": 64.92,
+   "text": "mano, tá quebrando",
+   "words": [
+    {
+     "word": "mano,",
+     "start": 64.34,
+     "end": 64.44
+    },
+    {
+     "word": "tá",
+     "start": 64.54,
+     "end": 64.6
+    },
+    {
+     "word": "quebrando",
+     "start": 64.6,
+     "end": 64.92
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 64.96,
+   "end": 66.0,
+   "text": "meu look, cara. Não",
+   "words": [
+    {
+     "word": "meu",
+     "start": 64.96,
+     "end": 65.12
+    },
+    {
+     "word": "look,",
+     "start": 65.12,
+     "end": 65.34
+    },
+    {
+     "word": "cara.",
+     "start": 65.42,
+     "end": 65.66
+    },
+    {
+     "word": "Não",
+     "start": 65.66,
+     "end": 66.0
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 66.04,
+   "end": 66.4,
+   "text": "dá pra fazer",
+   "words": [
+    {
+     "word": "dá",
+     "start": 66.04,
+     "end": 66.2
+    },
+    {
+     "word": "pra",
+     "start": 66.2,
+     "end": 66.26
+    },
+    {
+     "word": "fazer",
+     "start": 66.26,
+     "end": 66.4
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 66.44,
+   "end": 67.0,
+   "text": "um look com esses",
+   "words": [
+    {
+     "word": "um",
+     "start": 66.44,
+     "end": 66.54
+    },
+    {
+     "word": "look",
+     "start": 66.54,
+     "end": 66.72
+    },
+    {
+     "word": "com",
+     "start": 66.72,
+     "end": 66.88
+    },
+    {
+     "word": "esses",
+     "start": 66.88,
+     "end": 67.0
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 67.04,
+   "end": 68.31,
+   "text": "abs, mano. Não",
+   "words": [
+    {
+     "word": "abs,",
+     "start": 67.04,
+     "end": 67.28
+    },
+    {
+     "word": "mano.",
+     "start": 67.38,
+     "end": 67.58
+    },
+    {
+     "word": "Não",
+     "start": 67.58,
+     "end": 68.31
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 68.69,
+   "end": 69.43,
+   "text": "dá, cara, não, não",
+   "words": [
+    {
+     "word": "dá,",
+     "start": 68.69,
+     "end": 68.81
+    },
+    {
+     "word": "cara,",
+     "start": 68.91,
+     "end": 69.05
+    },
+    {
+     "word": "não,",
+     "start": 69.11,
+     "end": 69.21
+    },
+    {
+     "word": "não",
+     "start": 69.27,
+     "end": 69.43
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 69.47,
+   "end": 69.81,
+   "text": "dá pra fazer",
+   "words": [
+    {
+     "word": "dá",
+     "start": 69.47,
+     "end": 69.61
+    },
+    {
+     "word": "pra",
+     "start": 69.61,
+     "end": 69.69
+    },
+    {
+     "word": "fazer",
+     "start": 69.69,
+     "end": 69.81
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 69.85,
+   "end": 70.37,
+   "text": "um look com esses",
+   "words": [
+    {
+     "word": "um",
+     "start": 69.85,
+     "end": 69.93
+    },
+    {
+     "word": "look",
+     "start": 69.93,
+     "end": 70.11
+    },
+    {
+     "word": "com",
+     "start": 70.11,
+     "end": 70.25
+    },
+    {
+     "word": "esses",
+     "start": 70.25,
+     "end": 70.37
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 70.41,
+   "end": 71.45,
+   "text": "abs, velho. Esses abs",
+   "words": [
+    {
+     "word": "abs,",
+     "start": 70.41,
+     "end": 70.67
+    },
+    {
+     "word": "velho.",
+     "start": 70.77,
+     "end": 70.97
+    },
+    {
+     "word": "Esses",
+     "start": 70.97,
+     "end": 71.27
+    },
+    {
+     "word": "abs",
+     "start": 71.27,
+     "end": 71.45
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 71.49,
+   "end": 72.42,
+   "text": "deixa tudo",
+   "words": [
+    {
+     "word": "deixa",
+     "start": 71.49,
+     "end": 71.81
+    },
+    {
+     "word": "tudo",
+     "start": 71.81,
+     "end": 72.42
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 72.46,
+   "end": 73.66,
+   "text": "desproporcional",
+   "words": [
+    {
+     "word": "desproporcional",
+     "start": 72.46,
+     "end": 73.66
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 73.7,
+   "end": 74.3,
+   "text": "mano",
+   "words": [
+    {
+     "word": "mano",
+     "start": 73.7,
+     "end": 74.3
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 74.59,
+   "end": 75.45,
+   "text": "Não dá pra fazer",
+   "words": [
+    {
+     "word": "Não",
+     "start": 74.59,
+     "end": 75.07
+    },
+    {
+     "word": "dá",
+     "start": 75.07,
+     "end": 75.23
+    },
+    {
+     "word": "pra",
+     "start": 75.23,
+     "end": 75.31
+    },
+    {
+     "word": "fazer",
+     "start": 75.31,
+     "end": 75.45
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 75.49,
+   "end": 75.93,
+   "text": "um look com esses",
+   "words": [
+    {
+     "word": "um",
+     "start": 75.49,
+     "end": 75.57
+    },
+    {
+     "word": "look",
+     "start": 75.57,
+     "end": 75.71
+    },
+    {
+     "word": "com",
+     "start": 75.71,
+     "end": 75.81
+    },
+    {
+     "word": "esses",
+     "start": 75.81,
+     "end": 75.93
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 75.97,
+   "end": 77.0,
+   "text": "abs. Não",
+   "words": [
+    {
+     "word": "abs.",
+     "start": 75.97,
+     "end": 76.27
+    },
+    {
+     "word": "Não",
+     "start": 76.27,
+     "end": 77.0
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 78.56,
+   "end": 79.14,
+   "text": "dá, não dá, não",
+   "words": [
+    {
+     "word": "dá,",
+     "start": 78.56,
+     "end": 78.72
+    },
+    {
+     "word": "não",
+     "start": 78.78,
+     "end": 78.9
+    },
+    {
+     "word": "dá,",
+     "start": 78.9,
+     "end": 79.02
+    },
+    {
+     "word": "não",
+     "start": 79.08,
+     "end": 79.14
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 79.18,
+   "end": 80.59,
+   "text": "dá. Tá muito",
+   "words": [
+    {
+     "word": "dá.",
+     "start": 79.18,
+     "end": 79.32
+    },
+    {
+     "word": "Tá",
+     "start": 79.6,
+     "end": 80.08
+    },
+    {
+     "word": "muito",
+     "start": 80.39,
+     "end": 80.59
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 80.63,
+   "end": 81.98,
+   "text": "bombada, cara. Tá",
+   "words": [
+    {
+     "word": "bombada,",
+     "start": 80.63,
+     "end": 81.11
+    },
+    {
+     "word": "cara.",
+     "start": 81.23,
+     "end": 81.37
+    },
+    {
+     "word": "Tá",
+     "start": 81.37,
+     "end": 81.98
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 85.11,
+   "end": 85.87,
+   "text": "muito bombada",
+   "words": [
+    {
+     "word": "muito",
+     "start": 85.11,
+     "end": 85.33
+    },
+    {
+     "word": "bombada",
+     "start": 85.33,
+     "end": 85.87
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 85.91,
+   "end": 88.15,
+   "text": "Já parei de ir pra academia",
+   "words": [
+    {
+     "word": "Já",
+     "start": 85.91,
+     "end": 86.33
+    },
+    {
+     "word": "parei",
+     "start": 87.41,
+     "end": 87.75
+    },
+    {
+     "word": "de",
+     "start": 87.75,
+     "end": 87.8
+    },
+    {
+     "word": "ir",
+     "start": 87.8,
+     "end": 87.87
+    },
+    {
+     "word": "pra",
+     "start": 87.87,
+     "end": 87.92
+    },
+    {
+     "word": "academia",
+     "start": 87.92,
+     "end": 88.15
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 88.19,
+   "end": 89.33,
+   "text": "com eles. Daí",
+   "words": [
+    {
+     "word": "com",
+     "start": 88.19,
+     "end": 88.49
+    },
+    {
+     "word": "eles.",
+     "start": 88.49,
+     "end": 89.05
+    },
+    {
+     "word": "Daí",
+     "start": 89.05,
+     "end": 89.33
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 89.37,
+   "end": 90.22,
+   "text": "o jogo me obriga",
+   "words": [
+    {
+     "word": "o",
+     "start": 89.37,
+     "end": 89.45
+    },
+    {
+     "word": "jogo",
+     "start": 89.45,
+     "end": 89.61
+    },
+    {
+     "word": "me",
+     "start": 89.61,
+     "end": 89.77
+    },
+    {
+     "word": "obriga",
+     "start": 89.77,
+     "end": 90.22
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
