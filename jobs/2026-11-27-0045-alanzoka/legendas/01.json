@@ -1,0 +1,285 @@
+{
+ "segments": [
+  {
+   "start": 7.75,
+   "end": 8.69,
+   "text": "— Daí⁠ eu⁠ não⁠ atrasava⁠",
+   "words": [
+    {
+     "word": "— Daí⁠",
+     "start": 7.75,
+     "end": 8.15
+    },
+    {
+     "word": "eu⁠",
+     "start": 8.15,
+     "end": 8.2
+    },
+    {
+     "word": "não⁠",
+     "start": 8.2,
+     "end": 8.25
+    },
+    {
+     "word": "atrasava⁠",
+     "start": 8.25,
+     "end": 8.69
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 8.73,
+   "end": 9.94,
+   "text": "a⁠ live,⁠ chat⁠ O⁠",
+   "words": [
+    {
+     "word": "a⁠",
+     "start": 8.73,
+     "end": 8.87
+    },
+    {
+     "word": "live,⁠",
+     "start": 8.87,
+     "end": 9.05
+    },
+    {
+     "word": "chat⁠",
+     "start": 9.19,
+     "end": 9.41
+    },
+    {
+     "word": "O⁠",
+     "start": 9.41,
+     "end": 9.94
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 12.32,
+   "end": 14.41,
+   "text": "— que⁠",
+   "words": [
+    {
+     "word": "— que⁠",
+     "start": 12.32,
+     "end": 14.41
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 18.44,
+   "end": 19.79,
+   "text": "— é⁠ isso,⁠ The⁠ Darkness,⁠ mano?⁠",
+   "words": [
+    {
+     "word": "— é⁠",
+     "start": 18.44,
+     "end": 18.52
+    },
+    {
+     "word": "isso,⁠",
+     "start": 18.52,
+     "end": 18.57
+    },
+    {
+     "word": "The⁠",
+     "start": 18.72,
+     "end": 18.84
+    },
+    {
+     "word": "Darkness,⁠",
+     "start": 18.84,
+     "end": 19.18
+    },
+    {
+     "word": "mano?⁠",
+     "start": 19.38,
+     "end": 19.79
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 19.84,
+   "end": 21.66,
+   "text": "Salve,⁠ Alê!⁠ Eu⁠ vou⁠ meter⁠",
+   "words": [
+    {
+     "word": "Salve,⁠",
+     "start": 19.84,
+     "end": 20.18
+    },
+    {
+     "word": "Alê!⁠",
+     "start": 20.26,
+     "end": 20.54
+    },
+    {
+     "word": "Eu⁠",
+     "start": 21.24,
+     "end": 21.44
+    },
+    {
+     "word": "vou⁠",
+     "start": 21.44,
+     "end": 21.54
+    },
+    {
+     "word": "meter⁠",
+     "start": 21.54,
+     "end": 21.66
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 21.7,
+   "end": 22.63,
+   "text": "um⁠ treininho?⁠",
+   "words": [
+    {
+     "word": "um⁠",
+     "start": 21.7,
+     "end": 21.82
+    },
+    {
+     "word": "treininho?⁠",
+     "start": 21.82,
+     "end": 22.63
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 35.22,
+   "end": 36.4,
+   "text": "Valeu, olha esse",
+   "words": [
+    {
+     "word": "Valeu,",
+     "start": 35.22,
+     "end": 35.62
+    },
+    {
+     "word": "olha",
+     "start": 35.84,
+     "end": 35.98
+    },
+    {
+     "word": "esse",
+     "start": 35.98,
+     "end": 36.4
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 36.44,
+   "end": 38.27,
+   "text": "carro Primeiro Najax",
+   "words": [
+    {
+     "word": "carro",
+     "start": 36.44,
+     "end": 36.98
+    },
+    {
+     "word": "Primeiro",
+     "start": 37.29,
+     "end": 37.95
+    },
+    {
+     "word": "Najax",
+     "start": 37.99,
+     "end": 38.27
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 38.31,
+   "end": 38.79,
+   "text": "me aproximei",
+   "words": [
+    {
+     "word": "me",
+     "start": 38.31,
+     "end": 38.43
+    },
+    {
+     "word": "aproximei",
+     "start": 38.43,
+     "end": 38.79
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 38.83,
+   "end": 39.31,
+   "text": "o bastante, eles",
+   "words": [
+    {
+     "word": "o",
+     "start": 38.83,
+     "end": 38.89
+    },
+    {
+     "word": "bastante,",
+     "start": 38.89,
+     "end": 39.15
+    },
+    {
+     "word": "eles",
+     "start": 39.21,
+     "end": 39.31
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 39.35,
+   "end": 39.97,
+   "text": "estão começando a me",
+   "words": [
+    {
+     "word": "estão",
+     "start": 39.35,
+     "end": 39.43
+    },
+    {
+     "word": "começando",
+     "start": 39.43,
+     "end": 39.83
+    },
+    {
+     "word": "a",
+     "start": 39.83,
+     "end": 39.91
+    },
+    {
+     "word": "me",
+     "start": 39.91,
+     "end": 39.97
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 40.01,
+   "end": 40.76,
+   "text": "incluir",
+   "words": [
+    {
+     "word": "incluir",
+     "start": 40.01,
+     "end": 40.76
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
