@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, Peixão, GTA 6, Lucia, Jason, Raul, hotel, BuckMe, mundo aberto, final, mano, viado, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:08:03", "fim": "0:08:30", "titulo": "O JOGO NÃO ME DEIXA FUGIR"},
+  {"id": "02", "inicio": "0:00:10", "fim": "0:00:58", "titulo": "UM MILHÃO NO HOTEL"},
+  {"id": "03", "inicio": "0:17:36", "fim": "0:18:56", "titulo": "EU NÃO QUERIA SABER O FINAL"}
+ ]
+}
