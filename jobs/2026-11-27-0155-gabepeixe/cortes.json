@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, Peixão, GTA 6, Lucia, Jason, banco, roubo, Uber, polícia, ponte, mano, viado, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:08:33", "fim": "0:09:15", "titulo": "O ROUBO MAIS PERFEITO DO PEIXÃO"},
+  {"id": "02", "inicio": "0:16:08", "fim": "0:17:01", "titulo": "QUEM TAVA DIRIGINDO ERA O UBER"},
+  {"id": "03", "inicio": "0:17:20", "fim": "0:17:36", "titulo": "VONTADE DE JOGAR OS DOIS DA PONTE"}
+ ]
+}
