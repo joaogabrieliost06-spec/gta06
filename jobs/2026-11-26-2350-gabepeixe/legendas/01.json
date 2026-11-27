@@ -1,0 +1,1171 @@
+{
+ "segments": [
+  {
+   "start": 12.27,
+   "end": 13.26,
+   "text": "mano, bizarro",
+   "words": [
+    {
+     "word": "mano,",
+     "start": 12.27,
+     "end": 12.33
+    },
+    {
+     "word": "bizarro",
+     "start": 12.64,
+     "end": 13.26
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 13.3,
+   "end": 14.07,
+   "text": "moleque",
+   "words": [
+    {
+     "word": "moleque",
+     "start": 13.3,
+     "end": 14.07
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 14.36,
+   "end": 15.32,
+   "text": "irmão, não tem",
+   "words": [
+    {
+     "word": "irmão,",
+     "start": 14.36,
+     "end": 14.76
+    },
+    {
+     "word": "não",
+     "start": 14.92,
+     "end": 15.16
+    },
+    {
+     "word": "tem",
+     "start": 15.16,
+     "end": 15.32
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 15.36,
+   "end": 15.91,
+   "text": "sentido, eu",
+   "words": [
+    {
+     "word": "sentido,",
+     "start": 15.36,
+     "end": 15.7
+    },
+    {
+     "word": "eu",
+     "start": 15.86,
+     "end": 15.91
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 15.88,
+   "end": 16.94,
+   "text": "tô indignado, viado",
+   "words": [
+    {
+     "word": "tô",
+     "start": 15.88,
+     "end": 15.94
+    },
+    {
+     "word": "indignado,",
+     "start": 15.94,
+     "end": 16.6
+    },
+    {
+     "word": "viado",
+     "start": 16.72,
+     "end": 16.94
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 16.98,
+   "end": 17.89,
+   "text": "eu tô indignado",
+   "words": [
+    {
+     "word": "eu",
+     "start": 16.98,
+     "end": 17.02
+    },
+    {
+     "word": "tô",
+     "start": 17.02,
+     "end": 17.08
+    },
+    {
+     "word": "indignado",
+     "start": 17.08,
+     "end": 17.89
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 17.96,
+   "end": 18.8,
+   "text": "o Jason não merece",
+   "words": [
+    {
+     "word": "o",
+     "start": 17.96,
+     "end": 18.04
+    },
+    {
+     "word": "Jason",
+     "start": 18.04,
+     "end": 18.28
+    },
+    {
+     "word": "não",
+     "start": 18.28,
+     "end": 18.48
+    },
+    {
+     "word": "merece",
+     "start": 18.48,
+     "end": 18.8
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 18.84,
+   "end": 19.83,
+   "text": "a Lucia, viado",
+   "words": [
+    {
+     "word": "a",
+     "start": 18.84,
+     "end": 18.94
+    },
+    {
+     "word": "Lucia,",
+     "start": 18.94,
+     "end": 19.26
+    },
+    {
+     "word": "viado",
+     "start": 19.36,
+     "end": 19.83
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 19.88,
+   "end": 20.52,
+   "text": "o Jason não merece",
+   "words": [
+    {
+     "word": "o",
+     "start": 19.88,
+     "end": 20.02
+    },
+    {
+     "word": "Jason",
+     "start": 20.02,
+     "end": 20.14
+    },
+    {
+     "word": "não",
+     "start": 20.14,
+     "end": 20.3
+    },
+    {
+     "word": "merece",
+     "start": 20.3,
+     "end": 20.52
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 20.56,
+   "end": 21.54,
+   "text": "a Lucia, o cara",
+   "words": [
+    {
+     "word": "a",
+     "start": 20.56,
+     "end": 20.64
+    },
+    {
+     "word": "Lucia,",
+     "start": 20.64,
+     "end": 20.96
+    },
+    {
+     "word": "o",
+     "start": 21.22,
+     "end": 21.4
+    },
+    {
+     "word": "cara",
+     "start": 21.4,
+     "end": 21.54
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 21.58,
+   "end": 22.12,
+   "text": "tá chamando ela",
+   "words": [
+    {
+     "word": "tá",
+     "start": 21.58,
+     "end": 21.72
+    },
+    {
+     "word": "chamando",
+     "start": 21.72,
+     "end": 22.06
+    },
+    {
+     "word": "ela",
+     "start": 22.06,
+     "end": 22.12
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 22.16,
+   "end": 23.12,
+   "text": "de não sei o que rabuda",
+   "words": [
+    {
+     "word": "de",
+     "start": 22.16,
+     "end": 22.28
+    },
+    {
+     "word": "não",
+     "start": 22.28,
+     "end": 22.4
+    },
+    {
+     "word": "sei",
+     "start": 22.4,
+     "end": 22.5
+    },
+    {
+     "word": "o",
+     "start": 22.5,
+     "end": 22.58
+    },
+    {
+     "word": "que",
+     "start": 22.58,
+     "end": 22.66
+    },
+    {
+     "word": "rabuda",
+     "start": 22.66,
+     "end": 23.12
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 23.16,
+   "end": 23.58,
+   "text": "falando pra ela",
+   "words": [
+    {
+     "word": "falando",
+     "start": 23.16,
+     "end": 23.4
+    },
+    {
+     "word": "pra",
+     "start": 23.4,
+     "end": 23.52
+    },
+    {
+     "word": "ela",
+     "start": 23.52,
+     "end": 23.58
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 23.62,
+   "end": 24.26,
+   "text": "mamar todo mundo",
+   "words": [
+    {
+     "word": "mamar",
+     "start": 23.62,
+     "end": 23.9
+    },
+    {
+     "word": "todo",
+     "start": 23.9,
+     "end": 24.1
+    },
+    {
+     "word": "mundo",
+     "start": 24.1,
+     "end": 24.26
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 24.3,
+   "end": 24.86,
+   "text": "da tropa",
+   "words": [
+    {
+     "word": "da",
+     "start": 24.3,
+     "end": 24.48
+    },
+    {
+     "word": "tropa",
+     "start": 24.48,
+     "end": 24.86
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 24.9,
+   "end": 26.05,
+   "text": "que bizarro, viado",
+   "words": [
+    {
+     "word": "que",
+     "start": 24.9,
+     "end": 24.98
+    },
+    {
+     "word": "bizarro,",
+     "start": 24.98,
+     "end": 25.42
+    },
+    {
+     "word": "viado",
+     "start": 25.54,
+     "end": 26.05
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 26.56,
+   "end": 27.5,
+   "text": "mano, que bizarro",
+   "words": [
+    {
+     "word": "mano,",
+     "start": 26.56,
+     "end": 26.72
+    },
+    {
+     "word": "que",
+     "start": 26.82,
+     "end": 26.9
+    },
+    {
+     "word": "bizarro",
+     "start": 26.9,
+     "end": 27.5
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 27.54,
+   "end": 28.34,
+   "text": "viado, que bizarro",
+   "words": [
+    {
+     "word": "viado,",
+     "start": 27.54,
+     "end": 27.7
+    },
+    {
+     "word": "que",
+     "start": 27.78,
+     "end": 27.86
+    },
+    {
+     "word": "bizarro",
+     "start": 27.86,
+     "end": 28.34
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 28.38,
+   "end": 29.12,
+   "text": "mano, todo respeito",
+   "words": [
+    {
+     "word": "mano,",
+     "start": 28.38,
+     "end": 28.46
+    },
+    {
+     "word": "todo",
+     "start": 28.6,
+     "end": 28.8
+    },
+    {
+     "word": "respeito",
+     "start": 28.8,
+     "end": 29.12
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 29.16,
+   "end": 30.25,
+   "text": "a Lucia caiu muito",
+   "words": [
+    {
+     "word": "a",
+     "start": 29.16,
+     "end": 29.24
+    },
+    {
+     "word": "Lucia",
+     "start": 29.24,
+     "end": 29.48
+    },
+    {
+     "word": "caiu",
+     "start": 29.48,
+     "end": 29.76
+    },
+    {
+     "word": "muito",
+     "start": 29.76,
+     "end": 30.25
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 30.3,
+   "end": 30.9,
+   "text": "mano",
+   "words": [
+    {
+     "word": "mano",
+     "start": 30.3,
+     "end": 30.9
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 31.04,
+   "end": 31.52,
+   "text": "até então",
+   "words": [
+    {
+     "word": "até",
+     "start": 31.04,
+     "end": 31.16
+    },
+    {
+     "word": "então",
+     "start": 31.16,
+     "end": 31.52
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 31.56,
+   "end": 32.44,
+   "text": "o primeiro capítulo",
+   "words": [
+    {
+     "word": "o",
+     "start": 31.56,
+     "end": 31.64
+    },
+    {
+     "word": "primeiro",
+     "start": 31.64,
+     "end": 31.8
+    },
+    {
+     "word": "capítulo",
+     "start": 31.8,
+     "end": 32.44
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 32.48,
+   "end": 33.74,
+   "text": "esse bagulho, mano",
+   "words": [
+    {
+     "word": "esse",
+     "start": 32.48,
+     "end": 32.98
+    },
+    {
+     "word": "bagulho,",
+     "start": 32.98,
+     "end": 33.42
+    },
+    {
+     "word": "mano",
+     "start": 33.52,
+     "end": 33.74
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 33.78,
+   "end": 34.56,
+   "text": "eu tô vivenciando",
+   "words": [
+    {
+     "word": "eu",
+     "start": 33.78,
+     "end": 33.98
+    },
+    {
+     "word": "tô",
+     "start": 33.98,
+     "end": 34.12
+    },
+    {
+     "word": "vivenciando",
+     "start": 34.12,
+     "end": 34.56
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 34.6,
+   "end": 35.17,
+   "text": "a parada, isso",
+   "words": [
+    {
+     "word": "a",
+     "start": 34.6,
+     "end": 34.72
+    },
+    {
+     "word": "parada,",
+     "start": 34.72,
+     "end": 35.0
+    },
+    {
+     "word": "isso",
+     "start": 35.12,
+     "end": 35.17
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 35.2,
+   "end": 36.31,
+   "text": "é ridículo, viado",
+   "words": [
+    {
+     "word": "é",
+     "start": 35.2,
+     "end": 35.24
+    },
+    {
+     "word": "ridículo,",
+     "start": 35.24,
+     "end": 35.72
+    },
+    {
+     "word": "viado",
+     "start": 35.86,
+     "end": 36.31
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 37.81,
+   "end": 39.01,
+   "text": "tipo, Porque não",
+   "words": [
+    {
+     "word": "tipo,",
+     "start": 37.81,
+     "end": 37.97
+    },
+    {
+     "word": "Porque",
+     "start": 37.97,
+     "end": 38.51
+    },
+    {
+     "word": "não",
+     "start": 38.91,
+     "end": 39.01
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 39.05,
+   "end": 39.61,
+   "text": "é só uma parada",
+   "words": [
+    {
+     "word": "é",
+     "start": 39.05,
+     "end": 39.15
+    },
+    {
+     "word": "só",
+     "start": 39.15,
+     "end": 39.27
+    },
+    {
+     "word": "uma",
+     "start": 39.27,
+     "end": 39.39
+    },
+    {
+     "word": "parada",
+     "start": 39.39,
+     "end": 39.61
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 39.65,
+   "end": 40.33,
+   "text": "que aconteceu",
+   "words": [
+    {
+     "word": "que",
+     "start": 39.65,
+     "end": 39.75
+    },
+    {
+     "word": "aconteceu",
+     "start": 39.75,
+     "end": 40.33
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 40.37,
+   "end": 41.51,
+   "text": "Numa missão e etc",
+   "words": [
+    {
+     "word": "Numa",
+     "start": 40.37,
+     "end": 40.83
+    },
+    {
+     "word": "missão",
+     "start": 40.83,
+     "end": 41.21
+    },
+    {
+     "word": "e",
+     "start": 41.21,
+     "end": 41.31
+    },
+    {
+     "word": "etc",
+     "start": 41.31,
+     "end": 41.51
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 41.55,
+   "end": 42.27,
+   "text": "Ela tá tendo",
+   "words": [
+    {
+     "word": "Ela",
+     "start": 41.55,
+     "end": 41.93
+    },
+    {
+     "word": "tá",
+     "start": 41.93,
+     "end": 42.07
+    },
+    {
+     "word": "tendo",
+     "start": 42.07,
+     "end": 42.27
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 42.31,
+   "end": 43.21,
+   "text": "um sentimento ali",
+   "words": [
+    {
+     "word": "um",
+     "start": 42.31,
+     "end": 42.45
+    },
+    {
+     "word": "sentimento",
+     "start": 42.45,
+     "end": 43.05
+    },
+    {
+     "word": "ali",
+     "start": 43.05,
+     "end": 43.21
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 43.25,
+   "end": 43.94,
+   "text": "Tipo assim, ah, ele",
+   "words": [
+    {
+     "word": "Tipo",
+     "start": 43.25,
+     "end": 43.53
+    },
+    {
+     "word": "assim,",
+     "start": 43.53,
+     "end": 43.67
+    },
+    {
+     "word": "ah,",
+     "start": 43.73,
+     "end": 43.83
+    },
+    {
+     "word": "ele",
+     "start": 43.89,
+     "end": 43.94
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 43.97,
+   "end": 44.33,
+   "text": "não podia ter",
+   "words": [
+    {
+     "word": "não",
+     "start": 43.97,
+     "end": 44.05
+    },
+    {
+     "word": "podia",
+     "start": 44.05,
+     "end": 44.25
+    },
+    {
+     "word": "ter",
+     "start": 44.25,
+     "end": 44.33
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 44.37,
+   "end": 45.76,
+   "text": "morrido Não, viado",
+   "words": [
+    {
+     "word": "morrido",
+     "start": 44.37,
+     "end": 44.73
+    },
+    {
+     "word": "Não,",
+     "start": 44.73,
+     "end": 44.99
+    },
+    {
+     "word": "viado",
+     "start": 45.15,
+     "end": 45.76
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 63.02,
+   "end": 63.76,
+   "text": "Pô, mas ele foi",
+   "words": [
+    {
+     "word": "Pô,",
+     "start": 63.02,
+     "end": 63.4
+    },
+    {
+     "word": "mas",
+     "start": 63.46,
+     "end": 63.52
+    },
+    {
+     "word": "ele",
+     "start": 63.52,
+     "end": 63.66
+    },
+    {
+     "word": "foi",
+     "start": 63.66,
+     "end": 63.76
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 63.8,
+   "end": 65.34,
+   "text": "um cara legal Irmão",
+   "words": [
+    {
+     "word": "um",
+     "start": 63.8,
+     "end": 63.88
+    },
+    {
+     "word": "cara",
+     "start": 63.88,
+     "end": 64.04
+    },
+    {
+     "word": "legal",
+     "start": 64.04,
+     "end": 64.42
+    },
+    {
+     "word": "Irmão",
+     "start": 64.84,
+     "end": 65.34
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 65.38,
+   "end": 66.22,
+   "text": "o cara não foi",
+   "words": [
+    {
+     "word": "o",
+     "start": 65.38,
+     "end": 65.68
+    },
+    {
+     "word": "cara",
+     "start": 65.68,
+     "end": 65.88
+    },
+    {
+     "word": "não",
+     "start": 65.88,
+     "end": 66.04
+    },
+    {
+     "word": "foi",
+     "start": 66.04,
+     "end": 66.22
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 66.26,
+   "end": 66.96,
+   "text": "legal Olha as coisas",
+   "words": [
+    {
+     "word": "legal",
+     "start": 66.26,
+     "end": 66.54
+    },
+    {
+     "word": "Olha",
+     "start": 66.54,
+     "end": 66.68
+    },
+    {
+     "word": "as",
+     "start": 66.68,
+     "end": 66.82
+    },
+    {
+     "word": "coisas",
+     "start": 66.82,
+     "end": 66.96
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 67.0,
+   "end": 67.52,
+   "text": "que ele falava",
+   "words": [
+    {
+     "word": "que",
+     "start": 67.0,
+     "end": 67.14
+    },
+    {
+     "word": "ele",
+     "start": 67.14,
+     "end": 67.24
+    },
+    {
+     "word": "falava",
+     "start": 67.24,
+     "end": 67.52
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 67.56,
+   "end": 68.84,
+   "text": "Gente, que loucura",
+   "words": [
+    {
+     "word": "Gente,",
+     "start": 67.56,
+     "end": 67.78
+    },
+    {
+     "word": "que",
+     "start": 68.04,
+     "end": 68.3
+    },
+    {
+     "word": "loucura",
+     "start": 68.3,
+     "end": 68.84
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 68.88,
+   "end": 69.9,
+   "text": "Vocês pegaram",
+   "words": [
+    {
+     "word": "Vocês",
+     "start": 68.88,
+     "end": 69.52
+    },
+    {
+     "word": "pegaram",
+     "start": 69.52,
+     "end": 69.9
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 69.94,
+   "end": 70.6,
+   "text": "o diálogo do cara",
+   "words": [
+    {
+     "word": "o",
+     "start": 69.94,
+     "end": 70.04
+    },
+    {
+     "word": "diálogo",
+     "start": 70.04,
+     "end": 70.34
+    },
+    {
+     "word": "do",
+     "start": 70.34,
+     "end": 70.48
+    },
+    {
+     "word": "cara",
+     "start": 70.48,
+     "end": 70.6
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 70.64,
+   "end": 71.2,
+   "text": "Eu não tiro esse",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 70.64,
+     "end": 70.76
+    },
+    {
+     "word": "não",
+     "start": 70.76,
+     "end": 70.88
+    },
+    {
+     "word": "tiro",
+     "start": 70.88,
+     "end": 71.1
+    },
+    {
+     "word": "esse",
+     "start": 71.1,
+     "end": 71.2
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 71.24,
+   "end": 72.81,
+   "text": "diálogo da boca Ah",
+   "words": [
+    {
+     "word": "diálogo",
+     "start": 71.24,
+     "end": 71.5
+    },
+    {
+     "word": "da",
+     "start": 71.5,
+     "end": 71.62
+    },
+    {
+     "word": "boca",
+     "start": 71.62,
+     "end": 71.92
+    },
+    {
+     "word": "Ah",
+     "start": 71.92,
+     "end": 72.81
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 72.86,
+   "end": 73.68,
+   "text": "mamar não sei quem",
+   "words": [
+    {
+     "word": "mamar",
+     "start": 72.86,
+     "end": 73.2
+    },
+    {
+     "word": "não",
+     "start": 73.2,
+     "end": 73.3
+    },
+    {
+     "word": "sei",
+     "start": 73.3,
+     "end": 73.46
+    },
+    {
+     "word": "quem",
+     "start": 73.46,
+     "end": 73.68
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 73.72,
+   "end": 74.5,
+   "text": "mamar Mano, vocês",
+   "words": [
+    {
+     "word": "mamar",
+     "start": 73.72,
+     "end": 73.98
+    },
+    {
+     "word": "Mano,",
+     "start": 73.98,
+     "end": 74.4
+    },
+    {
+     "word": "vocês",
+     "start": 74.42,
+     "end": 74.5
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 74.54,
+   "end": 75.87,
+   "text": "estão loucos, viado",
+   "words": [
+    {
+     "word": "estão",
+     "start": 74.54,
+     "end": 74.76
+    },
+    {
+     "word": "loucos,",
+     "start": 74.76,
+     "end": 75.16
+    },
+    {
+     "word": "viado",
+     "start": 75.26,
+     "end": 75.87
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
