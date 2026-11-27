@@ -1,0 +1,742 @@
+{
+ "segments": [
+  {
+   "start": 2.47,
+   "end": 3.23,
+   "text": "Acabei de perceber",
+   "words": [
+    {
+     "word": "Acabei",
+     "start": 2.47,
+     "end": 2.79
+    },
+    {
+     "word": "de",
+     "start": 2.79,
+     "end": 2.91
+    },
+    {
+     "word": "perceber",
+     "start": 2.91,
+     "end": 3.23
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 3.27,
+   "end": 4.01,
+   "text": "isso, porque meu jogo nunca",
+   "words": [
+    {
+     "word": "isso,",
+     "start": 3.27,
+     "end": 3.47
+    },
+    {
+     "word": "porque",
+     "start": 3.53,
+     "end": 3.59
+    },
+    {
+     "word": "meu",
+     "start": 3.59,
+     "end": 3.69
+    },
+    {
+     "word": "jogo",
+     "start": 3.69,
+     "end": 3.85
+    },
+    {
+     "word": "nunca",
+     "start": 3.85,
+     "end": 4.01
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 4.05,
+   "end": 4.82,
+   "text": "choveu, agora que tá",
+   "words": [
+    {
+     "word": "choveu,",
+     "start": 4.05,
+     "end": 4.45
+    },
+    {
+     "word": "agora",
+     "start": 4.51,
+     "end": 4.63
+    },
+    {
+     "word": "que",
+     "start": 4.63,
+     "end": 4.77
+    },
+    {
+     "word": "tá",
+     "start": 4.77,
+     "end": 4.82
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 4.83,
+   "end": 5.45,
+   "text": "chovendo eu pude",
+   "words": [
+    {
+     "word": "chovendo",
+     "start": 4.83,
+     "end": 5.15
+    },
+    {
+     "word": "eu",
+     "start": 5.15,
+     "end": 5.27
+    },
+    {
+     "word": "pude",
+     "start": 5.27,
+     "end": 5.45
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 5.49,
+   "end": 6.29,
+   "text": "apreciar, né?",
+   "words": [
+    {
+     "word": "apreciar,",
+     "start": 5.49,
+     "end": 6.15
+    },
+    {
+     "word": "né?",
+     "start": 6.19,
+     "end": 6.29
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.33,
+   "end": 7.6,
+   "text": "Olha os NPCs",
+   "words": [
+    {
+     "word": "Olha",
+     "start": 6.33,
+     "end": 6.41
+    },
+    {
+     "word": "os",
+     "start": 6.41,
+     "end": 6.59
+    },
+    {
+     "word": "NPCs",
+     "start": 6.59,
+     "end": 7.6
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 9.28,
+   "end": 10.75,
+   "text": "Nem tem NPC aqui",
+   "words": [
+    {
+     "word": "Nem",
+     "start": 9.28,
+     "end": 9.46
+    },
+    {
+     "word": "tem",
+     "start": 9.46,
+     "end": 9.9
+    },
+    {
+     "word": "NPC",
+     "start": 9.9,
+     "end": 10.2
+    },
+    {
+     "word": "aqui",
+     "start": 10.2,
+     "end": 10.75
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 22.27,
+   "end": 24.13,
+   "text": "Será que",
+   "words": [
+    {
+     "word": "Será",
+     "start": 22.27,
+     "end": 22.55
+    },
+    {
+     "word": "que",
+     "start": 22.7,
+     "end": 24.13
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 27.29,
+   "end": 27.87,
+   "text": "a bebezinha me",
+   "words": [
+    {
+     "word": "a",
+     "start": 27.29,
+     "end": 27.39
+    },
+    {
+     "word": "bebezinha",
+     "start": 27.39,
+     "end": 27.77
+    },
+    {
+     "word": "me",
+     "start": 27.77,
+     "end": 27.87
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 27.91,
+   "end": 28.49,
+   "text": "encontra ou a gente",
+   "words": [
+    {
+     "word": "encontra",
+     "start": 27.91,
+     "end": 28.25
+    },
+    {
+     "word": "ou",
+     "start": 28.25,
+     "end": 28.33
+    },
+    {
+     "word": "a",
+     "start": 28.33,
+     "end": 28.43
+    },
+    {
+     "word": "gente",
+     "start": 28.43,
+     "end": 28.49
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.53,
+   "end": 29.25,
+   "text": "não pode",
+   "words": [
+    {
+     "word": "não",
+     "start": 28.53,
+     "end": 28.67
+    },
+    {
+     "word": "pode",
+     "start": 28.67,
+     "end": 29.25
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 29.29,
+   "end": 30.29,
+   "text": "se encontrar, né, mano?",
+   "words": [
+    {
+     "word": "se",
+     "start": 29.29,
+     "end": 29.39
+    },
+    {
+     "word": "encontrar,",
+     "start": 29.39,
+     "end": 29.85
+    },
+    {
+     "word": "né,",
+     "start": 29.91,
+     "end": 30.05
+    },
+    {
+     "word": "mano?",
+     "start": 30.17,
+     "end": 30.29
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 30.33,
+   "end": 31.38,
+   "text": "Por causa da missão",
+   "words": [
+    {
+     "word": "Por",
+     "start": 30.33,
+     "end": 30.43
+    },
+    {
+     "word": "causa",
+     "start": 30.43,
+     "end": 30.55
+    },
+    {
+     "word": "da",
+     "start": 30.55,
+     "end": 30.67
+    },
+    {
+     "word": "missão",
+     "start": 30.67,
+     "end": 31.38
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 31.53,
+   "end": 32.19,
+   "text": "Ou seja, eu sou",
+   "words": [
+    {
+     "word": "Ou",
+     "start": 31.53,
+     "end": 31.81
+    },
+    {
+     "word": "seja,",
+     "start": 31.81,
+     "end": 31.99
+    },
+    {
+     "word": "eu",
+     "start": 32.09,
+     "end": 32.14
+    },
+    {
+     "word": "sou",
+     "start": 32.14,
+     "end": 32.19
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 32.21,
+   "end": 32.89,
+   "text": "obrigado a zerar",
+   "words": [
+    {
+     "word": "obrigado",
+     "start": 32.21,
+     "end": 32.41
+    },
+    {
+     "word": "a",
+     "start": 32.41,
+     "end": 32.65
+    },
+    {
+     "word": "zerar",
+     "start": 32.65,
+     "end": 32.89
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 32.93,
+   "end": 33.69,
+   "text": "essa missão pra eu",
+   "words": [
+    {
+     "word": "essa",
+     "start": 32.93,
+     "end": 33.05
+    },
+    {
+     "word": "missão",
+     "start": 33.05,
+     "end": 33.45
+    },
+    {
+     "word": "pra",
+     "start": 33.45,
+     "end": 33.59
+    },
+    {
+     "word": "eu",
+     "start": 33.59,
+     "end": 33.69
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 33.73,
+   "end": 34.29,
+   "text": "poder virar",
+   "words": [
+    {
+     "word": "poder",
+     "start": 33.73,
+     "end": 33.87
+    },
+    {
+     "word": "virar",
+     "start": 33.87,
+     "end": 34.29
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 34.33,
+   "end": 35.8,
+   "text": "bebezinho de novo",
+   "words": [
+    {
+     "word": "bebezinho",
+     "start": 34.33,
+     "end": 35.07
+    },
+    {
+     "word": "de",
+     "start": 35.07,
+     "end": 35.23
+    },
+    {
+     "word": "novo",
+     "start": 35.23,
+     "end": 35.8
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 47.72,
+   "end": 48.95,
+   "text": "Que absurdo isso",
+   "words": [
+    {
+     "word": "Que",
+     "start": 47.72,
+     "end": 47.94
+    },
+    {
+     "word": "absurdo",
+     "start": 47.94,
+     "end": 48.48
+    },
+    {
+     "word": "isso",
+     "start": 48.48,
+     "end": 48.95
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 53.55,
+   "end": 54.15,
+   "text": "Meu",
+   "words": [
+    {
+     "word": "Meu",
+     "start": 53.55,
+     "end": 54.15
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 60.29,
+   "end": 60.81,
+   "text": "carro já tá",
+   "words": [
+    {
+     "word": "carro",
+     "start": 60.29,
+     "end": 60.59
+    },
+    {
+     "word": "já",
+     "start": 60.59,
+     "end": 60.73
+    },
+    {
+     "word": "tá",
+     "start": 60.73,
+     "end": 60.81
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 60.85,
+   "end": 62.0,
+   "text": "falhando, cara",
+   "words": [
+    {
+     "word": "falhando,",
+     "start": 60.85,
+     "end": 61.37
+    },
+    {
+     "word": "cara",
+     "start": 61.47,
+     "end": 62.0
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 66.08,
+   "end": 66.76,
+   "text": "Ele não tá fazendo",
+   "words": [
+    {
+     "word": "Ele",
+     "start": 66.08,
+     "end": 66.3
+    },
+    {
+     "word": "não",
+     "start": 66.3,
+     "end": 66.42
+    },
+    {
+     "word": "tá",
+     "start": 66.42,
+     "end": 66.52
+    },
+    {
+     "word": "fazendo",
+     "start": 66.52,
+     "end": 66.76
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 66.8,
+   "end": 67.69,
+   "text": "curva, mano",
+   "words": [
+    {
+     "word": "curva,",
+     "start": 66.8,
+     "end": 67.24
+    },
+    {
+     "word": "mano",
+     "start": 67.32,
+     "end": 67.69
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 72.56,
+   "end": 73.06,
+   "text": "Gente, esse carro",
+   "words": [
+    {
+     "word": "Gente,",
+     "start": 72.56,
+     "end": 72.76
+    },
+    {
+     "word": "esse",
+     "start": 72.84,
+     "end": 72.94
+    },
+    {
+     "word": "carro",
+     "start": 72.94,
+     "end": 73.06
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 73.1,
+   "end": 73.96,
+   "text": "não tá tunado, por isso",
+   "words": [
+    {
+     "word": "não",
+     "start": 73.1,
+     "end": 73.22
+    },
+    {
+     "word": "tá",
+     "start": 73.22,
+     "end": 73.36
+    },
+    {
+     "word": "tunado,",
+     "start": 73.36,
+     "end": 73.74
+    },
+    {
+     "word": "por",
+     "start": 73.8,
+     "end": 73.9
+    },
+    {
+     "word": "isso",
+     "start": 73.9,
+     "end": 73.96
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 74.0,
+   "end": 74.68,
+   "text": "que eu bato, velho",
+   "words": [
+    {
+     "word": "que",
+     "start": 74.0,
+     "end": 74.08
+    },
+    {
+     "word": "eu",
+     "start": 74.08,
+     "end": 74.18
+    },
+    {
+     "word": "bato,",
+     "start": 74.18,
+     "end": 74.4
+    },
+    {
+     "word": "velho",
+     "start": 74.5,
+     "end": 74.68
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 74.72,
+   "end": 75.12,
+   "text": "Eu preciso de um carro",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 74.72,
+     "end": 74.74
+    },
+    {
+     "word": "preciso",
+     "start": 74.74,
+     "end": 74.84
+    },
+    {
+     "word": "de",
+     "start": 74.84,
+     "end": 74.94
+    },
+    {
+     "word": "um",
+     "start": 74.94,
+     "end": 74.99
+    },
+    {
+     "word": "carro",
+     "start": 74.99,
+     "end": 75.12
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 75.16,
+   "end": 75.66,
+   "text": "bom, mano",
+   "words": [
+    {
+     "word": "bom,",
+     "start": 75.16,
+     "end": 75.44
+    },
+    {
+     "word": "mano",
+     "start": 75.52,
+     "end": 75.66
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 75.7,
+   "end": 76.24,
+   "text": "pra eu dirigir",
+   "words": [
+    {
+     "word": "pra",
+     "start": 75.7,
+     "end": 75.78
+    },
+    {
+     "word": "eu",
+     "start": 75.78,
+     "end": 75.9
+    },
+    {
+     "word": "dirigir",
+     "start": 75.9,
+     "end": 76.24
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 76.28,
+   "end": 76.99,
+   "text": "Dá licença",
+   "words": [
+    {
+     "word": "Dá",
+     "start": 76.28,
+     "end": 76.32
+    },
+    {
+     "word": "licença",
+     "start": 76.32,
+     "end": 76.99
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
