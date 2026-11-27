@@ -1,0 +1,22 @@
+2446 mensagens em 20:00 (média 40.8 por 20 s)
+
+ATIVIDADE POR MINUTO (mensagens):
+(chat disponível a partir de 00:00 do vídeo)
+00:00:97  01:00:106  02:00:180  03:00:77  04:00:129  05:00:63  06:00:90  07:00:162  08:00:190  09:00:203  10:00:125  11:00:78  12:00:58  13:00:192  14:00:127  15:00:75  16:00:46  17:00:81  18:00:236  19:00:129  20:00:2
+
+PICOS DO CHAT (nota = quantas vezes acima do normal; tipo = riso/hype/triste)
+[00:00-00:20] nota 1.8  46 msgs  riso  | Pessoa tá assistindo a mesma live que a gente não, meu deus | kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk | KEKW | Kkkkkkkkk | Nossa mal feito msm | kkkkkkkkkkkkkkkkkkkkkkkkk
+[01:55-02:15] nota 2.5  78 msgs  hype  | VAMOOOOOOO | kkkkk | kkkkkkkkk | mds | pqp | kkkkkkkkkkkkkkkkkkkkkkkkkk
+[02:40-03:00] nota 1.5  51 msgs  riso  | databaseKEKW | catJAM | DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance  | DinoDance DinoDance DinoDance | DinoDance DinoDance DinoDance DinoDance | TwitchConHYPE TwitchConHYPE
+[04:25-04:45] nota 2.9  68 msgs  riso  | mds | A roupa mds | KKKKKKKKKKKKKKKKKKKKKKKKKKKKK | kkkkkkk | kkkkkkkkkkkkk | a roupa mds
+[06:25-06:45] nota 1.7  56 msgs  hype  | pqp | afraid?? | MDS | Mdsss | ih | D:
+[07:20-07:40] nota 3.0  89 msgs  triste/fail  | f | F | A Lúcia ali kkkkkkk | vai né de F | @giuseppi_ morreu | rip bozo
+[08:25-08:45] nota 2.1  74 msgs  riso  | mds | KKKKKKKKK AHAAM | Não vai acertar um tiro AGR KKKKKKKKKKK | Kappa | aaaaaaaa | vish
+[09:10-09:30] nota 7.6  140 msgs  riso  | KEKW | KKKKKKKKKKKKKKKKKKK | kkkkkkkkkkkkkkkkkkkkkkkkk | KKKKKKKKKKKKKKKK | KKKKKKKKKKKKKKKKKKKKKK | OMEGALUL
+[09:55-10:15] nota 3.6  85 msgs  riso  | lol | mds | kkkkkkkkkkk | la vamos nos | CE JOGAVA COM O PONTINHO NO TLOU 2?? | vamos ver
+[11:00-11:20] nota 1.6  37 msgs  riso  | Mds | kkkkkkkkkkkkk | LUL | kkkkkkkkkkkkkkkkkkkkkkk | MDS KKKKKKKKKKKKKKKKKKKK | OMEGALUL
+[13:15-13:35] nota 5.1  135 msgs  riso  | OMEGALUL | ?? | kkkkkkkkkkkkkkk | ????? | kkkkkkkkkkkkkk | KKKKKKKKKKKKKKKKK
+[14:15-14:35] nota 5.9  96 msgs  riso  | OMEGALUL | KEKW | kkkkkkkkkkkkkkkkkk | kkkkkkkkkk | kkkkkkkkkkkkkkkkkkkkkkkkk | KKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+[17:20-17:40] nota 2.1  48 msgs  triste/fail  | f | F | meu deus | gg | KKKKKKKKKKK | GG
+[18:20-18:40] nota 6.1  155 msgs  riso  | KKKKKKKKKKKKK | kkkkkkkkkkkkkkkkkkkkkkkkkkkk | kkkkkkkkkkkkkkkkkkkkkkkkkkk | mds | LUL | bora pivete
+[19:40-20:00] nota 1.6  45 msgs  riso  | KKKKKKKKKKKKKK | KEKW | kkkkkkkkkkkkkkk | quee issoo kkk | OMEGALUL | o suor sumindo e voltando kkkkkkkkk
