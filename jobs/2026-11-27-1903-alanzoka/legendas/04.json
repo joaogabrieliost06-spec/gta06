@@ -1,0 +1,482 @@
+{
+ "segments": [
+  {
+   "start": 0.62,
+   "end": 1.36,
+   "text": "Mano, matei muita",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 0.62,
+     "end": 0.98
+    },
+    {
+     "word": "matei",
+     "start": 1.0,
+     "end": 1.2
+    },
+    {
+     "word": "muita",
+     "start": 1.2,
+     "end": 1.36
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 1.4,
+   "end": 2.46,
+   "text": "gente nessa missão",
+   "words": [
+    {
+     "word": "gente",
+     "start": 1.4,
+     "end": 1.66
+    },
+    {
+     "word": "nessa",
+     "start": 1.66,
+     "end": 1.86
+    },
+    {
+     "word": "missão",
+     "start": 1.86,
+     "end": 2.46
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 2.5,
+   "end": 3.26,
+   "text": "cara, mas eu fiquei",
+   "words": [
+    {
+     "word": "cara,",
+     "start": 2.5,
+     "end": 2.78
+    },
+    {
+     "word": "mas",
+     "start": 2.96,
+     "end": 3.06
+    },
+    {
+     "word": "eu",
+     "start": 3.06,
+     "end": 3.18
+    },
+    {
+     "word": "fiquei",
+     "start": 3.18,
+     "end": 3.26
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 3.3,
+   "end": 4.03,
+   "text": "com raiva de ter que",
+   "words": [
+    {
+     "word": "com",
+     "start": 3.3,
+     "end": 3.44
+    },
+    {
+     "word": "raiva",
+     "start": 3.44,
+     "end": 3.74
+    },
+    {
+     "word": "de",
+     "start": 3.74,
+     "end": 3.88
+    },
+    {
+     "word": "ter",
+     "start": 3.88,
+     "end": 3.98
+    },
+    {
+     "word": "que",
+     "start": 3.98,
+     "end": 4.03
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 4.06,
+   "end": 4.52,
+   "text": "ficar atirando no pé",
+   "words": [
+    {
+     "word": "ficar",
+     "start": 4.06,
+     "end": 4.18
+    },
+    {
+     "word": "atirando",
+     "start": 4.18,
+     "end": 4.34
+    },
+    {
+     "word": "no",
+     "start": 4.34,
+     "end": 4.46
+    },
+    {
+     "word": "pé",
+     "start": 4.46,
+     "end": 4.52
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 4.56,
+   "end": 5.27,
+   "text": "dos caras",
+   "words": [
+    {
+     "word": "dos",
+     "start": 4.56,
+     "end": 4.7
+    },
+    {
+     "word": "caras",
+     "start": 4.7,
+     "end": 5.27
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 5.81,
+   "end": 8.1,
+   "text": "velho",
+   "words": [
+    {
+     "word": "velho",
+     "start": 5.81,
+     "end": 8.1
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 42.59,
+   "end": 43.31,
+   "text": "Tiro na moto",
+   "words": [
+    {
+     "word": "Tiro",
+     "start": 42.59,
+     "end": 42.91
+    },
+    {
+     "word": "na",
+     "start": 42.91,
+     "end": 43.07
+    },
+    {
+     "word": "moto",
+     "start": 43.07,
+     "end": 43.31
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 43.35,
+   "end": 44.19,
+   "text": "a moto explodiu",
+   "words": [
+    {
+     "word": "a",
+     "start": 43.35,
+     "end": 43.43
+    },
+    {
+     "word": "moto",
+     "start": 43.43,
+     "end": 43.55
+    },
+    {
+     "word": "explodiu",
+     "start": 43.55,
+     "end": 44.19
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 44.23,
+   "end": 44.71,
+   "text": "do lado do",
+   "words": [
+    {
+     "word": "do",
+     "start": 44.23,
+     "end": 44.41
+    },
+    {
+     "word": "lado",
+     "start": 44.41,
+     "end": 44.61
+    },
+    {
+     "word": "do",
+     "start": 44.61,
+     "end": 44.71
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 44.75,
+   "end": 45.47,
+   "text": "meu carro explodiu",
+   "words": [
+    {
+     "word": "meu",
+     "start": 44.75,
+     "end": 44.89
+    },
+    {
+     "word": "carro",
+     "start": 44.89,
+     "end": 45.11
+    },
+    {
+     "word": "explodiu",
+     "start": 45.31,
+     "end": 45.47
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 45.51,
+   "end": 46.48,
+   "text": "meu carro junto",
+   "words": [
+    {
+     "word": "meu",
+     "start": 45.51,
+     "end": 45.65
+    },
+    {
+     "word": "carro",
+     "start": 45.65,
+     "end": 45.87
+    },
+    {
+     "word": "junto",
+     "start": 45.87,
+     "end": 46.48
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 49.11,
+   "end": 50.02,
+   "text": "Absurdo",
+   "words": [
+    {
+     "word": "Absurdo",
+     "start": 49.11,
+     "end": 50.02
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 51.34,
+   "end": 52.17,
+   "text": "absurdo!",
+   "words": [
+    {
+     "word": "absurdo!",
+     "start": 51.34,
+     "end": 52.17
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 56.99,
+   "end": 59.74,
+   "text": "Tem toda uma física!",
+   "words": [
+    {
+     "word": "Tem",
+     "start": 56.99,
+     "end": 58.67
+    },
+    {
+     "word": "toda",
+     "start": 58.67,
+     "end": 58.85
+    },
+    {
+     "word": "uma",
+     "start": 58.85,
+     "end": 59.01
+    },
+    {
+     "word": "física!",
+     "start": 59.01,
+     "end": 59.74
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 66.84,
+   "end": 68.52,
+   "text": "Mano, tô matando",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 66.84,
+     "end": 67.28
+    },
+    {
+     "word": "tô",
+     "start": 67.28,
+     "end": 68.28
+    },
+    {
+     "word": "matando",
+     "start": 68.28,
+     "end": 68.52
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 68.56,
+   "end": 69.22,
+   "text": "todo mundo, eu quero",
+   "words": [
+    {
+     "word": "todo",
+     "start": 68.56,
+     "end": 68.78
+    },
+    {
+     "word": "mundo,",
+     "start": 68.78,
+     "end": 69.0
+    },
+    {
+     "word": "eu",
+     "start": 69.0,
+     "end": 69.16
+    },
+    {
+     "word": "quero",
+     "start": 69.16,
+     "end": 69.22
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 69.26,
+   "end": 70.0,
+   "text": "que você exploda já",
+   "words": [
+    {
+     "word": "que",
+     "start": 69.26,
+     "end": 69.36
+    },
+    {
+     "word": "você",
+     "start": 69.36,
+     "end": 69.5
+    },
+    {
+     "word": "exploda",
+     "start": 69.5,
+     "end": 69.84
+    },
+    {
+     "word": "já",
+     "start": 69.84,
+     "end": 70.0
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 70.04,
+   "end": 71.18,
+   "text": "Tá",
+   "words": [
+    {
+     "word": "Tá",
+     "start": 70.04,
+     "end": 71.18
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 71.22,
+   "end": 72.24,
+   "text": "porra, cara, tá pouco",
+   "words": [
+    {
+     "word": "porra,",
+     "start": 71.22,
+     "end": 71.68
+    },
+    {
+     "word": "cara,",
+     "start": 71.68,
+     "end": 71.76
+    },
+    {
+     "word": "tá",
+     "start": 71.76,
+     "end": 71.88
+    },
+    {
+     "word": "pouco",
+     "start": 72.06,
+     "end": 72.24
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 72.28,
+   "end": 73.13,
+   "text": "mais coisa ali",
+   "words": [
+    {
+     "word": "mais",
+     "start": 72.28,
+     "end": 72.48
+    },
+    {
+     "word": "coisa",
+     "start": 72.48,
+     "end": 72.74
+    },
+    {
+     "word": "ali",
+     "start": 72.74,
+     "end": 73.13
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
