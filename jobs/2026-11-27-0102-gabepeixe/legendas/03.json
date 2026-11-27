@@ -1,0 +1,304 @@
+{
+ "segments": [
+  {
+   "start": 1.39,
+   "end": 2.9,
+   "text": "que isso, moleque",
+   "words": [
+    {
+     "word": "que",
+     "start": 1.39,
+     "end": 1.49
+    },
+    {
+     "word": "isso,",
+     "start": 1.49,
+     "end": 1.89
+    },
+    {
+     "word": "moleque",
+     "start": 2.11,
+     "end": 2.9
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 2.97,
+   "end": 3.57,
+   "text": "olha",
+   "words": [
+    {
+     "word": "olha",
+     "start": 2.97,
+     "end": 3.57
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 3.83,
+   "end": 5.88,
+   "text": "essa missão, mano",
+   "words": [
+    {
+     "word": "essa",
+     "start": 3.83,
+     "end": 4.81
+    },
+    {
+     "word": "missão,",
+     "start": 4.81,
+     "end": 5.35
+    },
+    {
+     "word": "mano",
+     "start": 5.47,
+     "end": 5.88
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 10.86,
+   "end": 11.91,
+   "text": "e olha 12 aqui",
+   "words": [
+    {
+     "word": "e",
+     "start": 10.86,
+     "end": 10.92
+    },
+    {
+     "word": "olha",
+     "start": 10.92,
+     "end": 11.06
+    },
+    {
+     "word": "12",
+     "start": 11.06,
+     "end": 11.36
+    },
+    {
+     "word": "aqui",
+     "start": 11.36,
+     "end": 11.91
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 23.13,
+   "end": 24.12,
+   "text": "olha só 12",
+   "words": [
+    {
+     "word": "olha",
+     "start": 23.13,
+     "end": 23.29
+    },
+    {
+     "word": "só",
+     "start": 23.29,
+     "end": 23.47
+    },
+    {
+     "word": "12",
+     "start": 23.47,
+     "end": 24.12
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 40.47,
+   "end": 41.31,
+   "text": "— moleque,⁠ bagulho⁠",
+   "words": [
+    {
+     "word": "— moleque,⁠",
+     "start": 40.47,
+     "end": 40.87
+    },
+    {
+     "word": "bagulho⁠",
+     "start": 41.03,
+     "end": 41.31
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 41.35,
+   "end": 42.56,
+   "text": "sinistro⁠",
+   "words": [
+    {
+     "word": "sinistro⁠",
+     "start": 41.35,
+     "end": 42.56
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 43.84,
+   "end": 44.87,
+   "text": "sinistro,⁠ tá⁠",
+   "words": [
+    {
+     "word": "sinistro,⁠",
+     "start": 43.84,
+     "end": 44.46
+    },
+    {
+     "word": "tá⁠",
+     "start": 44.56,
+     "end": 44.87
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 49.83,
+   "end": 50.9,
+   "text": "caralho, irmão",
+   "words": [
+    {
+     "word": "caralho,",
+     "start": 49.83,
+     "end": 50.19
+    },
+    {
+     "word": "irmão",
+     "start": 50.33,
+     "end": 50.9
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 56.55,
+   "end": 58.44,
+   "text": "caralho, irmão",
+   "words": [
+    {
+     "word": "caralho,",
+     "start": 56.55,
+     "end": 57.55
+    },
+    {
+     "word": "irmão",
+     "start": 57.83,
+     "end": 58.44
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 59.6,
+   "end": 60.25,
+   "text": "mano",
+   "words": [
+    {
+     "word": "mano",
+     "start": 59.6,
+     "end": 60.25
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 61.35,
+   "end": 62.67,
+   "text": "que porra de missão",
+   "words": [
+    {
+     "word": "que",
+     "start": 61.35,
+     "end": 61.57
+    },
+    {
+     "word": "porra",
+     "start": 61.57,
+     "end": 62.13
+    },
+    {
+     "word": "de",
+     "start": 62.13,
+     "end": 62.27
+    },
+    {
+     "word": "missão",
+     "start": 62.27,
+     "end": 62.67
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 62.71,
+   "end": 64.14,
+   "text": "foi essa, mané",
+   "words": [
+    {
+     "word": "foi",
+     "start": 62.71,
+     "end": 63.07
+    },
+    {
+     "word": "essa,",
+     "start": 63.07,
+     "end": 63.47
+    },
+    {
+     "word": "mané",
+     "start": 63.63,
+     "end": 64.14
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 65.26,
+   "end": 66.58,
+   "text": "que show de missão",
+   "words": [
+    {
+     "word": "que",
+     "start": 65.26,
+     "end": 65.44
+    },
+    {
+     "word": "show",
+     "start": 65.44,
+     "end": 65.88
+    },
+    {
+     "word": "de",
+     "start": 65.88,
+     "end": 66.06
+    },
+    {
+     "word": "missão",
+     "start": 66.06,
+     "end": 66.58
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 66.62,
+   "end": 67.22,
+   "text": "mano",
+   "words": [
+    {
+     "word": "mano",
+     "start": 66.62,
+     "end": 67.22
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
