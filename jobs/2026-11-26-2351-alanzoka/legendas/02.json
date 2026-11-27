@@ -1,0 +1,584 @@
+{
+ "segments": [
+  {
+   "start": 3.39,
+   "end": 4.31,
+   "text": "Caralho, mano, ó",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 3.39,
+     "end": 3.71
+    },
+    {
+     "word": "mano,",
+     "start": 3.79,
+     "end": 3.85
+    },
+    {
+     "word": "ó",
+     "start": 4.07,
+     "end": 4.31
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 4.35,
+   "end": 4.93,
+   "text": "ó, shakezinho",
+   "words": [
+    {
+     "word": "ó,",
+     "start": 4.35,
+     "end": 4.43
+    },
+    {
+     "word": "shakezinho",
+     "start": 4.75,
+     "end": 4.93
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 4.97,
+   "end": 6.54,
+   "text": "de banana, com whey",
+   "words": [
+    {
+     "word": "de",
+     "start": 4.97,
+     "end": 5.11
+    },
+    {
+     "word": "banana,",
+     "start": 5.11,
+     "end": 5.47
+    },
+    {
+     "word": "com",
+     "start": 5.79,
+     "end": 5.87
+    },
+    {
+     "word": "whey",
+     "start": 5.87,
+     "end": 6.54
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 6.9,
+   "end": 7.53,
+   "text": "pica",
+   "words": [
+    {
+     "word": "pica",
+     "start": 6.9,
+     "end": 7.53
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 10.03,
+   "end": 10.88,
+   "text": "que isso?",
+   "words": [
+    {
+     "word": "que",
+     "start": 10.03,
+     "end": 10.35
+    },
+    {
+     "word": "isso?",
+     "start": 10.35,
+     "end": 10.88
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 11.76,
+   "end": 13.24,
+   "text": "Ô, louco, suco, não",
+   "words": [
+    {
+     "word": "Ô,",
+     "start": 11.76,
+     "end": 12.04
+    },
+    {
+     "word": "louco,",
+     "start": 12.06,
+     "end": 12.38
+    },
+    {
+     "word": "suco,",
+     "start": 12.56,
+     "end": 12.96
+    },
+    {
+     "word": "não",
+     "start": 13.04,
+     "end": 13.24
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 13.28,
+   "end": 14.14,
+   "text": "não, não, vou usar",
+   "words": [
+    {
+     "word": "não,",
+     "start": 13.28,
+     "end": 13.42
+    },
+    {
+     "word": "não,",
+     "start": 13.48,
+     "end": 13.62
+    },
+    {
+     "word": "vou",
+     "start": 13.8,
+     "end": 13.96
+    },
+    {
+     "word": "usar",
+     "start": 13.96,
+     "end": 14.14
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 14.18,
+   "end": 15.33,
+   "text": "suco, não, não, não",
+   "words": [
+    {
+     "word": "suco,",
+     "start": 14.18,
+     "end": 14.54
+    },
+    {
+     "word": "não,",
+     "start": 14.64,
+     "end": 14.74
+    },
+    {
+     "word": "não,",
+     "start": 14.8,
+     "end": 14.92
+    },
+    {
+     "word": "não",
+     "start": 14.96,
+     "end": 15.33
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 15.5,
+   "end": 16.42,
+   "text": "vou usar o suco",
+   "words": [
+    {
+     "word": "vou",
+     "start": 15.5,
+     "end": 15.68
+    },
+    {
+     "word": "usar",
+     "start": 15.68,
+     "end": 15.9
+    },
+    {
+     "word": "o",
+     "start": 15.9,
+     "end": 16.02
+    },
+    {
+     "word": "suco",
+     "start": 16.02,
+     "end": 16.42
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 16.46,
+   "end": 17.97,
+   "text": "mano, sai fora Já",
+   "words": [
+    {
+     "word": "mano,",
+     "start": 16.46,
+     "end": 16.5
+    },
+    {
+     "word": "sai",
+     "start": 16.64,
+     "end": 16.78
+    },
+    {
+     "word": "fora",
+     "start": 16.78,
+     "end": 17.18
+    },
+    {
+     "word": "Já",
+     "start": 17.18,
+     "end": 17.97
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 18.77,
+   "end": 20.01,
+   "text": "tô gigante sem suco",
+   "words": [
+    {
+     "word": "tô",
+     "start": 18.77,
+     "end": 18.91
+    },
+    {
+     "word": "gigante",
+     "start": 18.91,
+     "end": 19.35
+    },
+    {
+     "word": "sem",
+     "start": 19.35,
+     "end": 19.55
+    },
+    {
+     "word": "suco",
+     "start": 19.55,
+     "end": 20.01
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 20.05,
+   "end": 20.97,
+   "text": "imagina o suco",
+   "words": [
+    {
+     "word": "imagina",
+     "start": 20.05,
+     "end": 20.39
+    },
+    {
+     "word": "o",
+     "start": 20.39,
+     "end": 20.55
+    },
+    {
+     "word": "suco",
+     "start": 20.55,
+     "end": 20.97
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 21.01,
+   "end": 21.79,
+   "text": "mano, não, vou ficar",
+   "words": [
+    {
+     "word": "mano,",
+     "start": 21.01,
+     "end": 21.15
+    },
+    {
+     "word": "não,",
+     "start": 21.31,
+     "end": 21.41
+    },
+    {
+     "word": "vou",
+     "start": 21.55,
+     "end": 21.65
+    },
+    {
+     "word": "ficar",
+     "start": 21.65,
+     "end": 21.79
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 21.83,
+   "end": 23.08,
+   "text": "horroroso, velho",
+   "words": [
+    {
+     "word": "horroroso,",
+     "start": 21.83,
+     "end": 22.39
+    },
+    {
+     "word": "velho",
+     "start": 22.43,
+     "end": 23.08
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 23.69,
+   "end": 24.65,
+   "text": "não, sem suco, mano",
+   "words": [
+    {
+     "word": "não,",
+     "start": 23.69,
+     "end": 23.73
+    },
+    {
+     "word": "sem",
+     "start": 23.87,
+     "end": 24.05
+    },
+    {
+     "word": "suco,",
+     "start": 24.05,
+     "end": 24.51
+    },
+    {
+     "word": "mano",
+     "start": 24.53,
+     "end": 24.65
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 24.69,
+   "end": 25.07,
+   "text": "vai ficar muito",
+   "words": [
+    {
+     "word": "vai",
+     "start": 24.69,
+     "end": 24.75
+    },
+    {
+     "word": "ficar",
+     "start": 24.75,
+     "end": 24.93
+    },
+    {
+     "word": "muito",
+     "start": 24.93,
+     "end": 25.07
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 25.11,
+   "end": 25.93,
+   "text": "esquisito, velho",
+   "words": [
+    {
+     "word": "esquisito,",
+     "start": 25.11,
+     "end": 25.71
+    },
+    {
+     "word": "velho",
+     "start": 25.77,
+     "end": 25.93
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 25.97,
+   "end": 26.7,
+   "text": "com suco",
+   "words": [
+    {
+     "word": "com",
+     "start": 25.97,
+     "end": 26.05
+    },
+    {
+     "word": "suco",
+     "start": 26.05,
+     "end": 26.7
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 29.35,
+   "end": 30.56,
+   "text": "Até louco, mano",
+   "words": [
+    {
+     "word": "Até",
+     "start": 29.35,
+     "end": 29.71
+    },
+    {
+     "word": "louco,",
+     "start": 29.71,
+     "end": 30.15
+    },
+    {
+     "word": "mano",
+     "start": 30.21,
+     "end": 30.56
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 31.56,
+   "end": 31.94,
+   "text": "nossa, eu fiquei",
+   "words": [
+    {
+     "word": "nossa,",
+     "start": 31.56,
+     "end": 31.7
+    },
+    {
+     "word": "eu",
+     "start": 31.82,
+     "end": 31.87
+    },
+    {
+     "word": "fiquei",
+     "start": 31.87,
+     "end": 31.94
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 31.98,
+   "end": 33.12,
+   "text": "fraca sem suco",
+   "words": [
+    {
+     "word": "fraca",
+     "start": 31.98,
+     "end": 32.4
+    },
+    {
+     "word": "sem",
+     "start": 32.4,
+     "end": 32.6
+    },
+    {
+     "word": "suco",
+     "start": 32.6,
+     "end": 33.12
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 33.16,
+   "end": 33.76,
+   "text": "mano",
+   "words": [
+    {
+     "word": "mano",
+     "start": 33.16,
+     "end": 33.76
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 33.9,
+   "end": 35.02,
+   "text": "aí, ó, crucifixo aí",
+   "words": [
+    {
+     "word": "aí,",
+     "start": 33.9,
+     "end": 34.06
+    },
+    {
+     "word": "ó,",
+     "start": 34.22,
+     "end": 34.27
+    },
+    {
+     "word": "crucifixo",
+     "start": 34.32,
+     "end": 34.82
+    },
+    {
+     "word": "aí",
+     "start": 34.82,
+     "end": 35.02
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 35.06,
+   "end": 35.82,
+   "text": "ó, quase, quase",
+   "words": [
+    {
+     "word": "ó,",
+     "start": 35.06,
+     "end": 35.12
+    },
+    {
+     "word": "quase,",
+     "start": 35.32,
+     "end": 35.6
+    },
+    {
+     "word": "quase",
+     "start": 35.68,
+     "end": 35.82
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 35.86,
+   "end": 36.55,
+   "text": "igual a esse",
+   "words": [
+    {
+     "word": "igual",
+     "start": 35.86,
+     "end": 36.06
+    },
+    {
+     "word": "a",
+     "start": 36.06,
+     "end": 36.18
+    },
+    {
+     "word": "esse",
+     "start": 36.18,
+     "end": 36.55
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
