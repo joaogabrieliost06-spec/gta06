@@ -1,0 +1,348 @@
+{
+ "segments": [
+  {
+   "start": 34.89,
+   "end": 35.63,
+   "text": "— Preciso⁠ falar⁠ com⁠",
+   "words": [
+    {
+     "word": "— Preciso⁠",
+     "start": 34.89,
+     "end": 35.25
+    },
+    {
+     "word": "falar⁠",
+     "start": 35.25,
+     "end": 35.53
+    },
+    {
+     "word": "com⁠",
+     "start": 35.53,
+     "end": 35.63
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 35.67,
+   "end": 36.45,
+   "text": "o⁠ Vinny,⁠ então⁠ vocês⁠",
+   "words": [
+    {
+     "word": "o⁠",
+     "start": 35.67,
+     "end": 35.79
+    },
+    {
+     "word": "Vinny,⁠",
+     "start": 35.79,
+     "end": 35.93
+    },
+    {
+     "word": "então⁠",
+     "start": 36.03,
+     "end": 36.15
+    },
+    {
+     "word": "vocês⁠",
+     "start": 36.15,
+     "end": 36.45
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 36.49,
+   "end": 37.42,
+   "text": "dois,⁠ na⁠ frente⁠",
+   "words": [
+    {
+     "word": "dois,⁠",
+     "start": 36.49,
+     "end": 36.61
+    },
+    {
+     "word": "na⁠",
+     "start": 36.77,
+     "end": 36.91
+    },
+    {
+     "word": "frente⁠",
+     "start": 36.91,
+     "end": 37.42
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 41.08,
+   "end": 42.66,
+   "text": "Você está bom para",
+   "words": [
+    {
+     "word": "Você",
+     "start": 41.08,
+     "end": 41.44
+    },
+    {
+     "word": "está",
+     "start": 42.36,
+     "end": 42.56
+    },
+    {
+     "word": "bom",
+     "start": 42.56,
+     "end": 42.61
+    },
+    {
+     "word": "para",
+     "start": 42.61,
+     "end": 42.66
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 42.68,
+   "end": 43.53,
+   "text": "nos à base?",
+   "words": [
+    {
+     "word": "nos",
+     "start": 42.68,
+     "end": 42.86
+    },
+    {
+     "word": "à",
+     "start": 42.86,
+     "end": 43.0
+    },
+    {
+     "word": "base?",
+     "start": 43.0,
+     "end": 43.53
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 45.76,
+   "end": 46.38,
+   "text": "Vinny, não estamos",
+   "words": [
+    {
+     "word": "Vinny,",
+     "start": 45.76,
+     "end": 46.12
+    },
+    {
+     "word": "não",
+     "start": 46.26,
+     "end": 46.31
+    },
+    {
+     "word": "estamos",
+     "start": 46.31,
+     "end": 46.38
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 46.42,
+   "end": 47.56,
+   "text": "realmente fazendo isso, certo?",
+   "words": [
+    {
+     "word": "realmente",
+     "start": 46.42,
+     "end": 46.96
+    },
+    {
+     "word": "fazendo",
+     "start": 46.96,
+     "end": 47.04
+    },
+    {
+     "word": "isso,",
+     "start": 47.04,
+     "end": 47.24
+    },
+    {
+     "word": "certo?",
+     "start": 47.26,
+     "end": 47.56
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 47.6,
+   "end": 48.26,
+   "text": "Eu sei que o Jorge",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 47.6,
+     "end": 47.68
+    },
+    {
+     "word": "sei",
+     "start": 47.68,
+     "end": 47.8
+    },
+    {
+     "word": "que",
+     "start": 47.8,
+     "end": 47.9
+    },
+    {
+     "word": "o",
+     "start": 47.9,
+     "end": 47.95
+    },
+    {
+     "word": "Jorge",
+     "start": 47.95,
+     "end": 48.26
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 48.3,
+   "end": 49.12,
+   "text": "de ligar aqui",
+   "words": [
+    {
+     "word": "de",
+     "start": 48.3,
+     "end": 48.44
+    },
+    {
+     "word": "ligar",
+     "start": 48.44,
+     "end": 48.78
+    },
+    {
+     "word": "aqui",
+     "start": 48.78,
+     "end": 49.12
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 49.16,
+   "end": 50.07,
+   "text": "— Vamos⁠ lá,⁠ eu⁠ pensei⁠",
+   "words": [
+    {
+     "word": "— Vamos⁠",
+     "start": 49.16,
+     "end": 49.52
+    },
+    {
+     "word": "lá,⁠",
+     "start": 49.52,
+     "end": 49.78
+    },
+    {
+     "word": "eu⁠",
+     "start": 49.78,
+     "end": 50.02
+    },
+    {
+     "word": "pensei⁠",
+     "start": 50.02,
+     "end": 50.07
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 50.04,
+   "end": 51.21,
+   "text": "que⁠ fomos⁠ podcasters⁠",
+   "words": [
+    {
+     "word": "que⁠",
+     "start": 50.04,
+     "end": 50.2
+    },
+    {
+     "word": "fomos⁠",
+     "start": 50.2,
+     "end": 50.4
+    },
+    {
+     "word": "podcasters⁠",
+     "start": 50.4,
+     "end": 51.21
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 51.28,
+   "end": 53.35,
+   "text": "É apenas um bairro, Kev",
+   "words": [
+    {
+     "word": "É",
+     "start": 51.28,
+     "end": 51.62
+    },
+    {
+     "word": "apenas",
+     "start": 51.62,
+     "end": 51.88
+    },
+    {
+     "word": "um",
+     "start": 51.88,
+     "end": 52.28
+    },
+    {
+     "word": "bairro,",
+     "start": 52.28,
+     "end": 52.8
+    },
+    {
+     "word": "Kev",
+     "start": 52.88,
+     "end": 53.35
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 53.52,
+   "end": 54.35,
+   "text": "Vai ser tudo bem",
+   "words": [
+    {
+     "word": "Vai",
+     "start": 53.52,
+     "end": 53.7
+    },
+    {
+     "word": "ser",
+     "start": 53.7,
+     "end": 53.84
+    },
+    {
+     "word": "tudo",
+     "start": 53.84,
+     "end": 54.02
+    },
+    {
+     "word": "bem",
+     "start": 54.02,
+     "end": 54.35
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
