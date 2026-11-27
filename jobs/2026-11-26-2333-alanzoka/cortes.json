@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, Alan, GTA 6, Lucia, Jason, academia, treino, parcelas, capacete, roupa de academia, bebê, mano, velho, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:15:50", "fim": "0:17:18", "titulo": "ELE PAROU O TREINO PRA ME AJUDAR"},
+  {"id": "02", "inicio": "0:09:15", "fim": "0:10:05", "titulo": "FIZ TUDO PRA NÃO BATER"},
+  {"id": "03", "inicio": "0:12:27", "fim": "0:13:06", "titulo": "VOCÊ PAGOU UMA PARCELA SÓ"}
+ ]
+}

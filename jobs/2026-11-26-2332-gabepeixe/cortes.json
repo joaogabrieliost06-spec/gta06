@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Jason, Lucia, Nate, Cisco, Omar, aeroporto, Senai, cabo, não letal, relacionamento, mano, viado, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:03:58", "fim": "0:04:42", "titulo": "O CARA DO SENAI"},
+  {"id": "02", "inicio": "0:08:12", "fim": "0:08:56", "titulo": "OBSERVANDO NO AEROPORTO"},
+  {"id": "03", "inicio": "0:17:02", "fim": "0:18:12", "titulo": "FUDEMOS O RELACIONAMENTO"}
+ ]
+}
