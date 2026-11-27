@@ -1,0 +1,413 @@
+{
+ "segments": [
+  {
+   "start": 9.08,
+   "end": 10.45,
+   "text": "Sai do frifas",
+   "words": [
+    {
+     "word": "Sai",
+     "start": 9.08,
+     "end": 9.48
+    },
+    {
+     "word": "do",
+     "start": 9.48,
+     "end": 9.7
+    },
+    {
+     "word": "frifas",
+     "start": 9.7,
+     "end": 10.45
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 20.71,
+   "end": 21.43,
+   "text": "É isso, gente?",
+   "words": [
+    {
+     "word": "É",
+     "start": 20.71,
+     "end": 20.75
+    },
+    {
+     "word": "isso,",
+     "start": 20.75,
+     "end": 20.99
+    },
+    {
+     "word": "gente?",
+     "start": 21.09,
+     "end": 21.43
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 21.47,
+   "end": 22.19,
+   "text": "Quem que você assiste",
+   "words": [
+    {
+     "word": "Quem",
+     "start": 21.47,
+     "end": 21.57
+    },
+    {
+     "word": "que",
+     "start": 21.57,
+     "end": 21.67
+    },
+    {
+     "word": "você",
+     "start": 21.67,
+     "end": 21.73
+    },
+    {
+     "word": "assiste",
+     "start": 21.73,
+     "end": 22.19
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 22.23,
+   "end": 22.71,
+   "text": "menino, pra ficar falando",
+   "words": [
+    {
+     "word": "menino,",
+     "start": 22.23,
+     "end": 22.35
+    },
+    {
+     "word": "pra",
+     "start": 22.43,
+     "end": 22.51
+    },
+    {
+     "word": "ficar",
+     "start": 22.51,
+     "end": 22.65
+    },
+    {
+     "word": "falando",
+     "start": 22.65,
+     "end": 22.71
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 22.75,
+   "end": 23.66,
+   "text": "essas coisas?",
+   "words": [
+    {
+     "word": "essas",
+     "start": 22.75,
+     "end": 23.05
+    },
+    {
+     "word": "coisas?",
+     "start": 23.05,
+     "end": 23.66
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 46.62,
+   "end": 47.38,
+   "text": "Claramente pegou",
+   "words": [
+    {
+     "word": "Claramente",
+     "start": 46.62,
+     "end": 47.02
+    },
+    {
+     "word": "pegou",
+     "start": 47.02,
+     "end": 47.38
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 47.42,
+   "end": 48.02,
+   "text": "velho",
+   "words": [
+    {
+     "word": "velho",
+     "start": 47.42,
+     "end": 48.02
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 68.32,
+   "end": 69.18,
+   "text": "Mano, eu jogo melhor",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 68.32,
+     "end": 68.68
+    },
+    {
+     "word": "eu",
+     "start": 68.7,
+     "end": 68.76
+    },
+    {
+     "word": "jogo",
+     "start": 68.76,
+     "end": 68.94
+    },
+    {
+     "word": "melhor",
+     "start": 68.94,
+     "end": 69.18
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 69.22,
+   "end": 70.08,
+   "text": "sem um bagulho",
+   "words": [
+    {
+     "word": "sem",
+     "start": 69.22,
+     "end": 69.5
+    },
+    {
+     "word": "um",
+     "start": 69.5,
+     "end": 69.74
+    },
+    {
+     "word": "bagulho",
+     "start": 69.74,
+     "end": 70.08
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 70.12,
+   "end": 71.09,
+   "text": "tô falando, mano",
+   "words": [
+    {
+     "word": "tô",
+     "start": 70.12,
+     "end": 70.18
+    },
+    {
+     "word": "falando,",
+     "start": 70.18,
+     "end": 70.6
+    },
+    {
+     "word": "mano",
+     "start": 70.72,
+     "end": 71.09
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 71.87,
+   "end": 72.47,
+   "text": "A mira tava me",
+   "words": [
+    {
+     "word": "A",
+     "start": 71.87,
+     "end": 72.01
+    },
+    {
+     "word": "mira",
+     "start": 72.01,
+     "end": 72.19
+    },
+    {
+     "word": "tava",
+     "start": 72.19,
+     "end": 72.37
+    },
+    {
+     "word": "me",
+     "start": 72.37,
+     "end": 72.47
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 72.51,
+   "end": 73.64,
+   "text": "atrapalhando, pô",
+   "words": [
+    {
+     "word": "atrapalhando,",
+     "start": 72.51,
+     "end": 73.15
+    },
+    {
+     "word": "pô",
+     "start": 73.27,
+     "end": 73.64
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 74.05,
+   "end": 74.66,
+   "text": "Tô falando, ela",
+   "words": [
+    {
+     "word": "Tô",
+     "start": 74.05,
+     "end": 74.25
+    },
+    {
+     "word": "falando,",
+     "start": 74.25,
+     "end": 74.51
+    },
+    {
+     "word": "ela",
+     "start": 74.61,
+     "end": 74.66
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 74.69,
+   "end": 75.45,
+   "text": "travava no cara",
+   "words": [
+    {
+     "word": "travava",
+     "start": 74.69,
+     "end": 75.09
+    },
+    {
+     "word": "no",
+     "start": 75.09,
+     "end": 75.25
+    },
+    {
+     "word": "cara",
+     "start": 75.25,
+     "end": 75.45
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 75.49,
+   "end": 76.15,
+   "text": "e me atrapalhava",
+   "words": [
+    {
+     "word": "e",
+     "start": 75.49,
+     "end": 75.55
+    },
+    {
+     "word": "me",
+     "start": 75.55,
+     "end": 75.63
+    },
+    {
+     "word": "atrapalhava",
+     "start": 75.63,
+     "end": 76.15
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 76.19,
+   "end": 76.79,
+   "text": "pô",
+   "words": [
+    {
+     "word": "pô",
+     "start": 76.19,
+     "end": 76.79
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 84.73,
+   "end": 86.98,
+   "text": "Meu avô tá pobre, mano",
+   "words": [
+    {
+     "word": "Meu",
+     "start": 84.73,
+     "end": 85.09
+    },
+    {
+     "word": "avô",
+     "start": 85.59,
+     "end": 85.95
+    },
+    {
+     "word": "tá",
+     "start": 85.95,
+     "end": 86.07
+    },
+    {
+     "word": "pobre,",
+     "start": 86.07,
+     "end": 86.51
+    },
+    {
+     "word": "mano",
+     "start": 86.63,
+     "end": 86.98
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 88.33,
+   "end": 89.64,
+   "text": "Gastou tudo, velho",
+   "words": [
+    {
+     "word": "Gastou",
+     "start": 88.33,
+     "end": 88.69
+    },
+    {
+     "word": "tudo,",
+     "start": 88.69,
+     "end": 89.05
+    },
+    {
+     "word": "velho",
+     "start": 89.15,
+     "end": 89.64
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
