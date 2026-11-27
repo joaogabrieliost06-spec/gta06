@@ -1,0 +1,182 @@
+{
+ "segments": [
+  {
+   "start": 10.58,
+   "end": 11.28,
+   "text": "Fiz tudo isso pra não",
+   "words": [
+    {
+     "word": "Fiz",
+     "start": 10.58,
+     "end": 10.84
+    },
+    {
+     "word": "tudo",
+     "start": 10.84,
+     "end": 11.0
+    },
+    {
+     "word": "isso",
+     "start": 11.0,
+     "end": 11.1
+    },
+    {
+     "word": "pra",
+     "start": 11.1,
+     "end": 11.22
+    },
+    {
+     "word": "não",
+     "start": 11.22,
+     "end": 11.28
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 11.32,
+   "end": 11.86,
+   "text": "bater o carro",
+   "words": [
+    {
+     "word": "bater",
+     "start": 11.32,
+     "end": 11.54
+    },
+    {
+     "word": "o",
+     "start": 11.54,
+     "end": 11.62
+    },
+    {
+     "word": "carro",
+     "start": 11.62,
+     "end": 11.86
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 11.9,
+   "end": 13.33,
+   "text": "não fiquei batido mesmo, mano",
+   "words": [
+    {
+     "word": "não",
+     "start": 11.9,
+     "end": 11.94
+    },
+    {
+     "word": "fiquei",
+     "start": 11.94,
+     "end": 12.06
+    },
+    {
+     "word": "batido",
+     "start": 12.06,
+     "end": 12.4
+    },
+    {
+     "word": "mesmo,",
+     "start": 12.4,
+     "end": 12.54
+    },
+    {
+     "word": "mano",
+     "start": 12.54,
+     "end": 13.33
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 31.86,
+   "end": 33.18,
+   "text": "lógico, dirigir de capacete",
+   "words": [
+    {
+     "word": "lógico,",
+     "start": 31.86,
+     "end": 32.22
+    },
+    {
+     "word": "dirigir",
+     "start": 32.26,
+     "end": 32.62
+    },
+    {
+     "word": "de",
+     "start": 32.62,
+     "end": 32.7
+    },
+    {
+     "word": "capacete",
+     "start": 32.7,
+     "end": 33.18
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 33.22,
+   "end": 34.47,
+   "text": "é isso que acontece mesmo",
+   "words": [
+    {
+     "word": "é",
+     "start": 33.22,
+     "end": 33.34
+    },
+    {
+     "word": "isso",
+     "start": 33.34,
+     "end": 33.44
+    },
+    {
+     "word": "que",
+     "start": 33.44,
+     "end": 33.49
+    },
+    {
+     "word": "acontece",
+     "start": 33.49,
+     "end": 33.9
+    },
+    {
+     "word": "mesmo",
+     "start": 33.9,
+     "end": 34.47
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 39.53,
+   "end": 40.7,
+   "text": "cara, me perdi, mano",
+   "words": [
+    {
+     "word": "cara,",
+     "start": 39.53,
+     "end": 39.69
+    },
+    {
+     "word": "me",
+     "start": 39.73,
+     "end": 39.83
+    },
+    {
+     "word": "perdi,",
+     "start": 39.83,
+     "end": 40.21
+    },
+    {
+     "word": "mano",
+     "start": 40.33,
+     "end": 40.7
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
