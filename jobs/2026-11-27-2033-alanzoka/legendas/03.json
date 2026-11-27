@@ -1,0 +1,586 @@
+{
+ "segments": [
+  {
+   "start": 8.79,
+   "end": 9.57,
+   "text": "Jogo precisa lançar",
+   "words": [
+    {
+     "word": "Jogo",
+     "start": 8.79,
+     "end": 9.11
+    },
+    {
+     "word": "precisa",
+     "start": 9.11,
+     "end": 9.35
+    },
+    {
+     "word": "lançar",
+     "start": 9.35,
+     "end": 9.57
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 9.61,
+   "end": 10.89,
+   "text": "pra PC, é questão",
+   "words": [
+    {
+     "word": "pra",
+     "start": 9.61,
+     "end": 9.73
+    },
+    {
+     "word": "PC,",
+     "start": 9.73,
+     "end": 10.03
+    },
+    {
+     "word": "é",
+     "start": 10.15,
+     "end": 10.63
+    },
+    {
+     "word": "questão",
+     "start": 10.63,
+     "end": 10.89
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.93,
+   "end": 12.74,
+   "text": "assim, de urgência",
+   "words": [
+    {
+     "word": "assim,",
+     "start": 10.93,
+     "end": 11.17
+    },
+    {
+     "word": "de",
+     "start": 11.29,
+     "end": 11.37
+    },
+    {
+     "word": "urgência",
+     "start": 11.45,
+     "end": 12.74
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 14.69,
+   "end": 15.51,
+   "text": "Preciso rejogar ele",
+   "words": [
+    {
+     "word": "Preciso",
+     "start": 14.69,
+     "end": 14.85
+    },
+    {
+     "word": "rejogar",
+     "start": 14.85,
+     "end": 15.27
+    },
+    {
+     "word": "ele",
+     "start": 15.27,
+     "end": 15.51
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 15.55,
+   "end": 16.15,
+   "text": "cara",
+   "words": [
+    {
+     "word": "cara",
+     "start": 15.55,
+     "end": 16.15
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 17.97,
+   "end": 18.57,
+   "text": "só que no PC",
+   "words": [
+    {
+     "word": "só",
+     "start": 17.97,
+     "end": 18.05
+    },
+    {
+     "word": "que",
+     "start": 18.05,
+     "end": 18.13
+    },
+    {
+     "word": "no",
+     "start": 18.13,
+     "end": 18.25
+    },
+    {
+     "word": "PC",
+     "start": 18.25,
+     "end": 18.57
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 18.61,
+   "end": 19.62,
+   "text": "Posso",
+   "words": [
+    {
+     "word": "Posso",
+     "start": 18.61,
+     "end": 19.62
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 40.32,
+   "end": 41.14,
+   "text": "usar essa mesma moto",
+   "words": [
+    {
+     "word": "usar",
+     "start": 40.32,
+     "end": 40.48
+    },
+    {
+     "word": "essa",
+     "start": 40.48,
+     "end": 40.6
+    },
+    {
+     "word": "mesma",
+     "start": 40.6,
+     "end": 40.86
+    },
+    {
+     "word": "moto",
+     "start": 40.86,
+     "end": 41.14
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 41.18,
+   "end": 41.66,
+   "text": "se eu quiser",
+   "words": [
+    {
+     "word": "se",
+     "start": 41.18,
+     "end": 41.32
+    },
+    {
+     "word": "eu",
+     "start": 41.32,
+     "end": 41.38
+    },
+    {
+     "word": "quiser",
+     "start": 41.38,
+     "end": 41.66
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 41.7,
+   "end": 42.36,
+   "text": "mas eu vou trocar",
+   "words": [
+    {
+     "word": "mas",
+     "start": 41.7,
+     "end": 41.76
+    },
+    {
+     "word": "eu",
+     "start": 41.76,
+     "end": 41.84
+    },
+    {
+     "word": "vou",
+     "start": 41.84,
+     "end": 41.9
+    },
+    {
+     "word": "trocar",
+     "start": 41.9,
+     "end": 42.36
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 42.4,
+   "end": 43.09,
+   "text": "né? Caralho!",
+   "words": [
+    {
+     "word": "né?",
+     "start": 42.4,
+     "end": 42.52
+    },
+    {
+     "word": "Caralho!",
+     "start": 42.52,
+     "end": 43.09
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 46.62,
+   "end": 47.02,
+   "text": "Tenho que saltar",
+   "words": [
+    {
+     "word": "Tenho",
+     "start": 46.62,
+     "end": 46.7
+    },
+    {
+     "word": "que",
+     "start": 46.7,
+     "end": 46.8
+    },
+    {
+     "word": "saltar",
+     "start": 46.8,
+     "end": 47.02
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 47.06,
+   "end": 48.17,
+   "text": "naquele buraco?",
+   "words": [
+    {
+     "word": "naquele",
+     "start": 47.06,
+     "end": 47.32
+    },
+    {
+     "word": "buraco?",
+     "start": 47.32,
+     "end": 48.17
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 48.22,
+   "end": 48.85,
+   "text": "Como que eu vou",
+   "words": [
+    {
+     "word": "Como",
+     "start": 48.22,
+     "end": 48.6
+    },
+    {
+     "word": "que",
+     "start": 48.6,
+     "end": 48.74
+    },
+    {
+     "word": "eu",
+     "start": 48.74,
+     "end": 48.8
+    },
+    {
+     "word": "vou",
+     "start": 48.8,
+     "end": 48.85
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 48.84,
+   "end": 49.36,
+   "text": "saltar naquele",
+   "words": [
+    {
+     "word": "saltar",
+     "start": 48.84,
+     "end": 49.14
+    },
+    {
+     "word": "naquele",
+     "start": 49.14,
+     "end": 49.36
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 49.4,
+   "end": 50.49,
+   "text": "buraco, mano?",
+   "words": [
+    {
+     "word": "buraco,",
+     "start": 49.4,
+     "end": 49.86
+    },
+    {
+     "word": "mano?",
+     "start": 49.96,
+     "end": 50.49
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 50.56,
+   "end": 52.2,
+   "text": "Ah, next stage",
+   "words": [
+    {
+     "word": "Ah,",
+     "start": 50.56,
+     "end": 50.58
+    },
+    {
+     "word": "next",
+     "start": 51.47,
+     "end": 51.69
+    },
+    {
+     "word": "stage",
+     "start": 51.69,
+     "end": 52.2
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 61.37,
+   "end": 62.22,
+   "text": "Cara",
+   "words": [
+    {
+     "word": "Cara",
+     "start": 61.37,
+     "end": 62.22
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 62.83,
+   "end": 64.04,
+   "text": "é difícil, tá?",
+   "words": [
+    {
+     "word": "é",
+     "start": 62.83,
+     "end": 62.97
+    },
+    {
+     "word": "difícil,",
+     "start": 62.97,
+     "end": 63.49
+    },
+    {
+     "word": "tá?",
+     "start": 63.73,
+     "end": 64.04
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 64.54,
+   "end": 65.67,
+   "text": "Acertar o buraco",
+   "words": [
+    {
+     "word": "Acertar",
+     "start": 64.54,
+     "end": 64.84
+    },
+    {
+     "word": "o",
+     "start": 64.84,
+     "end": 64.96
+    },
+    {
+     "word": "buraco",
+     "start": 64.96,
+     "end": 65.67
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 68.34,
+   "end": 69.07,
+   "text": "Mano",
+   "words": [
+    {
+     "word": "Mano",
+     "start": 68.34,
+     "end": 69.07
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 70.63,
+   "end": 71.36,
+   "text": "loucura!",
+   "words": [
+    {
+     "word": "loucura!",
+     "start": 70.63,
+     "end": 71.36
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 76.47,
+   "end": 77.07,
+   "text": "Vai",
+   "words": [
+    {
+     "word": "Vai",
+     "start": 76.47,
+     "end": 77.07
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 77.25,
+   "end": 77.77,
+   "text": "agora foi",
+   "words": [
+    {
+     "word": "agora",
+     "start": 77.25,
+     "end": 77.57
+    },
+    {
+     "word": "foi",
+     "start": 77.57,
+     "end": 77.77
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 77.81,
+   "end": 78.82,
+   "text": "impossível, não sei",
+   "words": [
+    {
+     "word": "impossível,",
+     "start": 77.81,
+     "end": 78.23
+    },
+    {
+     "word": "não",
+     "start": 78.23,
+     "end": 78.35
+    },
+    {
+     "word": "sei",
+     "start": 78.35,
+     "end": 78.82
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 79.11,
+   "end": 80.22,
+   "text": "Nice!",
+   "words": [
+    {
+     "word": "Nice!",
+     "start": 79.11,
+     "end": 80.22
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 84.69,
+   "end": 85.6,
+   "text": "GG, next",
+   "words": [
+    {
+     "word": "GG,",
+     "start": 84.69,
+     "end": 84.85
+    },
+    {
+     "word": "next",
+     "start": 85.05,
+     "end": 85.6
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 86.49,
+   "end": 87.67,
+   "text": "Próximo, faltam duas",
+   "words": [
+    {
+     "word": "Próximo,",
+     "start": 86.49,
+     "end": 86.97
+    },
+    {
+     "word": "faltam",
+     "start": 87.19,
+     "end": 87.49
+    },
+    {
+     "word": "duas",
+     "start": 87.49,
+     "end": 87.67
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 87.71,
+   "end": 88.31,
+   "text": "só",
+   "words": [
+    {
+     "word": "só",
+     "start": 87.71,
+     "end": 88.31
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
