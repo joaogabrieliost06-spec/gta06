@@ -1,0 +1,191 @@
+{
+ "segments": [
+  {
+   "start": 58.85,
+   "end": 60.64,
+   "text": "Ah, debaixo",
+   "words": [
+    {
+     "word": "Ah,",
+     "start": 58.85,
+     "end": 59.45
+    },
+    {
+     "word": "debaixo",
+     "start": 59.85,
+     "end": 60.64
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 64.42,
+   "end": 66.46,
+   "text": "Eu não tinha lido, pô",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 64.42,
+     "end": 65.02
+    },
+    {
+     "word": "não",
+     "start": 65.02,
+     "end": 65.62
+    },
+    {
+     "word": "tinha",
+     "start": 65.62,
+     "end": 65.8
+    },
+    {
+     "word": "lido,",
+     "start": 65.8,
+     "end": 66.08
+    },
+    {
+     "word": "pô",
+     "start": 66.34,
+     "end": 66.46
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 66.5,
+   "end": 67.27,
+   "text": "Fiquei olhando ele",
+   "words": [
+    {
+     "word": "Fiquei",
+     "start": 66.5,
+     "end": 66.6
+    },
+    {
+     "word": "olhando",
+     "start": 66.6,
+     "end": 66.82
+    },
+    {
+     "word": "ele",
+     "start": 66.82,
+     "end": 67.27
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 72.33,
+   "end": 73.29,
+   "text": "Caralho, rasgou",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 72.33,
+     "end": 72.93
+    },
+    {
+     "word": "rasgou",
+     "start": 72.95,
+     "end": 73.29
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 73.33,
+   "end": 74.36,
+   "text": "a calça dele!",
+   "words": [
+    {
+     "word": "a",
+     "start": 73.33,
+     "end": 73.45
+    },
+    {
+     "word": "calça",
+     "start": 73.45,
+     "end": 73.75
+    },
+    {
+     "word": "dele!",
+     "start": 73.75,
+     "end": 74.36
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 77.4,
+   "end": 78.49,
+   "text": "Meu Deus!",
+   "words": [
+    {
+     "word": "Meu",
+     "start": 77.4,
+     "end": 78.0
+    },
+    {
+     "word": "Deus!",
+     "start": 78.0,
+     "end": 78.49
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 80.37,
+   "end": 82.06,
+   "text": "Hora da linguiça!",
+   "words": [
+    {
+     "word": "Hora",
+     "start": 80.37,
+     "end": 80.97
+    },
+    {
+     "word": "da",
+     "start": 80.97,
+     "end": 81.09
+    },
+    {
+     "word": "linguiça!",
+     "start": 81.09,
+     "end": 82.06
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 83.62,
+   "end": 84.47,
+   "text": "Caralho",
+   "words": [
+    {
+     "word": "Caralho",
+     "start": 83.62,
+     "end": 84.47
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 84.54,
+   "end": 85.45,
+   "text": "que linguição!",
+   "words": [
+    {
+     "word": "que",
+     "start": 84.54,
+     "end": 84.6
+    },
+    {
+     "word": "linguição!",
+     "start": 84.6,
+     "end": 85.45
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
