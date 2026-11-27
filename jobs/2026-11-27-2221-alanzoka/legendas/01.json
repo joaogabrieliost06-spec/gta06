@@ -1,0 +1,387 @@
+{
+ "segments": [
+  {
+   "start": 64.0,
+   "end": 65.0,
+   "text": "Mano, 25 mil não",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 64.0,
+     "end": 64.24
+    },
+    {
+     "word": "25",
+     "start": 64.28,
+     "end": 64.54
+    },
+    {
+     "word": "mil",
+     "start": 64.54,
+     "end": 64.92
+    },
+    {
+     "word": "não",
+     "start": 64.92,
+     "end": 65.0
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 65.04,
+   "end": 65.54,
+   "text": "valeu a pena",
+   "words": [
+    {
+     "word": "valeu",
+     "start": 65.04,
+     "end": 65.3
+    },
+    {
+     "word": "a",
+     "start": 65.3,
+     "end": 65.36
+    },
+    {
+     "word": "pena",
+     "start": 65.36,
+     "end": 65.54
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 65.58,
+   "end": 66.43,
+   "text": "Cadê o Jason?",
+   "words": [
+    {
+     "word": "Cadê",
+     "start": 65.58,
+     "end": 65.82
+    },
+    {
+     "word": "o",
+     "start": 65.82,
+     "end": 65.88
+    },
+    {
+     "word": "Jason?",
+     "start": 65.88,
+     "end": 66.43
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 67.25,
+   "end": 68.11,
+   "text": "Mano, o jogo ele",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 67.25,
+     "end": 67.63
+    },
+    {
+     "word": "o",
+     "start": 67.69,
+     "end": 67.79
+    },
+    {
+     "word": "jogo",
+     "start": 67.79,
+     "end": 68.03
+    },
+    {
+     "word": "ele",
+     "start": 68.03,
+     "end": 68.11
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 68.15,
+   "end": 69.28,
+   "text": "fica",
+   "words": [
+    {
+     "word": "fica",
+     "start": 68.15,
+     "end": 69.28
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 71.86,
+   "end": 72.88,
+   "text": "O jogo ele fica",
+   "words": [
+    {
+     "word": "O",
+     "start": 71.86,
+     "end": 72.26
+    },
+    {
+     "word": "jogo",
+     "start": 72.26,
+     "end": 72.44
+    },
+    {
+     "word": "ele",
+     "start": 72.44,
+     "end": 72.56
+    },
+    {
+     "word": "fica",
+     "start": 72.56,
+     "end": 72.88
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 72.92,
+   "end": 74.16,
+   "text": "me impedindo",
+   "words": [
+    {
+     "word": "me",
+     "start": 72.92,
+     "end": 73.72
+    },
+    {
+     "word": "impedindo",
+     "start": 73.72,
+     "end": 74.16
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 74.2,
+   "end": 75.25,
+   "text": "de ficar com o meu boy",
+   "words": [
+    {
+     "word": "de",
+     "start": 74.2,
+     "end": 74.28
+    },
+    {
+     "word": "ficar",
+     "start": 74.28,
+     "end": 74.42
+    },
+    {
+     "word": "com",
+     "start": 74.42,
+     "end": 74.52
+    },
+    {
+     "word": "o",
+     "start": 74.52,
+     "end": 74.66
+    },
+    {
+     "word": "meu",
+     "start": 74.66,
+     "end": 74.71
+    },
+    {
+     "word": "boy",
+     "start": 74.71,
+     "end": 75.25
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 78.52,
+   "end": 79.4,
+   "text": "Ó, tem algum lugar",
+   "words": [
+    {
+     "word": "Ó,",
+     "start": 78.52,
+     "end": 78.78
+    },
+    {
+     "word": "tem",
+     "start": 78.94,
+     "end": 79.0
+    },
+    {
+     "word": "algum",
+     "start": 79.0,
+     "end": 79.2
+    },
+    {
+     "word": "lugar",
+     "start": 79.2,
+     "end": 79.4
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 79.44,
+   "end": 80.4,
+   "text": "aqui em São Paulo",
+   "words": [
+    {
+     "word": "aqui",
+     "start": 79.44,
+     "end": 79.66
+    },
+    {
+     "word": "em",
+     "start": 79.66,
+     "end": 79.84
+    },
+    {
+     "word": "São",
+     "start": 79.84,
+     "end": 80.02
+    },
+    {
+     "word": "Paulo",
+     "start": 80.02,
+     "end": 80.4
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 80.44,
+   "end": 81.3,
+   "text": "deve ter, né? Que vende",
+   "words": [
+    {
+     "word": "deve",
+     "start": 80.44,
+     "end": 80.7
+    },
+    {
+     "word": "ter,",
+     "start": 80.7,
+     "end": 80.92
+    },
+    {
+     "word": "né?",
+     "start": 81.0,
+     "end": 81.05
+    },
+    {
+     "word": "Que",
+     "start": 81.08,
+     "end": 81.16
+    },
+    {
+     "word": "vende",
+     "start": 81.16,
+     "end": 81.3
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 81.34,
+   "end": 82.54,
+   "text": "um sanduíche cubano",
+   "words": [
+    {
+     "word": "um",
+     "start": 81.34,
+     "end": 81.48
+    },
+    {
+     "word": "sanduíche",
+     "start": 81.48,
+     "end": 81.92
+    },
+    {
+     "word": "cubano",
+     "start": 81.92,
+     "end": 82.54
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 82.58,
+   "end": 83.18,
+   "text": "velho",
+   "words": [
+    {
+     "word": "velho",
+     "start": 82.58,
+     "end": 83.18
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 84.34,
+   "end": 84.86,
+   "text": "Quero um sanduíche",
+   "words": [
+    {
+     "word": "Quero",
+     "start": 84.34,
+     "end": 84.46
+    },
+    {
+     "word": "um",
+     "start": 84.46,
+     "end": 84.6
+    },
+    {
+     "word": "sanduíche",
+     "start": 84.6,
+     "end": 84.86
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 84.9,
+   "end": 85.93,
+   "text": "cubano, velho",
+   "words": [
+    {
+     "word": "cubano,",
+     "start": 84.9,
+     "end": 85.36
+    },
+    {
+     "word": "velho",
+     "start": 85.44,
+     "end": 85.93
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 86.97,
+   "end": 87.68,
+   "text": "Que vontade",
+   "words": [
+    {
+     "word": "Que",
+     "start": 86.97,
+     "end": 87.09
+    },
+    {
+     "word": "vontade",
+     "start": 87.09,
+     "end": 87.68
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
