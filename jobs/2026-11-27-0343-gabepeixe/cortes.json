@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Lucia, Jason, Xbox, missão, Coringa, casamento, Crossfit, mano, viado, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:03:00", "fim": "0:03:55", "titulo": "E SE O XBOX TRAVAR AGORA?"},
+  {"id": "02", "inicio": "0:08:25", "fim": "0:09:12", "titulo": "AGORA SUMIU DE VEZ"},
+  {"id": "03", "inicio": "0:09:18", "fim": "0:10:46", "titulo": "AMANHÃ NÃO TEM LIVE"}
+ ]
+}
