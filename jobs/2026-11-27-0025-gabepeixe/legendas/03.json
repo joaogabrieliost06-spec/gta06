@@ -1,0 +1,276 @@
+{
+ "segments": [
+  {
+   "start": 2.87,
+   "end": 3.56,
+   "text": "Eu",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 2.87,
+     "end": 3.56
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 8.45,
+   "end": 9.31,
+   "text": "tava sozinho",
+   "words": [
+    {
+     "word": "tava",
+     "start": 8.45,
+     "end": 8.65
+    },
+    {
+     "word": "sozinho",
+     "start": 8.65,
+     "end": 9.31
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 9.35,
+   "end": 10.05,
+   "text": "largado as traças",
+   "words": [
+    {
+     "word": "largado",
+     "start": 9.35,
+     "end": 9.69
+    },
+    {
+     "word": "as",
+     "start": 9.69,
+     "end": 9.83
+    },
+    {
+     "word": "traças",
+     "start": 9.83,
+     "end": 10.05
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 10.09,
+   "end": 10.69,
+   "text": "sendo humilhado",
+   "words": [
+    {
+     "word": "sendo",
+     "start": 10.09,
+     "end": 10.23
+    },
+    {
+     "word": "humilhado",
+     "start": 10.23,
+     "end": 10.69
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 10.73,
+   "end": 11.15,
+   "text": "com a Lucia me",
+   "words": [
+    {
+     "word": "com",
+     "start": 10.73,
+     "end": 10.77
+    },
+    {
+     "word": "a",
+     "start": 10.77,
+     "end": 10.85
+    },
+    {
+     "word": "Lucia",
+     "start": 10.85,
+     "end": 11.07
+    },
+    {
+     "word": "me",
+     "start": 11.07,
+     "end": 11.15
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 11.19,
+   "end": 12.14,
+   "text": "traindo praticamente",
+   "words": [
+    {
+     "word": "traindo",
+     "start": 11.19,
+     "end": 11.51
+    },
+    {
+     "word": "praticamente",
+     "start": 11.51,
+     "end": 12.14
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 12.71,
+   "end": 13.47,
+   "text": "chegava ninguém sem",
+   "words": [
+    {
+     "word": "chegava",
+     "start": 12.71,
+     "end": 13.03
+    },
+    {
+     "word": "ninguém",
+     "start": 13.03,
+     "end": 13.31
+    },
+    {
+     "word": "sem",
+     "start": 13.31,
+     "end": 13.47
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 13.51,
+   "end": 14.11,
+   "text": "mim",
+   "words": [
+    {
+     "word": "mim",
+     "start": 13.51,
+     "end": 14.11
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 18.15,
+   "end": 18.67,
+   "text": "esse jogo é",
+   "words": [
+    {
+     "word": "esse",
+     "start": 18.15,
+     "end": 18.37
+    },
+    {
+     "word": "jogo",
+     "start": 18.37,
+     "end": 18.57
+    },
+    {
+     "word": "é",
+     "start": 18.57,
+     "end": 18.67
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 18.71,
+   "end": 19.49,
+   "text": "uma maldade mesmo",
+   "words": [
+    {
+     "word": "uma",
+     "start": 18.71,
+     "end": 18.83
+    },
+    {
+     "word": "maldade",
+     "start": 18.83,
+     "end": 19.23
+    },
+    {
+     "word": "mesmo",
+     "start": 19.23,
+     "end": 19.49
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 19.53,
+   "end": 20.13,
+   "text": "cara",
+   "words": [
+    {
+     "word": "cara",
+     "start": 19.53,
+     "end": 20.13
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 27.11,
+   "end": 28.2,
+   "text": "— Essas⁠",
+   "words": [
+    {
+     "word": "— Essas⁠",
+     "start": 27.11,
+     "end": 28.2
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 30.53,
+   "end": 31.13,
+   "text": "mulheres vão me",
+   "words": [
+    {
+     "word": "mulheres",
+     "start": 30.53,
+     "end": 30.73
+    },
+    {
+     "word": "vão",
+     "start": 30.73,
+     "end": 31.05
+    },
+    {
+     "word": "me",
+     "start": 31.05,
+     "end": 31.13
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 31.17,
+   "end": 32.08,
+   "text": "enganar do jogo?",
+   "words": [
+    {
+     "word": "enganar",
+     "start": 31.17,
+     "end": 31.45
+    },
+    {
+     "word": "do",
+     "start": 31.45,
+     "end": 31.53
+    },
+    {
+     "word": "jogo?",
+     "start": 31.53,
+     "end": 32.08
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
