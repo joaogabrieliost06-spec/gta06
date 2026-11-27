@@ -1,0 +1,505 @@
+{
+ "segments": [
+  {
+   "start": 3.37,
+   "end": 4.29,
+   "text": "Hoje vamos depositar",
+   "words": [
+    {
+     "word": "Hoje",
+     "start": 3.37,
+     "end": 3.515
+    },
+    {
+     "word": "vamos",
+     "start": 3.515,
+     "end": 3.69
+    },
+    {
+     "word": "depositar",
+     "start": 3.69,
+     "end": 4.29
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 4.33,
+   "end": 4.85,
+   "text": "— nosso⁠ primeiro⁠",
+   "words": [
+    {
+     "word": "— nosso⁠",
+     "start": 4.33,
+     "end": 4.51
+    },
+    {
+     "word": "primeiro⁠",
+     "start": 4.51,
+     "end": 4.85
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 4.89,
+   "end": 6.6,
+   "text": "milhão, nice",
+   "words": [
+    {
+     "word": "milhão,",
+     "start": 4.89,
+     "end": 5.35
+    },
+    {
+     "word": "nice",
+     "start": 5.67,
+     "end": 6.6
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 14.29,
+   "end": 16.24,
+   "text": "eita, virou fogoso",
+   "words": [
+    {
+     "word": "eita,",
+     "start": 14.29,
+     "end": 15.05
+    },
+    {
+     "word": "virou",
+     "start": 15.13,
+     "end": 15.33
+    },
+    {
+     "word": "fogoso",
+     "start": 15.33,
+     "end": 16.24
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 17.95,
+   "end": 19.15,
+   "text": "o que que um milhão não faz",
+   "words": [
+    {
+     "word": "o",
+     "start": 17.95,
+     "end": 18.09
+    },
+    {
+     "word": "que",
+     "start": 18.09,
+     "end": 18.14
+    },
+    {
+     "word": "que",
+     "start": 18.14,
+     "end": 18.21
+    },
+    {
+     "word": "um",
+     "start": 18.21,
+     "end": 18.31
+    },
+    {
+     "word": "milhão",
+     "start": 18.31,
+     "end": 18.55
+    },
+    {
+     "word": "não",
+     "start": 18.55,
+     "end": 18.69
+    },
+    {
+     "word": "faz",
+     "start": 18.69,
+     "end": 19.15
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 19.19,
+   "end": 19.79,
+   "text": "mano?",
+   "words": [
+    {
+     "word": "mano?",
+     "start": 19.19,
+     "end": 19.79
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 20.0,
+   "end": 21.04,
+   "text": "Um milhãozinho",
+   "words": [
+    {
+     "word": "Um",
+     "start": 20.0,
+     "end": 20.18
+    },
+    {
+     "word": "milhãozinho",
+     "start": 20.18,
+     "end": 21.04
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 21.08,
+   "end": 22.4,
+   "text": "o fogo aquece",
+   "words": [
+    {
+     "word": "o",
+     "start": 21.08,
+     "end": 21.2
+    },
+    {
+     "word": "fogo",
+     "start": 21.2,
+     "end": 21.74
+    },
+    {
+     "word": "aquece",
+     "start": 21.74,
+     "end": 22.4
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 22.44,
+   "end": 23.32,
+   "text": "o coração, mano",
+   "words": [
+    {
+     "word": "o",
+     "start": 22.44,
+     "end": 22.54
+    },
+    {
+     "word": "coração,",
+     "start": 22.54,
+     "end": 22.92
+    },
+    {
+     "word": "mano",
+     "start": 23.2,
+     "end": 23.32
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 23.36,
+   "end": 24.06,
+   "text": "quem quiser depositar",
+   "words": [
+    {
+     "word": "quem",
+     "start": 23.36,
+     "end": 23.5
+    },
+    {
+     "word": "quiser",
+     "start": 23.5,
+     "end": 23.7
+    },
+    {
+     "word": "depositar",
+     "start": 23.7,
+     "end": 24.06
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 24.1,
+   "end": 24.46,
+   "text": "um milhãozinho",
+   "words": [
+    {
+     "word": "um",
+     "start": 24.1,
+     "end": 24.22
+    },
+    {
+     "word": "milhãozinho",
+     "start": 24.22,
+     "end": 24.46
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 24.5,
+   "end": 25.1,
+   "text": "na minha conta",
+   "words": [
+    {
+     "word": "na",
+     "start": 24.5,
+     "end": 24.6
+    },
+    {
+     "word": "minha",
+     "start": 24.6,
+     "end": 24.72
+    },
+    {
+     "word": "conta",
+     "start": 24.72,
+     "end": 25.1
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 25.14,
+   "end": 26.08,
+   "text": "mano, vai aquecer",
+   "words": [
+    {
+     "word": "mano,",
+     "start": 25.14,
+     "end": 25.28
+    },
+    {
+     "word": "vai",
+     "start": 25.52,
+     "end": 25.74
+    },
+    {
+     "word": "aquecer",
+     "start": 25.74,
+     "end": 26.08
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 26.12,
+   "end": 27.45,
+   "text": "meu fogo também, tá?",
+   "words": [
+    {
+     "word": "meu",
+     "start": 26.12,
+     "end": 26.28
+    },
+    {
+     "word": "fogo",
+     "start": 26.28,
+     "end": 26.66
+    },
+    {
+     "word": "também,",
+     "start": 26.66,
+     "end": 26.9
+    },
+    {
+     "word": "tá?",
+     "start": 27.1,
+     "end": 27.45
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 27.69,
+   "end": 28.45,
+   "text": "Mete um milhãozinho",
+   "words": [
+    {
+     "word": "Mete",
+     "start": 27.69,
+     "end": 28.01
+    },
+    {
+     "word": "um",
+     "start": 28.01,
+     "end": 28.13
+    },
+    {
+     "word": "milhãozinho",
+     "start": 28.13,
+     "end": 28.45
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.49,
+   "end": 29.06,
+   "text": "na minha conta, vou",
+   "words": [
+    {
+     "word": "na",
+     "start": 28.49,
+     "end": 28.59
+    },
+    {
+     "word": "minha",
+     "start": 28.59,
+     "end": 28.71
+    },
+    {
+     "word": "conta,",
+     "start": 28.71,
+     "end": 28.93
+    },
+    {
+     "word": "vou",
+     "start": 29.01,
+     "end": 29.06
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 29.07,
+   "end": 30.18,
+   "text": "mandar o Pix é 9",
+   "words": [
+    {
+     "word": "mandar",
+     "start": 29.07,
+     "end": 29.21
+    },
+    {
+     "word": "o",
+     "start": 29.21,
+     "end": 29.33
+    },
+    {
+     "word": "Pix",
+     "start": 29.33,
+     "end": 29.53
+    },
+    {
+     "word": "é",
+     "start": 29.53,
+     "end": 29.65
+    },
+    {
+     "word": "9",
+     "start": 29.65,
+     "end": 30.18
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 31.4,
+   "end": 32.0,
+   "text": "tá?",
+   "words": [
+    {
+     "word": "tá?",
+     "start": 31.4,
+     "end": 32.0
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 33.97,
+   "end": 35.13,
+   "text": "Eu fico bem fogoso",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 33.97,
+     "end": 34.21
+    },
+    {
+     "word": "fico",
+     "start": 34.21,
+     "end": 34.49
+    },
+    {
+     "word": "bem",
+     "start": 34.49,
+     "end": 34.67
+    },
+    {
+     "word": "fogoso",
+     "start": 34.67,
+     "end": 35.13
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 35.17,
+   "end": 35.77,
+   "text": "também",
+   "words": [
+    {
+     "word": "também",
+     "start": 35.17,
+     "end": 35.77
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 36.18,
+   "end": 36.88,
+   "text": "caralho, chat, olha",
+   "words": [
+    {
+     "word": "caralho,",
+     "start": 36.18,
+     "end": 36.5
+    },
+    {
+     "word": "chat,",
+     "start": 36.56,
+     "end": 36.74
+    },
+    {
+     "word": "olha",
+     "start": 36.82,
+     "end": 36.88
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 36.92,
+   "end": 38.05,
+   "text": "essa chuva, mano",
+   "words": [
+    {
+     "word": "essa",
+     "start": 36.92,
+     "end": 37.08
+    },
+    {
+     "word": "chuva,",
+     "start": 37.08,
+     "end": 37.48
+    },
+    {
+     "word": "mano",
+     "start": 37.58,
+     "end": 38.05
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
