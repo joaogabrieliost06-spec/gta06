@@ -1,0 +1,457 @@
+{
+ "segments": [
+  {
+   "start": 0.14,
+   "end": 1.87,
+   "text": "— doideira,⁠ a⁠",
+   "words": [
+    {
+     "word": "— doideira,⁠",
+     "start": 0.14,
+     "end": 0.74
+    },
+    {
+     "word": "a⁠",
+     "start": 0.74,
+     "end": 1.87
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 3.65,
+   "end": 4.88,
+   "text": "ponte⁠ está⁠ virando⁠",
+   "words": [
+    {
+     "word": "ponte⁠",
+     "start": 3.65,
+     "end": 3.91
+    },
+    {
+     "word": "está⁠",
+     "start": 3.91,
+     "end": 4.01
+    },
+    {
+     "word": "virando⁠",
+     "start": 4.01,
+     "end": 4.88
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.59,
+   "end": 7.69,
+   "text": "quem⁠",
+   "words": [
+    {
+     "word": "quem⁠",
+     "start": 6.59,
+     "end": 7.69
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.73,
+   "end": 8.82,
+   "text": "sabia",
+   "words": [
+    {
+     "word": "sabia",
+     "start": 7.73,
+     "end": 8.82
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 12.24,
+   "end": 12.92,
+   "text": "— que⁠ será⁠ possível⁠",
+   "words": [
+    {
+     "word": "— que⁠",
+     "start": 12.24,
+     "end": 12.4
+    },
+    {
+     "word": "será⁠",
+     "start": 12.4,
+     "end": 12.54
+    },
+    {
+     "word": "possível⁠",
+     "start": 12.54,
+     "end": 12.92
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 12.96,
+   "end": 13.74,
+   "text": "a⁠ ponte⁠ virar⁠",
+   "words": [
+    {
+     "word": "a⁠",
+     "start": 12.96,
+     "end": 13.14
+    },
+    {
+     "word": "ponte⁠",
+     "start": 13.14,
+     "end": 13.3
+    },
+    {
+     "word": "virar⁠",
+     "start": 13.3,
+     "end": 13.74
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 13.78,
+   "end": 14.68,
+   "text": "viado,⁠ achei⁠ que⁠",
+   "words": [
+    {
+     "word": "viado,⁠",
+     "start": 13.78,
+     "end": 14.02
+    },
+    {
+     "word": "achei⁠",
+     "start": 14.42,
+     "end": 14.6
+    },
+    {
+     "word": "que⁠",
+     "start": 14.6,
+     "end": 14.68
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 14.72,
+   "end": 15.63,
+   "text": "a⁠ ponte⁠ só⁠ levantava,⁠ ela⁠",
+   "words": [
+    {
+     "word": "a⁠",
+     "start": 14.72,
+     "end": 14.78
+    },
+    {
+     "word": "ponte⁠",
+     "start": 14.78,
+     "end": 14.92
+    },
+    {
+     "word": "só⁠",
+     "start": 14.92,
+     "end": 15.04
+    },
+    {
+     "word": "levantava,⁠",
+     "start": 15.04,
+     "end": 15.5
+    },
+    {
+     "word": "ela⁠",
+     "start": 15.58,
+     "end": 15.63
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 15.64,
+   "end": 16.49,
+   "text": "virou,⁠ mano⁠",
+   "words": [
+    {
+     "word": "virou,⁠",
+     "start": 15.64,
+     "end": 16.08
+    },
+    {
+     "word": "mano⁠",
+     "start": 16.18,
+     "end": 16.49
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 22.37,
+   "end": 23.52,
+   "text": "caralho, que loucura",
+   "words": [
+    {
+     "word": "caralho,",
+     "start": 22.37,
+     "end": 22.67
+    },
+    {
+     "word": "que",
+     "start": 22.71,
+     "end": 22.79
+    },
+    {
+     "word": "loucura",
+     "start": 22.79,
+     "end": 23.52
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 24.33,
+   "end": 24.87,
+   "text": "maneirinha essa",
+   "words": [
+    {
+     "word": "maneirinha",
+     "start": 24.33,
+     "end": 24.79
+    },
+    {
+     "word": "essa",
+     "start": 24.79,
+     "end": 24.87
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 24.91,
+   "end": 25.58,
+   "text": "parada aí",
+   "words": [
+    {
+     "word": "parada",
+     "start": 24.91,
+     "end": 25.19
+    },
+    {
+     "word": "aí",
+     "start": 25.19,
+     "end": 25.58
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 26.27,
+   "end": 26.91,
+   "text": "não existe na vida",
+   "words": [
+    {
+     "word": "não",
+     "start": 26.27,
+     "end": 26.47
+    },
+    {
+     "word": "existe",
+     "start": 26.47,
+     "end": 26.59
+    },
+    {
+     "word": "na",
+     "start": 26.59,
+     "end": 26.79
+    },
+    {
+     "word": "vida",
+     "start": 26.79,
+     "end": 26.91
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 26.95,
+   "end": 27.53,
+   "text": "real mesmo, deve",
+   "words": [
+    {
+     "word": "real",
+     "start": 26.95,
+     "end": 27.17
+    },
+    {
+     "word": "mesmo,",
+     "start": 27.17,
+     "end": 27.39
+    },
+    {
+     "word": "deve",
+     "start": 27.45,
+     "end": 27.53
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 27.57,
+   "end": 28.16,
+   "text": "assistir, né, se",
+   "words": [
+    {
+     "word": "assistir,",
+     "start": 27.57,
+     "end": 27.93
+    },
+    {
+     "word": "né,",
+     "start": 28.03,
+     "end": 28.08
+    },
+    {
+     "word": "se",
+     "start": 28.11,
+     "end": 28.16
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.17,
+   "end": 29.24,
+   "text": "os caras botaram no jogo",
+   "words": [
+    {
+     "word": "os",
+     "start": 28.17,
+     "end": 28.29
+    },
+    {
+     "word": "caras",
+     "start": 28.29,
+     "end": 28.37
+    },
+    {
+     "word": "botaram",
+     "start": 28.37,
+     "end": 28.61
+    },
+    {
+     "word": "no",
+     "start": 28.61,
+     "end": 28.77
+    },
+    {
+     "word": "jogo",
+     "start": 28.77,
+     "end": 29.24
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 36.78,
+   "end": 37.38,
+   "text": "— ó⁠",
+   "words": [
+    {
+     "word": "— ó⁠",
+     "start": 36.78,
+     "end": 37.38
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 37.77,
+   "end": 38.38,
+   "text": "olha⁠ ali⁠",
+   "words": [
+    {
+     "word": "olha⁠",
+     "start": 37.77,
+     "end": 37.95
+    },
+    {
+     "word": "ali⁠",
+     "start": 37.95,
+     "end": 38.38
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 38.97,
+   "end": 39.97,
+   "text": "já⁠ soltei⁠ o⁠ bagulho⁠",
+   "words": [
+    {
+     "word": "já⁠",
+     "start": 38.97,
+     "end": 39.11
+    },
+    {
+     "word": "soltei⁠",
+     "start": 39.11,
+     "end": 39.51
+    },
+    {
+     "word": "o⁠",
+     "start": 39.51,
+     "end": 39.57
+    },
+    {
+     "word": "bagulho⁠",
+     "start": 39.57,
+     "end": 39.97
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 40.01,
+   "end": 41.58,
+   "text": "vira,⁠ viado,⁠ ó,⁠ ó⁠",
+   "words": [
+    {
+     "word": "vira,⁠",
+     "start": 40.01,
+     "end": 40.23
+    },
+    {
+     "word": "viado,⁠",
+     "start": 40.27,
+     "end": 40.51
+    },
+    {
+     "word": "ó,⁠",
+     "start": 40.85,
+     "end": 40.97
+    },
+    {
+     "word": "ó⁠",
+     "start": 41.09,
+     "end": 41.58
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 42.35,
+   "end": 42.95,
+   "text": "ó⁠",
+   "words": [
+    {
+     "word": "ó⁠",
+     "start": 42.35,
+     "end": 42.95
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
