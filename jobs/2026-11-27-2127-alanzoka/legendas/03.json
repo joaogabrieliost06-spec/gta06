@@ -1,0 +1,285 @@
+{
+ "segments": [
+  {
+   "start": 8.13,
+   "end": 9.69,
+   "text": "Você fica esperto",
+   "words": [
+    {
+     "word": "Você",
+     "start": 8.13,
+     "end": 8.23
+    },
+    {
+     "word": "fica",
+     "start": 8.23,
+     "end": 8.71
+    },
+    {
+     "word": "esperto",
+     "start": 8.71,
+     "end": 9.69
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 9.73,
+   "end": 12.1,
+   "text": "Você fica esperto",
+   "words": [
+    {
+     "word": "Você",
+     "start": 9.73,
+     "end": 10.19
+    },
+    {
+     "word": "fica",
+     "start": 10.59,
+     "end": 10.81
+    },
+    {
+     "word": "esperto",
+     "start": 10.81,
+     "end": 12.1
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 13.17,
+   "end": 13.86,
+   "text": "Beleza?",
+   "words": [
+    {
+     "word": "Beleza?",
+     "start": 13.17,
+     "end": 13.86
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 14.15,
+   "end": 15.42,
+   "text": "Você fica esperto",
+   "words": [
+    {
+     "word": "Você",
+     "start": 14.15,
+     "end": 14.25
+    },
+    {
+     "word": "fica",
+     "start": 14.25,
+     "end": 14.53
+    },
+    {
+     "word": "esperto",
+     "start": 14.53,
+     "end": 15.42
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 15.93,
+   "end": 17.06,
+   "text": "Foi, então, mano",
+   "words": [
+    {
+     "word": "Foi,",
+     "start": 15.93,
+     "end": 16.29
+    },
+    {
+     "word": "então,",
+     "start": 16.29,
+     "end": 16.59
+    },
+    {
+     "word": "mano",
+     "start": 16.59,
+     "end": 17.06
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 34.92,
+   "end": 35.84,
+   "text": "Mano, é que eu tirei",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 34.92,
+     "end": 35.36
+    },
+    {
+     "word": "é",
+     "start": 35.4,
+     "end": 35.45
+    },
+    {
+     "word": "que",
+     "start": 35.45,
+     "end": 35.52
+    },
+    {
+     "word": "eu",
+     "start": 35.52,
+     "end": 35.66
+    },
+    {
+     "word": "tirei",
+     "start": 35.66,
+     "end": 35.84
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 35.88,
+   "end": 37.06,
+   "text": "a mira automática. Eu",
+   "words": [
+    {
+     "word": "a",
+     "start": 35.88,
+     "end": 36.02
+    },
+    {
+     "word": "mira",
+     "start": 36.02,
+     "end": 36.18
+    },
+    {
+     "word": "automática.",
+     "start": 36.18,
+     "end": 36.8
+    },
+    {
+     "word": "Eu",
+     "start": 36.8,
+     "end": 37.06
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 37.1,
+   "end": 39.09,
+   "text": "tirei",
+   "words": [
+    {
+     "word": "tirei",
+     "start": 37.1,
+     "end": 39.09
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 39.47,
+   "end": 40.21,
+   "text": "a mira automática",
+   "words": [
+    {
+     "word": "a",
+     "start": 39.47,
+     "end": 39.51
+    },
+    {
+     "word": "mira",
+     "start": 39.51,
+     "end": 39.61
+    },
+    {
+     "word": "automática",
+     "start": 39.61,
+     "end": 40.21
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 40.25,
+   "end": 42.2,
+   "text": "eu esqueci, mano. Aí",
+   "words": [
+    {
+     "word": "eu",
+     "start": 40.25,
+     "end": 40.27
+    },
+    {
+     "word": "esqueci,",
+     "start": 40.27,
+     "end": 40.83
+    },
+    {
+     "word": "mano.",
+     "start": 40.83,
+     "end": 41.15
+    },
+    {
+     "word": "Aí",
+     "start": 41.26,
+     "end": 42.2
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 42.24,
+   "end": 42.74,
+   "text": "mano, eu tive",
+   "words": [
+    {
+     "word": "mano,",
+     "start": 42.24,
+     "end": 42.4
+    },
+    {
+     "word": "eu",
+     "start": 42.5,
+     "end": 42.68
+    },
+    {
+     "word": "tive",
+     "start": 42.68,
+     "end": 42.74
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 42.78,
+   "end": 43.91,
+   "text": "que eu mesmo mirar",
+   "words": [
+    {
+     "word": "que",
+     "start": 42.78,
+     "end": 42.94
+    },
+    {
+     "word": "eu",
+     "start": 42.94,
+     "end": 43.12
+    },
+    {
+     "word": "mesmo",
+     "start": 43.12,
+     "end": 43.3
+    },
+    {
+     "word": "mirar",
+     "start": 43.3,
+     "end": 43.91
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
