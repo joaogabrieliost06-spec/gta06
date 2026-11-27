@@ -1,0 +1,1321 @@
+{
+ "segments": [
+  {
+   "start": 2.89,
+   "end": 3.36,
+   "text": "Já assisti o",
+   "words": [
+    {
+     "word": "Já",
+     "start": 2.89,
+     "end": 3.09
+    },
+    {
+     "word": "assisti",
+     "start": 3.09,
+     "end": 3.31
+    },
+    {
+     "word": "o",
+     "start": 3.31,
+     "end": 3.36
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 3.39,
+   "end": 4.01,
+   "text": "Dark, eu assisti",
+   "words": [
+    {
+     "word": "Dark,",
+     "start": 3.39,
+     "end": 3.65
+    },
+    {
+     "word": "eu",
+     "start": 3.77,
+     "end": 3.87
+    },
+    {
+     "word": "assisti",
+     "start": 3.87,
+     "end": 4.01
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 4.05,
+   "end": 4.79,
+   "text": "a primeira temporada",
+   "words": [
+    {
+     "word": "a",
+     "start": 4.05,
+     "end": 4.13
+    },
+    {
+     "word": "primeira",
+     "start": 4.13,
+     "end": 4.33
+    },
+    {
+     "word": "temporada",
+     "start": 4.33,
+     "end": 4.79
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 4.83,
+   "end": 5.71,
+   "text": "na época, que faz",
+   "words": [
+    {
+     "word": "na",
+     "start": 4.83,
+     "end": 5.05
+    },
+    {
+     "word": "época,",
+     "start": 5.05,
+     "end": 5.33
+    },
+    {
+     "word": "que",
+     "start": 5.45,
+     "end": 5.5
+    },
+    {
+     "word": "faz",
+     "start": 5.5,
+     "end": 5.71
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 5.75,
+   "end": 6.59,
+   "text": "pô, faz muito tempo",
+   "words": [
+    {
+     "word": "pô,",
+     "start": 5.75,
+     "end": 5.89
+    },
+    {
+     "word": "faz",
+     "start": 5.93,
+     "end": 6.11
+    },
+    {
+     "word": "muito",
+     "start": 6.11,
+     "end": 6.29
+    },
+    {
+     "word": "tempo",
+     "start": 6.29,
+     "end": 6.59
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.63,
+   "end": 7.29,
+   "text": "né, faz uns oito",
+   "words": [
+    {
+     "word": "né,",
+     "start": 6.63,
+     "end": 6.67
+    },
+    {
+     "word": "faz",
+     "start": 6.69,
+     "end": 6.81
+    },
+    {
+     "word": "uns",
+     "start": 6.81,
+     "end": 7.01
+    },
+    {
+     "word": "oito",
+     "start": 7.01,
+     "end": 7.29
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.33,
+   "end": 8.22,
+   "text": "anos que lançou",
+   "words": [
+    {
+     "word": "anos",
+     "start": 7.33,
+     "end": 7.55
+    },
+    {
+     "word": "que",
+     "start": 7.55,
+     "end": 7.65
+    },
+    {
+     "word": "lançou",
+     "start": 7.65,
+     "end": 8.22
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 8.75,
+   "end": 9.25,
+   "text": "Entendi porra",
+   "words": [
+    {
+     "word": "Entendi",
+     "start": 8.75,
+     "end": 9.03
+    },
+    {
+     "word": "porra",
+     "start": 9.03,
+     "end": 9.25
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 9.29,
+   "end": 10.07,
+   "text": "nenhuma quem era pai",
+   "words": [
+    {
+     "word": "nenhuma",
+     "start": 9.29,
+     "end": 9.55
+    },
+    {
+     "word": "quem",
+     "start": 9.55,
+     "end": 9.73
+    },
+    {
+     "word": "era",
+     "start": 9.73,
+     "end": 9.85
+    },
+    {
+     "word": "pai",
+     "start": 9.85,
+     "end": 10.07
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.11,
+   "end": 10.69,
+   "text": "do filho do tio",
+   "words": [
+    {
+     "word": "do",
+     "start": 10.11,
+     "end": 10.23
+    },
+    {
+     "word": "filho",
+     "start": 10.23,
+     "end": 10.43
+    },
+    {
+     "word": "do",
+     "start": 10.43,
+     "end": 10.55
+    },
+    {
+     "word": "tio",
+     "start": 10.55,
+     "end": 10.69
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.73,
+   "end": 11.43,
+   "text": "do amigo do primo",
+   "words": [
+    {
+     "word": "do",
+     "start": 10.73,
+     "end": 10.83
+    },
+    {
+     "word": "amigo",
+     "start": 10.83,
+     "end": 11.09
+    },
+    {
+     "word": "do",
+     "start": 11.09,
+     "end": 11.23
+    },
+    {
+     "word": "primo",
+     "start": 11.23,
+     "end": 11.43
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 11.47,
+   "end": 12.44,
+   "text": "do Bino",
+   "words": [
+    {
+     "word": "do",
+     "start": 11.47,
+     "end": 11.67
+    },
+    {
+     "word": "Bino",
+     "start": 11.67,
+     "end": 12.44
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 13.16,
+   "end": 14.02,
+   "text": "— daí⁠ eu⁠ não⁠ assisti⁠",
+   "words": [
+    {
+     "word": "— daí⁠",
+     "start": 13.16,
+     "end": 13.42
+    },
+    {
+     "word": "eu⁠",
+     "start": 13.42,
+     "end": 13.62
+    },
+    {
+     "word": "não⁠",
+     "start": 13.62,
+     "end": 13.76
+    },
+    {
+     "word": "assisti⁠",
+     "start": 13.76,
+     "end": 14.02
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 14.06,
+   "end": 14.6,
+   "text": "as⁠ outras,⁠ eu⁠ não⁠",
+   "words": [
+    {
+     "word": "as⁠",
+     "start": 14.06,
+     "end": 14.2
+    },
+    {
+     "word": "outras,⁠",
+     "start": 14.2,
+     "end": 14.38
+    },
+    {
+     "word": "eu⁠",
+     "start": 14.44,
+     "end": 14.54
+    },
+    {
+     "word": "não⁠",
+     "start": 14.54,
+     "end": 14.6
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 14.64,
+   "end": 15.24,
+   "text": "fiquei⁠ com⁠ preguiça⁠",
+   "words": [
+    {
+     "word": "fiquei⁠",
+     "start": 14.64,
+     "end": 14.78
+    },
+    {
+     "word": "com⁠",
+     "start": 14.78,
+     "end": 14.92
+    },
+    {
+     "word": "preguiça⁠",
+     "start": 14.92,
+     "end": 15.24
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 15.28,
+   "end": 16.01,
+   "text": "Assim⁠",
+   "words": [
+    {
+     "word": "Assim⁠",
+     "start": 15.28,
+     "end": 16.01
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 24.21,
+   "end": 25.01,
+   "text": "eu⁠ tô⁠ brincando,⁠ né⁠",
+   "words": [
+    {
+     "word": "eu⁠",
+     "start": 24.21,
+     "end": 24.35
+    },
+    {
+     "word": "tô⁠",
+     "start": 24.35,
+     "end": 24.47
+    },
+    {
+     "word": "brincando,⁠",
+     "start": 24.47,
+     "end": 24.89
+    },
+    {
+     "word": "né⁠",
+     "start": 24.95,
+     "end": 25.01
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 25.05,
+   "end": 25.42,
+   "text": "não⁠ foi⁠ porque⁠ eu⁠",
+   "words": [
+    {
+     "word": "não⁠",
+     "start": 25.05,
+     "end": 25.17
+    },
+    {
+     "word": "foi⁠",
+     "start": 25.17,
+     "end": 25.29
+    },
+    {
+     "word": "porque⁠",
+     "start": 25.29,
+     "end": 25.37
+    },
+    {
+     "word": "eu⁠",
+     "start": 25.37,
+     "end": 25.42
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 25.45,
+   "end": 26.09,
+   "text": "não⁠ entendi,⁠ porque⁠",
+   "words": [
+    {
+     "word": "não⁠",
+     "start": 25.45,
+     "end": 25.53
+    },
+    {
+     "word": "entendi,⁠",
+     "start": 25.53,
+     "end": 25.91
+    },
+    {
+     "word": "porque⁠",
+     "start": 26.01,
+     "end": 26.09
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 26.13,
+   "end": 26.78,
+   "text": "é⁠ óbvio,⁠ né,⁠ dá⁠ pra⁠ você⁠",
+   "words": [
+    {
+     "word": "é⁠",
+     "start": 26.13,
+     "end": 26.21
+    },
+    {
+     "word": "óbvio,⁠",
+     "start": 26.21,
+     "end": 26.41
+    },
+    {
+     "word": "né,⁠",
+     "start": 26.49,
+     "end": 26.54
+    },
+    {
+     "word": "dá⁠",
+     "start": 26.54,
+     "end": 26.65
+    },
+    {
+     "word": "pra⁠",
+     "start": 26.65,
+     "end": 26.73
+    },
+    {
+     "word": "você⁠",
+     "start": 26.73,
+     "end": 26.78
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 26.81,
+   "end": 27.65,
+   "text": "entender,⁠ mas⁠ não⁠ me⁠",
+   "words": [
+    {
+     "word": "entender,⁠",
+     "start": 26.81,
+     "end": 27.09
+    },
+    {
+     "word": "mas⁠",
+     "start": 27.23,
+     "end": 27.35
+    },
+    {
+     "word": "não⁠",
+     "start": 27.35,
+     "end": 27.53
+    },
+    {
+     "word": "me⁠",
+     "start": 27.53,
+     "end": 27.65
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 27.69,
+   "end": 28.36,
+   "text": "pegou,⁠ não⁠",
+   "words": [
+    {
+     "word": "pegou,⁠",
+     "start": 27.69,
+     "end": 27.97
+    },
+    {
+     "word": "não⁠",
+     "start": 28.03,
+     "end": 28.36
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 29.42,
+   "end": 30.16,
+   "text": "Pronto, eu assisti",
+   "words": [
+    {
+     "word": "Pronto,",
+     "start": 29.42,
+     "end": 29.7
+    },
+    {
+     "word": "eu",
+     "start": 29.84,
+     "end": 29.89
+    },
+    {
+     "word": "assisti",
+     "start": 29.89,
+     "end": 30.16
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 30.2,
+   "end": 31.12,
+   "text": "a primeira temporada",
+   "words": [
+    {
+     "word": "a",
+     "start": 30.2,
+     "end": 30.28
+    },
+    {
+     "word": "primeira",
+     "start": 30.28,
+     "end": 30.46
+    },
+    {
+     "word": "temporada",
+     "start": 30.46,
+     "end": 31.12
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 31.16,
+   "end": 32.62,
+   "text": "e fiquei com preguiça",
+   "words": [
+    {
+     "word": "e",
+     "start": 31.16,
+     "end": 31.84
+    },
+    {
+     "word": "fiquei",
+     "start": 31.84,
+     "end": 32.34
+    },
+    {
+     "word": "com",
+     "start": 32.34,
+     "end": 32.44
+    },
+    {
+     "word": "preguiça",
+     "start": 32.44,
+     "end": 32.62
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 32.66,
+   "end": 33.66,
+   "text": "de assistir as outras Mano",
+   "words": [
+    {
+     "word": "de",
+     "start": 32.66,
+     "end": 32.72
+    },
+    {
+     "word": "assistir",
+     "start": 32.72,
+     "end": 32.86
+    },
+    {
+     "word": "as",
+     "start": 32.86,
+     "end": 33.02
+    },
+    {
+     "word": "outras",
+     "start": 33.02,
+     "end": 33.24
+    },
+    {
+     "word": "Mano",
+     "start": 33.24,
+     "end": 33.66
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 33.7,
+   "end": 34.51,
+   "text": "também, Pronto é",
+   "words": [
+    {
+     "word": "também,",
+     "start": 33.7,
+     "end": 33.86
+    },
+    {
+     "word": "Pronto",
+     "start": 34.1,
+     "end": 34.46
+    },
+    {
+     "word": "é",
+     "start": 34.46,
+     "end": 34.51
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 34.54,
+   "end": 35.44,
+   "text": "no Globoplay, mano",
+   "words": [
+    {
+     "word": "no",
+     "start": 34.54,
+     "end": 34.66
+    },
+    {
+     "word": "Globoplay,",
+     "start": 34.66,
+     "end": 35.24
+    },
+    {
+     "word": "mano",
+     "start": 35.32,
+     "end": 35.44
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 35.48,
+   "end": 36.0,
+   "text": "quem que assina",
+   "words": [
+    {
+     "word": "quem",
+     "start": 35.48,
+     "end": 35.6
+    },
+    {
+     "word": "que",
+     "start": 35.6,
+     "end": 35.76
+    },
+    {
+     "word": "assina",
+     "start": 35.76,
+     "end": 36.0
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 36.04,
+   "end": 36.72,
+   "text": "Globoplay",
+   "words": [
+    {
+     "word": "Globoplay",
+     "start": 36.04,
+     "end": 36.72
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 36.76,
+   "end": 37.38,
+   "text": "pra assistir?",
+   "words": [
+    {
+     "word": "pra",
+     "start": 36.76,
+     "end": 36.96
+    },
+    {
+     "word": "assistir?",
+     "start": 36.96,
+     "end": 37.38
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 37.42,
+   "end": 38.13,
+   "text": "Eu não assino, né",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 37.42,
+     "end": 37.54
+    },
+    {
+     "word": "não",
+     "start": 37.54,
+     "end": 37.66
+    },
+    {
+     "word": "assino,",
+     "start": 37.66,
+     "end": 38.0
+    },
+    {
+     "word": "né",
+     "start": 38.08,
+     "end": 38.13
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 38.14,
+   "end": 39.05,
+   "text": "A gente usou",
+   "words": [
+    {
+     "word": "A",
+     "start": 38.14,
+     "end": 38.48
+    },
+    {
+     "word": "gente",
+     "start": 38.79,
+     "end": 38.89
+    },
+    {
+     "word": "usou",
+     "start": 38.89,
+     "end": 39.05
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 39.09,
+   "end": 39.97,
+   "text": "a conta da minha sogra",
+   "words": [
+    {
+     "word": "a",
+     "start": 39.09,
+     "end": 39.19
+    },
+    {
+     "word": "conta",
+     "start": 39.19,
+     "end": 39.37
+    },
+    {
+     "word": "da",
+     "start": 39.37,
+     "end": 39.49
+    },
+    {
+     "word": "minha",
+     "start": 39.49,
+     "end": 39.59
+    },
+    {
+     "word": "sogra",
+     "start": 39.59,
+     "end": 39.97
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 40.01,
+   "end": 40.81,
+   "text": "pra assistir, velho",
+   "words": [
+    {
+     "word": "pra",
+     "start": 40.01,
+     "end": 40.15
+    },
+    {
+     "word": "assistir,",
+     "start": 40.15,
+     "end": 40.49
+    },
+    {
+     "word": "velho",
+     "start": 40.65,
+     "end": 40.81
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 40.85,
+   "end": 41.37,
+   "text": "eu não vou assinar",
+   "words": [
+    {
+     "word": "eu",
+     "start": 40.85,
+     "end": 40.97
+    },
+    {
+     "word": "não",
+     "start": 40.97,
+     "end": 41.09
+    },
+    {
+     "word": "vou",
+     "start": 41.09,
+     "end": 41.23
+    },
+    {
+     "word": "assinar",
+     "start": 41.23,
+     "end": 41.37
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 41.41,
+   "end": 42.37,
+   "text": "Globoplay pra assistir",
+   "words": [
+    {
+     "word": "Globoplay",
+     "start": 41.41,
+     "end": 42.03
+    },
+    {
+     "word": "pra",
+     "start": 42.03,
+     "end": 42.17
+    },
+    {
+     "word": "assistir",
+     "start": 42.17,
+     "end": 42.37
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 42.41,
+   "end": 43.15,
+   "text": "a série, mano Bota",
+   "words": [
+    {
+     "word": "a",
+     "start": 42.41,
+     "end": 42.57
+    },
+    {
+     "word": "série,",
+     "start": 42.57,
+     "end": 42.77
+    },
+    {
+     "word": "mano",
+     "start": 42.85,
+     "end": 42.93
+    },
+    {
+     "word": "Bota",
+     "start": 42.93,
+     "end": 43.15
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 43.19,
+   "end": 43.73,
+   "text": "em algum lugar",
+   "words": [
+    {
+     "word": "em",
+     "start": 43.19,
+     "end": 43.29
+    },
+    {
+     "word": "algum",
+     "start": 43.29,
+     "end": 43.49
+    },
+    {
+     "word": "lugar",
+     "start": 43.49,
+     "end": 43.73
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 43.77,
+   "end": 44.59,
+   "text": "que presta Bota",
+   "words": [
+    {
+     "word": "que",
+     "start": 43.77,
+     "end": 43.93
+    },
+    {
+     "word": "presta",
+     "start": 43.93,
+     "end": 44.27
+    },
+    {
+     "word": "Bota",
+     "start": 44.27,
+     "end": 44.59
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 44.63,
+   "end": 45.57,
+   "text": "na HBO, sei",
+   "words": [
+    {
+     "word": "na",
+     "start": 44.63,
+     "end": 44.77
+    },
+    {
+     "word": "HBO,",
+     "start": 44.77,
+     "end": 45.23
+    },
+    {
+     "word": "sei",
+     "start": 45.49,
+     "end": 45.57
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 45.61,
+   "end": 46.09,
+   "text": "lá, em algum lugar",
+   "words": [
+    {
+     "word": "lá,",
+     "start": 45.61,
+     "end": 45.75
+    },
+    {
+     "word": "em",
+     "start": 45.79,
+     "end": 45.85
+    },
+    {
+     "word": "algum",
+     "start": 45.85,
+     "end": 45.95
+    },
+    {
+     "word": "lugar",
+     "start": 45.95,
+     "end": 46.09
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 46.13,
+   "end": 47.05,
+   "text": "que eu assisto Eu",
+   "words": [
+    {
+     "word": "que",
+     "start": 46.13,
+     "end": 46.23
+    },
+    {
+     "word": "eu",
+     "start": 46.23,
+     "end": 46.29
+    },
+    {
+     "word": "assisto",
+     "start": 46.29,
+     "end": 46.71
+    },
+    {
+     "word": "Eu",
+     "start": 46.79,
+     "end": 47.05
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 47.09,
+   "end": 47.95,
+   "text": "não vou assinar Globoplay",
+   "words": [
+    {
+     "word": "não",
+     "start": 47.09,
+     "end": 47.17
+    },
+    {
+     "word": "vou",
+     "start": 47.17,
+     "end": 47.29
+    },
+    {
+     "word": "assinar",
+     "start": 47.29,
+     "end": 47.43
+    },
+    {
+     "word": "Globoplay",
+     "start": 47.43,
+     "end": 47.95
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 47.99,
+   "end": 48.45,
+   "text": "pra assistir essa",
+   "words": [
+    {
+     "word": "pra",
+     "start": 47.99,
+     "end": 48.15
+    },
+    {
+     "word": "assistir",
+     "start": 48.15,
+     "end": 48.31
+    },
+    {
+     "word": "essa",
+     "start": 48.31,
+     "end": 48.45
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 48.49,
+   "end": 49.3,
+   "text": "porra",
+   "words": [
+    {
+     "word": "porra",
+     "start": 48.49,
+     "end": 49.3
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 50.35,
+   "end": 51.07,
+   "text": "Todo respeito",
+   "words": [
+    {
+     "word": "Todo",
+     "start": 50.35,
+     "end": 50.63
+    },
+    {
+     "word": "respeito",
+     "start": 50.63,
+     "end": 51.07
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 51.11,
+   "end": 51.65,
+   "text": "é claro, a Globo",
+   "words": [
+    {
+     "word": "é",
+     "start": 51.11,
+     "end": 51.13
+    },
+    {
+     "word": "claro,",
+     "start": 51.13,
+     "end": 51.31
+    },
+    {
+     "word": "a",
+     "start": 51.37,
+     "end": 51.45
+    },
+    {
+     "word": "Globo",
+     "start": 51.45,
+     "end": 51.65
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 51.69,
+   "end": 52.48,
+   "text": "aí. Na",
+   "words": [
+    {
+     "word": "aí.",
+     "start": 51.69,
+     "end": 51.85
+    },
+    {
+     "word": "Na",
+     "start": 51.85,
+     "end": 52.48
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 57.15,
+   "end": 58.39,
+   "text": "quick torrent, pô, eu",
+   "words": [
+    {
+     "word": "quick",
+     "start": 57.15,
+     "end": 57.27
+    },
+    {
+     "word": "torrent,",
+     "start": 57.27,
+     "end": 57.67
+    },
+    {
+     "word": "pô,",
+     "start": 57.71,
+     "end": 57.91
+    },
+    {
+     "word": "eu",
+     "start": 57.91,
+     "end": 58.39
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 58.43,
+   "end": 59.61,
+   "text": "não uso nada pirata",
+   "words": [
+    {
+     "word": "não",
+     "start": 58.43,
+     "end": 58.59
+    },
+    {
+     "word": "uso",
+     "start": 58.59,
+     "end": 59.09
+    },
+    {
+     "word": "nada",
+     "start": 59.09,
+     "end": 59.25
+    },
+    {
+     "word": "pirata",
+     "start": 59.25,
+     "end": 59.61
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 59.65,
+   "end": 60.52,
+   "text": "Hoje",
+   "words": [
+    {
+     "word": "Hoje",
+     "start": 59.65,
+     "end": 60.52
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 60.83,
+   "end": 61.29,
+   "text": "em dia eu sou",
+   "words": [
+    {
+     "word": "em",
+     "start": 60.83,
+     "end": 60.97
+    },
+    {
+     "word": "dia",
+     "start": 60.97,
+     "end": 61.09
+    },
+    {
+     "word": "eu",
+     "start": 61.09,
+     "end": 61.21
+    },
+    {
+     "word": "sou",
+     "start": 61.21,
+     "end": 61.29
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 61.33,
+   "end": 62.92,
+   "text": "off pirateria, mano",
+   "words": [
+    {
+     "word": "off",
+     "start": 61.33,
+     "end": 61.71
+    },
+    {
+     "word": "pirateria,",
+     "start": 61.71,
+     "end": 62.47
+    },
+    {
+     "word": "mano",
+     "start": 62.53,
+     "end": 62.92
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
