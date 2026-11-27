@@ -1,0 +1,1033 @@
+{
+ "segments": [
+  {
+   "start": 2.09,
+   "end": 3.85,
+   "text": "Nada a ver, nada a ver",
+   "words": [
+    {
+     "word": "Nada",
+     "start": 2.09,
+     "end": 2.41
+    },
+    {
+     "word": "a",
+     "start": 2.41,
+     "end": 2.55
+    },
+    {
+     "word": "ver,",
+     "start": 2.55,
+     "end": 2.65
+    },
+    {
+     "word": "nada",
+     "start": 2.83,
+     "end": 3.23
+    },
+    {
+     "word": "a",
+     "start": 3.23,
+     "end": 3.41
+    },
+    {
+     "word": "ver",
+     "start": 3.41,
+     "end": 3.85
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 3.89,
+   "end": 5.61,
+   "text": "esse cara aparecer assim",
+   "words": [
+    {
+     "word": "esse",
+     "start": 3.89,
+     "end": 4.41
+    },
+    {
+     "word": "cara",
+     "start": 4.41,
+     "end": 4.67
+    },
+    {
+     "word": "aparecer",
+     "start": 4.67,
+     "end": 5.23
+    },
+    {
+     "word": "assim",
+     "start": 5.23,
+     "end": 5.61
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 5.65,
+   "end": 6.39,
+   "text": "ele tinha todo um plano",
+   "words": [
+    {
+     "word": "ele",
+     "start": 5.65,
+     "end": 5.73
+    },
+    {
+     "word": "tinha",
+     "start": 5.73,
+     "end": 5.87
+    },
+    {
+     "word": "todo",
+     "start": 5.87,
+     "end": 6.11
+    },
+    {
+     "word": "um",
+     "start": 6.11,
+     "end": 6.23
+    },
+    {
+     "word": "plano",
+     "start": 6.23,
+     "end": 6.39
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 6.43,
+   "end": 7.3,
+   "text": "perfeito",
+   "words": [
+    {
+     "word": "perfeito",
+     "start": 6.43,
+     "end": 7.3
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 7.41,
+   "end": 8.35,
+   "text": "mano, eu tô pausando",
+   "words": [
+    {
+     "word": "mano,",
+     "start": 7.41,
+     "end": 7.51
+    },
+    {
+     "word": "eu",
+     "start": 7.59,
+     "end": 7.65
+    },
+    {
+     "word": "tô",
+     "start": 7.65,
+     "end": 7.77
+    },
+    {
+     "word": "pausando",
+     "start": 7.77,
+     "end": 8.35
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 8.39,
+   "end": 9.31,
+   "text": "exatamente pra ver",
+   "words": [
+    {
+     "word": "exatamente",
+     "start": 8.39,
+     "end": 8.65
+    },
+    {
+     "word": "pra",
+     "start": 8.65,
+     "end": 9.19
+    },
+    {
+     "word": "ver",
+     "start": 9.19,
+     "end": 9.31
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 9.35,
+   "end": 9.89,
+   "text": "o que aconteceu",
+   "words": [
+    {
+     "word": "o",
+     "start": 9.35,
+     "end": 9.45
+    },
+    {
+     "word": "que",
+     "start": 9.45,
+     "end": 9.5
+    },
+    {
+     "word": "aconteceu",
+     "start": 9.5,
+     "end": 9.89
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 9.93,
+   "end": 10.63,
+   "text": "mas o cara tinha",
+   "words": [
+    {
+     "word": "mas",
+     "start": 9.93,
+     "end": 10.19
+    },
+    {
+     "word": "o",
+     "start": 10.19,
+     "end": 10.31
+    },
+    {
+     "word": "cara",
+     "start": 10.31,
+     "end": 10.47
+    },
+    {
+     "word": "tinha",
+     "start": 10.47,
+     "end": 10.63
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 10.67,
+   "end": 12.44,
+   "text": "todo um plano perfeito",
+   "words": [
+    {
+     "word": "todo",
+     "start": 10.67,
+     "end": 11.07
+    },
+    {
+     "word": "um",
+     "start": 11.07,
+     "end": 11.23
+    },
+    {
+     "word": "plano",
+     "start": 11.23,
+     "end": 11.49
+    },
+    {
+     "word": "perfeito",
+     "start": 11.49,
+     "end": 12.44
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 12.71,
+   "end": 13.57,
+   "text": "tinha preparado",
+   "words": [
+    {
+     "word": "tinha",
+     "start": 12.71,
+     "end": 12.87
+    },
+    {
+     "word": "preparado",
+     "start": 12.87,
+     "end": 13.57
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 13.61,
+   "end": 14.49,
+   "text": "tempos e tempos",
+   "words": [
+    {
+     "word": "tempos",
+     "start": 13.61,
+     "end": 13.99
+    },
+    {
+     "word": "e",
+     "start": 13.99,
+     "end": 14.13
+    },
+    {
+     "word": "tempos",
+     "start": 14.13,
+     "end": 14.49
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 14.53,
+   "end": 15.63,
+   "text": "a Lucia ali malhando",
+   "words": [
+    {
+     "word": "a",
+     "start": 14.53,
+     "end": 14.61
+    },
+    {
+     "word": "Lucia",
+     "start": 14.61,
+     "end": 14.89
+    },
+    {
+     "word": "ali",
+     "start": 14.89,
+     "end": 15.05
+    },
+    {
+     "word": "malhando",
+     "start": 15.05,
+     "end": 15.63
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 15.67,
+   "end": 16.9,
+   "text": "não sei o que, o cara era 4",
+   "words": [
+    {
+     "word": "não",
+     "start": 15.67,
+     "end": 15.69
+    },
+    {
+     "word": "sei",
+     "start": 15.69,
+     "end": 15.74
+    },
+    {
+     "word": "o",
+     "start": 15.74,
+     "end": 15.85
+    },
+    {
+     "word": "que,",
+     "start": 15.85,
+     "end": 15.93
+    },
+    {
+     "word": "o",
+     "start": 15.97,
+     "end": 16.05
+    },
+    {
+     "word": "cara",
+     "start": 16.05,
+     "end": 16.21
+    },
+    {
+     "word": "era",
+     "start": 16.21,
+     "end": 16.33
+    },
+    {
+     "word": "4",
+     "start": 16.33,
+     "end": 16.9
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 17.17,
+   "end": 18.01,
+   "text": "fudir meu relacionamento",
+   "words": [
+    {
+     "word": "fudir",
+     "start": 17.17,
+     "end": 17.53
+    },
+    {
+     "word": "meu",
+     "start": 17.53,
+     "end": 17.65
+    },
+    {
+     "word": "relacionamento",
+     "start": 17.65,
+     "end": 18.01
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 18.05,
+   "end": 18.89,
+   "text": "inteiro, por causa dessa porra",
+   "words": [
+    {
+     "word": "inteiro,",
+     "start": 18.05,
+     "end": 18.25
+    },
+    {
+     "word": "por",
+     "start": 18.35,
+     "end": 18.4
+    },
+    {
+     "word": "causa",
+     "start": 18.4,
+     "end": 18.45
+    },
+    {
+     "word": "dessa",
+     "start": 18.45,
+     "end": 18.59
+    },
+    {
+     "word": "porra",
+     "start": 18.59,
+     "end": 18.89
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 18.93,
+   "end": 20.07,
+   "text": "o cara agora, no momento",
+   "words": [
+    {
+     "word": "o",
+     "start": 18.93,
+     "end": 18.97
+    },
+    {
+     "word": "cara",
+     "start": 18.97,
+     "end": 19.19
+    },
+    {
+     "word": "agora,",
+     "start": 19.19,
+     "end": 19.41
+    },
+    {
+     "word": "no",
+     "start": 19.55,
+     "end": 19.81
+    },
+    {
+     "word": "momento",
+     "start": 19.81,
+     "end": 20.07
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 20.11,
+   "end": 21.18,
+   "text": "que o cara poderia ficar",
+   "words": [
+    {
+     "word": "que",
+     "start": 20.11,
+     "end": 20.23
+    },
+    {
+     "word": "o",
+     "start": 20.23,
+     "end": 20.31
+    },
+    {
+     "word": "cara",
+     "start": 20.31,
+     "end": 20.41
+    },
+    {
+     "word": "poderia",
+     "start": 20.41,
+     "end": 20.65
+    },
+    {
+     "word": "ficar",
+     "start": 20.65,
+     "end": 21.18
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 21.29,
+   "end": 21.75,
+   "text": "deixa pra tirar",
+   "words": [
+    {
+     "word": "deixa",
+     "start": 21.29,
+     "end": 21.49
+    },
+    {
+     "word": "pra",
+     "start": 21.49,
+     "end": 21.61
+    },
+    {
+     "word": "tirar",
+     "start": 21.61,
+     "end": 21.75
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 21.79,
+   "end": 22.71,
+   "text": "sarro depois",
+   "words": [
+    {
+     "word": "sarro",
+     "start": 21.79,
+     "end": 22.09
+    },
+    {
+     "word": "depois",
+     "start": 22.09,
+     "end": 22.71
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 22.75,
+   "end": 23.67,
+   "text": "ou no momento, tipo",
+   "words": [
+    {
+     "word": "ou",
+     "start": 22.75,
+     "end": 22.81
+    },
+    {
+     "word": "no",
+     "start": 22.81,
+     "end": 22.91
+    },
+    {
+     "word": "momento,",
+     "start": 22.91,
+     "end": 23.23
+    },
+    {
+     "word": "tipo",
+     "start": 23.35,
+     "end": 23.67
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 23.71,
+   "end": 24.83,
+   "text": "se ele fez esse plano",
+   "words": [
+    {
+     "word": "se",
+     "start": 23.71,
+     "end": 24.09
+    },
+    {
+     "word": "ele",
+     "start": 24.09,
+     "end": 24.21
+    },
+    {
+     "word": "fez",
+     "start": 24.21,
+     "end": 24.43
+    },
+    {
+     "word": "esse",
+     "start": 24.43,
+     "end": 24.63
+    },
+    {
+     "word": "plano",
+     "start": 24.63,
+     "end": 24.83
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 24.87,
+   "end": 25.91,
+   "text": "de trocar o dinheiro",
+   "words": [
+    {
+     "word": "de",
+     "start": 24.87,
+     "end": 25.01
+    },
+    {
+     "word": "trocar",
+     "start": 25.01,
+     "end": 25.27
+    },
+    {
+     "word": "o",
+     "start": 25.27,
+     "end": 25.43
+    },
+    {
+     "word": "dinheiro",
+     "start": 25.43,
+     "end": 25.91
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 25.95,
+   "end": 26.49,
+   "text": "é porque não era",
+   "words": [
+    {
+     "word": "é",
+     "start": 25.95,
+     "end": 26.05
+    },
+    {
+     "word": "porque",
+     "start": 26.05,
+     "end": 26.21
+    },
+    {
+     "word": "não",
+     "start": 26.21,
+     "end": 26.37
+    },
+    {
+     "word": "era",
+     "start": 26.37,
+     "end": 26.49
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 26.53,
+   "end": 27.25,
+   "text": "pra ele aparecer",
+   "words": [
+    {
+     "word": "pra",
+     "start": 26.53,
+     "end": 26.65
+    },
+    {
+     "word": "ele",
+     "start": 26.65,
+     "end": 26.75
+    },
+    {
+     "word": "aparecer",
+     "start": 26.75,
+     "end": 27.25
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 27.29,
+   "end": 27.93,
+   "text": "não era pra saber",
+   "words": [
+    {
+     "word": "não",
+     "start": 27.29,
+     "end": 27.37
+    },
+    {
+     "word": "era",
+     "start": 27.37,
+     "end": 27.47
+    },
+    {
+     "word": "pra",
+     "start": 27.47,
+     "end": 27.61
+    },
+    {
+     "word": "saber",
+     "start": 27.61,
+     "end": 27.93
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 27.97,
+   "end": 29.0,
+   "text": "senão os cara deixava",
+   "words": [
+    {
+     "word": "senão",
+     "start": 27.97,
+     "end": 28.09
+    },
+    {
+     "word": "os",
+     "start": 28.09,
+     "end": 28.21
+    },
+    {
+     "word": "cara",
+     "start": 28.21,
+     "end": 28.35
+    },
+    {
+     "word": "deixava",
+     "start": 28.35,
+     "end": 29.0
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 29.07,
+   "end": 29.95,
+   "text": "não pegava nem dinheiro",
+   "words": [
+    {
+     "word": "não",
+     "start": 29.07,
+     "end": 29.15
+    },
+    {
+     "word": "pegava",
+     "start": 29.15,
+     "end": 29.49
+    },
+    {
+     "word": "nem",
+     "start": 29.49,
+     "end": 29.65
+    },
+    {
+     "word": "dinheiro",
+     "start": 29.65,
+     "end": 29.95
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 29.99,
+   "end": 31.41,
+   "text": "pegava, roubava tudo ali",
+   "words": [
+    {
+     "word": "pegava,",
+     "start": 29.99,
+     "end": 30.25
+    },
+    {
+     "word": "roubava",
+     "start": 30.43,
+     "end": 30.91
+    },
+    {
+     "word": "tudo",
+     "start": 30.91,
+     "end": 31.15
+    },
+    {
+     "word": "ali",
+     "start": 31.15,
+     "end": 31.41
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 31.45,
+   "end": 32.03,
+   "text": "os caras iam chegar",
+   "words": [
+    {
+     "word": "os",
+     "start": 31.45,
+     "end": 31.59
+    },
+    {
+     "word": "caras",
+     "start": 31.59,
+     "end": 31.77
+    },
+    {
+     "word": "iam",
+     "start": 31.77,
+     "end": 31.89
+    },
+    {
+     "word": "chegar",
+     "start": 31.89,
+     "end": 32.03
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 32.07,
+   "end": 32.53,
+   "text": "e ia ter nada",
+   "words": [
+    {
+     "word": "e",
+     "start": 32.07,
+     "end": 32.23
+    },
+    {
+     "word": "ia",
+     "start": 32.23,
+     "end": 32.29
+    },
+    {
+     "word": "ter",
+     "start": 32.29,
+     "end": 32.41
+    },
+    {
+     "word": "nada",
+     "start": 32.41,
+     "end": 32.53
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 32.57,
+   "end": 33.56,
+   "text": "e ir embora, pô",
+   "words": [
+    {
+     "word": "e",
+     "start": 32.57,
+     "end": 32.69
+    },
+    {
+     "word": "ir",
+     "start": 32.69,
+     "end": 32.79
+    },
+    {
+     "word": "embora,",
+     "start": 32.79,
+     "end": 33.03
+    },
+    {
+     "word": "pô",
+     "start": 33.13,
+     "end": 33.56
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 33.96,
+   "end": 34.77,
+   "text": "Não tem sentido",
+   "words": [
+    {
+     "word": "Não",
+     "start": 33.96,
+     "end": 34.06
+    },
+    {
+     "word": "tem",
+     "start": 34.06,
+     "end": 34.14
+    },
+    {
+     "word": "sentido",
+     "start": 34.14,
+     "end": 34.77
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 49.35,
+   "end": 53.4,
+   "text": "meu Deus",
+   "words": [
+    {
+     "word": "meu",
+     "start": 49.35,
+     "end": 49.71
+    },
+    {
+     "word": "Deus",
+     "start": 49.71,
+     "end": 53.4
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 58.75,
+   "end": 60.1,
+   "text": "Que tensão da porra",
+   "words": [
+    {
+     "word": "Que",
+     "start": 58.75,
+     "end": 58.87
+    },
+    {
+     "word": "tensão",
+     "start": 58.87,
+     "end": 59.29
+    },
+    {
+     "word": "da",
+     "start": 59.29,
+     "end": 59.45
+    },
+    {
+     "word": "porra",
+     "start": 59.45,
+     "end": 60.1
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 61.45,
+   "end": 62.59,
+   "text": "Pô, você não sabe",
+   "words": [
+    {
+     "word": "Pô,",
+     "start": 61.45,
+     "end": 61.81
+    },
+    {
+     "word": "você",
+     "start": 61.97,
+     "end": 62.29
+    },
+    {
+     "word": "não",
+     "start": 62.29,
+     "end": 62.43
+    },
+    {
+     "word": "sabe",
+     "start": 62.43,
+     "end": 62.59
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 62.63,
+   "end": 63.92,
+   "text": "quanta coisa aparece",
+   "words": [
+    {
+     "word": "quanta",
+     "start": 62.63,
+     "end": 63.15
+    },
+    {
+     "word": "coisa",
+     "start": 63.15,
+     "end": 63.27
+    },
+    {
+     "word": "aparece",
+     "start": 63.27,
+     "end": 63.92
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 65.51,
+   "end": 66.11,
+   "text": "Toda hora é uma",
+   "words": [
+    {
+     "word": "Toda",
+     "start": 65.51,
+     "end": 65.87
+    },
+    {
+     "word": "hora",
+     "start": 65.87,
+     "end": 65.97
+    },
+    {
+     "word": "é",
+     "start": 65.97,
+     "end": 66.05
+    },
+    {
+     "word": "uma",
+     "start": 66.05,
+     "end": 66.11
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 66.15,
+   "end": 67.6,
+   "text": "parada diferente, cara",
+   "words": [
+    {
+     "word": "parada",
+     "start": 66.15,
+     "end": 66.51
+    },
+    {
+     "word": "diferente,",
+     "start": 66.51,
+     "end": 66.95
+    },
+    {
+     "word": "cara",
+     "start": 67.23,
+     "end": 67.6
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
