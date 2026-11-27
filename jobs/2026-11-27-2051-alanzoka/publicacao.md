@@ -6,11 +6,11 @@
 - **Hashtags:** #alanzoka #gta6 #gtavi #cortesdelive #shorts
 - **Thumbnail:** Alan rindo + texto "3 TECLAS"
 
-## 02: O vizinho gigante
-- **Título:** "OLHA O TAMANHO DESSES CARAS" 😨 alanzoka no GTA 6
-- **Descrição:** O Alan foge pelo telhado do vizinho para não encarar dois gigantes. Créditos: alanzoka – https://www.twitch.tv/alanzoka
+## 02: Olha o tamanho dessa escada
+- **Título:** "OLHA O TAMANHO DESSA ESCADA" 😨 alanzoka no GTA 6
+- **Descrição:** O Alan prefere pular de paraquedas na sacada do vizinho do que descer uma escada gigante. Créditos: alanzoka – https://www.twitch.tv/alanzoka
 - **Hashtags:** #alanzoka #gta6 #gtavi #cortesdelive #shorts
-- **Thumbnail:** seguranças enormes + texto "GIGANTES"
+- **Thumbnail:** escada enorme + texto "NEM FUDENDO"
 
 ## 03: A garça atropelou a pomba
 - **Título:** "UMA GARÇA ATROPELOU A POMBA COMIGO" 🐦 alanzoka no GTA 6
