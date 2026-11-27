@@ -1,0 +1,497 @@
+{
+ "segments": [
+  {
+   "start": 0.8,
+   "end": 2.46,
+   "text": "Mano, é o cara",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 0.8,
+     "end": 1.04
+    },
+    {
+     "word": "é",
+     "start": 2.18,
+     "end": 2.23
+    },
+    {
+     "word": "o",
+     "start": 2.23,
+     "end": 2.3
+    },
+    {
+     "word": "cara",
+     "start": 2.3,
+     "end": 2.46
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 2.5,
+   "end": 3.14,
+   "text": "que trabalha lá",
+   "words": [
+    {
+     "word": "que",
+     "start": 2.5,
+     "end": 2.64
+    },
+    {
+     "word": "trabalha",
+     "start": 2.64,
+     "end": 3.08
+    },
+    {
+     "word": "lá",
+     "start": 3.08,
+     "end": 3.14
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 3.18,
+   "end": 3.91,
+   "text": "no aeroporto, agora",
+   "words": [
+    {
+     "word": "no",
+     "start": 3.18,
+     "end": 3.3
+    },
+    {
+     "word": "aeroporto,",
+     "start": 3.3,
+     "end": 3.8
+    },
+    {
+     "word": "agora",
+     "start": 3.86,
+     "end": 3.91
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 3.94,
+   "end": 4.66,
+   "text": "que eu me toquei",
+   "words": [
+    {
+     "word": "que",
+     "start": 3.94,
+     "end": 4.06
+    },
+    {
+     "word": "eu",
+     "start": 4.06,
+     "end": 4.11
+    },
+    {
+     "word": "me",
+     "start": 4.11,
+     "end": 4.18
+    },
+    {
+     "word": "toquei",
+     "start": 4.18,
+     "end": 4.66
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 4.7,
+   "end": 5.3,
+   "text": "mano!",
+   "words": [
+    {
+     "word": "mano!",
+     "start": 4.7,
+     "end": 5.3
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 20.56,
+   "end": 21.31,
+   "text": "Ixi, será",
+   "words": [
+    {
+     "word": "Ixi,",
+     "start": 20.56,
+     "end": 20.8
+    },
+    {
+     "word": "será",
+     "start": 21.26,
+     "end": 21.31
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 21.32,
+   "end": 21.9,
+   "text": "que tá todo mundo",
+   "words": [
+    {
+     "word": "que",
+     "start": 21.32,
+     "end": 21.44
+    },
+    {
+     "word": "tá",
+     "start": 21.44,
+     "end": 21.6
+    },
+    {
+     "word": "todo",
+     "start": 21.6,
+     "end": 21.78
+    },
+    {
+     "word": "mundo",
+     "start": 21.78,
+     "end": 21.9
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 21.94,
+   "end": 22.66,
+   "text": "junto, né, essa",
+   "words": [
+    {
+     "word": "junto,",
+     "start": 21.94,
+     "end": 22.32
+    },
+    {
+     "word": "né,",
+     "start": 22.44,
+     "end": 22.54
+    },
+    {
+     "word": "essa",
+     "start": 22.6,
+     "end": 22.66
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 22.7,
+   "end": 23.63,
+   "text": "safadeira?",
+   "words": [
+    {
+     "word": "safadeira?",
+     "start": 22.7,
+     "end": 23.63
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 29.32,
+   "end": 30.12,
+   "text": "Pele da Lucia tá",
+   "words": [
+    {
+     "word": "Pele",
+     "start": 29.32,
+     "end": 29.6
+    },
+    {
+     "word": "da",
+     "start": 29.6,
+     "end": 29.72
+    },
+    {
+     "word": "Lucia",
+     "start": 29.72,
+     "end": 30.06
+    },
+    {
+     "word": "tá",
+     "start": 30.06,
+     "end": 30.12
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 30.16,
+   "end": 30.98,
+   "text": "bugada, por quê?",
+   "words": [
+    {
+     "word": "bugada,",
+     "start": 30.16,
+     "end": 30.64
+    },
+    {
+     "word": "por",
+     "start": 30.66,
+     "end": 30.88
+    },
+    {
+     "word": "quê?",
+     "start": 30.88,
+     "end": 30.98
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 31.02,
+   "end": 31.64,
+   "text": "Porque ela tá suando",
+   "words": [
+    {
+     "word": "Porque",
+     "start": 31.02,
+     "end": 31.06
+    },
+    {
+     "word": "ela",
+     "start": 31.06,
+     "end": 31.18
+    },
+    {
+     "word": "tá",
+     "start": 31.18,
+     "end": 31.28
+    },
+    {
+     "word": "suando",
+     "start": 31.28,
+     "end": 31.64
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 31.68,
+   "end": 32.3,
+   "text": "sempre?",
+   "words": [
+    {
+     "word": "sempre?",
+     "start": 31.68,
+     "end": 32.3
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 32.34,
+   "end": 32.96,
+   "text": "Pior que tá mesmo",
+   "words": [
+    {
+     "word": "Pior",
+     "start": 32.34,
+     "end": 32.44
+    },
+    {
+     "word": "que",
+     "start": 32.44,
+     "end": 32.54
+    },
+    {
+     "word": "tá",
+     "start": 32.54,
+     "end": 32.68
+    },
+    {
+     "word": "mesmo",
+     "start": 32.68,
+     "end": 32.96
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 33.0,
+   "end": 34.8,
+   "text": "Mas será que ela tá",
+   "words": [
+    {
+     "word": "Mas",
+     "start": 33.0,
+     "end": 33.44
+    },
+    {
+     "word": "será",
+     "start": 34.42,
+     "end": 34.54
+    },
+    {
+     "word": "que",
+     "start": 34.54,
+     "end": 34.64
+    },
+    {
+     "word": "ela",
+     "start": 34.64,
+     "end": 34.74
+    },
+    {
+     "word": "tá",
+     "start": 34.74,
+     "end": 34.8
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 34.84,
+   "end": 35.92,
+   "text": "tomando algum",
+   "words": [
+    {
+     "word": "tomando",
+     "start": 34.84,
+     "end": 35.2
+    },
+    {
+     "word": "algum",
+     "start": 35.2,
+     "end": 35.92
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 35.96,
+   "end": 36.72,
+   "text": "tá ligado?",
+   "words": [
+    {
+     "word": "tá",
+     "start": 35.96,
+     "end": 36.3
+    },
+    {
+     "word": "ligado?",
+     "start": 36.3,
+     "end": 36.72
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 36.76,
+   "end": 37.14,
+   "text": "Por isso que ela tá",
+   "words": [
+    {
+     "word": "Por",
+     "start": 36.76,
+     "end": 36.86
+    },
+    {
+     "word": "isso",
+     "start": 36.86,
+     "end": 36.96
+    },
+    {
+     "word": "que",
+     "start": 36.96,
+     "end": 37.01
+    },
+    {
+     "word": "ela",
+     "start": 37.01,
+     "end": 37.08
+    },
+    {
+     "word": "tá",
+     "start": 37.08,
+     "end": 37.14
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 37.18,
+   "end": 38.27,
+   "text": "suando sempre?",
+   "words": [
+    {
+     "word": "suando",
+     "start": 37.18,
+     "end": 37.5
+    },
+    {
+     "word": "sempre?",
+     "start": 37.5,
+     "end": 38.27
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 61.58,
+   "end": 62.41,
+   "text": "Me perdi, como é que",
+   "words": [
+    {
+     "word": "Me",
+     "start": 61.58,
+     "end": 61.82
+    },
+    {
+     "word": "perdi,",
+     "start": 61.82,
+     "end": 62.1
+    },
+    {
+     "word": "como",
+     "start": 62.18,
+     "end": 62.28
+    },
+    {
+     "word": "é",
+     "start": 62.28,
+     "end": 62.36
+    },
+    {
+     "word": "que",
+     "start": 62.36,
+     "end": 62.41
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 62.38,
+   "end": 63.13,
+   "text": "sai desse lugar?",
+   "words": [
+    {
+     "word": "sai",
+     "start": 62.38,
+     "end": 62.48
+    },
+    {
+     "word": "desse",
+     "start": 62.48,
+     "end": 62.6
+    },
+    {
+     "word": "lugar?",
+     "start": 62.6,
+     "end": 63.13
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
