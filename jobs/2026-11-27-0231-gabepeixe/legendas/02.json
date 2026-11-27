@@ -1,0 +1,318 @@
+{
+ "segments": [
+  {
+   "start": 0.12,
+   "end": 0.64,
+   "text": "tá seguindo o",
+   "words": [
+    {
+     "word": "tá",
+     "start": 0.12,
+     "end": 0.24
+    },
+    {
+     "word": "seguindo",
+     "start": 0.24,
+     "end": 0.56
+    },
+    {
+     "word": "o",
+     "start": 0.56,
+     "end": 0.64
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 0.68,
+   "end": 1.5,
+   "text": "Peixão, já segue",
+   "words": [
+    {
+     "word": "Peixão,",
+     "start": 0.68,
+     "end": 1.02
+    },
+    {
+     "word": "já",
+     "start": 1.14,
+     "end": 1.22
+    },
+    {
+     "word": "segue",
+     "start": 1.22,
+     "end": 1.5
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 1.54,
+   "end": 2.53,
+   "text": "aí, humildemente",
+   "words": [
+    {
+     "word": "aí,",
+     "start": 1.54,
+     "end": 1.66
+    },
+    {
+     "word": "humildemente",
+     "start": 1.7,
+     "end": 2.53
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 3.25,
+   "end": 4.67,
+   "text": "vende nós, vamos ver",
+   "words": [
+    {
+     "word": "vende",
+     "start": 3.25,
+     "end": 3.47
+    },
+    {
+     "word": "nós,",
+     "start": 3.47,
+     "end": 3.99
+    },
+    {
+     "word": "vamos",
+     "start": 4.43,
+     "end": 4.55
+    },
+    {
+     "word": "ver",
+     "start": 4.55,
+     "end": 4.67
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 4.71,
+   "end": 5.72,
+   "text": "que porra que é",
+   "words": [
+    {
+     "word": "que",
+     "start": 4.71,
+     "end": 4.85
+    },
+    {
+     "word": "porra",
+     "start": 4.85,
+     "end": 5.15
+    },
+    {
+     "word": "que",
+     "start": 5.15,
+     "end": 5.29
+    },
+    {
+     "word": "é",
+     "start": 5.29,
+     "end": 5.72
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 5.96,
+   "end": 6.72,
+   "text": "vai chegar a conta",
+   "words": [
+    {
+     "word": "vai",
+     "start": 5.96,
+     "end": 6.14
+    },
+    {
+     "word": "chegar",
+     "start": 6.14,
+     "end": 6.38
+    },
+    {
+     "word": "a",
+     "start": 6.38,
+     "end": 6.54
+    },
+    {
+     "word": "conta",
+     "start": 6.54,
+     "end": 6.72
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.76,
+   "end": 7.44,
+   "text": "do hotel agora",
+   "words": [
+    {
+     "word": "do",
+     "start": 6.76,
+     "end": 6.9
+    },
+    {
+     "word": "hotel",
+     "start": 6.9,
+     "end": 7.1
+    },
+    {
+     "word": "agora",
+     "start": 7.1,
+     "end": 7.44
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.48,
+   "end": 8.12,
+   "text": "o Raul não pagou",
+   "words": [
+    {
+     "word": "o",
+     "start": 7.48,
+     "end": 7.5
+    },
+    {
+     "word": "Raul",
+     "start": 7.5,
+     "end": 7.72
+    },
+    {
+     "word": "não",
+     "start": 7.72,
+     "end": 7.84
+    },
+    {
+     "word": "pagou",
+     "start": 7.84,
+     "end": 8.12
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 8.16,
+   "end": 8.71,
+   "text": "nada, agora é",
+   "words": [
+    {
+     "word": "nada,",
+     "start": 8.16,
+     "end": 8.38
+    },
+    {
+     "word": "agora",
+     "start": 8.52,
+     "end": 8.66
+    },
+    {
+     "word": "é",
+     "start": 8.66,
+     "end": 8.71
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 8.74,
+   "end": 9.75,
+   "text": "um milhão no hotel",
+   "words": [
+    {
+     "word": "um",
+     "start": 8.74,
+     "end": 8.84
+    },
+    {
+     "word": "milhão",
+     "start": 8.84,
+     "end": 9.14
+    },
+    {
+     "word": "no",
+     "start": 9.14,
+     "end": 9.28
+    },
+    {
+     "word": "hotel",
+     "start": 9.28,
+     "end": 9.75
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 42.79,
+   "end": 43.92,
+   "text": "— não⁠ é⁠ possível⁠",
+   "words": [
+    {
+     "word": "— não⁠",
+     "start": 42.79,
+     "end": 42.97
+    },
+    {
+     "word": "é⁠",
+     "start": 42.97,
+     "end": 43.03
+    },
+    {
+     "word": "possível⁠",
+     "start": 43.03,
+     "end": 43.92
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 44.41,
+   "end": 45.01,
+   "text": "mano,⁠ que⁠ porra⁠",
+   "words": [
+    {
+     "word": "mano,⁠",
+     "start": 44.41,
+     "end": 44.49
+    },
+    {
+     "word": "que⁠",
+     "start": 44.63,
+     "end": 44.71
+    },
+    {
+     "word": "porra⁠",
+     "start": 44.71,
+     "end": 45.01
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 45.05,
+   "end": 45.74,
+   "text": "de⁠ roupa⁠",
+   "words": [
+    {
+     "word": "de⁠",
+     "start": 45.05,
+     "end": 45.17
+    },
+    {
+     "word": "roupa⁠",
+     "start": 45.17,
+     "end": 45.74
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
