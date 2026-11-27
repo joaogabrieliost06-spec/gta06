@@ -1,0 +1,239 @@
+{
+ "segments": [
+  {
+   "start": 3.98,
+   "end": 4.48,
+   "text": "Como que eu vou",
+   "words": [
+    {
+     "word": "Como",
+     "start": 3.98,
+     "end": 4.24
+    },
+    {
+     "word": "que",
+     "start": 4.24,
+     "end": 4.38
+    },
+    {
+     "word": "eu",
+     "start": 4.38,
+     "end": 4.43
+    },
+    {
+     "word": "vou",
+     "start": 4.43,
+     "end": 4.48
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 4.5,
+   "end": 5.36,
+   "text": "achar os alienígenas",
+   "words": [
+    {
+     "word": "achar",
+     "start": 4.5,
+     "end": 4.72
+    },
+    {
+     "word": "os",
+     "start": 4.72,
+     "end": 4.84
+    },
+    {
+     "word": "alienígenas",
+     "start": 4.84,
+     "end": 5.36
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 5.4,
+   "end": 6.47,
+   "text": "nessa chuva, mano?",
+   "words": [
+    {
+     "word": "nessa",
+     "start": 5.4,
+     "end": 5.6
+    },
+    {
+     "word": "chuva,",
+     "start": 5.6,
+     "end": 6.06
+    },
+    {
+     "word": "mano?",
+     "start": 6.06,
+     "end": 6.47
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.15,
+   "end": 8.63,
+   "text": "Só demorou 73 horas",
+   "words": [
+    {
+     "word": "Só",
+     "start": 7.15,
+     "end": 7.35
+    },
+    {
+     "word": "demorou",
+     "start": 7.35,
+     "end": 7.69
+    },
+    {
+     "word": "73",
+     "start": 7.69,
+     "end": 8.33
+    },
+    {
+     "word": "horas",
+     "start": 8.33,
+     "end": 8.63
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 8.67,
+   "end": 9.57,
+   "text": "de jogo pra chover",
+   "words": [
+    {
+     "word": "de",
+     "start": 8.67,
+     "end": 8.81
+    },
+    {
+     "word": "jogo",
+     "start": 8.81,
+     "end": 9.05
+    },
+    {
+     "word": "pra",
+     "start": 9.05,
+     "end": 9.23
+    },
+    {
+     "word": "chover",
+     "start": 9.23,
+     "end": 9.57
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 9.61,
+   "end": 10.32,
+   "text": "Ai",
+   "words": [
+    {
+     "word": "Ai",
+     "start": 9.61,
+     "end": 10.32
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 13.73,
+   "end": 14.37,
+   "text": "mano, tá clareando",
+   "words": [
+    {
+     "word": "mano,",
+     "start": 13.73,
+     "end": 13.77
+    },
+    {
+     "word": "tá",
+     "start": 13.87,
+     "end": 13.92
+    },
+    {
+     "word": "clareando",
+     "start": 13.92,
+     "end": 14.37
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 14.41,
+   "end": 15.17,
+   "text": "o dia já, cara",
+   "words": [
+    {
+     "word": "o",
+     "start": 14.41,
+     "end": 14.55
+    },
+    {
+     "word": "dia",
+     "start": 14.55,
+     "end": 14.67
+    },
+    {
+     "word": "já,",
+     "start": 14.67,
+     "end": 14.89
+    },
+    {
+     "word": "cara",
+     "start": 15.07,
+     "end": 15.17
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 15.21,
+   "end": 15.85,
+   "text": "não posso nem curtir",
+   "words": [
+    {
+     "word": "não",
+     "start": 15.21,
+     "end": 15.31
+    },
+    {
+     "word": "posso",
+     "start": 15.31,
+     "end": 15.47
+    },
+    {
+     "word": "nem",
+     "start": 15.47,
+     "end": 15.61
+    },
+    {
+     "word": "curtir",
+     "start": 15.61,
+     "end": 15.85
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 15.89,
+   "end": 16.49,
+   "text": "mais",
+   "words": [
+    {
+     "word": "mais",
+     "start": 15.89,
+     "end": 16.49
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
