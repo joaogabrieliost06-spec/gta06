@@ -1,0 +1,385 @@
+{
+ "segments": [
+  {
+   "start": 2.95,
+   "end": 4.6,
+   "text": "Seu Jason tá gordo?",
+   "words": [
+    {
+     "word": "Seu",
+     "start": 2.95,
+     "end": 3.35
+    },
+    {
+     "word": "Jason",
+     "start": 3.35,
+     "end": 3.57
+    },
+    {
+     "word": "tá",
+     "start": 3.57,
+     "end": 3.83
+    },
+    {
+     "word": "gordo?",
+     "start": 3.83,
+     "end": 4.6
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.06,
+   "end": 6.84,
+   "text": "Cara, você claramente",
+   "words": [
+    {
+     "word": "Cara,",
+     "start": 6.06,
+     "end": 6.4
+    },
+    {
+     "word": "você",
+     "start": 6.44,
+     "end": 6.5
+    },
+    {
+     "word": "claramente",
+     "start": 6.5,
+     "end": 6.84
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.88,
+   "end": 7.33,
+   "text": "não sabe quem é",
+   "words": [
+    {
+     "word": "não",
+     "start": 6.88,
+     "end": 6.98
+    },
+    {
+     "word": "sabe",
+     "start": 6.98,
+     "end": 7.16
+    },
+    {
+     "word": "quem",
+     "start": 7.16,
+     "end": 7.28
+    },
+    {
+     "word": "é",
+     "start": 7.28,
+     "end": 7.33
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.3,
+   "end": 8.06,
+   "text": "uma pessoa gorda",
+   "words": [
+    {
+     "word": "uma",
+     "start": 7.3,
+     "end": 7.38
+    },
+    {
+     "word": "pessoa",
+     "start": 7.38,
+     "end": 7.66
+    },
+    {
+     "word": "gorda",
+     "start": 7.66,
+     "end": 8.06
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 8.1,
+   "end": 8.6,
+   "text": "né, mano?",
+   "words": [
+    {
+     "word": "né,",
+     "start": 8.1,
+     "end": 8.18
+    },
+    {
+     "word": "mano?",
+     "start": 8.26,
+     "end": 8.6
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 8.64,
+   "end": 9.42,
+   "text": "Seu Jason tá gordo",
+   "words": [
+    {
+     "word": "Seu",
+     "start": 8.64,
+     "end": 8.76
+    },
+    {
+     "word": "Jason",
+     "start": 8.76,
+     "end": 8.9
+    },
+    {
+     "word": "tá",
+     "start": 8.9,
+     "end": 9.1
+    },
+    {
+     "word": "gordo",
+     "start": 9.1,
+     "end": 9.42
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 9.46,
+   "end": 10.25,
+   "text": "aonde, mano?",
+   "words": [
+    {
+     "word": "aonde,",
+     "start": 9.46,
+     "end": 9.82
+    },
+    {
+     "word": "mano?",
+     "start": 9.92,
+     "end": 10.25
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 24.25,
+   "end": 25.18,
+   "text": "É, mano",
+   "words": [
+    {
+     "word": "É,",
+     "start": 24.25,
+     "end": 24.53
+    },
+    {
+     "word": "mano",
+     "start": 24.69,
+     "end": 25.18
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 25.75,
+   "end": 26.73,
+   "text": "As redes sociais",
+   "words": [
+    {
+     "word": "As",
+     "start": 25.75,
+     "end": 25.93
+    },
+    {
+     "word": "redes",
+     "start": 25.93,
+     "end": 26.09
+    },
+    {
+     "word": "sociais",
+     "start": 26.09,
+     "end": 26.73
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 26.77,
+   "end": 27.39,
+   "text": "cara, tão poluindo",
+   "words": [
+    {
+     "word": "cara,",
+     "start": 26.77,
+     "end": 26.91
+    },
+    {
+     "word": "tão",
+     "start": 27.01,
+     "end": 27.11
+    },
+    {
+     "word": "poluindo",
+     "start": 27.11,
+     "end": 27.39
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 27.43,
+   "end": 28.59,
+   "text": "o cérebro das pessoas",
+   "words": [
+    {
+     "word": "o",
+     "start": 27.43,
+     "end": 27.53
+    },
+    {
+     "word": "cérebro",
+     "start": 27.53,
+     "end": 27.79
+    },
+    {
+     "word": "das",
+     "start": 27.79,
+     "end": 27.99
+    },
+    {
+     "word": "pessoas",
+     "start": 27.99,
+     "end": 28.59
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.63,
+   "end": 29.23,
+   "text": "cara",
+   "words": [
+    {
+     "word": "cara",
+     "start": 28.63,
+     "end": 29.23
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 38.11,
+   "end": 38.87,
+   "text": "Dando pitaco",
+   "words": [
+    {
+     "word": "Dando",
+     "start": 38.11,
+     "end": 38.51
+    },
+    {
+     "word": "pitaco",
+     "start": 38.51,
+     "end": 38.87
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 38.91,
+   "end": 39.57,
+   "text": "no meu corpo",
+   "words": [
+    {
+     "word": "no",
+     "start": 38.91,
+     "end": 39.07
+    },
+    {
+     "word": "meu",
+     "start": 39.07,
+     "end": 39.19
+    },
+    {
+     "word": "corpo",
+     "start": 39.19,
+     "end": 39.57
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 39.61,
+   "end": 40.55,
+   "text": "no corpo dos outros",
+   "words": [
+    {
+     "word": "no",
+     "start": 39.61,
+     "end": 39.73
+    },
+    {
+     "word": "corpo",
+     "start": 39.73,
+     "end": 39.93
+    },
+    {
+     "word": "dos",
+     "start": 39.93,
+     "end": 40.21
+    },
+    {
+     "word": "outros",
+     "start": 40.21,
+     "end": 40.55
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 40.59,
+   "end": 41.6,
+   "text": "se toca, bebê",
+   "words": [
+    {
+     "word": "se",
+     "start": 40.59,
+     "end": 40.73
+    },
+    {
+     "word": "toca,",
+     "start": 40.73,
+     "end": 41.01
+    },
+    {
+     "word": "bebê",
+     "start": 41.15,
+     "end": 41.6
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 56.87,
+   "end": 57.88,
+   "text": "Música legal",
+   "words": [
+    {
+     "word": "Música",
+     "start": 56.87,
+     "end": 57.27
+    },
+    {
+     "word": "legal",
+     "start": 57.27,
+     "end": 57.88
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
