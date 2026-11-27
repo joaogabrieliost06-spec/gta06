@@ -559,8 +559,8 @@
   },
   {
    "start": 62.19,
-   "end": 63.01,
-   "text": "parecido com isso",
+   "end": 63.23,
+   "text": "parecido com isso, cara?",
    "words": [
     {
      "word": "parecido",
@@ -573,23 +573,23 @@
      "end": 62.77
     },
     {
-     "word": "isso",
+     "word": "isso,",
      "start": 62.77,
-     "end": 63.01
+     "end": 62.99
+    },
+    {
+     "word": "cara?",
+     "start": 63.05,
+     "end": 63.23
     }
    ],
    "pos": 0.76
   },
   {
-   "start": 63.05,
-   "end": 63.77,
-   "text": "cara? Você claramente",
+   "start": 63.27,
+   "end": 63.93,
+   "text": "Você claramente nunca",
    "words": [
-    {
-     "word": "cara?",
-     "start": 63.05,
-     "end": 63.27
-    },
     {
      "word": "Você",
      "start": 63.27,
@@ -598,21 +598,21 @@
     {
      "word": "claramente",
      "start": 63.43,
-     "end": 63.77
+     "end": 63.81
+    },
+    {
+     "word": "nunca",
+     "start": 63.81,
+     "end": 63.93
     }
    ],
    "pos": 0.76
   },
   {
-   "start": 63.81,
+   "start": 63.97,
    "end": 65.05,
-   "text": "nunca assistiu o Faustão, mano",
+   "text": "assistiu o Faustão, mano",
    "words": [
-    {
-     "word": "nunca",
-     "start": 63.81,
-     "end": 63.97
-    },
     {
      "word": "assistiu",
      "start": 63.97,
@@ -715,8 +715,8 @@
   },
   {
    "start": 72.01,
-   "end": 72.91,
-   "text": "pro João Fausto",
+   "end": 73.03,
+   "text": "pro João Fausto, mano",
    "words": [
     {
      "word": "pro",
@@ -729,44 +729,36 @@
      "end": 72.39
     },
     {
-     "word": "Fausto",
+     "word": "Fausto,",
      "start": 72.39,
-     "end": 72.91
+     "end": 72.89
+    },
+    {
+     "word": "mano",
+     "start": 72.95,
+     "end": 73.03
     }
    ],
    "pos": 0.76
   },
   {
-   "start": 72.95,
-   "end": 73.31,
-   "text": "mano, filho",
+   "start": 73.07,
+   "end": 73.99,
+   "text": "filho do Faustão também",
    "words": [
-    {
-     "word": "mano,",
-     "start": 72.95,
-     "end": 73.07
-    },
     {
      "word": "filho",
      "start": 73.07,
-     "end": 73.31
-    }
-   ],
-   "pos": 0.76
-  },
-  {
-   "start": 73.35,
-   "end": 73.99,
-   "text": "do Faustão também",
-   "words": [
+     "end": 73.35
+    },
     {
      "word": "do",
      "start": 73.35,
-     "end": 73.39
+     "end": 73.4
     },
     {
      "word": "Faustão",
-     "start": 73.39,
+     "start": 73.4,
      "end": 73.83
     },
     {
@@ -779,8 +771,8 @@
   },
   {
    "start": 74.03,
-   "end": 75.26,
-   "text": "que tá assistindo a live, mano",
+   "end": 74.37,
+   "text": "que tá assistindo",
    "words": [
     {
      "word": "que",
@@ -795,8 +787,16 @@
     {
      "word": "assistindo",
      "start": 74.19,
-     "end": 74.41
-    },
+     "end": 74.37
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 74.41,
+   "end": 75.26,
+   "text": "a live, mano",
+   "words": [
     {
      "word": "a",
      "start": 74.41,
