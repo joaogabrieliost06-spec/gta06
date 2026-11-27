@@ -1,0 +1,229 @@
+{
+ "segments": [
+  {
+   "start": 0.87,
+   "end": 1.43,
+   "text": "Pô, o Lucia tá",
+   "words": [
+    {
+     "word": "Pô,",
+     "start": 0.87,
+     "end": 1.13
+    },
+    {
+     "word": "o",
+     "start": 1.15,
+     "end": 1.27
+    },
+    {
+     "word": "Lucia",
+     "start": 1.27,
+     "end": 1.35
+    },
+    {
+     "word": "tá",
+     "start": 1.35,
+     "end": 1.43
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 1.47,
+   "end": 2.33,
+   "text": "fazendo flexão",
+   "words": [
+    {
+     "word": "fazendo",
+     "start": 1.47,
+     "end": 1.71
+    },
+    {
+     "word": "flexão",
+     "start": 1.71,
+     "end": 2.33
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 2.37,
+   "end": 3.1,
+   "text": "diabo",
+   "words": [
+    {
+     "word": "diabo",
+     "start": 2.37,
+     "end": 3.1
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.78,
+   "end": 7.9,
+   "text": "Pô, flexão é nova",
+   "words": [
+    {
+     "word": "Pô,",
+     "start": 6.78,
+     "end": 7.18
+    },
+    {
+     "word": "flexão",
+     "start": 7.18,
+     "end": 7.58
+    },
+    {
+     "word": "é",
+     "start": 7.58,
+     "end": 7.7
+    },
+    {
+     "word": "nova",
+     "start": 7.7,
+     "end": 7.9
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.94,
+   "end": 8.48,
+   "text": "nunca vi fazer",
+   "words": [
+    {
+     "word": "nunca",
+     "start": 7.94,
+     "end": 8.14
+    },
+    {
+     "word": "vi",
+     "start": 8.14,
+     "end": 8.3
+    },
+    {
+     "word": "fazer",
+     "start": 8.3,
+     "end": 8.48
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 8.52,
+   "end": 9.2,
+   "text": "flexão Toda hora",
+   "words": [
+    {
+     "word": "flexão",
+     "start": 8.52,
+     "end": 8.88
+    },
+    {
+     "word": "Toda",
+     "start": 8.88,
+     "end": 9.14
+    },
+    {
+     "word": "hora",
+     "start": 9.14,
+     "end": 9.2
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 9.24,
+   "end": 10.06,
+   "text": "que eu tô com 90 %",
+   "words": [
+    {
+     "word": "que",
+     "start": 9.24,
+     "end": 9.38
+    },
+    {
+     "word": "eu",
+     "start": 9.38,
+     "end": 9.44
+    },
+    {
+     "word": "tô",
+     "start": 9.44,
+     "end": 9.49
+    },
+    {
+     "word": "com",
+     "start": 9.49,
+     "end": 9.56
+    },
+    {
+     "word": "90",
+     "start": 9.56,
+     "end": 9.86
+    },
+    {
+     "word": "%",
+     "start": 9.86,
+     "end": 10.06
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.1,
+   "end": 10.71,
+   "text": "do jogo",
+   "words": [
+    {
+     "word": "do",
+     "start": 10.1,
+     "end": 10.22
+    },
+    {
+     "word": "jogo",
+     "start": 10.22,
+     "end": 10.71
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 12.0,
+   "end": 12.65,
+   "text": "Caralho",
+   "words": [
+    {
+     "word": "Caralho",
+     "start": 12.0,
+     "end": 12.65
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 13.53,
+   "end": 14.84,
+   "text": "ô louco, Lucia",
+   "words": [
+    {
+     "word": "ô",
+     "start": 13.53,
+     "end": 13.65
+    },
+    {
+     "word": "louco,",
+     "start": 13.65,
+     "end": 14.09
+    },
+    {
+     "word": "Lucia",
+     "start": 14.19,
+     "end": 14.84
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
