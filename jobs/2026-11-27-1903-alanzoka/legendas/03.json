@@ -1,0 +1,630 @@
+{
+ "segments": [
+  {
+   "start": 8.91,
+   "end": 10.28,
+   "text": "Filho da puta!",
+   "words": [
+    {
+     "word": "Filho",
+     "start": 8.91,
+     "end": 9.39
+    },
+    {
+     "word": "da",
+     "start": 9.39,
+     "end": 9.55
+    },
+    {
+     "word": "puta!",
+     "start": 9.55,
+     "end": 10.28
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 16.17,
+   "end": 18.18,
+   "text": "Não uso drogas! Eu",
+   "words": [
+    {
+     "word": "Não",
+     "start": 16.17,
+     "end": 16.65
+    },
+    {
+     "word": "uso",
+     "start": 16.65,
+     "end": 16.87
+    },
+    {
+     "word": "drogas!",
+     "start": 16.87,
+     "end": 17.27
+    },
+    {
+     "word": "Eu",
+     "start": 17.29,
+     "end": 18.18
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 18.85,
+   "end": 19.84,
+   "text": "não uso drogas!",
+   "words": [
+    {
+     "word": "não",
+     "start": 18.85,
+     "end": 18.97
+    },
+    {
+     "word": "uso",
+     "start": 18.97,
+     "end": 19.19
+    },
+    {
+     "word": "drogas!",
+     "start": 19.19,
+     "end": 19.84
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 21.11,
+   "end": 21.87,
+   "text": "Eu odeio quem usa",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 21.11,
+     "end": 21.19
+    },
+    {
+     "word": "odeio",
+     "start": 21.19,
+     "end": 21.59
+    },
+    {
+     "word": "quem",
+     "start": 21.59,
+     "end": 21.75
+    },
+    {
+     "word": "usa",
+     "start": 21.75,
+     "end": 21.87
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 21.91,
+   "end": 22.62,
+   "text": "drogas!",
+   "words": [
+    {
+     "word": "drogas!",
+     "start": 21.91,
+     "end": 22.62
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 24.23,
+   "end": 25.22,
+   "text": "você me fez?",
+   "words": [
+    {
+     "word": "você",
+     "start": 24.23,
+     "end": 24.39
+    },
+    {
+     "word": "me",
+     "start": 24.39,
+     "end": 24.57
+    },
+    {
+     "word": "fez?",
+     "start": 24.57,
+     "end": 25.22
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 37.08,
+   "end": 37.76,
+   "text": "Caralho, parece",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 37.08,
+     "end": 37.56
+    },
+    {
+     "word": "parece",
+     "start": 37.6,
+     "end": 37.76
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 37.8,
+   "end": 38.87,
+   "text": "um Daft Punk",
+   "words": [
+    {
+     "word": "um",
+     "start": 37.8,
+     "end": 37.98
+    },
+    {
+     "word": "Daft",
+     "start": 37.98,
+     "end": 38.22
+    },
+    {
+     "word": "Punk",
+     "start": 38.22,
+     "end": 38.87
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 39.29,
+   "end": 40.19,
+   "text": "não enxergo, toma",
+   "words": [
+    {
+     "word": "não",
+     "start": 39.29,
+     "end": 39.49
+    },
+    {
+     "word": "enxergo,",
+     "start": 39.49,
+     "end": 39.89
+    },
+    {
+     "word": "toma",
+     "start": 40.01,
+     "end": 40.19
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 40.23,
+   "end": 40.83,
+   "text": "então",
+   "words": [
+    {
+     "word": "então",
+     "start": 40.23,
+     "end": 40.83
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 44.79,
+   "end": 45.42,
+   "text": "toma então, precisa",
+   "words": [
+    {
+     "word": "toma",
+     "start": 44.79,
+     "end": 45.09
+    },
+    {
+     "word": "então,",
+     "start": 45.09,
+     "end": 45.31
+    },
+    {
+     "word": "precisa",
+     "start": 45.37,
+     "end": 45.42
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 45.45,
+   "end": 46.48,
+   "text": "acordar, tio",
+   "words": [
+    {
+     "word": "acordar,",
+     "start": 45.45,
+     "end": 46.05
+    },
+    {
+     "word": "tio",
+     "start": 46.05,
+     "end": 46.48
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 52.25,
+   "end": 52.81,
+   "text": "Quer dizer, eu não",
+   "words": [
+    {
+     "word": "Quer",
+     "start": 52.25,
+     "end": 52.57
+    },
+    {
+     "word": "dizer,",
+     "start": 52.57,
+     "end": 52.63
+    },
+    {
+     "word": "eu",
+     "start": 52.71,
+     "end": 52.76
+    },
+    {
+     "word": "não",
+     "start": 52.76,
+     "end": 52.81
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 52.79,
+   "end": 53.65,
+   "text": "tô drogado, mas eu",
+   "words": [
+    {
+     "word": "tô",
+     "start": 52.79,
+     "end": 52.93
+    },
+    {
+     "word": "drogado,",
+     "start": 52.93,
+     "end": 53.29
+    },
+    {
+     "word": "mas",
+     "start": 53.41,
+     "end": 53.53
+    },
+    {
+     "word": "eu",
+     "start": 53.53,
+     "end": 53.65
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 53.69,
+   "end": 54.9,
+   "text": "tô drogado",
+   "words": [
+    {
+     "word": "tô",
+     "start": 53.69,
+     "end": 53.91
+    },
+    {
+     "word": "drogado",
+     "start": 53.91,
+     "end": 54.9
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 57.45,
+   "end": 58.41,
+   "text": "Mira é uma merda, velho",
+   "words": [
+    {
+     "word": "Mira",
+     "start": 57.45,
+     "end": 57.63
+    },
+    {
+     "word": "é",
+     "start": 57.63,
+     "end": 57.73
+    },
+    {
+     "word": "uma",
+     "start": 57.73,
+     "end": 57.85
+    },
+    {
+     "word": "merda,",
+     "start": 57.85,
+     "end": 58.25
+    },
+    {
+     "word": "velho",
+     "start": 58.27,
+     "end": 58.41
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 58.45,
+   "end": 58.95,
+   "text": "Eu vi alguém no chat",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 58.45,
+     "end": 58.53
+    },
+    {
+     "word": "vi",
+     "start": 58.53,
+     "end": 58.59
+    },
+    {
+     "word": "alguém",
+     "start": 58.59,
+     "end": 58.75
+    },
+    {
+     "word": "no",
+     "start": 58.75,
+     "end": 58.85
+    },
+    {
+     "word": "chat",
+     "start": 58.85,
+     "end": 58.95
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 58.99,
+   "end": 59.53,
+   "text": "não dá pra mudar",
+   "words": [
+    {
+     "word": "não",
+     "start": 58.99,
+     "end": 59.11
+    },
+    {
+     "word": "dá",
+     "start": 59.11,
+     "end": 59.25
+    },
+    {
+     "word": "pra",
+     "start": 59.25,
+     "end": 59.37
+    },
+    {
+     "word": "mudar",
+     "start": 59.37,
+     "end": 59.53
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 59.57,
+   "end": 60.17,
+   "text": "a mira. Eu vou",
+   "words": [
+    {
+     "word": "a",
+     "start": 59.57,
+     "end": 59.79
+    },
+    {
+     "word": "mira.",
+     "start": 59.79,
+     "end": 59.89
+    },
+    {
+     "word": "Eu",
+     "start": 59.89,
+     "end": 59.99
+    },
+    {
+     "word": "vou",
+     "start": 59.99,
+     "end": 60.17
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 60.21,
+   "end": 61.07,
+   "text": "Ai, matei o cara",
+   "words": [
+    {
+     "word": "Ai,",
+     "start": 60.21,
+     "end": 60.41
+    },
+    {
+     "word": "matei",
+     "start": 60.67,
+     "end": 60.91
+    },
+    {
+     "word": "o",
+     "start": 60.91,
+     "end": 60.96
+    },
+    {
+     "word": "cara",
+     "start": 60.96,
+     "end": 61.07
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 61.11,
+   "end": 62.64,
+   "text": "sem querer",
+   "words": [
+    {
+     "word": "sem",
+     "start": 61.11,
+     "end": 61.33
+    },
+    {
+     "word": "querer",
+     "start": 61.33,
+     "end": 62.64
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 64.49,
+   "end": 65.5,
+   "text": "Tô drogado!",
+   "words": [
+    {
+     "word": "Tô",
+     "start": 64.49,
+     "end": 64.63
+    },
+    {
+     "word": "drogado!",
+     "start": 64.63,
+     "end": 65.5
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 68.27,
+   "end": 69.13,
+   "text": "Legal que minha sogra",
+   "words": [
+    {
+     "word": "Legal",
+     "start": 68.27,
+     "end": 68.59
+    },
+    {
+     "word": "que",
+     "start": 68.59,
+     "end": 68.73
+    },
+    {
+     "word": "minha",
+     "start": 68.73,
+     "end": 68.87
+    },
+    {
+     "word": "sogra",
+     "start": 68.87,
+     "end": 69.13
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 69.17,
+   "end": 69.65,
+   "text": "tá aqui em casa",
+   "words": [
+    {
+     "word": "tá",
+     "start": 69.17,
+     "end": 69.31
+    },
+    {
+     "word": "aqui",
+     "start": 69.31,
+     "end": 69.47
+    },
+    {
+     "word": "em",
+     "start": 69.47,
+     "end": 69.53
+    },
+    {
+     "word": "casa",
+     "start": 69.53,
+     "end": 69.65
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 69.69,
+   "end": 70.15,
+   "text": "ouvindo isso",
+   "words": [
+    {
+     "word": "ouvindo",
+     "start": 69.69,
+     "end": 69.97
+    },
+    {
+     "word": "isso",
+     "start": 69.97,
+     "end": 70.15
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 70.19,
+   "end": 70.81,
+   "text": "Deve estar super",
+   "words": [
+    {
+     "word": "Deve",
+     "start": 70.19,
+     "end": 70.43
+    },
+    {
+     "word": "estar",
+     "start": 70.43,
+     "end": 70.55
+    },
+    {
+     "word": "super",
+     "start": 70.55,
+     "end": 70.81
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 70.85,
+   "end": 71.46,
+   "text": "feliz",
+   "words": [
+    {
+     "word": "feliz",
+     "start": 70.85,
+     "end": 71.46
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
