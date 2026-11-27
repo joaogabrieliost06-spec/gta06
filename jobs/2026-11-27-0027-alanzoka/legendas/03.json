@@ -1,0 +1,334 @@
+{
+ "segments": [
+  {
+   "start": 6.31,
+   "end": 6.96,
+   "text": "— liga⁠",
+   "words": [
+    {
+     "word": "— liga⁠",
+     "start": 6.31,
+     "end": 6.96
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 7.87,
+   "end": 10.11,
+   "text": "liga, manda",
+   "words": [
+    {
+     "word": "liga,",
+     "start": 7.87,
+     "end": 9.23
+    },
+    {
+     "word": "manda",
+     "start": 9.55,
+     "end": 10.11
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 10.15,
+   "end": 12.04,
+   "text": "um telegrama",
+   "words": [
+    {
+     "word": "um",
+     "start": 10.15,
+     "end": 10.29
+    },
+    {
+     "word": "telegrama",
+     "start": 10.29,
+     "end": 12.04
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 12.27,
+   "end": 14.82,
+   "text": "uma carta de amor",
+   "words": [
+    {
+     "word": "uma",
+     "start": 12.27,
+     "end": 12.87
+    },
+    {
+     "word": "carta",
+     "start": 12.87,
+     "end": 13.53
+    },
+    {
+     "word": "de",
+     "start": 13.53,
+     "end": 13.83
+    },
+    {
+     "word": "amor",
+     "start": 13.83,
+     "end": 14.82
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 15.81,
+   "end": 17.08,
+   "text": "eu vou até lá",
+   "words": [
+    {
+     "word": "eu",
+     "start": 15.81,
+     "end": 15.99
+    },
+    {
+     "word": "vou",
+     "start": 15.99,
+     "end": 16.25
+    },
+    {
+     "word": "até",
+     "start": 16.25,
+     "end": 16.53
+    },
+    {
+     "word": "lá",
+     "start": 16.53,
+     "end": 17.08
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 17.76,
+   "end": 19.59,
+   "text": "eu vou, eu vou",
+   "words": [
+    {
+     "word": "eu",
+     "start": 17.76,
+     "end": 18.2
+    },
+    {
+     "word": "vou,",
+     "start": 18.2,
+     "end": 18.7
+    },
+    {
+     "word": "eu",
+     "start": 19.03,
+     "end": 19.37
+    },
+    {
+     "word": "vou",
+     "start": 19.37,
+     "end": 19.59
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 19.63,
+   "end": 20.63,
+   "text": "até lá, escuta",
+   "words": [
+    {
+     "word": "até",
+     "start": 19.63,
+     "end": 19.93
+    },
+    {
+     "word": "lá,",
+     "start": 19.93,
+     "end": 20.15
+    },
+    {
+     "word": "escuta",
+     "start": 20.35,
+     "end": 20.63
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 20.67,
+   "end": 21.33,
+   "text": "vocês me ajudaram",
+   "words": [
+    {
+     "word": "vocês",
+     "start": 20.67,
+     "end": 20.79
+    },
+    {
+     "word": "me",
+     "start": 20.79,
+     "end": 20.93
+    },
+    {
+     "word": "ajudaram",
+     "start": 20.93,
+     "end": 21.33
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 21.37,
+   "end": 22.76,
+   "text": "então eu quero ajudar vocês",
+   "words": [
+    {
+     "word": "então",
+     "start": 21.37,
+     "end": 21.45
+    },
+    {
+     "word": "eu",
+     "start": 21.45,
+     "end": 21.55
+    },
+    {
+     "word": "quero",
+     "start": 21.55,
+     "end": 21.65
+    },
+    {
+     "word": "ajudar",
+     "start": 21.65,
+     "end": 21.89
+    },
+    {
+     "word": "vocês",
+     "start": 21.89,
+     "end": 22.76
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 23.09,
+   "end": 23.82,
+   "text": "Sultan",
+   "words": [
+    {
+     "word": "Sultan",
+     "start": 23.09,
+     "end": 23.82
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 25.12,
+   "end": 25.74,
+   "text": "sério, porra",
+   "words": [
+    {
+     "word": "sério,",
+     "start": 25.12,
+     "end": 25.4
+    },
+    {
+     "word": "porra",
+     "start": 25.56,
+     "end": 25.74
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 25.78,
+   "end": 26.6,
+   "text": "caralho, Sultan",
+   "words": [
+    {
+     "word": "caralho,",
+     "start": 25.78,
+     "end": 26.3
+    },
+    {
+     "word": "Sultan",
+     "start": 26.44,
+     "end": 26.6
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 26.64,
+   "end": 27.63,
+   "text": "é insano",
+   "words": [
+    {
+     "word": "é",
+     "start": 26.64,
+     "end": 26.86
+    },
+    {
+     "word": "insano",
+     "start": 26.86,
+     "end": 27.63
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 29.94,
+   "end": 30.32,
+   "text": "cara, eu vou ganhar",
+   "words": [
+    {
+     "word": "cara,",
+     "start": 29.94,
+     "end": 30.12
+    },
+    {
+     "word": "eu",
+     "start": 30.16,
+     "end": 30.22
+    },
+    {
+     "word": "vou",
+     "start": 30.22,
+     "end": 30.27
+    },
+    {
+     "word": "ganhar",
+     "start": 30.27,
+     "end": 30.32
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 30.36,
+   "end": 31.59,
+   "text": "um Sultan, mano",
+   "words": [
+    {
+     "word": "um",
+     "start": 30.36,
+     "end": 30.52
+    },
+    {
+     "word": "Sultan,",
+     "start": 30.52,
+     "end": 30.98
+    },
+    {
+     "word": "mano",
+     "start": 31.14,
+     "end": 31.59
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
