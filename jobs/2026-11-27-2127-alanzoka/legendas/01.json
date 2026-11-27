@@ -1,0 +1,1060 @@
+{
+ "segments": [
+  {
+   "start": 3.65,
+   "end": 4.35,
+   "text": "Thumbnail, mano",
+   "words": [
+    {
+     "word": "Thumbnail,",
+     "start": 3.65,
+     "end": 4.01
+    },
+    {
+     "word": "mano",
+     "start": 4.27,
+     "end": 4.35
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 4.39,
+   "end": 5.08,
+   "text": "Só um minuto",
+   "words": [
+    {
+     "word": "Só",
+     "start": 4.39,
+     "end": 4.49
+    },
+    {
+     "word": "um",
+     "start": 4.49,
+     "end": 4.57
+    },
+    {
+     "word": "minuto",
+     "start": 4.57,
+     "end": 5.08
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 6.6,
+   "end": 7.5,
+   "text": "Vai ficar legal eu",
+   "words": [
+    {
+     "word": "Vai",
+     "start": 6.6,
+     "end": 6.92
+    },
+    {
+     "word": "ficar",
+     "start": 6.92,
+     "end": 7.08
+    },
+    {
+     "word": "legal",
+     "start": 7.08,
+     "end": 7.38
+    },
+    {
+     "word": "eu",
+     "start": 7.38,
+     "end": 7.5
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 7.54,
+   "end": 8.75,
+   "text": "com o moleque no colo, mano",
+   "words": [
+    {
+     "word": "com",
+     "start": 7.54,
+     "end": 7.68
+    },
+    {
+     "word": "o",
+     "start": 7.68,
+     "end": 7.74
+    },
+    {
+     "word": "moleque",
+     "start": 7.74,
+     "end": 7.92
+    },
+    {
+     "word": "no",
+     "start": 7.92,
+     "end": 8.06
+    },
+    {
+     "word": "colo,",
+     "start": 8.06,
+     "end": 8.38
+    },
+    {
+     "word": "mano",
+     "start": 8.42,
+     "end": 8.75
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 12.06,
+   "end": 12.48,
+   "text": "Como é que eu",
+   "words": [
+    {
+     "word": "Como",
+     "start": 12.06,
+     "end": 12.28
+    },
+    {
+     "word": "é",
+     "start": 12.28,
+     "end": 12.34
+    },
+    {
+     "word": "que",
+     "start": 12.34,
+     "end": 12.42
+    },
+    {
+     "word": "eu",
+     "start": 12.42,
+     "end": 12.48
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 12.52,
+   "end": 13.1,
+   "text": "baixo um pouco",
+   "words": [
+    {
+     "word": "baixo",
+     "start": 12.52,
+     "end": 12.82
+    },
+    {
+     "word": "um",
+     "start": 12.82,
+     "end": 12.94
+    },
+    {
+     "word": "pouco",
+     "start": 12.94,
+     "end": 13.1
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 13.14,
+   "end": 13.86,
+   "text": "a intensidade dessa",
+   "words": [
+    {
+     "word": "a",
+     "start": 13.14,
+     "end": 13.28
+    },
+    {
+     "word": "intensidade",
+     "start": 13.28,
+     "end": 13.74
+    },
+    {
+     "word": "dessa",
+     "start": 13.74,
+     "end": 13.86
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 13.9,
+   "end": 14.5,
+   "text": "daqui?",
+   "words": [
+    {
+     "word": "daqui?",
+     "start": 13.9,
+     "end": 14.5
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 17.4,
+   "end": 20.6,
+   "text": "Ué, cara. Como é que",
+   "words": [
+    {
+     "word": "Ué,",
+     "start": 17.4,
+     "end": 17.66
+    },
+    {
+     "word": "cara.",
+     "start": 17.8,
+     "end": 18.0
+    },
+    {
+     "word": "Como",
+     "start": 20.2,
+     "end": 20.4
+    },
+    {
+     "word": "é",
+     "start": 20.4,
+     "end": 20.48
+    },
+    {
+     "word": "que",
+     "start": 20.48,
+     "end": 20.6
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 20.64,
+   "end": 21.36,
+   "text": "Por que que tá",
+   "words": [
+    {
+     "word": "Por",
+     "start": 20.64,
+     "end": 20.84
+    },
+    {
+     "word": "que",
+     "start": 20.84,
+     "end": 20.89
+    },
+    {
+     "word": "que",
+     "start": 20.89,
+     "end": 21.0
+    },
+    {
+     "word": "tá",
+     "start": 21.0,
+     "end": 21.36
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 21.4,
+   "end": 22.39,
+   "text": "Não tá focado?",
+   "words": [
+    {
+     "word": "Não",
+     "start": 21.4,
+     "end": 21.46
+    },
+    {
+     "word": "tá",
+     "start": 21.46,
+     "end": 21.58
+    },
+    {
+     "word": "focado?",
+     "start": 21.58,
+     "end": 22.39
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 32.34,
+   "end": 33.61,
+   "text": "Aí, aí, aí",
+   "words": [
+    {
+     "word": "Aí,",
+     "start": 32.34,
+     "end": 32.66
+    },
+    {
+     "word": "aí,",
+     "start": 32.8,
+     "end": 32.98
+    },
+    {
+     "word": "aí",
+     "start": 33.1,
+     "end": 33.61
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 34.06,
+   "end": 35.12,
+   "text": "Acho que achamos, hein?",
+   "words": [
+    {
+     "word": "Acho",
+     "start": 34.06,
+     "end": 34.28
+    },
+    {
+     "word": "que",
+     "start": 34.28,
+     "end": 34.36
+    },
+    {
+     "word": "achamos,",
+     "start": 34.36,
+     "end": 34.74
+    },
+    {
+     "word": "hein?",
+     "start": 34.82,
+     "end": 35.12
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 35.28,
+   "end": 36.23,
+   "text": "Acho que achamos",
+   "words": [
+    {
+     "word": "Acho",
+     "start": 35.28,
+     "end": 35.46
+    },
+    {
+     "word": "que",
+     "start": 35.46,
+     "end": 35.54
+    },
+    {
+     "word": "achamos",
+     "start": 35.54,
+     "end": 36.23
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 37.59,
+   "end": 38.15,
+   "text": "Acho que achamos",
+   "words": [
+    {
+     "word": "Acho",
+     "start": 37.59,
+     "end": 37.79
+    },
+    {
+     "word": "que",
+     "start": 37.79,
+     "end": 37.89
+    },
+    {
+     "word": "achamos",
+     "start": 37.89,
+     "end": 38.15
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 38.19,
+   "end": 39.06,
+   "text": "o sweet spot",
+   "words": [
+    {
+     "word": "o",
+     "start": 38.19,
+     "end": 38.31
+    },
+    {
+     "word": "sweet",
+     "start": 38.31,
+     "end": 38.56
+    },
+    {
+     "word": "spot",
+     "start": 38.56,
+     "end": 39.06
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 40.1,
+   "end": 40.64,
+   "text": "Nice",
+   "words": [
+    {
+     "word": "Nice",
+     "start": 40.1,
+     "end": 40.64
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 40.68,
+   "end": 41.28,
+   "text": "Nice",
+   "words": [
+    {
+     "word": "Nice",
+     "start": 40.68,
+     "end": 41.28
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 42.12,
+   "end": 42.74,
+   "text": "Não, tá focado",
+   "words": [
+    {
+     "word": "Não,",
+     "start": 42.12,
+     "end": 42.26
+    },
+    {
+     "word": "tá",
+     "start": 42.3,
+     "end": 42.36
+    },
+    {
+     "word": "focado",
+     "start": 42.36,
+     "end": 42.74
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 42.78,
+   "end": 43.59,
+   "text": "agora, pô",
+   "words": [
+    {
+     "word": "agora,",
+     "start": 42.78,
+     "end": 43.1
+    },
+    {
+     "word": "pô",
+     "start": 43.24,
+     "end": 43.59
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 46.32,
+   "end": 47.47,
+   "text": "Focado agora, pô",
+   "words": [
+    {
+     "word": "Focado",
+     "start": 46.32,
+     "end": 46.7
+    },
+    {
+     "word": "agora,",
+     "start": 46.7,
+     "end": 47.0
+    },
+    {
+     "word": "pô",
+     "start": 47.14,
+     "end": 47.47
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 48.85,
+   "end": 49.29,
+   "text": "A luz ficou",
+   "words": [
+    {
+     "word": "A",
+     "start": 48.85,
+     "end": 49.01
+    },
+    {
+     "word": "luz",
+     "start": 49.01,
+     "end": 49.17
+    },
+    {
+     "word": "ficou",
+     "start": 49.17,
+     "end": 49.29
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 49.33,
+   "end": 50.05,
+   "text": "um pouquinho forte",
+   "words": [
+    {
+     "word": "um",
+     "start": 49.33,
+     "end": 49.43
+    },
+    {
+     "word": "pouquinho",
+     "start": 49.43,
+     "end": 49.61
+    },
+    {
+     "word": "forte",
+     "start": 49.61,
+     "end": 50.05
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 50.09,
+   "end": 51.0,
+   "text": "né? Mas foda -se",
+   "words": [
+    {
+     "word": "né?",
+     "start": 50.09,
+     "end": 50.17
+    },
+    {
+     "word": "Mas",
+     "start": 50.17,
+     "end": 50.31
+    },
+    {
+     "word": "foda",
+     "start": 50.31,
+     "end": 50.59
+    },
+    {
+     "word": "-se",
+     "start": 50.59,
+     "end": 51.0
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 58.9,
+   "end": 59.77,
+   "text": "Ó, que legal",
+   "words": [
+    {
+     "word": "Ó,",
+     "start": 58.9,
+     "end": 59.02
+    },
+    {
+     "word": "que",
+     "start": 59.1,
+     "end": 59.16
+    },
+    {
+     "word": "legal",
+     "start": 59.16,
+     "end": 59.77
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 60.45,
+   "end": 61.48,
+   "text": "A thumbzinha",
+   "words": [
+    {
+     "word": "A",
+     "start": 60.45,
+     "end": 60.61
+    },
+    {
+     "word": "thumbzinha",
+     "start": 60.61,
+     "end": 61.48
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 63.58,
+   "end": 64.0,
+   "text": "Deixa mais",
+   "words": [
+    {
+     "word": "Deixa",
+     "start": 63.58,
+     "end": 63.84
+    },
+    {
+     "word": "mais",
+     "start": 63.84,
+     "end": 64.0
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 64.04,
+   "end": 65.19,
+   "text": "perto também, ó",
+   "words": [
+    {
+     "word": "perto",
+     "start": 64.04,
+     "end": 64.4
+    },
+    {
+     "word": "também,",
+     "start": 64.4,
+     "end": 64.7
+    },
+    {
+     "word": "ó",
+     "start": 64.82,
+     "end": 65.19
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 65.35,
+   "end": 65.87,
+   "text": "Olha a distância",
+   "words": [
+    {
+     "word": "Olha",
+     "start": 65.35,
+     "end": 65.55
+    },
+    {
+     "word": "a",
+     "start": 65.55,
+     "end": 65.65
+    },
+    {
+     "word": "distância",
+     "start": 65.65,
+     "end": 65.87
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 65.91,
+   "end": 66.53,
+   "text": "de foco",
+   "words": [
+    {
+     "word": "de",
+     "start": 65.91,
+     "end": 66.07
+    },
+    {
+     "word": "foco",
+     "start": 66.07,
+     "end": 66.53
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 66.57,
+   "end": 67.58,
+   "text": "Distância de foco",
+   "words": [
+    {
+     "word": "Distância",
+     "start": 66.57,
+     "end": 66.83
+    },
+    {
+     "word": "de",
+     "start": 66.83,
+     "end": 66.97
+    },
+    {
+     "word": "foco",
+     "start": 66.97,
+     "end": 67.58
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 69.44,
+   "end": 70.55,
+   "text": "Não, mais perto, né?",
+   "words": [
+    {
+     "word": "Não,",
+     "start": 69.44,
+     "end": 69.56
+    },
+    {
+     "word": "mais",
+     "start": 69.6,
+     "end": 69.8
+    },
+    {
+     "word": "perto,",
+     "start": 69.8,
+     "end": 70.12
+    },
+    {
+     "word": "né?",
+     "start": 70.22,
+     "end": 70.55
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 71.37,
+   "end": 72.42,
+   "text": "Opa! Passou",
+   "words": [
+    {
+     "word": "Opa!",
+     "start": 71.37,
+     "end": 71.73
+    },
+    {
+     "word": "Passou",
+     "start": 71.83,
+     "end": 72.42
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 74.53,
+   "end": 75.41,
+   "text": "Nossa, fera",
+   "words": [
+    {
+     "word": "Nossa,",
+     "start": 74.53,
+     "end": 74.91
+    },
+    {
+     "word": "fera",
+     "start": 75.13,
+     "end": 75.41
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 75.45,
+   "end": 76.36,
+   "text": "Olha que legal",
+   "words": [
+    {
+     "word": "Olha",
+     "start": 75.45,
+     "end": 75.63
+    },
+    {
+     "word": "que",
+     "start": 75.63,
+     "end": 75.77
+    },
+    {
+     "word": "legal",
+     "start": 75.77,
+     "end": 76.36
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 77.13,
+   "end": 78.25,
+   "text": "Fera demais, mano",
+   "words": [
+    {
+     "word": "Fera",
+     "start": 77.13,
+     "end": 77.41
+    },
+    {
+     "word": "demais,",
+     "start": 77.41,
+     "end": 77.73
+    },
+    {
+     "word": "mano",
+     "start": 77.91,
+     "end": 78.25
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 78.29,
+   "end": 80.13,
+   "text": "Pronto. Pronto. Pegamos",
+   "words": [
+    {
+     "word": "Pronto.",
+     "start": 78.29,
+     "end": 78.59
+    },
+    {
+     "word": "Pronto.",
+     "start": 79.35,
+     "end": 79.73
+    },
+    {
+     "word": "Pegamos",
+     "start": 79.81,
+     "end": 80.13
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 80.17,
+   "end": 80.65,
+   "text": "Pegamos uma thumb",
+   "words": [
+    {
+     "word": "Pegamos",
+     "start": 80.17,
+     "end": 80.45
+    },
+    {
+     "word": "uma",
+     "start": 80.45,
+     "end": 80.59
+    },
+    {
+     "word": "thumb",
+     "start": 80.59,
+     "end": 80.65
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 80.69,
+   "end": 81.56,
+   "text": "legal, mano",
+   "words": [
+    {
+     "word": "legal,",
+     "start": 80.69,
+     "end": 81.03
+    },
+    {
+     "word": "mano",
+     "start": 81.15,
+     "end": 81.56
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 81.67,
+   "end": 82.15,
+   "text": "Nice",
+   "words": [
+    {
+     "word": "Nice",
+     "start": 81.67,
+     "end": 82.15
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 82.19,
+   "end": 84.18,
+   "text": "Nice. Cara, precisava",
+   "words": [
+    {
+     "word": "Nice.",
+     "start": 82.19,
+     "end": 82.35
+    },
+    {
+     "word": "Cara,",
+     "start": 83.84,
+     "end": 84.0
+    },
+    {
+     "word": "precisava",
+     "start": 84.06,
+     "end": 84.18
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 84.22,
+   "end": 84.9,
+   "text": "fazer isso em vários",
+   "words": [
+    {
+     "word": "fazer",
+     "start": 84.22,
+     "end": 84.46
+    },
+    {
+     "word": "isso",
+     "start": 84.46,
+     "end": 84.6
+    },
+    {
+     "word": "em",
+     "start": 84.6,
+     "end": 84.72
+    },
+    {
+     "word": "vários",
+     "start": 84.72,
+     "end": 84.9
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 84.94,
+   "end": 86.06,
+   "text": "pontos do jogo, tem",
+   "words": [
+    {
+     "word": "pontos",
+     "start": 84.94,
+     "end": 85.4
+    },
+    {
+     "word": "do",
+     "start": 85.4,
+     "end": 85.52
+    },
+    {
+     "word": "jogo,",
+     "start": 85.52,
+     "end": 85.78
+    },
+    {
+     "word": "tem",
+     "start": 85.96,
+     "end": 86.06
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 86.1,
+   "end": 86.64,
+   "text": "Dá pra montar",
+   "words": [
+    {
+     "word": "Dá",
+     "start": 86.1,
+     "end": 86.16
+    },
+    {
+     "word": "pra",
+     "start": 86.16,
+     "end": 86.28
+    },
+    {
+     "word": "montar",
+     "start": 86.28,
+     "end": 86.64
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 86.68,
+   "end": 87.43,
+   "text": "umas thumb",
+   "words": [
+    {
+     "word": "umas",
+     "start": 86.68,
+     "end": 86.84
+    },
+    {
+     "word": "thumb",
+     "start": 86.84,
+     "end": 87.43
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 87.84,
+   "end": 88.86,
+   "text": "Mó porra isso aí",
+   "words": [
+    {
+     "word": "Mó",
+     "start": 87.84,
+     "end": 88.2
+    },
+    {
+     "word": "porra",
+     "start": 88.2,
+     "end": 88.52
+    },
+    {
+     "word": "isso",
+     "start": 88.52,
+     "end": 88.72
+    },
+    {
+     "word": "aí",
+     "start": 88.72,
+     "end": 88.86
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 88.9,
+   "end": 89.57,
+   "text": "bagulho",
+   "words": [
+    {
+     "word": "bagulho",
+     "start": 88.9,
+     "end": 89.57
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
