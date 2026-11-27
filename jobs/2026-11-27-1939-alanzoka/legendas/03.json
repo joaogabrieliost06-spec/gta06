@@ -1,0 +1,633 @@
+{
+ "segments": [
+  {
+   "start": 3.27,
+   "end": 4.24,
+   "text": "Que isso, cara?",
+   "words": [
+    {
+     "word": "Que",
+     "start": 3.27,
+     "end": 3.63
+    },
+    {
+     "word": "isso,",
+     "start": 3.63,
+     "end": 3.79
+    },
+    {
+     "word": "cara?",
+     "start": 3.91,
+     "end": 4.24
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 7.65,
+   "end": 11.17,
+   "text": "Cara, tô sendo",
+   "words": [
+    {
+     "word": "Cara,",
+     "start": 7.65,
+     "end": 8.01
+    },
+    {
+     "word": "tô",
+     "start": 8.01,
+     "end": 8.07
+    },
+    {
+     "word": "sendo",
+     "start": 8.07,
+     "end": 11.17
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 11.21,
+   "end": 12.28,
+   "text": "roubado, mano",
+   "words": [
+    {
+     "word": "roubado,",
+     "start": 11.21,
+     "end": 11.79
+    },
+    {
+     "word": "mano",
+     "start": 11.91,
+     "end": 12.28
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 12.33,
+   "end": 14.29,
+   "text": "Viu",
+   "words": [
+    {
+     "word": "Viu",
+     "start": 12.33,
+     "end": 14.29
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 14.33,
+   "end": 14.83,
+   "text": "o tamanho dos meus",
+   "words": [
+    {
+     "word": "o",
+     "start": 14.33,
+     "end": 14.45
+    },
+    {
+     "word": "tamanho",
+     "start": 14.45,
+     "end": 14.63
+    },
+    {
+     "word": "dos",
+     "start": 14.63,
+     "end": 14.75
+    },
+    {
+     "word": "meus",
+     "start": 14.75,
+     "end": 14.83
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 14.87,
+   "end": 15.87,
+   "text": "braços, parça?",
+   "words": [
+    {
+     "word": "braços,",
+     "start": 14.87,
+     "end": 15.23
+    },
+    {
+     "word": "parça?",
+     "start": 15.33,
+     "end": 15.87
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 15.91,
+   "end": 16.27,
+   "text": "Você viu o tamanho",
+   "words": [
+    {
+     "word": "Você",
+     "start": 15.91,
+     "end": 15.95
+    },
+    {
+     "word": "viu",
+     "start": 15.95,
+     "end": 16.09
+    },
+    {
+     "word": "o",
+     "start": 16.09,
+     "end": 16.15
+    },
+    {
+     "word": "tamanho",
+     "start": 16.15,
+     "end": 16.27
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 16.31,
+   "end": 17.02,
+   "text": "dos meus braços?",
+   "words": [
+    {
+     "word": "dos",
+     "start": 16.31,
+     "end": 16.41
+    },
+    {
+     "word": "meus",
+     "start": 16.41,
+     "end": 16.53
+    },
+    {
+     "word": "braços?",
+     "start": 16.53,
+     "end": 17.02
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 17.2,
+   "end": 17.99,
+   "text": "Você viu o",
+   "words": [
+    {
+     "word": "Você",
+     "start": 17.2,
+     "end": 17.22
+    },
+    {
+     "word": "viu",
+     "start": 17.22,
+     "end": 17.34
+    },
+    {
+     "word": "o",
+     "start": 17.34,
+     "end": 17.99
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 18.72,
+   "end": 19.49,
+   "text": "tamanho",
+   "words": [
+    {
+     "word": "tamanho",
+     "start": 18.72,
+     "end": 19.49
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 20.86,
+   "end": 21.63,
+   "text": "Você viu o tamanho",
+   "words": [
+    {
+     "word": "Você",
+     "start": 20.86,
+     "end": 20.98
+    },
+    {
+     "word": "viu",
+     "start": 20.98,
+     "end": 21.16
+    },
+    {
+     "word": "o",
+     "start": 21.16,
+     "end": 21.22
+    },
+    {
+     "word": "tamanho",
+     "start": 21.22,
+     "end": 21.63
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 24.86,
+   "end": 26.21,
+   "text": "dos meus",
+   "words": [
+    {
+     "word": "dos",
+     "start": 24.86,
+     "end": 25.7
+    },
+    {
+     "word": "meus",
+     "start": 25.7,
+     "end": 26.21
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 26.88,
+   "end": 27.98,
+   "text": "Toma essa rasteira",
+   "words": [
+    {
+     "word": "Toma",
+     "start": 26.88,
+     "end": 27.24
+    },
+    {
+     "word": "essa",
+     "start": 27.24,
+     "end": 27.5
+    },
+    {
+     "word": "rasteira",
+     "start": 27.5,
+     "end": 27.98
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 28.02,
+   "end": 28.81,
+   "text": "aí, velho",
+   "words": [
+    {
+     "word": "aí,",
+     "start": 28.02,
+     "end": 28.2
+    },
+    {
+     "word": "velho",
+     "start": 28.24,
+     "end": 28.81
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 32.13,
+   "end": 32.89,
+   "text": "Mano, eu quase fui",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 32.13,
+     "end": 32.49
+    },
+    {
+     "word": "eu",
+     "start": 32.61,
+     "end": 32.66
+    },
+    {
+     "word": "quase",
+     "start": 32.66,
+     "end": 32.81
+    },
+    {
+     "word": "fui",
+     "start": 32.81,
+     "end": 32.89
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 32.93,
+   "end": 34.04,
+   "text": "roubado, mano",
+   "words": [
+    {
+     "word": "roubado,",
+     "start": 32.93,
+     "end": 33.51
+    },
+    {
+     "word": "mano",
+     "start": 33.55,
+     "end": 34.04
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 39.08,
+   "end": 39.96,
+   "text": "Deus, mano! Por que eu",
+   "words": [
+    {
+     "word": "Deus,",
+     "start": 39.08,
+     "end": 39.28
+    },
+    {
+     "word": "mano!",
+     "start": 39.48,
+     "end": 39.58
+    },
+    {
+     "word": "Por",
+     "start": 39.58,
+     "end": 39.76
+    },
+    {
+     "word": "que",
+     "start": 39.76,
+     "end": 39.91
+    },
+    {
+     "word": "eu",
+     "start": 39.91,
+     "end": 39.96
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 39.9,
+   "end": 40.44,
+   "text": "não consigo voltar",
+   "words": [
+    {
+     "word": "não",
+     "start": 39.9,
+     "end": 39.98
+    },
+    {
+     "word": "consigo",
+     "start": 39.98,
+     "end": 40.18
+    },
+    {
+     "word": "voltar",
+     "start": 40.18,
+     "end": 40.44
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 40.48,
+   "end": 41.25,
+   "text": "pro Jason?",
+   "words": [
+    {
+     "word": "pro",
+     "start": 40.48,
+     "end": 40.68
+    },
+    {
+     "word": "Jason?",
+     "start": 40.68,
+     "end": 41.25
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 41.65,
+   "end": 42.41,
+   "text": "Não tem mais missão",
+   "words": [
+    {
+     "word": "Não",
+     "start": 41.65,
+     "end": 41.93
+    },
+    {
+     "word": "tem",
+     "start": 41.93,
+     "end": 42.05
+    },
+    {
+     "word": "mais",
+     "start": 42.05,
+     "end": 42.21
+    },
+    {
+     "word": "missão",
+     "start": 42.21,
+     "end": 42.41
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 42.45,
+   "end": 43.08,
+   "text": "com a Lu?",
+   "words": [
+    {
+     "word": "com",
+     "start": 42.45,
+     "end": 42.59
+    },
+    {
+     "word": "a",
+     "start": 42.59,
+     "end": 42.71
+    },
+    {
+     "word": "Lu?",
+     "start": 42.71,
+     "end": 43.08
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 54.1,
+   "end": 55.04,
+   "text": "Eu tenho essa aqui",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 54.1,
+     "end": 54.4
+    },
+    {
+     "word": "tenho",
+     "start": 54.4,
+     "end": 54.58
+    },
+    {
+     "word": "essa",
+     "start": 54.58,
+     "end": 54.84
+    },
+    {
+     "word": "aqui",
+     "start": 54.84,
+     "end": 55.04
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 55.08,
+   "end": 55.56,
+   "text": "na real, né?",
+   "words": [
+    {
+     "word": "na",
+     "start": 55.08,
+     "end": 55.14
+    },
+    {
+     "word": "real,",
+     "start": 55.14,
+     "end": 55.32
+    },
+    {
+     "word": "né?",
+     "start": 55.42,
+     "end": 55.56
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 55.6,
+   "end": 56.91,
+   "text": "Alta City, velho",
+   "words": [
+    {
+     "word": "Alta",
+     "start": 55.6,
+     "end": 55.882
+    },
+    {
+     "word": "City,",
+     "start": 55.882,
+     "end": 56.22
+    },
+    {
+     "word": "velho",
+     "start": 56.22,
+     "end": 56.91
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 66.14,
+   "end": 66.86,
+   "text": "Crime denunciado",
+   "words": [
+    {
+     "word": "Crime",
+     "start": 66.14,
+     "end": 66.44
+    },
+    {
+     "word": "denunciado",
+     "start": 66.44,
+     "end": 66.86
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 66.9,
+   "end": 67.66,
+   "text": "Crime? Qual que foi",
+   "words": [
+    {
+     "word": "Crime?",
+     "start": 66.9,
+     "end": 67.2
+    },
+    {
+     "word": "Qual",
+     "start": 67.32,
+     "end": 67.48
+    },
+    {
+     "word": "que",
+     "start": 67.48,
+     "end": 67.58
+    },
+    {
+     "word": "foi",
+     "start": 67.58,
+     "end": 67.66
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 67.7,
+   "end": 68.2,
+   "text": "o meu crime?",
+   "words": [
+    {
+     "word": "o",
+     "start": 67.7,
+     "end": 67.82
+    },
+    {
+     "word": "meu",
+     "start": 67.82,
+     "end": 67.87
+    },
+    {
+     "word": "crime?",
+     "start": 67.87,
+     "end": 68.2
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 68.24,
+   "end": 69.09,
+   "text": "Me defender?",
+   "words": [
+    {
+     "word": "Me",
+     "start": 68.24,
+     "end": 68.36
+    },
+    {
+     "word": "defender?",
+     "start": 68.36,
+     "end": 69.09
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
