@@ -1,0 +1,270 @@
+{
+ "segments": [
+  {
+   "start": 2.6,
+   "end": 3.38,
+   "text": "Meu Deus, mas essa",
+   "words": [
+    {
+     "word": "Meu",
+     "start": 2.6,
+     "end": 2.84
+    },
+    {
+     "word": "Deus,",
+     "start": 2.84,
+     "end": 2.92
+    },
+    {
+     "word": "mas",
+     "start": 3.04,
+     "end": 3.12
+    },
+    {
+     "word": "essa",
+     "start": 3.12,
+     "end": 3.38
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 3.42,
+   "end": 4.35,
+   "text": "chuva não tá ajudando na",
+   "words": [
+    {
+     "word": "chuva",
+     "start": 3.42,
+     "end": 3.68
+    },
+    {
+     "word": "não",
+     "start": 3.68,
+     "end": 3.78
+    },
+    {
+     "word": "tá",
+     "start": 3.78,
+     "end": 3.94
+    },
+    {
+     "word": "ajudando",
+     "start": 3.94,
+     "end": 4.3
+    },
+    {
+     "word": "na",
+     "start": 4.3,
+     "end": 4.35
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 4.38,
+   "end": 5.21,
+   "text": "minha busca",
+   "words": [
+    {
+     "word": "minha",
+     "start": 4.38,
+     "end": 4.52
+    },
+    {
+     "word": "busca",
+     "start": 4.52,
+     "end": 5.21
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 14.68,
+   "end": 15.28,
+   "text": "chat",
+   "words": [
+    {
+     "word": "chat",
+     "start": 14.68,
+     "end": 15.28
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 17.59,
+   "end": 18.64,
+   "text": "e aqui, hein?",
+   "words": [
+    {
+     "word": "e",
+     "start": 17.59,
+     "end": 17.87
+    },
+    {
+     "word": "aqui,",
+     "start": 17.87,
+     "end": 18.17
+    },
+    {
+     "word": "hein?",
+     "start": 18.33,
+     "end": 18.64
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 20.14,
+   "end": 20.74,
+   "text": "Ai, meu Deus",
+   "words": [
+    {
+     "word": "Ai,",
+     "start": 20.14,
+     "end": 20.22
+    },
+    {
+     "word": "meu",
+     "start": 20.3,
+     "end": 20.35
+    },
+    {
+     "word": "Deus",
+     "start": 20.35,
+     "end": 20.74
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 30.29,
+   "end": 31.19,
+   "text": "— eu⁠ perdi⁠ a⁠ noção⁠",
+   "words": [
+    {
+     "word": "— eu⁠",
+     "start": 30.29,
+     "end": 30.31
+    },
+    {
+     "word": "perdi⁠",
+     "start": 30.31,
+     "end": 30.59
+    },
+    {
+     "word": "a⁠",
+     "start": 30.59,
+     "end": 30.97
+    },
+    {
+     "word": "noção⁠",
+     "start": 30.97,
+     "end": 31.19
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 31.23,
+   "end": 32.57,
+   "text": "do⁠ espaço-tempo⁠",
+   "words": [
+    {
+     "word": "do⁠",
+     "start": 31.23,
+     "end": 31.47
+    },
+    {
+     "word": "espaço-tempo⁠",
+     "start": 31.47,
+     "end": 32.57
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 32.61,
+   "end": 33.28,
+   "text": "velho⁠",
+   "words": [
+    {
+     "word": "velho⁠",
+     "start": 32.61,
+     "end": 33.28
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 36.06,
+   "end": 37.26,
+   "text": "Cara, aqui lembra",
+   "words": [
+    {
+     "word": "Cara,",
+     "start": 36.06,
+     "end": 36.4
+    },
+    {
+     "word": "aqui",
+     "start": 36.56,
+     "end": 36.7
+    },
+    {
+     "word": "lembra",
+     "start": 36.7,
+     "end": 37.26
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 37.3,
+   "end": 38.39,
+   "text": "tá? Mas não é",
+   "words": [
+    {
+     "word": "tá?",
+     "start": 37.3,
+     "end": 37.38
+    },
+    {
+     "word": "Mas",
+     "start": 37.6,
+     "end": 37.76
+    },
+    {
+     "word": "não",
+     "start": 37.76,
+     "end": 37.9
+    },
+    {
+     "word": "é",
+     "start": 37.9,
+     "end": 38.39
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 39.33,
+   "end": 40.28,
+   "text": "mas lembra",
+   "words": [
+    {
+     "word": "mas",
+     "start": 39.33,
+     "end": 39.61
+    },
+    {
+     "word": "lembra",
+     "start": 39.61,
+     "end": 40.28
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
