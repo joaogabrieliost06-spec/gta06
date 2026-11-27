@@ -1,0 +1,754 @@
+{
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 0.84,
+   "text": "Foi pro terceiro?",
+   "words": [
+    {
+     "word": "Foi",
+     "start": 0.0,
+     "end": 0.14
+    },
+    {
+     "word": "pro",
+     "start": 0.14,
+     "end": 0.26
+    },
+    {
+     "word": "terceiro?",
+     "start": 0.26,
+     "end": 0.84
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 0.88,
+   "end": 2.47,
+   "text": "Olha que maravilha",
+   "words": [
+    {
+     "word": "Olha",
+     "start": 0.88,
+     "end": 1.16
+    },
+    {
+     "word": "que",
+     "start": 1.16,
+     "end": 1.46
+    },
+    {
+     "word": "maravilha",
+     "start": 1.46,
+     "end": 2.47
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 4.67,
+   "end": 5.19,
+   "text": "Precisamos de um dia",
+   "words": [
+    {
+     "word": "Precisamos",
+     "start": 4.67,
+     "end": 4.95
+    },
+    {
+     "word": "de",
+     "start": 4.95,
+     "end": 5.05
+    },
+    {
+     "word": "um",
+     "start": 5.05,
+     "end": 5.11
+    },
+    {
+     "word": "dia",
+     "start": 5.11,
+     "end": 5.19
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 5.23,
+   "end": 6.34,
+   "text": "de bônus de ride",
+   "words": [
+    {
+     "word": "de",
+     "start": 5.23,
+     "end": 5.35
+    },
+    {
+     "word": "bônus",
+     "start": 5.35,
+     "end": 5.667
+    },
+    {
+     "word": "de",
+     "start": 5.667,
+     "end": 5.826
+    },
+    {
+     "word": "ride",
+     "start": 5.826,
+     "end": 6.34
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.53,
+   "end": 8.88,
+   "text": "Olha aí, ó E",
+   "words": [
+    {
+     "word": "Olha",
+     "start": 7.53,
+     "end": 7.81
+    },
+    {
+     "word": "aí,",
+     "start": 7.81,
+     "end": 8.07
+    },
+    {
+     "word": "ó",
+     "start": 8.09,
+     "end": 8.25
+    },
+    {
+     "word": "E",
+     "start": 8.25,
+     "end": 8.88
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 11.91,
+   "end": 12.49,
+   "text": "ela parou de ficar",
+   "words": [
+    {
+     "word": "ela",
+     "start": 11.91,
+     "end": 12.03
+    },
+    {
+     "word": "parou",
+     "start": 12.03,
+     "end": 12.25
+    },
+    {
+     "word": "de",
+     "start": 12.25,
+     "end": 12.35
+    },
+    {
+     "word": "ficar",
+     "start": 12.35,
+     "end": 12.49
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 12.53,
+   "end": 13.03,
+   "text": "trincada?",
+   "words": [
+    {
+     "word": "trincada?",
+     "start": 12.53,
+     "end": 13.03
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 13.07,
+   "end": 13.97,
+   "text": "Tu vai ficar gorda",
+   "words": [
+    {
+     "word": "Tu",
+     "start": 13.07,
+     "end": 13.13
+    },
+    {
+     "word": "vai",
+     "start": 13.13,
+     "end": 13.25
+    },
+    {
+     "word": "ficar",
+     "start": 13.25,
+     "end": 13.45
+    },
+    {
+     "word": "gorda",
+     "start": 13.45,
+     "end": 13.97
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 14.01,
+   "end": 14.61,
+   "text": "igual a baleia",
+   "words": [
+    {
+     "word": "igual",
+     "start": 14.01,
+     "end": 14.13
+    },
+    {
+     "word": "a",
+     "start": 14.13,
+     "end": 14.27
+    },
+    {
+     "word": "baleia",
+     "start": 14.27,
+     "end": 14.61
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 14.65,
+   "end": 15.59,
+   "text": "Lucia Tu vai ficar",
+   "words": [
+    {
+     "word": "Lucia",
+     "start": 14.65,
+     "end": 15.03
+    },
+    {
+     "word": "Tu",
+     "start": 15.03,
+     "end": 15.41
+    },
+    {
+     "word": "vai",
+     "start": 15.41,
+     "end": 15.49
+    },
+    {
+     "word": "ficar",
+     "start": 15.49,
+     "end": 15.59
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 15.63,
+   "end": 16.31,
+   "text": "igual a baleia Vou",
+   "words": [
+    {
+     "word": "igual",
+     "start": 15.63,
+     "end": 15.79
+    },
+    {
+     "word": "a",
+     "start": 15.79,
+     "end": 15.89
+    },
+    {
+     "word": "baleia",
+     "start": 15.89,
+     "end": 16.21
+    },
+    {
+     "word": "Vou",
+     "start": 16.21,
+     "end": 16.31
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 16.35,
+   "end": 16.97,
+   "text": "te chamar de Free",
+   "words": [
+    {
+     "word": "te",
+     "start": 16.35,
+     "end": 16.47
+    },
+    {
+     "word": "chamar",
+     "start": 16.47,
+     "end": 16.69
+    },
+    {
+     "word": "de",
+     "start": 16.69,
+     "end": 16.79
+    },
+    {
+     "word": "Free",
+     "start": 16.79,
+     "end": 16.97
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 17.01,
+   "end": 18.28,
+   "text": "Willy, porra Tu",
+   "words": [
+    {
+     "word": "Willy,",
+     "start": 17.01,
+     "end": 17.31
+    },
+    {
+     "word": "porra",
+     "start": 17.45,
+     "end": 17.79
+    },
+    {
+     "word": "Tu",
+     "start": 17.79,
+     "end": 18.28
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 18.32,
+   "end": 18.84,
+   "text": "nunca mais vai ver",
+   "words": [
+    {
+     "word": "nunca",
+     "start": 18.32,
+     "end": 18.52
+    },
+    {
+     "word": "mais",
+     "start": 18.52,
+     "end": 18.7
+    },
+    {
+     "word": "vai",
+     "start": 18.7,
+     "end": 18.76
+    },
+    {
+     "word": "ver",
+     "start": 18.76,
+     "end": 18.84
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 18.88,
+   "end": 19.67,
+   "text": "uma academia",
+   "words": [
+    {
+     "word": "uma",
+     "start": 18.88,
+     "end": 18.96
+    },
+    {
+     "word": "academia",
+     "start": 18.96,
+     "end": 19.67
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 21.06,
+   "end": 22.08,
+   "text": "Não tem necessidade",
+   "words": [
+    {
+     "word": "Não",
+     "start": 21.06,
+     "end": 21.34
+    },
+    {
+     "word": "tem",
+     "start": 21.34,
+     "end": 21.58
+    },
+    {
+     "word": "necessidade",
+     "start": 21.58,
+     "end": 22.08
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 22.12,
+   "end": 23.53,
+   "text": "mais de malhar Ela",
+   "words": [
+    {
+     "word": "mais",
+     "start": 22.12,
+     "end": 22.36
+    },
+    {
+     "word": "de",
+     "start": 22.36,
+     "end": 22.46
+    },
+    {
+     "word": "malhar",
+     "start": 22.46,
+     "end": 22.78
+    },
+    {
+     "word": "Ela",
+     "start": 22.78,
+     "end": 23.53
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 24.0,
+   "end": 24.76,
+   "text": "tá trincada, ela tá",
+   "words": [
+    {
+     "word": "tá",
+     "start": 24.0,
+     "end": 24.14
+    },
+    {
+     "word": "trincada,",
+     "start": 24.14,
+     "end": 24.52
+    },
+    {
+     "word": "ela",
+     "start": 24.58,
+     "end": 24.66
+    },
+    {
+     "word": "tá",
+     "start": 24.66,
+     "end": 24.76
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 24.8,
+   "end": 25.76,
+   "text": "4 de 5, pô",
+   "words": [
+    {
+     "word": "4",
+     "start": 24.8,
+     "end": 25.08
+    },
+    {
+     "word": "de",
+     "start": 25.08,
+     "end": 25.22
+    },
+    {
+     "word": "5,",
+     "start": 25.22,
+     "end": 25.58
+    },
+    {
+     "word": "pô",
+     "start": 25.68,
+     "end": 25.76
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 25.8,
+   "end": 26.4,
+   "text": "Mas ela consegue",
+   "words": [
+    {
+     "word": "Mas",
+     "start": 25.8,
+     "end": 25.96
+    },
+    {
+     "word": "ela",
+     "start": 25.96,
+     "end": 26.08
+    },
+    {
+     "word": "consegue",
+     "start": 26.08,
+     "end": 26.4
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 26.44,
+   "end": 27.65,
+   "text": "ficar 5 de 5",
+   "words": [
+    {
+     "word": "ficar",
+     "start": 26.44,
+     "end": 26.66
+    },
+    {
+     "word": "5",
+     "start": 26.66,
+     "end": 26.9
+    },
+    {
+     "word": "de",
+     "start": 26.9,
+     "end": 27.04
+    },
+    {
+     "word": "5",
+     "start": 27.04,
+     "end": 27.65
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.96,
+   "end": 29.74,
+   "text": "Pior que malhar",
+   "words": [
+    {
+     "word": "Pior",
+     "start": 28.96,
+     "end": 29.38
+    },
+    {
+     "word": "que",
+     "start": 29.38,
+     "end": 29.48
+    },
+    {
+     "word": "malhar",
+     "start": 29.48,
+     "end": 29.74
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 29.78,
+   "end": 30.62,
+   "text": "junto dá bônus",
+   "words": [
+    {
+     "word": "junto",
+     "start": 29.78,
+     "end": 30.04
+    },
+    {
+     "word": "dá",
+     "start": 30.04,
+     "end": 30.2
+    },
+    {
+     "word": "bônus",
+     "start": 30.2,
+     "end": 30.62
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 30.66,
+   "end": 31.59,
+   "text": "mano, não tem jeito",
+   "words": [
+    {
+     "word": "mano,",
+     "start": 30.66,
+     "end": 30.72
+    },
+    {
+     "word": "não",
+     "start": 30.76,
+     "end": 30.9
+    },
+    {
+     "word": "tem",
+     "start": 30.9,
+     "end": 31.02
+    },
+    {
+     "word": "jeito",
+     "start": 31.02,
+     "end": 31.59
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 35.03,
+   "end": 35.47,
+   "text": "Vambora, vamos",
+   "words": [
+    {
+     "word": "Vambora,",
+     "start": 35.03,
+     "end": 35.31
+    },
+    {
+     "word": "vamos",
+     "start": 35.37,
+     "end": 35.47
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 35.51,
+   "end": 36.27,
+   "text": "nós dois, vem, vem",
+   "words": [
+    {
+     "word": "nós",
+     "start": 35.51,
+     "end": 35.67
+    },
+    {
+     "word": "dois,",
+     "start": 35.67,
+     "end": 35.85
+    },
+    {
+     "word": "vem,",
+     "start": 35.95,
+     "end": 36.09
+    },
+    {
+     "word": "vem",
+     "start": 36.17,
+     "end": 36.27
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 36.31,
+   "end": 37.56,
+   "text": "vem, Ai",
+   "words": [
+    {
+     "word": "vem,",
+     "start": 36.31,
+     "end": 36.51
+    },
+    {
+     "word": "Ai",
+     "start": 36.81,
+     "end": 37.56
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 37.91,
+   "end": 38.39,
+   "text": "eu não acredito",
+   "words": [
+    {
+     "word": "eu",
+     "start": 37.91,
+     "end": 37.99
+    },
+    {
+     "word": "não",
+     "start": 37.99,
+     "end": 38.05
+    },
+    {
+     "word": "acredito",
+     "start": 38.05,
+     "end": 38.39
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 38.43,
+   "end": 38.85,
+   "text": "que eu tô saindo",
+   "words": [
+    {
+     "word": "que",
+     "start": 38.43,
+     "end": 38.53
+    },
+    {
+     "word": "eu",
+     "start": 38.53,
+     "end": 38.59
+    },
+    {
+     "word": "tô",
+     "start": 38.59,
+     "end": 38.65
+    },
+    {
+     "word": "saindo",
+     "start": 38.65,
+     "end": 38.85
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 38.89,
+   "end": 39.8,
+   "text": "com os dois, mano",
+   "words": [
+    {
+     "word": "com",
+     "start": 38.89,
+     "end": 39.01
+    },
+    {
+     "word": "os",
+     "start": 39.01,
+     "end": 39.13
+    },
+    {
+     "word": "dois,",
+     "start": 39.13,
+     "end": 39.31
+    },
+    {
+     "word": "mano",
+     "start": 39.43,
+     "end": 39.8
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
