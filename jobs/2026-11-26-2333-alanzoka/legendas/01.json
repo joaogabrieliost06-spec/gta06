@@ -1,0 +1,119 @@
+{
+ "segments": [
+  {
+   "start": 56.83,
+   "end": 57.6,
+   "text": "Ai",
+   "words": [
+    {
+     "word": "Ai",
+     "start": 56.83,
+     "end": 57.6
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 58.2,
+   "end": 59.47,
+   "text": "caralho, me ajuda",
+   "words": [
+    {
+     "word": "caralho,",
+     "start": 58.2,
+     "end": 58.72
+    },
+    {
+     "word": "me",
+     "start": 58.9,
+     "end": 59.16
+    },
+    {
+     "word": "ajuda",
+     "start": 59.16,
+     "end": 59.47
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 62.32,
+   "end": 63.13,
+   "text": "filha da puta!",
+   "words": [
+    {
+     "word": "filha",
+     "start": 62.32,
+     "end": 62.48
+    },
+    {
+     "word": "da",
+     "start": 62.48,
+     "end": 62.64
+    },
+    {
+     "word": "puta!",
+     "start": 62.64,
+     "end": 63.13
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 81.27,
+   "end": 81.95,
+   "text": "treino dele pra me",
+   "words": [
+    {
+     "word": "treino",
+     "start": 81.27,
+     "end": 81.51
+    },
+    {
+     "word": "dele",
+     "start": 81.51,
+     "end": 81.69
+    },
+    {
+     "word": "pra",
+     "start": 81.69,
+     "end": 81.89
+    },
+    {
+     "word": "me",
+     "start": 81.89,
+     "end": 81.95
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 81.99,
+   "end": 83.42,
+   "text": "ajudar, pô, fera demais",
+   "words": [
+    {
+     "word": "ajudar,",
+     "start": 81.99,
+     "end": 82.29
+    },
+    {
+     "word": "pô,",
+     "start": 82.41,
+     "end": 82.65
+    },
+    {
+     "word": "fera",
+     "start": 82.69,
+     "end": 82.83
+    },
+    {
+     "word": "demais",
+     "start": 82.83,
+     "end": 83.42
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
