@@ -1,0 +1,630 @@
+{
+ "segments": [
+  {
+   "start": 1.96,
+   "end": 3.83,
+   "text": "— Obrigado,⁠ Yasmani⁠",
+   "words": [
+    {
+     "word": "— Obrigado,⁠",
+     "start": 1.96,
+     "end": 2.62
+    },
+    {
+     "word": "Yasmani⁠",
+     "start": 2.64,
+     "end": 3.83
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 4.25,
+   "end": 5.04,
+   "text": "lá⁠ está⁠ o⁠ carro⁠",
+   "words": [
+    {
+     "word": "lá⁠",
+     "start": 4.25,
+     "end": 4.35
+    },
+    {
+     "word": "está⁠",
+     "start": 4.35,
+     "end": 4.51
+    },
+    {
+     "word": "o⁠",
+     "start": 4.51,
+     "end": 4.65
+    },
+    {
+     "word": "carro⁠",
+     "start": 4.65,
+     "end": 5.04
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 5.73,
+   "end": 6.55,
+   "text": "vão presenciar agora",
+   "words": [
+    {
+     "word": "vão",
+     "start": 5.73,
+     "end": 5.95
+    },
+    {
+     "word": "presenciar",
+     "start": 5.95,
+     "end": 6.45
+    },
+    {
+     "word": "agora",
+     "start": 6.45,
+     "end": 6.55
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.59,
+   "end": 7.09,
+   "text": "o roubo mais",
+   "words": [
+    {
+     "word": "o",
+     "start": 6.59,
+     "end": 6.73
+    },
+    {
+     "word": "roubo",
+     "start": 6.73,
+     "end": 6.93
+    },
+    {
+     "word": "mais",
+     "start": 6.93,
+     "end": 7.09
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.13,
+   "end": 8.84,
+   "text": "perfeito do Peixão",
+   "words": [
+    {
+     "word": "perfeito",
+     "start": 7.13,
+     "end": 7.77
+    },
+    {
+     "word": "do",
+     "start": 7.77,
+     "end": 8.09
+    },
+    {
+     "word": "Peixão",
+     "start": 8.09,
+     "end": 8.84
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 14.63,
+   "end": 16.1,
+   "text": "Pela rota",
+   "words": [
+    {
+     "word": "Pela",
+     "start": 14.63,
+     "end": 15.23
+    },
+    {
+     "word": "rota",
+     "start": 15.23,
+     "end": 16.1
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 18.89,
+   "end": 20.01,
+   "text": "pela rota vai ser",
+   "words": [
+    {
+     "word": "pela",
+     "start": 18.89,
+     "end": 19.31
+    },
+    {
+     "word": "rota",
+     "start": 19.31,
+     "end": 19.77
+    },
+    {
+     "word": "vai",
+     "start": 19.77,
+     "end": 19.87
+    },
+    {
+     "word": "ser",
+     "start": 19.87,
+     "end": 20.01
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 20.05,
+   "end": 20.81,
+   "text": "um banco que não",
+   "words": [
+    {
+     "word": "um",
+     "start": 20.05,
+     "end": 20.19
+    },
+    {
+     "word": "banco",
+     "start": 20.19,
+     "end": 20.47
+    },
+    {
+     "word": "que",
+     "start": 20.47,
+     "end": 20.67
+    },
+    {
+     "word": "não",
+     "start": 20.67,
+     "end": 20.81
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 20.85,
+   "end": 22.44,
+   "text": "dá pra parar atrás",
+   "words": [
+    {
+     "word": "dá",
+     "start": 20.85,
+     "end": 21.09
+    },
+    {
+     "word": "pra",
+     "start": 21.09,
+     "end": 21.29
+    },
+    {
+     "word": "parar",
+     "start": 21.29,
+     "end": 21.67
+    },
+    {
+     "word": "atrás",
+     "start": 21.67,
+     "end": 22.44
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 22.61,
+   "end": 23.71,
+   "text": "meu Deus do céu",
+   "words": [
+    {
+     "word": "meu",
+     "start": 22.61,
+     "end": 22.89
+    },
+    {
+     "word": "Deus",
+     "start": 22.89,
+     "end": 23.19
+    },
+    {
+     "word": "do",
+     "start": 23.19,
+     "end": 23.43
+    },
+    {
+     "word": "céu",
+     "start": 23.43,
+     "end": 23.71
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 23.75,
+   "end": 24.52,
+   "text": "É",
+   "words": [
+    {
+     "word": "É",
+     "start": 23.75,
+     "end": 24.52
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 25.01,
+   "end": 25.69,
+   "text": "não vai presenciar",
+   "words": [
+    {
+     "word": "não",
+     "start": 25.01,
+     "end": 25.11
+    },
+    {
+     "word": "vai",
+     "start": 25.11,
+     "end": 25.25
+    },
+    {
+     "word": "presenciar",
+     "start": 25.25,
+     "end": 25.69
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 25.73,
+   "end": 26.35,
+   "text": "uma, não, não",
+   "words": [
+    {
+     "word": "uma,",
+     "start": 25.73,
+     "end": 25.89
+    },
+    {
+     "word": "não,",
+     "start": 26.09,
+     "end": 26.19
+    },
+    {
+     "word": "não",
+     "start": 26.21,
+     "end": 26.35
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 26.39,
+   "end": 26.93,
+   "text": "se for esse banco",
+   "words": [
+    {
+     "word": "se",
+     "start": 26.39,
+     "end": 26.47
+    },
+    {
+     "word": "for",
+     "start": 26.47,
+     "end": 26.59
+    },
+    {
+     "word": "esse",
+     "start": 26.59,
+     "end": 26.73
+    },
+    {
+     "word": "banco",
+     "start": 26.73,
+     "end": 26.93
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 26.97,
+   "end": 28.26,
+   "text": "aqui vai dar ruim",
+   "words": [
+    {
+     "word": "aqui",
+     "start": 26.97,
+     "end": 27.25
+    },
+    {
+     "word": "vai",
+     "start": 27.25,
+     "end": 27.63
+    },
+    {
+     "word": "dar",
+     "start": 27.63,
+     "end": 27.75
+    },
+    {
+     "word": "ruim",
+     "start": 27.75,
+     "end": 28.26
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 30.3,
+   "end": 30.88,
+   "text": "Poxa",
+   "words": [
+    {
+     "word": "Poxa",
+     "start": 30.3,
+     "end": 30.88
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 30.92,
+   "end": 31.36,
+   "text": "— eu⁠ só⁠ queria⁠ um⁠",
+   "words": [
+    {
+     "word": "— eu⁠",
+     "start": 30.92,
+     "end": 30.98
+    },
+    {
+     "word": "só⁠",
+     "start": 30.98,
+     "end": 31.12
+    },
+    {
+     "word": "queria⁠",
+     "start": 31.12,
+     "end": 31.3
+    },
+    {
+     "word": "um⁠",
+     "start": 31.3,
+     "end": 31.36
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 31.4,
+   "end": 31.73,
+   "text": "banco⁠ que⁠ desse⁠",
+   "words": [
+    {
+     "word": "banco⁠",
+     "start": 31.4,
+     "end": 31.58
+    },
+    {
+     "word": "que⁠",
+     "start": 31.58,
+     "end": 31.68
+    },
+    {
+     "word": "desse⁠",
+     "start": 31.68,
+     "end": 31.73
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 31.76,
+   "end": 32.74,
+   "text": "pra⁠ entrar⁠ por⁠ trás⁠",
+   "words": [
+    {
+     "word": "pra⁠",
+     "start": 31.76,
+     "end": 31.96
+    },
+    {
+     "word": "entrar⁠",
+     "start": 31.96,
+     "end": 32.14
+    },
+    {
+     "word": "por⁠",
+     "start": 32.14,
+     "end": 32.38
+    },
+    {
+     "word": "trás⁠",
+     "start": 32.38,
+     "end": 32.74
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 32.78,
+   "end": 33.32,
+   "text": "fazer⁠ um⁠ bagulho⁠",
+   "words": [
+    {
+     "word": "fazer⁠",
+     "start": 32.78,
+     "end": 33.02
+    },
+    {
+     "word": "um⁠",
+     "start": 33.02,
+     "end": 33.1
+    },
+    {
+     "word": "bagulho⁠",
+     "start": 33.1,
+     "end": 33.32
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 33.36,
+   "end": 34.22,
+   "text": "maneirinho⁠ Não⁠ tem⁠",
+   "words": [
+    {
+     "word": "maneirinho⁠",
+     "start": 33.36,
+     "end": 33.9
+    },
+    {
+     "word": "Não⁠",
+     "start": 33.9,
+     "end": 34.16
+    },
+    {
+     "word": "tem⁠",
+     "start": 34.16,
+     "end": 34.22
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 34.26,
+   "end": 35.02,
+   "text": "como,⁠ esse⁠ banco⁠ não⁠",
+   "words": [
+    {
+     "word": "como,⁠",
+     "start": 34.26,
+     "end": 34.5
+    },
+    {
+     "word": "esse⁠",
+     "start": 34.52,
+     "end": 34.72
+    },
+    {
+     "word": "banco⁠",
+     "start": 34.72,
+     "end": 34.92
+    },
+    {
+     "word": "não⁠",
+     "start": 34.92,
+     "end": 35.02
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 35.06,
+   "end": 35.78,
+   "text": "tem⁠ como⁠ roubar⁠ sem⁠",
+   "words": [
+    {
+     "word": "tem⁠",
+     "start": 35.06,
+     "end": 35.16
+    },
+    {
+     "word": "como⁠",
+     "start": 35.16,
+     "end": 35.3
+    },
+    {
+     "word": "roubar⁠",
+     "start": 35.3,
+     "end": 35.68
+    },
+    {
+     "word": "sem⁠",
+     "start": 35.68,
+     "end": 35.78
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 35.82,
+   "end": 36.91,
+   "text": "dar⁠ ruim⁠",
+   "words": [
+    {
+     "word": "dar⁠",
+     "start": 35.82,
+     "end": 36.0
+    },
+    {
+     "word": "ruim⁠",
+     "start": 36.0,
+     "end": 36.91
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 38.02,
+   "end": 38.62,
+   "text": "Vai⁠ desanimar⁠",
+   "words": [
+    {
+     "word": "Vai⁠",
+     "start": 38.02,
+     "end": 38.18
+    },
+    {
+     "word": "desanimar⁠",
+     "start": 38.18,
+     "end": 38.62
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 38.66,
+   "end": 39.36,
+   "text": "o⁠ camarada⁠ aqui⁠",
+   "words": [
+    {
+     "word": "o⁠",
+     "start": 38.66,
+     "end": 38.72
+    },
+    {
+     "word": "camarada⁠",
+     "start": 38.72,
+     "end": 39.14
+    },
+    {
+     "word": "aqui⁠",
+     "start": 39.14,
+     "end": 39.36
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 39.4,
+   "end": 40.0,
+   "text": "mano⁠",
+   "words": [
+    {
+     "word": "mano⁠",
+     "start": 39.4,
+     "end": 40.0
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
