@@ -1,0 +1,290 @@
+{
+ "segments": [
+  {
+   "start": 1.98,
+   "end": 4.05,
+   "text": "— isso,⁠ viado,⁠ que⁠",
+   "words": [
+    {
+     "word": "— isso,⁠",
+     "start": 1.98,
+     "end": 2.3
+    },
+    {
+     "word": "viado,⁠",
+     "start": 2.58,
+     "end": 2.8
+    },
+    {
+     "word": "que⁠",
+     "start": 2.88,
+     "end": 4.05
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 4.81,
+   "end": 6.11,
+   "text": "porra⁠ é⁠ essa,⁠ viado⁠",
+   "words": [
+    {
+     "word": "porra⁠",
+     "start": 4.81,
+     "end": 5.25
+    },
+    {
+     "word": "é⁠",
+     "start": 5.25,
+     "end": 5.37
+    },
+    {
+     "word": "essa,⁠",
+     "start": 5.37,
+     "end": 5.57
+    },
+    {
+     "word": "viado⁠",
+     "start": 5.67,
+     "end": 6.11
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.15,
+   "end": 7.26,
+   "text": "aquele⁠",
+   "words": [
+    {
+     "word": "aquele⁠",
+     "start": 6.15,
+     "end": 7.26
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 20.6,
+   "end": 22.64,
+   "text": "jogo, mano, isso aqui é",
+   "words": [
+    {
+     "word": "jogo,",
+     "start": 20.6,
+     "end": 21.08
+    },
+    {
+     "word": "mano,",
+     "start": 21.26,
+     "end": 21.38
+    },
+    {
+     "word": "isso",
+     "start": 22.25,
+     "end": 22.45
+    },
+    {
+     "word": "aqui",
+     "start": 22.45,
+     "end": 22.59
+    },
+    {
+     "word": "é",
+     "start": 22.59,
+     "end": 22.64
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 22.65,
+   "end": 23.59,
+   "text": "um jogo, existe isso",
+   "words": [
+    {
+     "word": "um",
+     "start": 22.65,
+     "end": 22.75
+    },
+    {
+     "word": "jogo,",
+     "start": 22.75,
+     "end": 23.05
+    },
+    {
+     "word": "existe",
+     "start": 23.17,
+     "end": 23.41
+    },
+    {
+     "word": "isso",
+     "start": 23.41,
+     "end": 23.59
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 23.63,
+   "end": 24.05,
+   "text": "aqui, que você fica",
+   "words": [
+    {
+     "word": "aqui,",
+     "start": 23.63,
+     "end": 23.77
+    },
+    {
+     "word": "que",
+     "start": 23.87,
+     "end": 23.92
+    },
+    {
+     "word": "você",
+     "start": 23.92,
+     "end": 23.97
+    },
+    {
+     "word": "fica",
+     "start": 23.97,
+     "end": 24.05
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 24.09,
+   "end": 24.57,
+   "text": "matando coisas",
+   "words": [
+    {
+     "word": "matando",
+     "start": 24.09,
+     "end": 24.37
+    },
+    {
+     "word": "coisas",
+     "start": 24.37,
+     "end": 24.57
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 24.61,
+   "end": 25.47,
+   "text": "do demônio no ritmo",
+   "words": [
+    {
+     "word": "do",
+     "start": 24.61,
+     "end": 24.75
+    },
+    {
+     "word": "demônio",
+     "start": 24.75,
+     "end": 25.05
+    },
+    {
+     "word": "no",
+     "start": 25.05,
+     "end": 25.21
+    },
+    {
+     "word": "ritmo",
+     "start": 25.21,
+     "end": 25.47
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 25.51,
+   "end": 26.2,
+   "text": "da música",
+   "words": [
+    {
+     "word": "da",
+     "start": 25.51,
+     "end": 25.61
+    },
+    {
+     "word": "música",
+     "start": 25.61,
+     "end": 26.2
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 27.31,
+   "end": 28.05,
+   "text": "eu fico até público",
+   "words": [
+    {
+     "word": "eu",
+     "start": 27.31,
+     "end": 27.41
+    },
+    {
+     "word": "fico",
+     "start": 27.41,
+     "end": 27.63
+    },
+    {
+     "word": "até",
+     "start": 27.63,
+     "end": 27.79
+    },
+    {
+     "word": "público",
+     "start": 27.79,
+     "end": 28.05
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.09,
+   "end": 28.98,
+   "text": "desse jogo, acho",
+   "words": [
+    {
+     "word": "desse",
+     "start": 28.09,
+     "end": 28.27
+    },
+    {
+     "word": "jogo,",
+     "start": 28.27,
+     "end": 28.47
+    },
+    {
+     "word": "acho",
+     "start": 28.63,
+     "end": 28.98
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 32.54,
+   "end": 33.29,
+   "text": "que nervoso",
+   "words": [
+    {
+     "word": "que",
+     "start": 32.54,
+     "end": 32.7
+    },
+    {
+     "word": "nervoso",
+     "start": 32.7,
+     "end": 33.29
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
