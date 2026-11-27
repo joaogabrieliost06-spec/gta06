@@ -1,0 +1,112 @@
+{
+ "segments": [
+  {
+   "start": 13.0,
+   "end": 14.27,
+   "text": "Ih",
+   "words": [
+    {
+     "word": "Ih",
+     "start": 13.0,
+     "end": 14.27
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 37.07,
+   "end": 38.04,
+   "text": "Ponte fechou?",
+   "words": [
+    {
+     "word": "Ponte",
+     "start": 37.07,
+     "end": 37.23
+    },
+    {
+     "word": "fechou?",
+     "start": 37.23,
+     "end": 38.04
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 48.61,
+   "end": 49.48,
+   "text": "Espere",
+   "words": [
+    {
+     "word": "Espere",
+     "start": 48.61,
+     "end": 49.48
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 63.07,
+   "end": 63.83,
+   "text": "o Francisco pegar",
+   "words": [
+    {
+     "word": "o",
+     "start": 63.07,
+     "end": 63.21
+    },
+    {
+     "word": "Francisco",
+     "start": 63.21,
+     "end": 63.49
+    },
+    {
+     "word": "pegar",
+     "start": 63.49,
+     "end": 63.83
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 63.87,
+   "end": 64.68,
+   "text": "o dinheiro",
+   "words": [
+    {
+     "word": "o",
+     "start": 63.87,
+     "end": 64.01
+    },
+    {
+     "word": "dinheiro",
+     "start": 64.01,
+     "end": 64.68
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 83.26,
+   "end": 84.83,
+   "text": "Milhão só, mano?",
+   "words": [
+    {
+     "word": "Milhão",
+     "start": 83.26,
+     "end": 83.88
+    },
+    {
+     "word": "só,",
+     "start": 83.88,
+     "end": 84.24
+    },
+    {
+     "word": "mano?",
+     "start": 84.44,
+     "end": 84.83
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
