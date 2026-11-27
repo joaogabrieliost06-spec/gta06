@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, Alan, GTA 6, Lucia, Jason, pedágio, NPC, selfie, foguinho, postinho, mano, velho, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:07:48", "fim": "0:08:36", "titulo": "PEDÁGIO DE GRAÇA COM CARRO DOS OUTROS"},
+  {"id": "02", "inicio": "0:11:45", "fim": "0:12:55", "titulo": "FOGUINHO BABANDO"},
+  {"id": "03", "inicio": "0:10:12", "fim": "0:10:40", "titulo": "SE EU SOUBESSE NÃO BATIA"}
+ ]
+}
