@@ -1,0 +1,676 @@
+{
+ "segments": [
+  {
+   "start": 0.71,
+   "end": 2.71,
+   "text": "Olha essa vista",
+   "words": [
+    {
+     "word": "Olha",
+     "start": 0.71,
+     "end": 1.35
+    },
+    {
+     "word": "essa",
+     "start": 1.35,
+     "end": 1.986
+    },
+    {
+     "word": "vista",
+     "start": 1.986,
+     "end": 2.71
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 2.75,
+   "end": 4.22,
+   "text": "da cidade, tá?",
+   "words": [
+    {
+     "word": "da",
+     "start": 2.75,
+     "end": 3.15
+    },
+    {
+     "word": "cidade,",
+     "start": 3.15,
+     "end": 3.73
+    },
+    {
+     "word": "tá?",
+     "start": 3.87,
+     "end": 4.22
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 6.86,
+   "end": 7.84,
+   "text": "Olha, olha o cabelo",
+   "words": [
+    {
+     "word": "Olha,",
+     "start": 6.86,
+     "end": 7.16
+    },
+    {
+     "word": "olha",
+     "start": 7.32,
+     "end": 7.5
+    },
+    {
+     "word": "o",
+     "start": 7.5,
+     "end": 7.58
+    },
+    {
+     "word": "cabelo",
+     "start": 7.58,
+     "end": 7.84
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 7.88,
+   "end": 8.48,
+   "text": "dela",
+   "words": [
+    {
+     "word": "dela",
+     "start": 7.88,
+     "end": 8.48
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 9.17,
+   "end": 10.34,
+   "text": "no vento",
+   "words": [
+    {
+     "word": "no",
+     "start": 9.17,
+     "end": 9.35
+    },
+    {
+     "word": "vento",
+     "start": 9.35,
+     "end": 10.34
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 17.05,
+   "end": 18.08,
+   "text": "Parou o vento",
+   "words": [
+    {
+     "word": "Parou",
+     "start": 17.05,
+     "end": 17.45
+    },
+    {
+     "word": "o",
+     "start": 17.45,
+     "end": 17.59
+    },
+    {
+     "word": "vento",
+     "start": 17.59,
+     "end": 18.08
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 18.66,
+   "end": 19.24,
+   "text": "Nossa, mas sempre",
+   "words": [
+    {
+     "word": "Nossa,",
+     "start": 18.66,
+     "end": 18.82
+    },
+    {
+     "word": "mas",
+     "start": 19.04,
+     "end": 19.14
+    },
+    {
+     "word": "sempre",
+     "start": 19.14,
+     "end": 19.24
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 19.28,
+   "end": 19.54,
+   "text": "que eu boto",
+   "words": [
+    {
+     "word": "que",
+     "start": 19.28,
+     "end": 19.4
+    },
+    {
+     "word": "eu",
+     "start": 19.4,
+     "end": 19.45
+    },
+    {
+     "word": "boto",
+     "start": 19.45,
+     "end": 19.54
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 19.58,
+   "end": 20.34,
+   "text": "pra tirar selfie",
+   "words": [
+    {
+     "word": "pra",
+     "start": 19.58,
+     "end": 19.7
+    },
+    {
+     "word": "tirar",
+     "start": 19.7,
+     "end": 19.88
+    },
+    {
+     "word": "selfie",
+     "start": 19.88,
+     "end": 20.34
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 20.38,
+   "end": 21.14,
+   "text": "fica uma merda",
+   "words": [
+    {
+     "word": "fica",
+     "start": 20.38,
+     "end": 20.5
+    },
+    {
+     "word": "uma",
+     "start": 20.5,
+     "end": 20.64
+    },
+    {
+     "word": "merda",
+     "start": 20.64,
+     "end": 21.14
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 21.18,
+   "end": 21.74,
+   "text": "velho",
+   "words": [
+    {
+     "word": "velho",
+     "start": 21.18,
+     "end": 21.74
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 21.78,
+   "end": 22.69,
+   "text": "o raio no fundo",
+   "words": [
+    {
+     "word": "o",
+     "start": 21.78,
+     "end": 21.96
+    },
+    {
+     "word": "raio",
+     "start": 21.96,
+     "end": 22.01
+    },
+    {
+     "word": "no",
+     "start": 22.01,
+     "end": 22.18
+    },
+    {
+     "word": "fundo",
+     "start": 22.18,
+     "end": 22.69
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 24.13,
+   "end": 25.34,
+   "text": "Nossa",
+   "words": [
+    {
+     "word": "Nossa",
+     "start": 24.13,
+     "end": 25.34
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 25.47,
+   "end": 26.26,
+   "text": "fica uma bosta",
+   "words": [
+    {
+     "word": "fica",
+     "start": 25.47,
+     "end": 25.53
+    },
+    {
+     "word": "uma",
+     "start": 25.53,
+     "end": 25.67
+    },
+    {
+     "word": "bosta",
+     "start": 25.67,
+     "end": 26.26
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 31.8,
+   "end": 32.85,
+   "text": "Olha esse, mano",
+   "words": [
+    {
+     "word": "Olha",
+     "start": 31.8,
+     "end": 32.04
+    },
+    {
+     "word": "esse,",
+     "start": 32.04,
+     "end": 32.3
+    },
+    {
+     "word": "mano",
+     "start": 32.42,
+     "end": 32.85
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 34.84,
+   "end": 36.03,
+   "text": "trovão da porra!",
+   "words": [
+    {
+     "word": "trovão",
+     "start": 34.84,
+     "end": 35.24
+    },
+    {
+     "word": "da",
+     "start": 35.24,
+     "end": 35.36
+    },
+    {
+     "word": "porra!",
+     "start": 35.36,
+     "end": 36.03
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 38.5,
+   "end": 40.45,
+   "text": "Pô, olha a chuva!",
+   "words": [
+    {
+     "word": "Pô,",
+     "start": 38.5,
+     "end": 38.72
+    },
+    {
+     "word": "olha",
+     "start": 38.84,
+     "end": 39.26
+    },
+    {
+     "word": "a",
+     "start": 39.26,
+     "end": 39.66
+    },
+    {
+     "word": "chuva!",
+     "start": 39.66,
+     "end": 40.45
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 49.72,
+   "end": 50.27,
+   "text": "Caralho, mano, é",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 49.72,
+     "end": 50.02
+    },
+    {
+     "word": "mano,",
+     "start": 50.1,
+     "end": 50.16
+    },
+    {
+     "word": "é",
+     "start": 50.22,
+     "end": 50.27
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 50.3,
+   "end": 51.51,
+   "text": "a primeira vez!",
+   "words": [
+    {
+     "word": "a",
+     "start": 50.3,
+     "end": 50.42
+    },
+    {
+     "word": "primeira",
+     "start": 50.42,
+     "end": 50.78
+    },
+    {
+     "word": "vez!",
+     "start": 50.78,
+     "end": 51.51
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 54.23,
+   "end": 55.72,
+   "text": "Cara, raríssimo, tá?",
+   "words": [
+    {
+     "word": "Cara,",
+     "start": 54.23,
+     "end": 54.49
+    },
+    {
+     "word": "raríssimo,",
+     "start": 54.55,
+     "end": 55.25
+    },
+    {
+     "word": "tá?",
+     "start": 55.39,
+     "end": 55.72
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 55.79,
+   "end": 56.53,
+   "text": "não é todo mundo",
+   "words": [
+    {
+     "word": "não",
+     "start": 55.79,
+     "end": 56.03
+    },
+    {
+     "word": "é",
+     "start": 56.03,
+     "end": 56.15
+    },
+    {
+     "word": "todo",
+     "start": 56.15,
+     "end": 56.33
+    },
+    {
+     "word": "mundo",
+     "start": 56.33,
+     "end": 56.53
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 56.57,
+   "end": 57.35,
+   "text": "que tem um tempo",
+   "words": [
+    {
+     "word": "que",
+     "start": 56.57,
+     "end": 56.79
+    },
+    {
+     "word": "tem",
+     "start": 56.79,
+     "end": 56.97
+    },
+    {
+     "word": "um",
+     "start": 56.97,
+     "end": 57.13
+    },
+    {
+     "word": "tempo",
+     "start": 57.13,
+     "end": 57.35
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 57.39,
+   "end": 58.34,
+   "text": "assim no GTA",
+   "words": [
+    {
+     "word": "assim",
+     "start": 57.39,
+     "end": 57.65
+    },
+    {
+     "word": "no",
+     "start": 57.65,
+     "end": 57.79
+    },
+    {
+     "word": "GTA",
+     "start": 57.79,
+     "end": 58.34
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 58.41,
+   "end": 59.15,
+   "text": "é uma das poucas",
+   "words": [
+    {
+     "word": "é",
+     "start": 58.41,
+     "end": 58.49
+    },
+    {
+     "word": "uma",
+     "start": 58.49,
+     "end": 58.61
+    },
+    {
+     "word": "das",
+     "start": 58.61,
+     "end": 58.77
+    },
+    {
+     "word": "poucas",
+     "start": 58.77,
+     "end": 59.15
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 59.19,
+   "end": 60.96,
+   "text": "lives que tem chuva",
+   "words": [
+    {
+     "word": "lives",
+     "start": 59.19,
+     "end": 59.57
+    },
+    {
+     "word": "que",
+     "start": 59.57,
+     "end": 60.13
+    },
+    {
+     "word": "tem",
+     "start": 60.38,
+     "end": 60.58
+    },
+    {
+     "word": "chuva",
+     "start": 60.58,
+     "end": 60.96
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 61.0,
+   "end": 62.17,
+   "text": "com raios no GTA",
+   "words": [
+    {
+     "word": "com",
+     "start": 61.0,
+     "end": 61.18
+    },
+    {
+     "word": "raios",
+     "start": 61.18,
+     "end": 61.66
+    },
+    {
+     "word": "no",
+     "start": 61.66,
+     "end": 61.78
+    },
+    {
+     "word": "GTA",
+     "start": 61.78,
+     "end": 62.17
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 64.63,
+   "end": 65.53,
+   "text": "Das pouquíssimas",
+   "words": [
+    {
+     "word": "Das",
+     "start": 64.63,
+     "end": 64.81
+    },
+    {
+     "word": "pouquíssimas",
+     "start": 64.81,
+     "end": 65.53
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 65.57,
+   "end": 66.78,
+   "text": "live com chuva",
+   "words": [
+    {
+     "word": "live",
+     "start": 65.57,
+     "end": 65.83
+    },
+    {
+     "word": "com",
+     "start": 65.83,
+     "end": 66.01
+    },
+    {
+     "word": "chuva",
+     "start": 66.01,
+     "end": 66.78
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 69.01,
+   "end": 70.2,
+   "text": "Ó, caiu bem aqui!",
+   "words": [
+    {
+     "word": "Ó,",
+     "start": 69.01,
+     "end": 69.19
+    },
+    {
+     "word": "caiu",
+     "start": 69.19,
+     "end": 69.51
+    },
+    {
+     "word": "bem",
+     "start": 69.51,
+     "end": 69.63
+    },
+    {
+     "word": "aqui!",
+     "start": 69.63,
+     "end": 70.2
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
