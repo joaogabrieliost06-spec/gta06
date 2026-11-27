@@ -1,0 +1,11 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, Alan, GTA 6, Jason, Lucia, modo foto, moleque, mira automática, console, PC, newba, Rockstar, bug, suor, chat, mano",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:04:45", "fim": "0:06:15", "titulo": "MODO FOTO COM O MOLEQUE NO COLO"},
+  {"id": "02", "inicio": "0:06:20", "fim": "0:07:10", "titulo": "MIRA AUTOMÁTICA É COISA DE NEWBA"},
+  {"id": "03", "inicio": "0:12:58", "fim": "0:14:28", "titulo": "ESQUECI QUE TIREI A MIRA AUTOMÁTICA"},
+  {"id": "04", "inicio": "0:18:00", "fim": "0:19:15", "titulo": "ROCKSTAR, CONTRATA UM TESTADOR"}
+ ]
+}
