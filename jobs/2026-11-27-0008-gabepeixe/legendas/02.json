@@ -1,0 +1,847 @@
+{
+ "segments": [
+  {
+   "start": 1.1,
+   "end": 2.21,
+   "text": "bota o dinheiro",
+   "words": [
+    {
+     "word": "bota",
+     "start": 1.1,
+     "end": 1.46
+    },
+    {
+     "word": "o",
+     "start": 1.46,
+     "end": 1.58
+    },
+    {
+     "word": "dinheiro",
+     "start": 1.58,
+     "end": 2.21
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 4.95,
+   "end": 5.76,
+   "text": "foi mal",
+   "words": [
+    {
+     "word": "foi",
+     "start": 4.95,
+     "end": 5.35
+    },
+    {
+     "word": "mal",
+     "start": 5.35,
+     "end": 5.76
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 6.39,
+   "end": 6.87,
+   "text": "bota o dinheiro",
+   "words": [
+    {
+     "word": "bota",
+     "start": 6.39,
+     "end": 6.55
+    },
+    {
+     "word": "o",
+     "start": 6.55,
+     "end": 6.65
+    },
+    {
+     "word": "dinheiro",
+     "start": 6.65,
+     "end": 6.87
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 6.91,
+   "end": 7.75,
+   "text": "pra jogo, sua última",
+   "words": [
+    {
+     "word": "pra",
+     "start": 6.91,
+     "end": 7.11
+    },
+    {
+     "word": "jogo,",
+     "start": 7.11,
+     "end": 7.35
+    },
+    {
+     "word": "sua",
+     "start": 7.43,
+     "end": 7.57
+    },
+    {
+     "word": "última",
+     "start": 7.57,
+     "end": 7.75
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 7.79,
+   "end": 8.53,
+   "text": "meta de poupança",
+   "words": [
+    {
+     "word": "meta",
+     "start": 7.79,
+     "end": 8.07
+    },
+    {
+     "word": "de",
+     "start": 8.07,
+     "end": 8.19
+    },
+    {
+     "word": "poupança",
+     "start": 8.19,
+     "end": 8.53
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 8.57,
+   "end": 9.21,
+   "text": "da família, 2",
+   "words": [
+    {
+     "word": "da",
+     "start": 8.57,
+     "end": 8.69
+    },
+    {
+     "word": "família,",
+     "start": 8.69,
+     "end": 8.99
+    },
+    {
+     "word": "2",
+     "start": 9.11,
+     "end": 9.21
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 9.25,
+   "end": 10.42,
+   "text": "milhões, liberou",
+   "words": [
+    {
+     "word": "milhões,",
+     "start": 9.25,
+     "end": 9.57
+    },
+    {
+     "word": "liberou",
+     "start": 9.77,
+     "end": 10.42
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 11.24,
+   "end": 12.28,
+   "text": "o futuro do sucesso",
+   "words": [
+    {
+     "word": "o",
+     "start": 11.24,
+     "end": 11.44
+    },
+    {
+     "word": "futuro",
+     "start": 11.44,
+     "end": 11.78
+    },
+    {
+     "word": "do",
+     "start": 11.78,
+     "end": 11.94
+    },
+    {
+     "word": "sucesso",
+     "start": 11.94,
+     "end": 12.28
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 12.32,
+   "end": 13.02,
+   "text": "da sua família está",
+   "words": [
+    {
+     "word": "da",
+     "start": 12.32,
+     "end": 12.48
+    },
+    {
+     "word": "sua",
+     "start": 12.48,
+     "end": 12.6
+    },
+    {
+     "word": "família",
+     "start": 12.6,
+     "end": 12.88
+    },
+    {
+     "word": "está",
+     "start": 12.88,
+     "end": 13.02
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 13.06,
+   "end": 14.03,
+   "text": "em suas mãos",
+   "words": [
+    {
+     "word": "em",
+     "start": 13.06,
+     "end": 13.16
+    },
+    {
+     "word": "suas",
+     "start": 13.16,
+     "end": 13.4
+    },
+    {
+     "word": "mãos",
+     "start": 13.4,
+     "end": 14.03
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 14.56,
+   "end": 15.54,
+   "text": "agregou um bocado",
+   "words": [
+    {
+     "word": "agregou",
+     "start": 14.56,
+     "end": 14.98
+    },
+    {
+     "word": "um",
+     "start": 14.98,
+     "end": 15.1
+    },
+    {
+     "word": "bocado",
+     "start": 15.1,
+     "end": 15.54
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 15.58,
+   "end": 16.38,
+   "text": "pagamos 200 mil",
+   "words": [
+    {
+     "word": "pagamos",
+     "start": 15.58,
+     "end": 15.9
+    },
+    {
+     "word": "200",
+     "start": 15.9,
+     "end": 16.22
+    },
+    {
+     "word": "mil",
+     "start": 16.22,
+     "end": 16.38
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 16.42,
+   "end": 17.75,
+   "text": "de juros a sua poupança",
+   "words": [
+    {
+     "word": "de",
+     "start": 16.42,
+     "end": 16.54
+    },
+    {
+     "word": "juros",
+     "start": 16.54,
+     "end": 16.74
+    },
+    {
+     "word": "a",
+     "start": 16.74,
+     "end": 16.86
+    },
+    {
+     "word": "sua",
+     "start": 16.86,
+     "end": 16.96
+    },
+    {
+     "word": "poupança",
+     "start": 16.96,
+     "end": 17.75
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 26.58,
+   "end": 27.42,
+   "text": "— pô,⁠ aqui⁠ subiu,⁠ aqui⁠",
+   "words": [
+    {
+     "word": "— pô,⁠",
+     "start": 26.58,
+     "end": 26.68
+    },
+    {
+     "word": "aqui⁠",
+     "start": 26.76,
+     "end": 26.86
+    },
+    {
+     "word": "subiu,⁠",
+     "start": 26.86,
+     "end": 27.18
+    },
+    {
+     "word": "aqui⁠",
+     "start": 27.32,
+     "end": 27.42
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 27.46,
+   "end": 28.69,
+   "text": "95%⁠",
+   "words": [
+    {
+     "word": "95%⁠",
+     "start": 27.46,
+     "end": 28.69
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 31.41,
+   "end": 32.92,
+   "text": "92%⁠",
+   "words": [
+    {
+     "word": "92%⁠",
+     "start": 31.41,
+     "end": 32.92
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 41.84,
+   "end": 42.53,
+   "text": "nossa",
+   "words": [
+    {
+     "word": "nossa",
+     "start": 41.84,
+     "end": 42.53
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 42.84,
+   "end": 43.36,
+   "text": "eu já tô, eu",
+   "words": [
+    {
+     "word": "eu",
+     "start": 42.84,
+     "end": 42.96
+    },
+    {
+     "word": "já",
+     "start": 42.96,
+     "end": 43.08
+    },
+    {
+     "word": "tô,",
+     "start": 43.08,
+     "end": 43.16
+    },
+    {
+     "word": "eu",
+     "start": 43.26,
+     "end": 43.36
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 43.4,
+   "end": 44.22,
+   "text": "já quase bato essa",
+   "words": [
+    {
+     "word": "já",
+     "start": 43.4,
+     "end": 43.56
+    },
+    {
+     "word": "quase",
+     "start": 43.56,
+     "end": 43.82
+    },
+    {
+     "word": "bato",
+     "start": 43.82,
+     "end": 44.1
+    },
+    {
+     "word": "essa",
+     "start": 44.1,
+     "end": 44.22
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 44.26,
+   "end": 45.33,
+   "text": "meta já, pô",
+   "words": [
+    {
+     "word": "meta",
+     "start": 44.26,
+     "end": 44.54
+    },
+    {
+     "word": "já,",
+     "start": 44.54,
+     "end": 44.74
+    },
+    {
+     "word": "pô",
+     "start": 44.92,
+     "end": 45.33
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 45.57,
+   "end": 46.39,
+   "text": "moleque, tá vendo",
+   "words": [
+    {
+     "word": "moleque,",
+     "start": 45.57,
+     "end": 45.91
+    },
+    {
+     "word": "tá",
+     "start": 46.11,
+     "end": 46.21
+    },
+    {
+     "word": "vendo",
+     "start": 46.21,
+     "end": 46.39
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 46.43,
+   "end": 46.93,
+   "text": "como é que",
+   "words": [
+    {
+     "word": "como",
+     "start": 46.43,
+     "end": 46.69
+    },
+    {
+     "word": "é",
+     "start": 46.69,
+     "end": 46.77
+    },
+    {
+     "word": "que",
+     "start": 46.77,
+     "end": 46.93
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 46.97,
+   "end": 48.05,
+   "text": "é zero sofrência, eu",
+   "words": [
+    {
+     "word": "é",
+     "start": 46.97,
+     "end": 47.13
+    },
+    {
+     "word": "zero",
+     "start": 47.13,
+     "end": 47.37
+    },
+    {
+     "word": "sofrência,",
+     "start": 47.37,
+     "end": 47.89
+    },
+    {
+     "word": "eu",
+     "start": 47.99,
+     "end": 48.05
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 48.09,
+   "end": 48.65,
+   "text": "fui só jogando",
+   "words": [
+    {
+     "word": "fui",
+     "start": 48.09,
+     "end": 48.23
+    },
+    {
+     "word": "só",
+     "start": 48.23,
+     "end": 48.39
+    },
+    {
+     "word": "jogando",
+     "start": 48.39,
+     "end": 48.65
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 48.69,
+   "end": 49.54,
+   "text": "o jogo normal",
+   "words": [
+    {
+     "word": "o",
+     "start": 48.69,
+     "end": 48.81
+    },
+    {
+     "word": "jogo",
+     "start": 48.81,
+     "end": 48.93
+    },
+    {
+     "word": "normal",
+     "start": 48.93,
+     "end": 49.54
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 49.79,
+   "end": 50.69,
+   "text": "eu já, por jogar",
+   "words": [
+    {
+     "word": "eu",
+     "start": 49.79,
+     "end": 49.89
+    },
+    {
+     "word": "já,",
+     "start": 49.89,
+     "end": 50.03
+    },
+    {
+     "word": "por",
+     "start": 50.21,
+     "end": 50.43
+    },
+    {
+     "word": "jogar",
+     "start": 50.43,
+     "end": 50.69
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 50.73,
+   "end": 51.5,
+   "text": "o jogo normal, eu",
+   "words": [
+    {
+     "word": "o",
+     "start": 50.73,
+     "end": 50.85
+    },
+    {
+     "word": "jogo",
+     "start": 50.85,
+     "end": 51.01
+    },
+    {
+     "word": "normal,",
+     "start": 51.01,
+     "end": 51.31
+    },
+    {
+     "word": "eu",
+     "start": 51.45,
+     "end": 51.5
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 51.49,
+   "end": 52.18,
+   "text": "já tenho dinheiro",
+   "words": [
+    {
+     "word": "já",
+     "start": 51.49,
+     "end": 51.51
+    },
+    {
+     "word": "tenho",
+     "start": 51.51,
+     "end": 51.65
+    },
+    {
+     "word": "dinheiro",
+     "start": 51.65,
+     "end": 52.18
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 55.93,
+   "end": 56.81,
+   "text": "não falta 800, eu",
+   "words": [
+    {
+     "word": "não",
+     "start": 55.93,
+     "end": 56.05
+    },
+    {
+     "word": "falta",
+     "start": 56.05,
+     "end": 56.29
+    },
+    {
+     "word": "800,",
+     "start": 56.29,
+     "end": 56.63
+    },
+    {
+     "word": "eu",
+     "start": 56.75,
+     "end": 56.81
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 56.85,
+   "end": 57.53,
+   "text": "tenho 400 mil",
+   "words": [
+    {
+     "word": "tenho",
+     "start": 56.85,
+     "end": 56.97
+    },
+    {
+     "word": "400",
+     "start": 56.97,
+     "end": 57.33
+    },
+    {
+     "word": "mil",
+     "start": 57.33,
+     "end": 57.53
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 57.57,
+   "end": 58.23,
+   "text": "na minha mão, meio",
+   "words": [
+    {
+     "word": "na",
+     "start": 57.57,
+     "end": 57.69
+    },
+    {
+     "word": "minha",
+     "start": 57.69,
+     "end": 57.79
+    },
+    {
+     "word": "mão,",
+     "start": 57.79,
+     "end": 57.95
+    },
+    {
+     "word": "meio",
+     "start": 58.11,
+     "end": 58.23
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 58.27,
+   "end": 58.87,
+   "text": "milhão",
+   "words": [
+    {
+     "word": "milhão",
+     "start": 58.27,
+     "end": 58.87
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 63.53,
+   "end": 64.91,
+   "text": "E olha que eu gastei muito",
+   "words": [
+    {
+     "word": "E",
+     "start": 63.53,
+     "end": 64.17
+    },
+    {
+     "word": "olha",
+     "start": 64.17,
+     "end": 64.31
+    },
+    {
+     "word": "que",
+     "start": 64.31,
+     "end": 64.39
+    },
+    {
+     "word": "eu",
+     "start": 64.39,
+     "end": 64.47
+    },
+    {
+     "word": "gastei",
+     "start": 64.47,
+     "end": 64.85
+    },
+    {
+     "word": "muito",
+     "start": 64.85,
+     "end": 64.91
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 64.95,
+   "end": 65.83,
+   "text": "dinheiro, hein Perdi",
+   "words": [
+    {
+     "word": "dinheiro,",
+     "start": 64.95,
+     "end": 65.33
+    },
+    {
+     "word": "hein",
+     "start": 65.43,
+     "end": 65.48
+    },
+    {
+     "word": "Perdi",
+     "start": 65.48,
+     "end": 65.83
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 65.87,
+   "end": 67.11,
+   "text": "dinheiro, tomei",
+   "words": [
+    {
+     "word": "dinheiro,",
+     "start": 65.87,
+     "end": 66.41
+    },
+    {
+     "word": "tomei",
+     "start": 66.83,
+     "end": 67.11
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 67.15,
+   "end": 67.78,
+   "text": "golpe",
+   "words": [
+    {
+     "word": "golpe",
+     "start": 67.15,
+     "end": 67.78
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
