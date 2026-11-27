@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Lucia, Jason, banco, crime, ponte, polícia, zerar, mano, viado, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:14:08", "fim": "0:14:56", "titulo": "QUE CRIME A GENTE COMETEU?"},
+  {"id": "02", "inicio": "0:16:18", "fim": "0:17:05", "titulo": "A PONTE VIROU"},
+  {"id": "03", "inicio": "0:18:30", "fim": "0:18:52", "titulo": "MAIS UMA LIVE A GENTE ZERA"}
+ ]
+}

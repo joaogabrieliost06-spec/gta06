@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, Alan, GTA 6, Lucia, Jason, alienígena, nave, código, torre, exército, mano, velho, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:13:55", "fim": "0:14:25", "titulo": "MEU DEUS, TEM UM ALIENÍGENA!"},
+  {"id": "02", "inicio": "0:15:58", "fim": "0:16:56", "titulo": "ME LEVA!"},
+  {"id": "03", "inicio": "0:09:12", "fim": "0:09:36", "titulo": "QUAL O CÓDIGO DA NAVE?"}
+ ]
+}
