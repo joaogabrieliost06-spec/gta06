@@ -1,0 +1,198 @@
+{
+ "segments": [
+  {
+   "start": 38.16,
+   "end": 38.72,
+   "text": "Recupere o carro",
+   "words": [
+    {
+     "word": "Recupere",
+     "start": 38.16,
+     "end": 38.48
+    },
+    {
+     "word": "o",
+     "start": 38.48,
+     "end": 38.58
+    },
+    {
+     "word": "carro",
+     "start": 38.58,
+     "end": 38.72
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 38.76,
+   "end": 40.13,
+   "text": "do Nate, recuperei já",
+   "words": [
+    {
+     "word": "do",
+     "start": 38.76,
+     "end": 38.9
+    },
+    {
+     "word": "Nate,",
+     "start": 38.9,
+     "end": 39.16
+    },
+    {
+     "word": "recuperei",
+     "start": 39.26,
+     "end": 39.68
+    },
+    {
+     "word": "já",
+     "start": 39.68,
+     "end": 40.13
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 54.41,
+   "end": 55.19,
+   "text": "Caralho, tá perigoso",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 54.41,
+     "end": 54.73
+    },
+    {
+     "word": "tá",
+     "start": 54.73,
+     "end": 54.78
+    },
+    {
+     "word": "perigoso",
+     "start": 54.78,
+     "end": 55.19
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 55.23,
+   "end": 55.65,
+   "text": "aqui, mano",
+   "words": [
+    {
+     "word": "aqui,",
+     "start": 55.23,
+     "end": 55.47
+    },
+    {
+     "word": "mano",
+     "start": 55.53,
+     "end": 55.65
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 55.69,
+   "end": 56.19,
+   "text": "em qualquer momento",
+   "words": [
+    {
+     "word": "em",
+     "start": 55.69,
+     "end": 55.75
+    },
+    {
+     "word": "qualquer",
+     "start": 55.75,
+     "end": 55.91
+    },
+    {
+     "word": "momento",
+     "start": 55.91,
+     "end": 56.19
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 56.23,
+   "end": 56.93,
+   "text": "vai aparecer um carro na",
+   "words": [
+    {
+     "word": "vai",
+     "start": 56.23,
+     "end": 56.39
+    },
+    {
+     "word": "aparecer",
+     "start": 56.39,
+     "end": 56.65
+    },
+    {
+     "word": "um",
+     "start": 56.65,
+     "end": 56.73
+    },
+    {
+     "word": "carro",
+     "start": 56.73,
+     "end": 56.87
+    },
+    {
+     "word": "na",
+     "start": 56.87,
+     "end": 56.93
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 56.97,
+   "end": 58.36,
+   "text": "minha frente, meu Deus!",
+   "words": [
+    {
+     "word": "minha",
+     "start": 56.97,
+     "end": 57.07
+    },
+    {
+     "word": "frente,",
+     "start": 57.07,
+     "end": 57.41
+    },
+    {
+     "word": "meu",
+     "start": 57.51,
+     "end": 57.67
+    },
+    {
+     "word": "Deus!",
+     "start": 57.67,
+     "end": 58.36
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 84.03,
+   "end": 84.98,
+   "text": "Foi, pô!",
+   "words": [
+    {
+     "word": "Foi,",
+     "start": 84.03,
+     "end": 84.35
+    },
+    {
+     "word": "pô!",
+     "start": 84.53,
+     "end": 84.98
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
