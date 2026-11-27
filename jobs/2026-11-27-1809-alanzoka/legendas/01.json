@@ -1,0 +1,710 @@
+{
+ "segments": [
+  {
+   "start": 0.36,
+   "end": 1.55,
+   "text": "Agora eu tô vendo a tela",
+   "words": [
+    {
+     "word": "Agora",
+     "start": 0.36,
+     "end": 0.6
+    },
+    {
+     "word": "eu",
+     "start": 0.6,
+     "end": 0.72
+    },
+    {
+     "word": "tô",
+     "start": 0.72,
+     "end": 0.77
+    },
+    {
+     "word": "vendo",
+     "start": 0.77,
+     "end": 0.86
+    },
+    {
+     "word": "a",
+     "start": 0.86,
+     "end": 1.0
+    },
+    {
+     "word": "tela",
+     "start": 1.0,
+     "end": 1.55
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 3.79,
+   "end": 4.39,
+   "text": "né?",
+   "words": [
+    {
+     "word": "né?",
+     "start": 3.79,
+     "end": 4.39
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 5.19,
+   "end": 6.17,
+   "text": "Next stage é o quê?",
+   "words": [
+    {
+     "word": "Next",
+     "start": 5.19,
+     "end": 5.45
+    },
+    {
+     "word": "stage",
+     "start": 5.45,
+     "end": 5.67
+    },
+    {
+     "word": "é",
+     "start": 5.67,
+     "end": 5.81
+    },
+    {
+     "word": "o",
+     "start": 5.81,
+     "end": 5.93
+    },
+    {
+     "word": "quê?",
+     "start": 5.93,
+     "end": 6.17
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 6.21,
+   "end": 7.26,
+   "text": "Next stage é meu",
+   "words": [
+    {
+     "word": "Next",
+     "start": 6.21,
+     "end": 6.43
+    },
+    {
+     "word": "stage",
+     "start": 6.43,
+     "end": 6.65
+    },
+    {
+     "word": "é",
+     "start": 6.65,
+     "end": 6.79
+    },
+    {
+     "word": "meu",
+     "start": 6.79,
+     "end": 7.26
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 8.98,
+   "end": 10.11,
+   "text": "vulgo",
+   "words": [
+    {
+     "word": "vulgo",
+     "start": 8.98,
+     "end": 10.11
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 15.12,
+   "end": 15.7,
+   "text": "next stage é",
+   "words": [
+    {
+     "word": "next",
+     "start": 15.12,
+     "end": 15.42
+    },
+    {
+     "word": "stage",
+     "start": 15.42,
+     "end": 15.64
+    },
+    {
+     "word": "é",
+     "start": 15.64,
+     "end": 15.7
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 15.74,
+   "end": 16.63,
+   "text": "meu vulgo",
+   "words": [
+    {
+     "word": "meu",
+     "start": 15.74,
+     "end": 15.86
+    },
+    {
+     "word": "vulgo",
+     "start": 15.86,
+     "end": 16.63
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 19.6,
+   "end": 22.41,
+   "text": "né? Tá com o braço",
+   "words": [
+    {
+     "word": "né?",
+     "start": 19.6,
+     "end": 19.78
+    },
+    {
+     "word": "Tá",
+     "start": 21.97,
+     "end": 22.11
+    },
+    {
+     "word": "com",
+     "start": 22.11,
+     "end": 22.25
+    },
+    {
+     "word": "o",
+     "start": 22.25,
+     "end": 22.33
+    },
+    {
+     "word": "braço",
+     "start": 22.33,
+     "end": 22.41
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 22.45,
+   "end": 23.13,
+   "text": "levantado por quê?",
+   "words": [
+    {
+     "word": "levantado",
+     "start": 22.45,
+     "end": 22.83
+    },
+    {
+     "word": "por",
+     "start": 22.83,
+     "end": 23.03
+    },
+    {
+     "word": "quê?",
+     "start": 23.03,
+     "end": 23.13
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 23.17,
+   "end": 23.85,
+   "text": "Menos conversa",
+   "words": [
+    {
+     "word": "Menos",
+     "start": 23.17,
+     "end": 23.43
+    },
+    {
+     "word": "conversa",
+     "start": 23.43,
+     "end": 23.85
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 23.89,
+   "end": 25.24,
+   "text": "e joga aí, bunda mole",
+   "words": [
+    {
+     "word": "e",
+     "start": 23.89,
+     "end": 24.01
+    },
+    {
+     "word": "joga",
+     "start": 24.09,
+     "end": 24.31
+    },
+    {
+     "word": "aí,",
+     "start": 24.31,
+     "end": 24.43
+    },
+    {
+     "word": "bunda",
+     "start": 24.43,
+     "end": 24.77
+    },
+    {
+     "word": "mole",
+     "start": 24.77,
+     "end": 25.24
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 25.72,
+   "end": 26.67,
+   "text": "é verdade, cara, eu",
+   "words": [
+    {
+     "word": "é",
+     "start": 25.72,
+     "end": 25.86
+    },
+    {
+     "word": "verdade,",
+     "start": 25.86,
+     "end": 26.14
+    },
+    {
+     "word": "cara,",
+     "start": 26.28,
+     "end": 26.52
+    },
+    {
+     "word": "eu",
+     "start": 26.62,
+     "end": 26.67
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 26.64,
+   "end": 27.24,
+   "text": "viajei, não sei",
+   "words": [
+    {
+     "word": "viajei,",
+     "start": 26.64,
+     "end": 26.98
+    },
+    {
+     "word": "não",
+     "start": 27.02,
+     "end": 27.14
+    },
+    {
+     "word": "sei",
+     "start": 27.14,
+     "end": 27.24
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 27.28,
+   "end": 27.98,
+   "text": "por que eu fiz isso mesmo",
+   "words": [
+    {
+     "word": "por",
+     "start": 27.28,
+     "end": 27.42
+    },
+    {
+     "word": "que",
+     "start": 27.42,
+     "end": 27.57
+    },
+    {
+     "word": "eu",
+     "start": 27.57,
+     "end": 27.62
+    },
+    {
+     "word": "fiz",
+     "start": 27.62,
+     "end": 27.67
+    },
+    {
+     "word": "isso",
+     "start": 27.67,
+     "end": 27.8
+    },
+    {
+     "word": "mesmo",
+     "start": 27.8,
+     "end": 27.98
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 28.02,
+   "end": 28.74,
+   "text": "deixa eu botar pra gravar",
+   "words": [
+    {
+     "word": "deixa",
+     "start": 28.02,
+     "end": 28.1
+    },
+    {
+     "word": "eu",
+     "start": 28.1,
+     "end": 28.16
+    },
+    {
+     "word": "botar",
+     "start": 28.16,
+     "end": 28.32
+    },
+    {
+     "word": "pra",
+     "start": 28.32,
+     "end": 28.44
+    },
+    {
+     "word": "gravar",
+     "start": 28.44,
+     "end": 28.74
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 28.78,
+   "end": 30.29,
+   "text": "aqui, perdão, meu total",
+   "words": [
+    {
+     "word": "aqui,",
+     "start": 28.78,
+     "end": 28.96
+    },
+    {
+     "word": "perdão,",
+     "start": 29.34,
+     "end": 29.62
+    },
+    {
+     "word": "meu",
+     "start": 29.62,
+     "end": 29.76
+    },
+    {
+     "word": "total",
+     "start": 29.76,
+     "end": 30.29
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 42.96,
+   "end": 43.56,
+   "text": "vamos embora, continuando",
+   "words": [
+    {
+     "word": "vamos",
+     "start": 42.96,
+     "end": 43.12
+    },
+    {
+     "word": "embora,",
+     "start": 43.12,
+     "end": 43.3
+    },
+    {
+     "word": "continuando",
+     "start": 43.38,
+     "end": 43.56
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 43.6,
+   "end": 44.67,
+   "text": "GTA 6",
+   "words": [
+    {
+     "word": "GTA",
+     "start": 43.6,
+     "end": 43.84
+    },
+    {
+     "word": "6",
+     "start": 43.84,
+     "end": 44.67
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 44.72,
+   "end": 45.7,
+   "text": "e nem sei o que aconteceu",
+   "words": [
+    {
+     "word": "e",
+     "start": 44.72,
+     "end": 44.74
+    },
+    {
+     "word": "nem",
+     "start": 44.94,
+     "end": 45.06
+    },
+    {
+     "word": "sei",
+     "start": 45.06,
+     "end": 45.16
+    },
+    {
+     "word": "o",
+     "start": 45.16,
+     "end": 45.22
+    },
+    {
+     "word": "que",
+     "start": 45.22,
+     "end": 45.27
+    },
+    {
+     "word": "aconteceu",
+     "start": 45.27,
+     "end": 45.7
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 45.74,
+   "end": 46.79,
+   "text": "velho, vou te falar",
+   "words": [
+    {
+     "word": "velho,",
+     "start": 45.74,
+     "end": 46.1
+    },
+    {
+     "word": "vou",
+     "start": 46.14,
+     "end": 46.26
+    },
+    {
+     "word": "te",
+     "start": 46.26,
+     "end": 46.31
+    },
+    {
+     "word": "falar",
+     "start": 46.31,
+     "end": 46.79
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 47.03,
+   "end": 47.87,
+   "text": "tô com amnésia, cadê",
+   "words": [
+    {
+     "word": "tô",
+     "start": 47.03,
+     "end": 47.15
+    },
+    {
+     "word": "com",
+     "start": 47.15,
+     "end": 47.27
+    },
+    {
+     "word": "amnésia,",
+     "start": 47.27,
+     "end": 47.71
+    },
+    {
+     "word": "cadê",
+     "start": 47.79,
+     "end": 47.87
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 47.91,
+   "end": 48.61,
+   "text": "a bebezinha?",
+   "words": [
+    {
+     "word": "a",
+     "start": 47.91,
+     "end": 47.97
+    },
+    {
+     "word": "bebezinha?",
+     "start": 47.97,
+     "end": 48.61
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 48.65,
+   "end": 49.81,
+   "text": "Ah, tá treinando, né?",
+   "words": [
+    {
+     "word": "Ah,",
+     "start": 48.65,
+     "end": 48.75
+    },
+    {
+     "word": "tá",
+     "start": 48.83,
+     "end": 48.89
+    },
+    {
+     "word": "treinando,",
+     "start": 48.89,
+     "end": 49.41
+    },
+    {
+     "word": "né?",
+     "start": 49.51,
+     "end": 49.81
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 51.15,
+   "end": 51.89,
+   "text": "Tá me estressando já",
+   "words": [
+    {
+     "word": "Tá",
+     "start": 51.15,
+     "end": 51.21
+    },
+    {
+     "word": "me",
+     "start": 51.21,
+     "end": 51.29
+    },
+    {
+     "word": "estressando",
+     "start": 51.29,
+     "end": 51.81
+    },
+    {
+     "word": "já",
+     "start": 51.81,
+     "end": 51.89
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 51.93,
+   "end": 53.4,
+   "text": "essa academia, mano",
+   "words": [
+    {
+     "word": "essa",
+     "start": 51.93,
+     "end": 52.09
+    },
+    {
+     "word": "academia,",
+     "start": 52.09,
+     "end": 52.67
+    },
+    {
+     "word": "mano",
+     "start": 52.95,
+     "end": 53.4
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 53.65,
+   "end": 54.25,
+   "text": "só tá me trocando",
+   "words": [
+    {
+     "word": "só",
+     "start": 53.65,
+     "end": 53.75
+    },
+    {
+     "word": "tá",
+     "start": 53.75,
+     "end": 53.85
+    },
+    {
+     "word": "me",
+     "start": 53.85,
+     "end": 53.97
+    },
+    {
+     "word": "trocando",
+     "start": 53.97,
+     "end": 54.25
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 54.29,
+   "end": 55.48,
+   "text": "por academia, mano",
+   "words": [
+    {
+     "word": "por",
+     "start": 54.29,
+     "end": 54.45
+    },
+    {
+     "word": "academia,",
+     "start": 54.45,
+     "end": 54.83
+    },
+    {
+     "word": "mano",
+     "start": 55.07,
+     "end": 55.48
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
