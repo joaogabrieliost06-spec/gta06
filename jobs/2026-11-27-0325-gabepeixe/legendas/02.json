@@ -1,0 +1,114 @@
+{
+ "segments": [
+  {
+   "start": 61.93,
+   "end": 63.82,
+   "text": "Caralho, que foda, viado",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 61.93,
+     "end": 62.45
+    },
+    {
+     "word": "que",
+     "start": 62.55,
+     "end": 62.65
+    },
+    {
+     "word": "foda,",
+     "start": 62.65,
+     "end": 63.01
+    },
+    {
+     "word": "viado",
+     "start": 63.19,
+     "end": 63.82
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 75.01,
+   "end": 75.91,
+   "text": "Quantas missões deve",
+   "words": [
+    {
+     "word": "Quantas",
+     "start": 75.01,
+     "end": 75.53
+    },
+    {
+     "word": "missões",
+     "start": 75.53,
+     "end": 75.81
+    },
+    {
+     "word": "deve",
+     "start": 75.81,
+     "end": 75.91
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 75.95,
+   "end": 76.55,
+   "text": "estar faltando para",
+   "words": [
+    {
+     "word": "estar",
+     "start": 75.95,
+     "end": 76.07
+    },
+    {
+     "word": "faltando",
+     "start": 76.07,
+     "end": 76.45
+    },
+    {
+     "word": "para",
+     "start": 76.45,
+     "end": 76.55
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 76.59,
+   "end": 77.52,
+   "text": "acabar o jogo?",
+   "words": [
+    {
+     "word": "acabar",
+     "start": 76.59,
+     "end": 76.85
+    },
+    {
+     "word": "o",
+     "start": 76.85,
+     "end": 77.01
+    },
+    {
+     "word": "jogo?",
+     "start": 77.01,
+     "end": 77.52
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 78.37,
+   "end": 79.04,
+   "text": "Opa",
+   "words": [
+    {
+     "word": "Opa",
+     "start": 78.37,
+     "end": 79.04
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
