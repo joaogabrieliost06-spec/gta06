@@ -1,0 +1,275 @@
+{
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 0.87,
+   "text": "Acho que não deixa",
+   "words": [
+    {
+     "word": "Acho",
+     "start": 0.0,
+     "end": 0.12
+    },
+    {
+     "word": "que",
+     "start": 0.12,
+     "end": 0.17
+    },
+    {
+     "word": "não",
+     "start": 0.17,
+     "end": 0.28
+    },
+    {
+     "word": "deixa",
+     "start": 0.28,
+     "end": 0.87
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 3.89,
+   "end": 4.78,
+   "text": "não",
+   "words": [
+    {
+     "word": "não",
+     "start": 3.89,
+     "end": 4.78
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.54,
+   "end": 7.49,
+   "text": "precisa dormir",
+   "words": [
+    {
+     "word": "precisa",
+     "start": 6.54,
+     "end": 6.8
+    },
+    {
+     "word": "dormir",
+     "start": 6.8,
+     "end": 7.49
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.68,
+   "end": 9.14,
+   "text": "irmão, tá faltando",
+   "words": [
+    {
+     "word": "irmão,",
+     "start": 7.68,
+     "end": 8.58
+    },
+    {
+     "word": "tá",
+     "start": 8.74,
+     "end": 8.8
+    },
+    {
+     "word": "faltando",
+     "start": 8.8,
+     "end": 9.14
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 9.18,
+   "end": 10.08,
+   "text": "tão pouco pra zerar",
+   "words": [
+    {
+     "word": "tão",
+     "start": 9.18,
+     "end": 9.32
+    },
+    {
+     "word": "pouco",
+     "start": 9.32,
+     "end": 9.56
+    },
+    {
+     "word": "pra",
+     "start": 9.56,
+     "end": 9.74
+    },
+    {
+     "word": "zerar",
+     "start": 9.74,
+     "end": 10.08
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.12,
+   "end": 10.66,
+   "text": "mais uma live",
+   "words": [
+    {
+     "word": "mais",
+     "start": 10.12,
+     "end": 10.26
+    },
+    {
+     "word": "uma",
+     "start": 10.26,
+     "end": 10.48
+    },
+    {
+     "word": "live",
+     "start": 10.48,
+     "end": 10.66
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.7,
+   "end": 11.72,
+   "text": "a gente zera, mano",
+   "words": [
+    {
+     "word": "a",
+     "start": 10.7,
+     "end": 10.78
+    },
+    {
+     "word": "gente",
+     "start": 10.78,
+     "end": 10.92
+    },
+    {
+     "word": "zera,",
+     "start": 10.92,
+     "end": 11.28
+    },
+    {
+     "word": "mano",
+     "start": 11.42,
+     "end": 11.72
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 12.31,
+   "end": 13.28,
+   "text": "deu certeza",
+   "words": [
+    {
+     "word": "deu",
+     "start": 12.31,
+     "end": 12.45
+    },
+    {
+     "word": "certeza",
+     "start": 12.45,
+     "end": 13.28
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 13.59,
+   "end": 14.58,
+   "text": "a gente já tá no",
+   "words": [
+    {
+     "word": "a",
+     "start": 13.59,
+     "end": 13.63
+    },
+    {
+     "word": "gente",
+     "start": 13.63,
+     "end": 13.71
+    },
+    {
+     "word": "já",
+     "start": 13.71,
+     "end": 13.85
+    },
+    {
+     "word": "tá",
+     "start": 13.85,
+     "end": 13.97
+    },
+    {
+     "word": "no",
+     "start": 13.97,
+     "end": 14.58
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 14.85,
+   "end": 15.25,
+   "text": "tem que falar",
+   "words": [
+    {
+     "word": "tem",
+     "start": 14.85,
+     "end": 15.07
+    },
+    {
+     "word": "que",
+     "start": 15.07,
+     "end": 15.15
+    },
+    {
+     "word": "falar",
+     "start": 15.15,
+     "end": 15.25
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 15.29,
+   "end": 16.11,
+   "text": "com essa Valentina",
+   "words": [
+    {
+     "word": "com",
+     "start": 15.29,
+     "end": 15.37
+    },
+    {
+     "word": "essa",
+     "start": 15.37,
+     "end": 15.49
+    },
+    {
+     "word": "Valentina",
+     "start": 15.49,
+     "end": 16.11
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 16.15,
+   "end": 16.75,
+   "text": "né?",
+   "words": [
+    {
+     "word": "né?",
+     "start": 16.15,
+     "end": 16.75
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
