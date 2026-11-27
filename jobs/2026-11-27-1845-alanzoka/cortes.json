@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, Alan, GTA 6, Lucia, Jason, limão, alergia, balada, controle, babá de marmanjo, chat, mano",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:06:10", "fim": "0:07:30", "titulo": "ELE TEM ALERGIA A LIMÃO"},
+  {"id": "02", "inicio": "0:10:02", "fim": "0:11:30", "titulo": "AGORA ELE QUER LIMÃO"},
+  {"id": "03", "inicio": "0:18:20", "fim": "0:19:45", "titulo": "BABÁ DE MARMANJO"}
+ ]
+}
