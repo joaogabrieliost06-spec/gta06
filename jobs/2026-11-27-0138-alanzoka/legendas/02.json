@@ -1,0 +1,279 @@
+{
+ "segments": [
+  {
+   "start": 4.27,
+   "end": 5.38,
+   "text": "Caralho",
+   "words": [
+    {
+     "word": "Caralho",
+     "start": 4.27,
+     "end": 5.38
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 6.53,
+   "end": 7.85,
+   "text": "nossa, esse foi",
+   "words": [
+    {
+     "word": "nossa,",
+     "start": 6.53,
+     "end": 7.05
+    },
+    {
+     "word": "esse",
+     "start": 7.29,
+     "end": 7.73
+    },
+    {
+     "word": "foi",
+     "start": 7.73,
+     "end": 7.85
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 7.89,
+   "end": 8.79,
+   "text": "muito da hora",
+   "words": [
+    {
+     "word": "muito",
+     "start": 7.89,
+     "end": 8.11
+    },
+    {
+     "word": "da",
+     "start": 8.11,
+     "end": 8.29
+    },
+    {
+     "word": "hora",
+     "start": 8.29,
+     "end": 8.79
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 8.83,
+   "end": 9.6,
+   "text": "velho",
+   "words": [
+    {
+     "word": "velho",
+     "start": 8.83,
+     "end": 9.6
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 10.54,
+   "end": 11.02,
+   "text": "eu quero mais",
+   "words": [
+    {
+     "word": "eu",
+     "start": 10.54,
+     "end": 10.68
+    },
+    {
+     "word": "quero",
+     "start": 10.68,
+     "end": 10.86
+    },
+    {
+     "word": "mais",
+     "start": 10.86,
+     "end": 11.02
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 11.06,
+   "end": 12.22,
+   "text": "alienígena, nossa",
+   "words": [
+    {
+     "word": "alienígena,",
+     "start": 11.06,
+     "end": 11.8
+    },
+    {
+     "word": "nossa",
+     "start": 11.9,
+     "end": 12.22
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 12.26,
+   "end": 13.14,
+   "text": "melhorou meu foco",
+   "words": [
+    {
+     "word": "melhorou",
+     "start": 12.26,
+     "end": 12.46
+    },
+    {
+     "word": "meu",
+     "start": 12.46,
+     "end": 12.58
+    },
+    {
+     "word": "foco",
+     "start": 12.58,
+     "end": 13.14
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 13.18,
+   "end": 13.79,
+   "text": "melhorou tudo",
+   "words": [
+    {
+     "word": "melhorou",
+     "start": 13.18,
+     "end": 13.46
+    },
+    {
+     "word": "tudo",
+     "start": 13.46,
+     "end": 13.79
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 14.05,
+   "end": 15.02,
+   "text": "o exército",
+   "words": [
+    {
+     "word": "o",
+     "start": 14.05,
+     "end": 14.21
+    },
+    {
+     "word": "exército",
+     "start": 14.21,
+     "end": 15.02
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 15.3,
+   "end": 17.69,
+   "text": "— os⁠ tiras⁠",
+   "words": [
+    {
+     "word": "— os⁠",
+     "start": 15.3,
+     "end": 16.96
+    },
+    {
+     "word": "tiras⁠",
+     "start": 16.96,
+     "end": 17.69
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 20.93,
+   "end": 22.1,
+   "text": "me⁠",
+   "words": [
+    {
+     "word": "me⁠",
+     "start": 20.93,
+     "end": 22.1
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 40.43,
+   "end": 41.18,
+   "text": "leva⁠",
+   "words": [
+    {
+     "word": "leva⁠",
+     "start": 40.43,
+     "end": 41.18
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 54.33,
+   "end": 55.13,
+   "text": "— caralho,⁠ mano⁠",
+   "words": [
+    {
+     "word": "— caralho,⁠",
+     "start": 54.33,
+     "end": 54.69
+    },
+    {
+     "word": "mano⁠",
+     "start": 54.85,
+     "end": 55.13
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 55.17,
+   "end": 56.03,
+   "text": "que⁠ que⁠ foi⁠ isso⁠",
+   "words": [
+    {
+     "word": "que⁠",
+     "start": 55.17,
+     "end": 55.27
+    },
+    {
+     "word": "que⁠",
+     "start": 55.27,
+     "end": 55.49
+    },
+    {
+     "word": "foi⁠",
+     "start": 55.49,
+     "end": 55.65
+    },
+    {
+     "word": "isso⁠",
+     "start": 55.65,
+     "end": 56.03
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 56.07,
+   "end": 56.72,
+   "text": "velho⁠",
+   "words": [
+    {
+     "word": "velho⁠",
+     "start": 56.07,
+     "end": 56.72
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
