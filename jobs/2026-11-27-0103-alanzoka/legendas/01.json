@@ -1,0 +1,603 @@
+{
+ "segments": [
+  {
+   "start": 1.16,
+   "end": 2.21,
+   "text": "— Ah,⁠ eu⁠ vou,⁠ eu⁠",
+   "words": [
+    {
+     "word": "— Ah,⁠",
+     "start": 1.16,
+     "end": 1.5
+    },
+    {
+     "word": "eu⁠",
+     "start": 1.7,
+     "end": 1.82
+    },
+    {
+     "word": "vou,⁠",
+     "start": 1.82,
+     "end": 2.04
+    },
+    {
+     "word": "eu⁠",
+     "start": 2.16,
+     "end": 2.21
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 2.24,
+   "end": 3.14,
+   "text": "vou,⁠ cara,⁠ porque⁠ eu⁠",
+   "words": [
+    {
+     "word": "vou,⁠",
+     "start": 2.24,
+     "end": 2.48
+    },
+    {
+     "word": "cara,⁠",
+     "start": 2.66,
+     "end": 2.76
+    },
+    {
+     "word": "porque⁠",
+     "start": 2.9,
+     "end": 3.04
+    },
+    {
+     "word": "eu⁠",
+     "start": 3.04,
+     "end": 3.14
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 3.18,
+   "end": 5.35,
+   "text": "tenho⁠ o⁠ movimentação⁠",
+   "words": [
+    {
+     "word": "tenho⁠",
+     "start": 3.18,
+     "end": 3.5
+    },
+    {
+     "word": "o⁠",
+     "start": 3.5,
+     "end": 4.02
+    },
+    {
+     "word": "movimentação⁠",
+     "start": 4.23,
+     "end": 5.35
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 5.39,
+   "end": 6.18,
+   "text": "de⁠ next⁠ stage⁠",
+   "words": [
+    {
+     "word": "de⁠",
+     "start": 5.39,
+     "end": 5.51
+    },
+    {
+     "word": "next⁠",
+     "start": 5.51,
+     "end": 5.69
+    },
+    {
+     "word": "stage⁠",
+     "start": 5.69,
+     "end": 6.18
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 7.6,
+   "end": 8.33,
+   "text": "Ué?⁠",
+   "words": [
+    {
+     "word": "Ué?⁠",
+     "start": 7.6,
+     "end": 8.33
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 12.34,
+   "end": 13.26,
+   "text": "Ah,⁠ emboscaram⁠",
+   "words": [
+    {
+     "word": "Ah,⁠",
+     "start": 12.34,
+     "end": 12.82
+    },
+    {
+     "word": "emboscaram⁠",
+     "start": 12.82,
+     "end": 13.26
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 13.3,
+   "end": 14.03,
+   "text": "os⁠ caras⁠",
+   "words": [
+    {
+     "word": "os⁠",
+     "start": 13.3,
+     "end": 13.54
+    },
+    {
+     "word": "caras⁠",
+     "start": 13.54,
+     "end": 14.03
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 14.9,
+   "end": 15.48,
+   "text": "Duvido?⁠",
+   "words": [
+    {
+     "word": "Duvido?⁠",
+     "start": 14.9,
+     "end": 15.48
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 15.52,
+   "end": 16.24,
+   "text": "Fala⁠ duvido⁠",
+   "words": [
+    {
+     "word": "Fala⁠",
+     "start": 15.52,
+     "end": 15.86
+    },
+    {
+     "word": "duvido⁠",
+     "start": 15.86,
+     "end": 16.24
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 16.28,
+   "end": 18.25,
+   "text": "— fala⁠ duvido⁠",
+   "words": [
+    {
+     "word": "— fala⁠",
+     "start": 16.28,
+     "end": 17.14
+    },
+    {
+     "word": "duvido⁠",
+     "start": 17.14,
+     "end": 18.25
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 23.86,
+   "end": 24.8,
+   "text": "Recupera,⁠ recupera⁠",
+   "words": [
+    {
+     "word": "Recupera,⁠",
+     "start": 23.86,
+     "end": 24.34
+    },
+    {
+     "word": "recupera⁠",
+     "start": 24.34,
+     "end": 24.8
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 24.84,
+   "end": 25.63,
+   "text": "recupera⁠",
+   "words": [
+    {
+     "word": "recupera⁠",
+     "start": 24.84,
+     "end": 25.63
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 27.45,
+   "end": 28.91,
+   "text": "Mano, eu passei, eu",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 27.45,
+     "end": 28.17
+    },
+    {
+     "word": "eu",
+     "start": 28.21,
+     "end": 28.29
+    },
+    {
+     "word": "passei,",
+     "start": 28.29,
+     "end": 28.75
+    },
+    {
+     "word": "eu",
+     "start": 28.85,
+     "end": 28.91
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 28.95,
+   "end": 30.17,
+   "text": "passei, mas um poste",
+   "words": [
+    {
+     "word": "passei,",
+     "start": 28.95,
+     "end": 29.27
+    },
+    {
+     "word": "mas",
+     "start": 29.33,
+     "end": 29.41
+    },
+    {
+     "word": "um",
+     "start": 29.41,
+     "end": 29.65
+    },
+    {
+     "word": "poste",
+     "start": 29.65,
+     "end": 30.17
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 30.21,
+   "end": 31.34,
+   "text": "me pegou, velho",
+   "words": [
+    {
+     "word": "me",
+     "start": 30.21,
+     "end": 30.29
+    },
+    {
+     "word": "pegou,",
+     "start": 30.29,
+     "end": 30.63
+    },
+    {
+     "word": "velho",
+     "start": 30.73,
+     "end": 31.34
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 31.56,
+   "end": 33.28,
+   "text": "Um poste me pegou",
+   "words": [
+    {
+     "word": "Um",
+     "start": 31.56,
+     "end": 32.16
+    },
+    {
+     "word": "poste",
+     "start": 32.16,
+     "end": 32.76
+    },
+    {
+     "word": "me",
+     "start": 32.76,
+     "end": 32.86
+    },
+    {
+     "word": "pegou",
+     "start": 32.86,
+     "end": 33.28
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 33.32,
+   "end": 34.2,
+   "text": "velho, que loucura",
+   "words": [
+    {
+     "word": "velho,",
+     "start": 33.32,
+     "end": 33.62
+    },
+    {
+     "word": "que",
+     "start": 33.66,
+     "end": 33.76
+    },
+    {
+     "word": "loucura",
+     "start": 33.76,
+     "end": 34.2
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 34.24,
+   "end": 34.99,
+   "text": "Eu",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 34.24,
+     "end": 34.99
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 35.56,
+   "end": 36.36,
+   "text": "passei, vocês viram",
+   "words": [
+    {
+     "word": "passei,",
+     "start": 35.56,
+     "end": 36.06
+    },
+    {
+     "word": "vocês",
+     "start": 36.12,
+     "end": 36.24
+    },
+    {
+     "word": "viram",
+     "start": 36.24,
+     "end": 36.36
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 36.4,
+   "end": 36.98,
+   "text": "que eu passei Só",
+   "words": [
+    {
+     "word": "que",
+     "start": 36.4,
+     "end": 36.44
+    },
+    {
+     "word": "eu",
+     "start": 36.44,
+     "end": 36.52
+    },
+    {
+     "word": "passei",
+     "start": 36.52,
+     "end": 36.9
+    },
+    {
+     "word": "Só",
+     "start": 36.9,
+     "end": 36.98
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 37.02,
+   "end": 37.76,
+   "text": "que tinha um poste",
+   "words": [
+    {
+     "word": "que",
+     "start": 37.02,
+     "end": 37.12
+    },
+    {
+     "word": "tinha",
+     "start": 37.12,
+     "end": 37.2
+    },
+    {
+     "word": "um",
+     "start": 37.2,
+     "end": 37.36
+    },
+    {
+     "word": "poste",
+     "start": 37.36,
+     "end": 37.76
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 37.8,
+   "end": 39.18,
+   "text": "o poste Que",
+   "words": [
+    {
+     "word": "o",
+     "start": 37.8,
+     "end": 37.94
+    },
+    {
+     "word": "poste",
+     "start": 37.94,
+     "end": 38.76
+    },
+    {
+     "word": "Que",
+     "start": 38.76,
+     "end": 39.18
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 39.22,
+   "end": 39.96,
+   "text": "nem era parte",
+   "words": [
+    {
+     "word": "nem",
+     "start": 39.22,
+     "end": 39.4
+    },
+    {
+     "word": "era",
+     "start": 39.4,
+     "end": 39.6
+    },
+    {
+     "word": "parte",
+     "start": 39.6,
+     "end": 39.96
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 40.0,
+   "end": 40.82,
+   "text": "da ponte, mano Era",
+   "words": [
+    {
+     "word": "da",
+     "start": 40.0,
+     "end": 40.16
+    },
+    {
+     "word": "ponte,",
+     "start": 40.16,
+     "end": 40.5
+    },
+    {
+     "word": "mano",
+     "start": 40.58,
+     "end": 40.7
+    },
+    {
+     "word": "Era",
+     "start": 40.7,
+     "end": 40.82
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 40.86,
+   "end": 41.66,
+   "text": "um poste, pô",
+   "words": [
+    {
+     "word": "um",
+     "start": 40.86,
+     "end": 40.96
+    },
+    {
+     "word": "poste,",
+     "start": 40.96,
+     "end": 41.42
+    },
+    {
+     "word": "pô",
+     "start": 41.42,
+     "end": 41.66
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 41.7,
+   "end": 42.49,
+   "text": "aleatório",
+   "words": [
+    {
+     "word": "aleatório",
+     "start": 41.7,
+     "end": 42.49
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 43.6,
+   "end": 44.54,
+   "text": "Mentira que voltou",
+   "words": [
+    {
+     "word": "Mentira",
+     "start": 43.6,
+     "end": 44.24
+    },
+    {
+     "word": "que",
+     "start": 44.24,
+     "end": 44.32
+    },
+    {
+     "word": "voltou",
+     "start": 44.32,
+     "end": 44.54
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 44.58,
+   "end": 45.18,
+   "text": "tudo",
+   "words": [
+    {
+     "word": "tudo",
+     "start": 44.58,
+     "end": 45.18
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
