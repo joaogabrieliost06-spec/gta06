@@ -1,0 +1,792 @@
+{
+ "segments": [
+  {
+   "start": 2.89,
+   "end": 3.88,
+   "text": "Olha isso",
+   "words": [
+    {
+     "word": "Olha",
+     "start": 2.89,
+     "end": 3.21
+    },
+    {
+     "word": "isso",
+     "start": 3.21,
+     "end": 3.88
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 4.56,
+   "end": 5.3,
+   "text": "meu Deus, não",
+   "words": [
+    {
+     "word": "meu",
+     "start": 4.56,
+     "end": 4.72
+    },
+    {
+     "word": "Deus,",
+     "start": 4.72,
+     "end": 5.06
+    },
+    {
+     "word": "não",
+     "start": 5.24,
+     "end": 5.3
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 5.34,
+   "end": 6.41,
+   "text": "dá pra enxergar nada",
+   "words": [
+    {
+     "word": "dá",
+     "start": 5.34,
+     "end": 5.38
+    },
+    {
+     "word": "pra",
+     "start": 5.38,
+     "end": 5.46
+    },
+    {
+     "word": "enxergar",
+     "start": 5.46,
+     "end": 5.78
+    },
+    {
+     "word": "nada",
+     "start": 5.78,
+     "end": 6.41
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 8.24,
+   "end": 8.84,
+   "text": "eu tô a 300",
+   "words": [
+    {
+     "word": "eu",
+     "start": 8.24,
+     "end": 8.38
+    },
+    {
+     "word": "tô",
+     "start": 8.38,
+     "end": 8.46
+    },
+    {
+     "word": "a",
+     "start": 8.46,
+     "end": 8.6
+    },
+    {
+     "word": "300",
+     "start": 8.6,
+     "end": 8.84
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 8.88,
+   "end": 9.58,
+   "text": "metros de altura",
+   "words": [
+    {
+     "word": "metros",
+     "start": 8.88,
+     "end": 9.12
+    },
+    {
+     "word": "de",
+     "start": 9.12,
+     "end": 9.26
+    },
+    {
+     "word": "altura",
+     "start": 9.26,
+     "end": 9.58
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 9.62,
+   "end": 10.9,
+   "text": "do chão, eu posso",
+   "words": [
+    {
+     "word": "do",
+     "start": 9.62,
+     "end": 10.3
+    },
+    {
+     "word": "chão,",
+     "start": 10.3,
+     "end": 10.6
+    },
+    {
+     "word": "eu",
+     "start": 10.68,
+     "end": 10.76
+    },
+    {
+     "word": "posso",
+     "start": 10.76,
+     "end": 10.9
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 10.94,
+   "end": 12.3,
+   "text": "cair, mano, eu não",
+   "words": [
+    {
+     "word": "cair,",
+     "start": 10.94,
+     "end": 11.2
+    },
+    {
+     "word": "mano,",
+     "start": 11.42,
+     "end": 11.56
+    },
+    {
+     "word": "eu",
+     "start": 11.98,
+     "end": 12.22
+    },
+    {
+     "word": "não",
+     "start": 12.22,
+     "end": 12.3
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 12.34,
+   "end": 13.05,
+   "text": "tenho visão, eu não",
+   "words": [
+    {
+     "word": "tenho",
+     "start": 12.34,
+     "end": 12.48
+    },
+    {
+     "word": "visão,",
+     "start": 12.48,
+     "end": 12.76
+    },
+    {
+     "word": "eu",
+     "start": 12.94,
+     "end": 13.0
+    },
+    {
+     "word": "não",
+     "start": 13.0,
+     "end": 13.05
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 13.08,
+   "end": 13.82,
+   "text": "sei onde eu tô, eu não sei",
+   "words": [
+    {
+     "word": "sei",
+     "start": 13.08,
+     "end": 13.2
+    },
+    {
+     "word": "onde",
+     "start": 13.2,
+     "end": 13.36
+    },
+    {
+     "word": "eu",
+     "start": 13.36,
+     "end": 13.41
+    },
+    {
+     "word": "tô,",
+     "start": 13.41,
+     "end": 13.5
+    },
+    {
+     "word": "eu",
+     "start": 13.58,
+     "end": 13.66
+    },
+    {
+     "word": "não",
+     "start": 13.66,
+     "end": 13.74
+    },
+    {
+     "word": "sei",
+     "start": 13.74,
+     "end": 13.82
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 13.86,
+   "end": 14.42,
+   "text": "onde eu tô, velho",
+   "words": [
+    {
+     "word": "onde",
+     "start": 13.86,
+     "end": 14.0
+    },
+    {
+     "word": "eu",
+     "start": 14.0,
+     "end": 14.06
+    },
+    {
+     "word": "tô,",
+     "start": 14.06,
+     "end": 14.18
+    },
+    {
+     "word": "velho",
+     "start": 14.3,
+     "end": 14.42
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 14.46,
+   "end": 14.98,
+   "text": "eu tô a 400",
+   "words": [
+    {
+     "word": "eu",
+     "start": 14.46,
+     "end": 14.52
+    },
+    {
+     "word": "tô",
+     "start": 14.52,
+     "end": 14.6
+    },
+    {
+     "word": "a",
+     "start": 14.6,
+     "end": 14.72
+    },
+    {
+     "word": "400",
+     "start": 14.72,
+     "end": 14.98
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 15.02,
+   "end": 15.64,
+   "text": "metros de altura",
+   "words": [
+    {
+     "word": "metros",
+     "start": 15.02,
+     "end": 15.24
+    },
+    {
+     "word": "de",
+     "start": 15.24,
+     "end": 15.32
+    },
+    {
+     "word": "altura",
+     "start": 15.32,
+     "end": 15.64
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 15.68,
+   "end": 16.81,
+   "text": "e eu não enxergo",
+   "words": [
+    {
+     "word": "e",
+     "start": 15.68,
+     "end": 16.2
+    },
+    {
+     "word": "eu",
+     "start": 16.31,
+     "end": 16.39
+    },
+    {
+     "word": "não",
+     "start": 16.39,
+     "end": 16.45
+    },
+    {
+     "word": "enxergo",
+     "start": 16.45,
+     "end": 16.81
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 16.85,
+   "end": 17.45,
+   "text": "o chão",
+   "words": [
+    {
+     "word": "o",
+     "start": 16.85,
+     "end": 16.99
+    },
+    {
+     "word": "chão",
+     "start": 16.99,
+     "end": 17.45
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 19.0,
+   "end": 19.46,
+   "text": "eu não enxergo",
+   "words": [
+    {
+     "word": "eu",
+     "start": 19.0,
+     "end": 19.1
+    },
+    {
+     "word": "não",
+     "start": 19.1,
+     "end": 19.18
+    },
+    {
+     "word": "enxergo",
+     "start": 19.18,
+     "end": 19.46
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 19.5,
+   "end": 21.23,
+   "text": "o chão, eu a 300 metros",
+   "words": [
+    {
+     "word": "o",
+     "start": 19.5,
+     "end": 19.6
+    },
+    {
+     "word": "chão,",
+     "start": 19.6,
+     "end": 19.7
+    },
+    {
+     "word": "eu",
+     "start": 19.78,
+     "end": 19.83
+    },
+    {
+     "word": "a",
+     "start": 19.83,
+     "end": 19.96
+    },
+    {
+     "word": "300",
+     "start": 19.96,
+     "end": 20.32
+    },
+    {
+     "word": "metros",
+     "start": 20.32,
+     "end": 21.23
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 22.37,
+   "end": 22.91,
+   "text": "vou descer mais um",
+   "words": [
+    {
+     "word": "vou",
+     "start": 22.37,
+     "end": 22.49
+    },
+    {
+     "word": "descer",
+     "start": 22.49,
+     "end": 22.67
+    },
+    {
+     "word": "mais",
+     "start": 22.67,
+     "end": 22.81
+    },
+    {
+     "word": "um",
+     "start": 22.81,
+     "end": 22.91
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 22.95,
+   "end": 24.43,
+   "text": "pouco, 350, 240",
+   "words": [
+    {
+     "word": "pouco,",
+     "start": 22.95,
+     "end": 23.15
+    },
+    {
+     "word": "350,",
+     "start": 23.25,
+     "end": 23.47
+    },
+    {
+     "word": "240",
+     "start": 23.89,
+     "end": 24.43
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 24.47,
+   "end": 25.07,
+   "text": "300",
+   "words": [
+    {
+     "word": "300",
+     "start": 24.47,
+     "end": 25.07
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 25.49,
+   "end": 26.66,
+   "text": "mano, meu Deus",
+   "words": [
+    {
+     "word": "mano,",
+     "start": 25.49,
+     "end": 25.75
+    },
+    {
+     "word": "meu",
+     "start": 25.97,
+     "end": 26.13
+    },
+    {
+     "word": "Deus",
+     "start": 26.13,
+     "end": 26.66
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 28.62,
+   "end": 29.05,
+   "text": "tá calma, eu",
+   "words": [
+    {
+     "word": "tá",
+     "start": 28.62,
+     "end": 28.76
+    },
+    {
+     "word": "calma,",
+     "start": 28.76,
+     "end": 28.96
+    },
+    {
+     "word": "eu",
+     "start": 29.0,
+     "end": 29.05
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 29.04,
+   "end": 29.66,
+   "text": "tô enxergando o chão",
+   "words": [
+    {
+     "word": "tô",
+     "start": 29.04,
+     "end": 29.1
+    },
+    {
+     "word": "enxergando",
+     "start": 29.1,
+     "end": 29.46
+    },
+    {
+     "word": "o",
+     "start": 29.46,
+     "end": 29.58
+    },
+    {
+     "word": "chão",
+     "start": 29.58,
+     "end": 29.66
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 29.7,
+   "end": 30.3,
+   "text": "agora",
+   "words": [
+    {
+     "word": "agora",
+     "start": 29.7,
+     "end": 30.3
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 33.36,
+   "end": 33.84,
+   "text": "— mano,⁠ eu⁠ nunca⁠ vou⁠",
+   "words": [
+    {
+     "word": "— mano,⁠",
+     "start": 33.36,
+     "end": 33.46
+    },
+    {
+     "word": "eu⁠",
+     "start": 33.56,
+     "end": 33.62
+    },
+    {
+     "word": "nunca⁠",
+     "start": 33.62,
+     "end": 33.76
+    },
+    {
+     "word": "vou⁠",
+     "start": 33.76,
+     "end": 33.84
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 33.88,
+   "end": 34.48,
+   "text": "achar⁠ o⁠ alienígena⁠",
+   "words": [
+    {
+     "word": "achar⁠",
+     "start": 33.88,
+     "end": 34.06
+    },
+    {
+     "word": "o⁠",
+     "start": 34.06,
+     "end": 34.14
+    },
+    {
+     "word": "alienígena⁠",
+     "start": 34.14,
+     "end": 34.48
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 34.52,
+   "end": 35.77,
+   "text": "nesse⁠ tempo,⁠ velho⁠",
+   "words": [
+    {
+     "word": "nesse⁠",
+     "start": 34.52,
+     "end": 34.72
+    },
+    {
+     "word": "tempo,⁠",
+     "start": 34.72,
+     "end": 35.06
+    },
+    {
+     "word": "velho⁠",
+     "start": 35.26,
+     "end": 35.77
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 38.69,
+   "end": 40.23,
+   "text": "chat,⁠ vamos⁠ ter⁠",
+   "words": [
+    {
+     "word": "chat,⁠",
+     "start": 38.69,
+     "end": 38.91
+    },
+    {
+     "word": "vamos⁠",
+     "start": 39.15,
+     "end": 39.77
+    },
+    {
+     "word": "ter⁠",
+     "start": 40.11,
+     "end": 40.23
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 40.27,
+   "end": 41.54,
+   "text": "que⁠ ter⁠ um⁠ plano⁠ B,⁠ velho⁠",
+   "words": [
+    {
+     "word": "que⁠",
+     "start": 40.27,
+     "end": 40.35
+    },
+    {
+     "word": "ter⁠",
+     "start": 40.35,
+     "end": 40.43
+    },
+    {
+     "word": "um⁠",
+     "start": 40.43,
+     "end": 40.51
+    },
+    {
+     "word": "plano⁠",
+     "start": 40.51,
+     "end": 40.73
+    },
+    {
+     "word": "B,⁠",
+     "start": 40.73,
+     "end": 40.93
+    },
+    {
+     "word": "velho⁠",
+     "start": 41.09,
+     "end": 41.54
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 45.97,
+   "end": 46.77,
+   "text": "não⁠ tem⁠ como⁠ achar⁠",
+   "words": [
+    {
+     "word": "não⁠",
+     "start": 45.97,
+     "end": 46.13
+    },
+    {
+     "word": "tem⁠",
+     "start": 46.13,
+     "end": 46.31
+    },
+    {
+     "word": "como⁠",
+     "start": 46.31,
+     "end": 46.53
+    },
+    {
+     "word": "achar⁠",
+     "start": 46.53,
+     "end": 46.77
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 46.81,
+   "end": 47.41,
+   "text": "o⁠ alienígena⁠ nesse⁠",
+   "words": [
+    {
+     "word": "o⁠",
+     "start": 46.81,
+     "end": 46.89
+    },
+    {
+     "word": "alienígena⁠",
+     "start": 46.89,
+     "end": 47.27
+    },
+    {
+     "word": "nesse⁠",
+     "start": 47.27,
+     "end": 47.41
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 47.45,
+   "end": 48.42,
+   "text": "tempo,⁠ mano⁠",
+   "words": [
+    {
+     "word": "tempo,⁠",
+     "start": 47.45,
+     "end": 47.81
+    },
+    {
+     "word": "mano⁠",
+     "start": 47.93,
+     "end": 48.42
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
