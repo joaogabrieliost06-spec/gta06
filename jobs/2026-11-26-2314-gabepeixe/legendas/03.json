@@ -1,0 +1,626 @@
+{
+ "segments": [
+  {
+   "start": 0.59,
+   "end": 1.6,
+   "text": "Pequena dúvida",
+   "words": [
+    {
+     "word": "Pequena",
+     "start": 0.59,
+     "end": 0.97
+    },
+    {
+     "word": "dúvida",
+     "start": 0.97,
+     "end": 1.6
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 2.43,
+   "end": 3.61,
+   "text": "Que tipo de documento",
+   "words": [
+    {
+     "word": "Que",
+     "start": 2.43,
+     "end": 2.53
+    },
+    {
+     "word": "tipo",
+     "start": 2.53,
+     "end": 2.81
+    },
+    {
+     "word": "de",
+     "start": 2.81,
+     "end": 3.01
+    },
+    {
+     "word": "documento",
+     "start": 3.01,
+     "end": 3.61
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 3.65,
+   "end": 4.74,
+   "text": "ela passou nisso aí?",
+   "words": [
+    {
+     "word": "ela",
+     "start": 3.65,
+     "end": 3.75
+    },
+    {
+     "word": "passou",
+     "start": 3.75,
+     "end": 4.09
+    },
+    {
+     "word": "nisso",
+     "start": 4.09,
+     "end": 4.37
+    },
+    {
+     "word": "aí?",
+     "start": 4.37,
+     "end": 4.74
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 4.97,
+   "end": 5.61,
+   "text": "Porque só pra passar",
+   "words": [
+    {
+     "word": "Porque",
+     "start": 4.97,
+     "end": 5.11
+    },
+    {
+     "word": "só",
+     "start": 5.11,
+     "end": 5.29
+    },
+    {
+     "word": "pra",
+     "start": 5.29,
+     "end": 5.41
+    },
+    {
+     "word": "passar",
+     "start": 5.41,
+     "end": 5.61
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 5.65,
+   "end": 6.21,
+   "text": "nisso aí já precisa",
+   "words": [
+    {
+     "word": "nisso",
+     "start": 5.65,
+     "end": 5.87
+    },
+    {
+     "word": "aí",
+     "start": 5.87,
+     "end": 5.95
+    },
+    {
+     "word": "já",
+     "start": 5.95,
+     "end": 6.05
+    },
+    {
+     "word": "precisa",
+     "start": 6.05,
+     "end": 6.21
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 6.25,
+   "end": 6.63,
+   "text": "apresentar",
+   "words": [
+    {
+     "word": "apresentar",
+     "start": 6.25,
+     "end": 6.63
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 6.67,
+   "end": 7.29,
+   "text": "documento",
+   "words": [
+    {
+     "word": "documento",
+     "start": 6.67,
+     "end": 7.29
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 7.33,
+   "end": 8.52,
+   "text": "Essa parte aí",
+   "words": [
+    {
+     "word": "Essa",
+     "start": 7.33,
+     "end": 7.69
+    },
+    {
+     "word": "parte",
+     "start": 7.69,
+     "end": 8.07
+    },
+    {
+     "word": "aí",
+     "start": 8.07,
+     "end": 8.52
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 8.71,
+   "end": 9.49,
+   "text": "basicamente depois que",
+   "words": [
+    {
+     "word": "basicamente",
+     "start": 8.71,
+     "end": 9.11
+    },
+    {
+     "word": "depois",
+     "start": 9.11,
+     "end": 9.35
+    },
+    {
+     "word": "que",
+     "start": 9.35,
+     "end": 9.49
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 9.53,
+   "end": 10.73,
+   "text": "você passa ali do bagulho",
+   "words": [
+    {
+     "word": "você",
+     "start": 9.53,
+     "end": 9.67
+    },
+    {
+     "word": "passa",
+     "start": 9.67,
+     "end": 9.97
+    },
+    {
+     "word": "ali",
+     "start": 9.97,
+     "end": 10.11
+    },
+    {
+     "word": "do",
+     "start": 10.11,
+     "end": 10.41
+    },
+    {
+     "word": "bagulho",
+     "start": 10.41,
+     "end": 10.73
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 10.77,
+   "end": 12.12,
+   "text": "você já pode pegar o voo",
+   "words": [
+    {
+     "word": "você",
+     "start": 10.77,
+     "end": 10.83
+    },
+    {
+     "word": "já",
+     "start": 10.83,
+     "end": 10.95
+    },
+    {
+     "word": "pode",
+     "start": 10.95,
+     "end": 11.31
+    },
+    {
+     "word": "pegar",
+     "start": 11.31,
+     "end": 11.51
+    },
+    {
+     "word": "o",
+     "start": 11.51,
+     "end": 11.63
+    },
+    {
+     "word": "voo",
+     "start": 11.63,
+     "end": 12.12
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 12.3,
+   "end": 12.84,
+   "text": "Já tá liberado",
+   "words": [
+    {
+     "word": "Já",
+     "start": 12.3,
+     "end": 12.46
+    },
+    {
+     "word": "tá",
+     "start": 12.46,
+     "end": 12.56
+    },
+    {
+     "word": "liberado",
+     "start": 12.56,
+     "end": 12.84
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 12.88,
+   "end": 13.4,
+   "text": "pra pegar o voo",
+   "words": [
+    {
+     "word": "pra",
+     "start": 12.88,
+     "end": 12.96
+    },
+    {
+     "word": "pegar",
+     "start": 12.96,
+     "end": 13.1
+    },
+    {
+     "word": "o",
+     "start": 13.1,
+     "end": 13.2
+    },
+    {
+     "word": "voo",
+     "start": 13.2,
+     "end": 13.4
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 13.44,
+   "end": 14.24,
+   "text": "Ninguém mais vê nada",
+   "words": [
+    {
+     "word": "Ninguém",
+     "start": 13.44,
+     "end": 13.66
+    },
+    {
+     "word": "mais",
+     "start": 13.66,
+     "end": 13.82
+    },
+    {
+     "word": "vê",
+     "start": 13.82,
+     "end": 13.96
+    },
+    {
+     "word": "nada",
+     "start": 13.96,
+     "end": 14.24
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 14.28,
+   "end": 15.34,
+   "text": "No máximo na hora o ticket",
+   "words": [
+    {
+     "word": "No",
+     "start": 14.28,
+     "end": 14.38
+    },
+    {
+     "word": "máximo",
+     "start": 14.38,
+     "end": 14.74
+    },
+    {
+     "word": "na",
+     "start": 14.74,
+     "end": 14.9
+    },
+    {
+     "word": "hora",
+     "start": 14.9,
+     "end": 15.06
+    },
+    {
+     "word": "o",
+     "start": 15.06,
+     "end": 15.16
+    },
+    {
+     "word": "ticket",
+     "start": 15.16,
+     "end": 15.34
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 15.38,
+   "end": 16.81,
+   "text": "lá pra tu entrar no voo",
+   "words": [
+    {
+     "word": "lá",
+     "start": 15.38,
+     "end": 15.58
+    },
+    {
+     "word": "pra",
+     "start": 15.58,
+     "end": 15.74
+    },
+    {
+     "word": "tu",
+     "start": 15.74,
+     "end": 15.86
+    },
+    {
+     "word": "entrar",
+     "start": 15.86,
+     "end": 16.04
+    },
+    {
+     "word": "no",
+     "start": 16.04,
+     "end": 16.18
+    },
+    {
+     "word": "voo",
+     "start": 16.18,
+     "end": 16.81
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 16.85,
+   "end": 18.15,
+   "text": "Antigo, que documento?",
+   "words": [
+    {
+     "word": "Antigo,",
+     "start": 16.85,
+     "end": 17.17
+    },
+    {
+     "word": "que",
+     "start": 17.59,
+     "end": 17.69
+    },
+    {
+     "word": "documento?",
+     "start": 17.69,
+     "end": 18.15
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 18.19,
+   "end": 18.88,
+   "text": "Porque o documento dela",
+   "words": [
+    {
+     "word": "Porque",
+     "start": 18.19,
+     "end": 18.25
+    },
+    {
+     "word": "o",
+     "start": 18.25,
+     "end": 18.37
+    },
+    {
+     "word": "documento",
+     "start": 18.37,
+     "end": 18.83
+    },
+    {
+     "word": "dela",
+     "start": 18.83,
+     "end": 18.88
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 18.91,
+   "end": 19.38,
+   "text": "ainda tá com um",
+   "words": [
+    {
+     "word": "ainda",
+     "start": 18.91,
+     "end": 19.07
+    },
+    {
+     "word": "tá",
+     "start": 19.07,
+     "end": 19.19
+    },
+    {
+     "word": "com",
+     "start": 19.19,
+     "end": 19.33
+    },
+    {
+     "word": "um",
+     "start": 19.33,
+     "end": 19.38
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 19.39,
+   "end": 20.2,
+   "text": "nome diferente",
+   "words": [
+    {
+     "word": "nome",
+     "start": 19.39,
+     "end": 19.53
+    },
+    {
+     "word": "diferente",
+     "start": 19.53,
+     "end": 20.2
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 20.65,
+   "end": 21.49,
+   "text": "Não vou nem entrar",
+   "words": [
+    {
+     "word": "Não",
+     "start": 20.65,
+     "end": 20.77
+    },
+    {
+     "word": "vou",
+     "start": 20.77,
+     "end": 20.89
+    },
+    {
+     "word": "nem",
+     "start": 20.89,
+     "end": 21.43
+    },
+    {
+     "word": "entrar",
+     "start": 21.43,
+     "end": 21.49
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 21.53,
+   "end": 22.2,
+   "text": "nesse assunto",
+   "words": [
+    {
+     "word": "nesse",
+     "start": 21.53,
+     "end": 21.71
+    },
+    {
+     "word": "assunto",
+     "start": 21.71,
+     "end": 22.2
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 49.18,
+   "end": 50.99,
+   "text": "Nojento, ele tirou do cu",
+   "words": [
+    {
+     "word": "Nojento,",
+     "start": 49.18,
+     "end": 49.82
+    },
+    {
+     "word": "ele",
+     "start": 49.9,
+     "end": 49.98
+    },
+    {
+     "word": "tirou",
+     "start": 49.98,
+     "end": 50.24
+    },
+    {
+     "word": "do",
+     "start": 50.24,
+     "end": 50.36
+    },
+    {
+     "word": "cu",
+     "start": 50.36,
+     "end": 50.99
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 51.85,
+   "end": 53.3,
+   "text": "O quê?",
+   "words": [
+    {
+     "word": "O",
+     "start": 51.85,
+     "end": 52.61
+    },
+    {
+     "word": "quê?",
+     "start": 52.61,
+     "end": 53.3
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
