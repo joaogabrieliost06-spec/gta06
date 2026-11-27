@@ -1,0 +1,150 @@
+{
+ "segments": [
+  {
+   "start": 1.77,
+   "end": 2.76,
+   "text": "Especialidade!",
+   "words": [
+    {
+     "word": "Especialidade!",
+     "start": 1.77,
+     "end": 2.76
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 9.51,
+   "end": 10.01,
+   "text": "Cara entrou na minha",
+   "words": [
+    {
+     "word": "Cara",
+     "start": 9.51,
+     "end": 9.63
+    },
+    {
+     "word": "entrou",
+     "start": 9.63,
+     "end": 9.87
+    },
+    {
+     "word": "na",
+     "start": 9.87,
+     "end": 9.93
+    },
+    {
+     "word": "minha",
+     "start": 9.93,
+     "end": 10.01
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 10.05,
+   "end": 10.9,
+   "text": "frente, mano",
+   "words": [
+    {
+     "word": "frente,",
+     "start": 10.05,
+     "end": 10.49
+    },
+    {
+     "word": "mano",
+     "start": 10.55,
+     "end": 10.9
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 37.79,
+   "end": 39.14,
+   "text": "Deus, que caos!",
+   "words": [
+    {
+     "word": "Deus,",
+     "start": 37.79,
+     "end": 38.23
+    },
+    {
+     "word": "que",
+     "start": 38.39,
+     "end": 38.45
+    },
+    {
+     "word": "caos!",
+     "start": 38.45,
+     "end": 39.14
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 43.3,
+   "end": 44.61,
+   "text": "Meu amigo bateu nele!",
+   "words": [
+    {
+     "word": "Meu",
+     "start": 43.3,
+     "end": 43.48
+    },
+    {
+     "word": "amigo",
+     "start": 43.48,
+     "end": 43.72
+    },
+    {
+     "word": "bateu",
+     "start": 43.72,
+     "end": 44.06
+    },
+    {
+     "word": "nele!",
+     "start": 44.06,
+     "end": 44.61
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 65.6,
+   "end": 66.54,
+   "text": "Mano, é muito",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 65.6,
+     "end": 66.14
+    },
+    {
+     "word": "é",
+     "start": 66.14,
+     "end": 66.28
+    },
+    {
+     "word": "muito",
+     "start": 66.28,
+     "end": 66.54
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 66.58,
+   "end": 67.69,
+   "text": "picante",
+   "words": [
+    {
+     "word": "picante",
+     "start": 66.58,
+     "end": 67.69
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
