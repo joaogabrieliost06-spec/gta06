@@ -1,0 +1,768 @@
+{
+ "segments": [
+  {
+   "start": 2.79,
+   "end": 3.71,
+   "text": "Tinha, pô, eu ainda",
+   "words": [
+    {
+     "word": "Tinha,",
+     "start": 2.79,
+     "end": 3.25
+    },
+    {
+     "word": "pô,",
+     "start": 3.39,
+     "end": 3.51
+    },
+    {
+     "word": "eu",
+     "start": 3.55,
+     "end": 3.63
+    },
+    {
+     "word": "ainda",
+     "start": 3.63,
+     "end": 3.71
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 3.75,
+   "end": 4.81,
+   "text": "falei, apareceu",
+   "words": [
+    {
+     "word": "falei,",
+     "start": 3.75,
+     "end": 4.05
+    },
+    {
+     "word": "apareceu",
+     "start": 4.23,
+     "end": 4.81
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 4.85,
+   "end": 5.85,
+   "text": "um negócio da VA",
+   "words": [
+    {
+     "word": "um",
+     "start": 4.85,
+     "end": 5.09
+    },
+    {
+     "word": "negócio",
+     "start": 5.09,
+     "end": 5.39
+    },
+    {
+     "word": "da",
+     "start": 5.39,
+     "end": 5.59
+    },
+    {
+     "word": "VA",
+     "start": 5.59,
+     "end": 5.85
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 5.89,
+   "end": 6.61,
+   "text": "pequenininho",
+   "words": [
+    {
+     "word": "pequenininho",
+     "start": 5.89,
+     "end": 6.61
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 6.65,
+   "end": 7.32,
+   "text": "gigante",
+   "words": [
+    {
+     "word": "gigante",
+     "start": 6.65,
+     "end": 7.32
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 7.63,
+   "end": 8.78,
+   "text": "tudo rosa, VA",
+   "words": [
+    {
+     "word": "tudo",
+     "start": 7.63,
+     "end": 7.77
+    },
+    {
+     "word": "rosa,",
+     "start": 7.77,
+     "end": 8.17
+    },
+    {
+     "word": "VA",
+     "start": 8.25,
+     "end": 8.78
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 9.01,
+   "end": 10.17,
+   "text": "apareceu um VA",
+   "words": [
+    {
+     "word": "apareceu",
+     "start": 9.01,
+     "end": 9.81
+    },
+    {
+     "word": "um",
+     "start": 9.81,
+     "end": 9.93
+    },
+    {
+     "word": "VA",
+     "start": 9.93,
+     "end": 10.17
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 10.21,
+   "end": 11.48,
+   "text": "gigante, viado",
+   "words": [
+    {
+     "word": "gigante,",
+     "start": 10.21,
+     "end": 10.79
+    },
+    {
+     "word": "viado",
+     "start": 10.93,
+     "end": 11.48
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 22.96,
+   "end": 23.42,
+   "text": "eu não tô ficando",
+   "words": [
+    {
+     "word": "eu",
+     "start": 22.96,
+     "end": 22.98
+    },
+    {
+     "word": "não",
+     "start": 22.98,
+     "end": 23.04
+    },
+    {
+     "word": "tô",
+     "start": 23.04,
+     "end": 23.18
+    },
+    {
+     "word": "ficando",
+     "start": 23.18,
+     "end": 23.42
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 23.46,
+   "end": 24.36,
+   "text": "caduco, volta o VOD",
+   "words": [
+    {
+     "word": "caduco,",
+     "start": 23.46,
+     "end": 23.82
+    },
+    {
+     "word": "volta",
+     "start": 23.94,
+     "end": 24.08
+    },
+    {
+     "word": "o",
+     "start": 24.08,
+     "end": 24.2
+    },
+    {
+     "word": "VOD",
+     "start": 24.2,
+     "end": 24.36
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 24.4,
+   "end": 25.65,
+   "text": "aí, volta o VOD",
+   "words": [
+    {
+     "word": "aí,",
+     "start": 24.4,
+     "end": 24.58
+    },
+    {
+     "word": "volta",
+     "start": 24.95,
+     "end": 25.37
+    },
+    {
+     "word": "o",
+     "start": 25.37,
+     "end": 25.51
+    },
+    {
+     "word": "VOD",
+     "start": 25.51,
+     "end": 25.65
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 25.69,
+   "end": 26.09,
+   "text": "aí que eu dou",
+   "words": [
+    {
+     "word": "aí",
+     "start": 25.69,
+     "end": 25.83
+    },
+    {
+     "word": "que",
+     "start": 25.83,
+     "end": 25.93
+    },
+    {
+     "word": "eu",
+     "start": 25.93,
+     "end": 26.01
+    },
+    {
+     "word": "dou",
+     "start": 26.01,
+     "end": 26.09
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 26.13,
+   "end": 26.95,
+   "text": "mil reais pra cada",
+   "words": [
+    {
+     "word": "mil",
+     "start": 26.13,
+     "end": 26.45
+    },
+    {
+     "word": "reais",
+     "start": 26.45,
+     "end": 26.65
+    },
+    {
+     "word": "pra",
+     "start": 26.65,
+     "end": 26.83
+    },
+    {
+     "word": "cada",
+     "start": 26.83,
+     "end": 26.95
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 26.99,
+   "end": 28.13,
+   "text": "um desse chat Eu",
+   "words": [
+    {
+     "word": "um",
+     "start": 26.99,
+     "end": 27.09
+    },
+    {
+     "word": "desse",
+     "start": 27.09,
+     "end": 27.25
+    },
+    {
+     "word": "chat",
+     "start": 27.25,
+     "end": 27.57
+    },
+    {
+     "word": "Eu",
+     "start": 27.57,
+     "end": 28.13
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 28.17,
+   "end": 28.87,
+   "text": "tenho certeza",
+   "words": [
+    {
+     "word": "tenho",
+     "start": 28.17,
+     "end": 28.29
+    },
+    {
+     "word": "certeza",
+     "start": 28.29,
+     "end": 28.87
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 28.91,
+   "end": 29.51,
+   "text": "apareceu um VA",
+   "words": [
+    {
+     "word": "apareceu",
+     "start": 28.91,
+     "end": 29.29
+    },
+    {
+     "word": "um",
+     "start": 29.29,
+     "end": 29.37
+    },
+    {
+     "word": "VA",
+     "start": 29.37,
+     "end": 29.51
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 29.55,
+   "end": 30.72,
+   "text": "gigante, viado",
+   "words": [
+    {
+     "word": "gigante,",
+     "start": 29.55,
+     "end": 30.03
+    },
+    {
+     "word": "viado",
+     "start": 30.15,
+     "end": 30.72
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 31.69,
+   "end": 32.23,
+   "text": "apareceu um VA",
+   "words": [
+    {
+     "word": "apareceu",
+     "start": 31.69,
+     "end": 31.95
+    },
+    {
+     "word": "um",
+     "start": 31.95,
+     "end": 32.05
+    },
+    {
+     "word": "VA",
+     "start": 32.05,
+     "end": 32.23
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 32.27,
+   "end": 33.35,
+   "text": "gigante, tipo assim",
+   "words": [
+    {
+     "word": "gigante,",
+     "start": 32.27,
+     "end": 32.85
+    },
+    {
+     "word": "tipo",
+     "start": 32.91,
+     "end": 33.05
+    },
+    {
+     "word": "assim",
+     "start": 33.05,
+     "end": 33.35
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 33.39,
+   "end": 33.73,
+   "text": "rosa, eu ainda",
+   "words": [
+    {
+     "word": "rosa,",
+     "start": 33.39,
+     "end": 33.57
+    },
+    {
+     "word": "eu",
+     "start": 33.63,
+     "end": 33.68
+    },
+    {
+     "word": "ainda",
+     "start": 33.68,
+     "end": 33.73
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 33.73,
+   "end": 34.33,
+   "text": "falei, caralho",
+   "words": [
+    {
+     "word": "falei,",
+     "start": 33.73,
+     "end": 33.93
+    },
+    {
+     "word": "caralho",
+     "start": 34.03,
+     "end": 34.33
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 34.37,
+   "end": 35.81,
+   "text": "liberou missão Aí eu",
+   "words": [
+    {
+     "word": "liberou",
+     "start": 34.37,
+     "end": 34.55
+    },
+    {
+     "word": "missão",
+     "start": 34.55,
+     "end": 34.93
+    },
+    {
+     "word": "Aí",
+     "start": 34.93,
+     "end": 35.57
+    },
+    {
+     "word": "eu",
+     "start": 35.69,
+     "end": 35.81
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 35.85,
+   "end": 36.33,
+   "text": "falei assim, não",
+   "words": [
+    {
+     "word": "falei",
+     "start": 35.85,
+     "end": 35.97
+    },
+    {
+     "word": "assim,",
+     "start": 35.97,
+     "end": 36.17
+    },
+    {
+     "word": "não",
+     "start": 36.25,
+     "end": 36.33
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 36.37,
+   "end": 36.89,
+   "text": "calma, fazer",
+   "words": [
+    {
+     "word": "calma,",
+     "start": 36.37,
+     "end": 36.61
+    },
+    {
+     "word": "fazer",
+     "start": 36.75,
+     "end": 36.89
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 36.93,
+   "end": 37.57,
+   "text": "o bagaço do Yasmin",
+   "words": [
+    {
+     "word": "o",
+     "start": 36.93,
+     "end": 36.99
+    },
+    {
+     "word": "bagaço",
+     "start": 36.99,
+     "end": 37.21
+    },
+    {
+     "word": "do",
+     "start": 37.21,
+     "end": 37.33
+    },
+    {
+     "word": "Yasmin",
+     "start": 37.33,
+     "end": 37.57
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 37.61,
+   "end": 38.3,
+   "text": "primeiro",
+   "words": [
+    {
+     "word": "primeiro",
+     "start": 37.61,
+     "end": 38.3
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 38.63,
+   "end": 39.41,
+   "text": "Tô falando, pode",
+   "words": [
+    {
+     "word": "Tô",
+     "start": 38.63,
+     "end": 38.95
+    },
+    {
+     "word": "falando,",
+     "start": 38.95,
+     "end": 39.19
+    },
+    {
+     "word": "pode",
+     "start": 39.33,
+     "end": 39.41
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 39.45,
+   "end": 40.31,
+   "text": "voltar o VOD, pô",
+   "words": [
+    {
+     "word": "voltar",
+     "start": 39.45,
+     "end": 39.71
+    },
+    {
+     "word": "o",
+     "start": 39.71,
+     "end": 39.83
+    },
+    {
+     "word": "VOD,",
+     "start": 39.83,
+     "end": 40.03
+    },
+    {
+     "word": "pô",
+     "start": 40.19,
+     "end": 40.31
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 40.35,
+   "end": 41.15,
+   "text": "me manda aí que eu dou mil",
+   "words": [
+    {
+     "word": "me",
+     "start": 40.35,
+     "end": 40.49
+    },
+    {
+     "word": "manda",
+     "start": 40.49,
+     "end": 40.73
+    },
+    {
+     "word": "aí",
+     "start": 40.73,
+     "end": 40.81
+    },
+    {
+     "word": "que",
+     "start": 40.81,
+     "end": 40.89
+    },
+    {
+     "word": "eu",
+     "start": 40.89,
+     "end": 40.97
+    },
+    {
+     "word": "dou",
+     "start": 40.97,
+     "end": 41.03
+    },
+    {
+     "word": "mil",
+     "start": 41.03,
+     "end": 41.15
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 41.19,
+   "end": 41.84,
+   "text": "reais, mano",
+   "words": [
+    {
+     "word": "reais,",
+     "start": 41.19,
+     "end": 41.43
+    },
+    {
+     "word": "mano",
+     "start": 41.49,
+     "end": 41.84
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 42.09,
+   "end": 43.14,
+   "text": "eu tô falando",
+   "words": [
+    {
+     "word": "eu",
+     "start": 42.09,
+     "end": 42.39
+    },
+    {
+     "word": "tô",
+     "start": 42.39,
+     "end": 42.45
+    },
+    {
+     "word": "falando",
+     "start": 42.45,
+     "end": 43.14
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 44.03,
+   "end": 44.66,
+   "text": "tô falando que eu",
+   "words": [
+    {
+     "word": "tô",
+     "start": 44.03,
+     "end": 44.13
+    },
+    {
+     "word": "falando",
+     "start": 44.13,
+     "end": 44.47
+    },
+    {
+     "word": "que",
+     "start": 44.47,
+     "end": 44.61
+    },
+    {
+     "word": "eu",
+     "start": 44.61,
+     "end": 44.66
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 44.69,
+   "end": 45.29,
+   "text": "vi",
+   "words": [
+    {
+     "word": "vi",
+     "start": 44.69,
+     "end": 45.29
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
