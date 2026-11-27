@@ -1,0 +1,607 @@
+{
+ "segments": [
+  {
+   "start": 3.43,
+   "end": 4.01,
+   "text": "Cara, nenhum desses",
+   "words": [
+    {
+     "word": "Cara,",
+     "start": 3.43,
+     "end": 3.65
+    },
+    {
+     "word": "nenhum",
+     "start": 3.71,
+     "end": 3.83
+    },
+    {
+     "word": "desses",
+     "start": 3.83,
+     "end": 4.01
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 4.05,
+   "end": 4.63,
+   "text": "trajes pra mim",
+   "words": [
+    {
+     "word": "trajes",
+     "start": 4.05,
+     "end": 4.41
+    },
+    {
+     "word": "pra",
+     "start": 4.41,
+     "end": 4.57
+    },
+    {
+     "word": "mim",
+     "start": 4.57,
+     "end": 4.63
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 4.67,
+   "end": 5.8,
+   "text": "é requintado, mano",
+   "words": [
+    {
+     "word": "é",
+     "start": 4.67,
+     "end": 4.73
+    },
+    {
+     "word": "requintado,",
+     "start": 4.73,
+     "end": 5.35
+    },
+    {
+     "word": "mano",
+     "start": 5.39,
+     "end": 5.8
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 8.1,
+   "end": 8.66,
+   "text": "Mas esse daqui vai",
+   "words": [
+    {
+     "word": "Mas",
+     "start": 8.1,
+     "end": 8.18
+    },
+    {
+     "word": "esse",
+     "start": 8.18,
+     "end": 8.38
+    },
+    {
+     "word": "daqui",
+     "start": 8.38,
+     "end": 8.56
+    },
+    {
+     "word": "vai",
+     "start": 8.56,
+     "end": 8.66
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 8.7,
+   "end": 9.49,
+   "text": "ter que ser, né",
+   "words": [
+    {
+     "word": "ter",
+     "start": 8.7,
+     "end": 8.84
+    },
+    {
+     "word": "que",
+     "start": 8.84,
+     "end": 8.94
+    },
+    {
+     "word": "ser,",
+     "start": 8.94,
+     "end": 9.12
+    },
+    {
+     "word": "né",
+     "start": 9.18,
+     "end": 9.49
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 13.81,
+   "end": 14.51,
+   "text": "Não, ficou da hora",
+   "words": [
+    {
+     "word": "Não,",
+     "start": 13.81,
+     "end": 13.89
+    },
+    {
+     "word": "ficou",
+     "start": 13.95,
+     "end": 14.11
+    },
+    {
+     "word": "da",
+     "start": 14.11,
+     "end": 14.27
+    },
+    {
+     "word": "hora",
+     "start": 14.27,
+     "end": 14.51
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 14.55,
+   "end": 15.01,
+   "text": "ficou da hora",
+   "words": [
+    {
+     "word": "ficou",
+     "start": 14.55,
+     "end": 14.69
+    },
+    {
+     "word": "da",
+     "start": 14.69,
+     "end": 14.83
+    },
+    {
+     "word": "hora",
+     "start": 14.83,
+     "end": 15.01
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 15.05,
+   "end": 15.8,
+   "text": "ficou da hora",
+   "words": [
+    {
+     "word": "ficou",
+     "start": 15.05,
+     "end": 15.23
+    },
+    {
+     "word": "da",
+     "start": 15.23,
+     "end": 15.35
+    },
+    {
+     "word": "hora",
+     "start": 15.35,
+     "end": 15.8
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 40.8,
+   "end": 41.3,
+   "text": "\"Tem gente que",
+   "words": [
+    {
+     "word": "\"Tem",
+     "start": 40.8,
+     "end": 41.04
+    },
+    {
+     "word": "gente",
+     "start": 41.04,
+     "end": 41.16
+    },
+    {
+     "word": "que",
+     "start": 41.16,
+     "end": 41.3
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 41.34,
+   "end": 41.94,
+   "text": "em Miami",
+   "words": [
+    {
+     "word": "em",
+     "start": 41.34,
+     "end": 41.44
+    },
+    {
+     "word": "Miami",
+     "start": 41.44,
+     "end": 41.94
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 41.98,
+   "end": 42.94,
+   "text": "Vice City",
+   "words": [
+    {
+     "word": "Vice",
+     "start": 41.98,
+     "end": 42.46
+    },
+    {
+     "word": "City",
+     "start": 42.46,
+     "end": 42.94
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 42.98,
+   "end": 43.46,
+   "text": "Você quer botar",
+   "words": [
+    {
+     "word": "Você",
+     "start": 42.98,
+     "end": 43.08
+    },
+    {
+     "word": "quer",
+     "start": 43.08,
+     "end": 43.24
+    },
+    {
+     "word": "botar",
+     "start": 43.24,
+     "end": 43.46
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 43.5,
+   "end": 44.33,
+   "text": "o quê, velho?",
+   "words": [
+    {
+     "word": "o",
+     "start": 43.5,
+     "end": 43.62
+    },
+    {
+     "word": "quê,",
+     "start": 43.62,
+     "end": 43.74
+    },
+    {
+     "word": "velho?",
+     "start": 43.84,
+     "end": 44.33
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 44.73,
+   "end": 45.45,
+   "text": "Uma camiseta",
+   "words": [
+    {
+     "word": "Uma",
+     "start": 44.73,
+     "end": 44.99
+    },
+    {
+     "word": "camiseta",
+     "start": 44.99,
+     "end": 45.45
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 45.49,
+   "end": 46.61,
+   "text": "do Metallica",
+   "words": [
+    {
+     "word": "do",
+     "start": 45.49,
+     "end": 45.63
+    },
+    {
+     "word": "Metallica",
+     "start": 45.63,
+     "end": 46.61
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 46.65,
+   "end": 47.81,
+   "text": "uma bota e",
+   "words": [
+    {
+     "word": "uma",
+     "start": 46.65,
+     "end": 46.99
+    },
+    {
+     "word": "bota",
+     "start": 46.99,
+     "end": 47.33
+    },
+    {
+     "word": "e",
+     "start": 47.33,
+     "end": 47.81
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 47.85,
+   "end": 49.41,
+   "text": "um cinto de strass",
+   "words": [
+    {
+     "word": "um",
+     "start": 47.85,
+     "end": 47.99
+    },
+    {
+     "word": "cinto",
+     "start": 47.99,
+     "end": 48.39
+    },
+    {
+     "word": "de",
+     "start": 48.39,
+     "end": 48.65
+    },
+    {
+     "word": "strass",
+     "start": 48.65,
+     "end": 49.41
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 49.45,
+   "end": 50.78,
+   "text": "velho? Se toque, irmão",
+   "words": [
+    {
+     "word": "velho?",
+     "start": 49.45,
+     "end": 49.63
+    },
+    {
+     "word": "Se",
+     "start": 49.71,
+     "end": 49.81
+    },
+    {
+     "word": "toque,",
+     "start": 49.81,
+     "end": 50.13
+    },
+    {
+     "word": "irmão",
+     "start": 50.29,
+     "end": 50.78
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 50.83,
+   "end": 51.53,
+   "text": "Tem que estar no clima",
+   "words": [
+    {
+     "word": "Tem",
+     "start": 50.83,
+     "end": 50.97
+    },
+    {
+     "word": "que",
+     "start": 50.97,
+     "end": 51.09
+    },
+    {
+     "word": "estar",
+     "start": 51.09,
+     "end": 51.19
+    },
+    {
+     "word": "no",
+     "start": 51.19,
+     "end": 51.35
+    },
+    {
+     "word": "clima",
+     "start": 51.35,
+     "end": 51.53
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 51.57,
+   "end": 52.67,
+   "text": "do lugar que a gente tá",
+   "words": [
+    {
+     "word": "do",
+     "start": 51.57,
+     "end": 51.75
+    },
+    {
+     "word": "lugar",
+     "start": 51.75,
+     "end": 52.03
+    },
+    {
+     "word": "que",
+     "start": 52.03,
+     "end": 52.21
+    },
+    {
+     "word": "a",
+     "start": 52.21,
+     "end": 52.27
+    },
+    {
+     "word": "gente",
+     "start": 52.27,
+     "end": 52.37
+    },
+    {
+     "word": "tá",
+     "start": 52.37,
+     "end": 52.67
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 52.71,
+   "end": 53.32,
+   "text": "velho.\"",
+   "words": [
+    {
+     "word": "velho.\"",
+     "start": 52.71,
+     "end": 53.32
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 54.11,
+   "end": 54.56,
+   "text": "Vocês não",
+   "words": [
+    {
+     "word": "Vocês",
+     "start": 54.11,
+     "end": 54.51
+    },
+    {
+     "word": "não",
+     "start": 54.51,
+     "end": 54.56
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 54.59,
+   "end": 55.49,
+   "text": "sabem nada de moda",
+   "words": [
+    {
+     "word": "sabem",
+     "start": 54.59,
+     "end": 54.79
+    },
+    {
+     "word": "nada",
+     "start": 54.79,
+     "end": 54.99
+    },
+    {
+     "word": "de",
+     "start": 54.99,
+     "end": 55.19
+    },
+    {
+     "word": "moda",
+     "start": 55.19,
+     "end": 55.49
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 55.53,
+   "end": 56.13,
+   "text": "não",
+   "words": [
+    {
+     "word": "não",
+     "start": 55.53,
+     "end": 56.13
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 63.33,
+   "end": 64.19,
+   "text": "Lógico que eu sei",
+   "words": [
+    {
+     "word": "Lógico",
+     "start": 63.33,
+     "end": 63.73
+    },
+    {
+     "word": "que",
+     "start": 63.73,
+     "end": 63.83
+    },
+    {
+     "word": "eu",
+     "start": 63.83,
+     "end": 63.91
+    },
+    {
+     "word": "sei",
+     "start": 63.91,
+     "end": 64.19
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 64.23,
+   "end": 64.83,
+   "text": "cara",
+   "words": [
+    {
+     "word": "cara",
+     "start": 64.23,
+     "end": 64.83
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
