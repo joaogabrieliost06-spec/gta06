@@ -1,0 +1,311 @@
+{
+ "segments": [
+  {
+   "start": 8.82,
+   "end": 10.11,
+   "text": "Caralho, foda, tá?",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 8.82,
+     "end": 9.24
+    },
+    {
+     "word": "foda,",
+     "start": 9.46,
+     "end": 9.62
+    },
+    {
+     "word": "tá?",
+     "start": 9.8,
+     "end": 10.11
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.62,
+   "end": 11.52,
+   "text": "Gostei pra caralho",
+   "words": [
+    {
+     "word": "Gostei",
+     "start": 10.62,
+     "end": 11.04
+    },
+    {
+     "word": "pra",
+     "start": 11.04,
+     "end": 11.2
+    },
+    {
+     "word": "caralho",
+     "start": 11.2,
+     "end": 11.52
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 11.56,
+   "end": 12.36,
+   "text": "dessa parada aqui",
+   "words": [
+    {
+     "word": "dessa",
+     "start": 11.56,
+     "end": 11.8
+    },
+    {
+     "word": "parada",
+     "start": 11.8,
+     "end": 12.12
+    },
+    {
+     "word": "aqui",
+     "start": 12.12,
+     "end": 12.36
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 12.4,
+   "end": 13.0,
+   "text": "hein",
+   "words": [
+    {
+     "word": "hein",
+     "start": 12.4,
+     "end": 13.0
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 16.91,
+   "end": 18.01,
+   "text": "Agora, esse Mendes",
+   "words": [
+    {
+     "word": "Agora,",
+     "start": 16.91,
+     "end": 17.33
+    },
+    {
+     "word": "esse",
+     "start": 17.53,
+     "end": 17.59
+    },
+    {
+     "word": "Mendes",
+     "start": 17.59,
+     "end": 18.01
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 18.05,
+   "end": 18.84,
+   "text": "aí, mano",
+   "words": [
+    {
+     "word": "aí,",
+     "start": 18.05,
+     "end": 18.31
+    },
+    {
+     "word": "mano",
+     "start": 18.45,
+     "end": 18.84
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 19.35,
+   "end": 20.59,
+   "text": "não existe um mundo",
+   "words": [
+    {
+     "word": "não",
+     "start": 19.35,
+     "end": 19.49
+    },
+    {
+     "word": "existe",
+     "start": 19.49,
+     "end": 20.17
+    },
+    {
+     "word": "um",
+     "start": 20.17,
+     "end": 20.43
+    },
+    {
+     "word": "mundo",
+     "start": 20.43,
+     "end": 20.59
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 20.63,
+   "end": 21.15,
+   "text": "que eu fecho com",
+   "words": [
+    {
+     "word": "que",
+     "start": 20.63,
+     "end": 20.73
+    },
+    {
+     "word": "eu",
+     "start": 20.73,
+     "end": 20.81
+    },
+    {
+     "word": "fecho",
+     "start": 20.81,
+     "end": 21.07
+    },
+    {
+     "word": "com",
+     "start": 21.07,
+     "end": 21.15
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 21.19,
+   "end": 22.16,
+   "text": "os cops, ok?",
+   "words": [
+    {
+     "word": "os",
+     "start": 21.19,
+     "end": 21.37
+    },
+    {
+     "word": "cops,",
+     "start": 21.37,
+     "end": 21.65
+    },
+    {
+     "word": "ok?",
+     "start": 21.79,
+     "end": 22.16
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 23.97,
+   "end": 24.64,
+   "text": "Só",
+   "words": [
+    {
+     "word": "Só",
+     "start": 23.97,
+     "end": 24.64
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 25.49,
+   "end": 28.06,
+   "text": "quero pegar",
+   "words": [
+    {
+     "word": "quero",
+     "start": 25.49,
+     "end": 27.81
+    },
+    {
+     "word": "pegar",
+     "start": 27.9,
+     "end": 28.06
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.1,
+   "end": 28.88,
+   "text": "meu passaporte e",
+   "words": [
+    {
+     "word": "meu",
+     "start": 28.1,
+     "end": 28.22
+    },
+    {
+     "word": "passaporte",
+     "start": 28.22,
+     "end": 28.82
+    },
+    {
+     "word": "e",
+     "start": 28.82,
+     "end": 28.88
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.92,
+   "end": 29.68,
+   "text": "um avião teco teco",
+   "words": [
+    {
+     "word": "um",
+     "start": 28.92,
+     "end": 29.0
+    },
+    {
+     "word": "avião",
+     "start": 29.0,
+     "end": 29.24
+    },
+    {
+     "word": "teco",
+     "start": 29.24,
+     "end": 29.52
+    },
+    {
+     "word": "teco",
+     "start": 29.52,
+     "end": 29.68
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 29.72,
+   "end": 30.33,
+   "text": "e ir embora",
+   "words": [
+    {
+     "word": "e",
+     "start": 29.72,
+     "end": 29.8
+    },
+    {
+     "word": "ir",
+     "start": 29.8,
+     "end": 29.85
+    },
+    {
+     "word": "embora",
+     "start": 29.85,
+     "end": 30.33
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
