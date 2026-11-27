@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, Alan, GTA 6, Lucia, Jason, alienígena, chuva, helicóptero, torre, fábrica, mano, velho, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:04:36", "fim": "0:05:26", "titulo": "400 METROS DE ALTURA SEM VISÃO"},
+  {"id": "02", "inicio": "0:02:20", "fim": "0:02:36", "titulo": "73 HORAS DE JOGO PRA CHOVER"},
+  {"id": "03", "inicio": "0:11:18", "fim": "0:11:59", "titulo": "PERDI A NOÇÃO DO ESPAÇO-TEMPO"}
+ ]
+}

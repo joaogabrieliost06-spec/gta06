@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Lucia, Jason, bolsa, banco, arma, socando, mano, viado, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:16:42", "fim": "0:17:25", "titulo": "A LUCIA SUMIU"},
+  {"id": "02", "inicio": "0:13:26", "fim": "0:13:56", "titulo": "QUE JOGO LIXO"},
+  {"id": "03", "inicio": "0:18:04", "fim": "0:18:28", "titulo": "ROUBEI UM BANCO E DEU NISSO"}
+ ]
+}
