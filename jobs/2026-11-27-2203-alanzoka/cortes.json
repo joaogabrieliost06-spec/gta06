@@ -1,0 +1,12 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, Alan, GTA 6, Jason, Lucia, Nate, Drake, vaga de idoso, popozuda, academia, selfie, chuva, chat, mano",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:00:10", "fim": "0:01:40", "titulo": "PAREI NA VAGA DE IDOSO"},
+  {"id": "02", "inicio": "0:05:20", "fim": "0:06:50", "titulo": "VAI APARECER UM CARA NA MINHA FRENTE"},
+  {"id": "03", "inicio": "0:10:45", "fim": "0:12:15", "titulo": "TINHA UM BURACO NO MEU BRAÇO"},
+  {"id": "04", "inicio": "0:13:00", "fim": "0:14:30", "titulo": "SERÁ QUE O DRAKE ASSISTE MINHA LIVE?"},
+  {"id": "05", "inicio": "0:16:20", "fim": "0:17:50", "titulo": "EU DIRIJO MELHOR"}
+ ]
+}
