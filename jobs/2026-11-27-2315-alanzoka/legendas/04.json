@@ -1,0 +1,236 @@
+{
+ "segments": [
+  {
+   "start": 1.61,
+   "end": 2.25,
+   "text": "É só você ir",
+   "words": [
+    {
+     "word": "É",
+     "start": 1.61,
+     "end": 1.81
+    },
+    {
+     "word": "só",
+     "start": 1.81,
+     "end": 1.93
+    },
+    {
+     "word": "você",
+     "start": 1.93,
+     "end": 2.19
+    },
+    {
+     "word": "ir",
+     "start": 2.19,
+     "end": 2.25
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 2.29,
+   "end": 3.13,
+   "text": "no telefone do lado",
+   "words": [
+    {
+     "word": "no",
+     "start": 2.29,
+     "end": 2.37
+    },
+    {
+     "word": "telefone",
+     "start": 2.37,
+     "end": 2.87
+    },
+    {
+     "word": "do",
+     "start": 2.87,
+     "end": 3.01
+    },
+    {
+     "word": "lado",
+     "start": 3.01,
+     "end": 3.13
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 3.17,
+   "end": 3.89,
+   "text": "da cama que desce",
+   "words": [
+    {
+     "word": "da",
+     "start": 3.17,
+     "end": 3.29
+    },
+    {
+     "word": "cama",
+     "start": 3.29,
+     "end": 3.57
+    },
+    {
+     "word": "que",
+     "start": 3.57,
+     "end": 3.73
+    },
+    {
+     "word": "desce",
+     "start": 3.73,
+     "end": 3.89
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 3.93,
+   "end": 5.46,
+   "text": "sozinho, nem fudendo, mano",
+   "words": [
+    {
+     "word": "sozinho,",
+     "start": 3.93,
+     "end": 4.39
+    },
+    {
+     "word": "nem",
+     "start": 4.47,
+     "end": 4.57
+    },
+    {
+     "word": "fudendo,",
+     "start": 4.57,
+     "end": 4.99
+    },
+    {
+     "word": "mano",
+     "start": 5.05,
+     "end": 5.46
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.7,
+   "end": 7.16,
+   "text": "Só vi a opção",
+   "words": [
+    {
+     "word": "Só",
+     "start": 6.7,
+     "end": 6.84
+    },
+    {
+     "word": "vi",
+     "start": 6.84,
+     "end": 6.98
+    },
+    {
+     "word": "a",
+     "start": 6.98,
+     "end": 7.04
+    },
+    {
+     "word": "opção",
+     "start": 7.04,
+     "end": 7.16
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.2,
+   "end": 8.45,
+   "text": "de chamar carro",
+   "words": [
+    {
+     "word": "de",
+     "start": 7.2,
+     "end": 7.34
+    },
+    {
+     "word": "chamar",
+     "start": 7.34,
+     "end": 7.6
+    },
+    {
+     "word": "carro",
+     "start": 7.6,
+     "end": 8.45
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 17.71,
+   "end": 19.2,
+   "text": "Um cara pelado, velho",
+   "words": [
+    {
+     "word": "Um",
+     "start": 17.71,
+     "end": 17.77
+    },
+    {
+     "word": "cara",
+     "start": 17.77,
+     "end": 17.91
+    },
+    {
+     "word": "pelado,",
+     "start": 17.91,
+     "end": 18.47
+    },
+    {
+     "word": "velho",
+     "start": 18.47,
+     "end": 19.2
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 27.28,
+   "end": 28.22,
+   "text": "Meu Deus, que bilau",
+   "words": [
+    {
+     "word": "Meu",
+     "start": 27.28,
+     "end": 27.6
+    },
+    {
+     "word": "Deus,",
+     "start": 27.6,
+     "end": 27.82
+    },
+    {
+     "word": "que",
+     "start": 28.02,
+     "end": 28.07
+    },
+    {
+     "word": "bilau",
+     "start": 28.07,
+     "end": 28.22
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.26,
+   "end": 29.03,
+   "text": "gigante",
+   "words": [
+    {
+     "word": "gigante",
+     "start": 28.26,
+     "end": 29.03
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
