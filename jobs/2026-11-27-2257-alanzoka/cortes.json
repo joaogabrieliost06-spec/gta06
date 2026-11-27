@@ -1,0 +1,11 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, Alan, GTA 6, Jason, Lucia, baú, caderno, helicóptero, hotel, Wagner Moura, sub, biquíni, capítulo, chat, mano",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:03:20", "fim": "0:04:50", "titulo": "O CADERNO SÓ CAI QUANDO ELE QUER"},
+  {"id": "02", "inicio": "0:09:35", "fim": "0:11:05", "titulo": "VOU FAZER AQUILO QUE SÓ EU SEI"},
+  {"id": "03", "inicio": "0:14:10", "fim": "0:15:40", "titulo": "SERÁ QUE É O WAGNER MOURA DE VERDADE?"},
+  {"id": "04", "inicio": "0:16:50", "fim": "0:18:00", "titulo": "QUASE 90% DO JOGO"}
+ ]
+}
