@@ -1,0 +1,175 @@
+{
+ "segments": [
+  {
+   "start": 1.37,
+   "end": 2.84,
+   "text": "Cedo pra caralho",
+   "words": [
+    {
+     "word": "Cedo",
+     "start": 1.37,
+     "end": 2.09
+    },
+    {
+     "word": "pra",
+     "start": 2.09,
+     "end": 2.23
+    },
+    {
+     "word": "caralho",
+     "start": 2.23,
+     "end": 2.84
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 38.98,
+   "end": 39.63,
+   "text": "O carro não tá",
+   "words": [
+    {
+     "word": "O",
+     "start": 38.98,
+     "end": 39.38
+    },
+    {
+     "word": "carro",
+     "start": 39.38,
+     "end": 39.46
+    },
+    {
+     "word": "não",
+     "start": 39.46,
+     "end": 39.58
+    },
+    {
+     "word": "tá",
+     "start": 39.58,
+     "end": 39.63
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 39.66,
+   "end": 40.54,
+   "text": "fazendo curva, mano",
+   "words": [
+    {
+     "word": "fazendo",
+     "start": 39.66,
+     "end": 39.92
+    },
+    {
+     "word": "curva,",
+     "start": 39.92,
+     "end": 40.3
+    },
+    {
+     "word": "mano",
+     "start": 40.38,
+     "end": 40.54
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 40.58,
+   "end": 41.97,
+   "text": "mas a roda travou",
+   "words": [
+    {
+     "word": "mas",
+     "start": 40.58,
+     "end": 40.78
+    },
+    {
+     "word": "a",
+     "start": 40.78,
+     "end": 40.94
+    },
+    {
+     "word": "roda",
+     "start": 40.94,
+     "end": 41.12
+    },
+    {
+     "word": "travou",
+     "start": 41.12,
+     "end": 41.97
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 51.45,
+   "end": 52.84,
+   "text": "É foda, chat",
+   "words": [
+    {
+     "word": "É",
+     "start": 51.45,
+     "end": 51.85
+    },
+    {
+     "word": "foda,",
+     "start": 51.85,
+     "end": 52.25
+    },
+    {
+     "word": "chat",
+     "start": 52.43,
+     "end": 52.84
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 79.79,
+   "end": 80.71,
+   "text": "Vamos ficar tranquilo",
+   "words": [
+    {
+     "word": "Vamos",
+     "start": 79.79,
+     "end": 79.91
+    },
+    {
+     "word": "ficar",
+     "start": 79.91,
+     "end": 80.19
+    },
+    {
+     "word": "tranquilo",
+     "start": 80.19,
+     "end": 80.71
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 80.75,
+   "end": 81.64,
+   "text": "dessa vez, mano",
+   "words": [
+    {
+     "word": "dessa",
+     "start": 80.75,
+     "end": 80.85
+    },
+    {
+     "word": "vez,",
+     "start": 80.85,
+     "end": 81.23
+    },
+    {
+     "word": "mano",
+     "start": 81.29,
+     "end": 81.64
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
