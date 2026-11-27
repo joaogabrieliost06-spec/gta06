@@ -1,0 +1,12 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, Alan, GTA 6, Jason, Lucia, Andrea, relógio, pelado, chat, mano",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:02:20", "fim": "0:03:30", "titulo": "QUE ISSO?"},
+  {"id": "02", "inicio": "0:03:45", "fim": "0:05:15", "titulo": "O POVO TÁ VENDO TUDO DELE"},
+  {"id": "03", "inicio": "0:05:46", "fim": "0:07:16", "titulo": "ELE NEM LAVOU A MÃO"},
+  {"id": "04", "inicio": "0:15:50", "fim": "0:17:20", "titulo": "QUAL QUE É A PALAVRA?"},
+  {"id": "05", "inicio": "0:17:40", "fim": "0:18:50", "titulo": "A LUCIA COM VOZ DE RISO"}
+ ]
+}
