@@ -1,0 +1,247 @@
+{
+ "segments": [
+  {
+   "start": 10.4,
+   "end": 11.37,
+   "text": "Olivia Rodrigo!",
+   "words": [
+    {
+     "word": "Olivia",
+     "start": 10.4,
+     "end": 10.715
+    },
+    {
+     "word": "Rodrigo!",
+     "start": 10.715,
+     "end": 11.37
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 24.62,
+   "end": 25.87,
+   "text": "É a letra dessa bomba",
+   "words": [
+    {
+     "word": "É",
+     "start": 24.62,
+     "end": 24.74
+    },
+    {
+     "word": "a",
+     "start": 24.74,
+     "end": 24.79
+    },
+    {
+     "word": "letra",
+     "start": 24.79,
+     "end": 24.92
+    },
+    {
+     "word": "dessa",
+     "start": 24.92,
+     "end": 25.1
+    },
+    {
+     "word": "bomba",
+     "start": 25.1,
+     "end": 25.87
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 31.82,
+   "end": 32.9,
+   "text": "Ah, cara, atravessa",
+   "words": [
+    {
+     "word": "Ah,",
+     "start": 31.82,
+     "end": 32.04
+    },
+    {
+     "word": "cara,",
+     "start": 32.2,
+     "end": 32.4
+    },
+    {
+     "word": "atravessa",
+     "start": 32.54,
+     "end": 32.9
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 32.94,
+   "end": 33.48,
+   "text": "a rua, presta",
+   "words": [
+    {
+     "word": "a",
+     "start": 32.94,
+     "end": 33.08
+    },
+    {
+     "word": "rua,",
+     "start": 33.08,
+     "end": 33.24
+    },
+    {
+     "word": "presta",
+     "start": 33.36,
+     "end": 33.48
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 33.52,
+   "end": 34.55,
+   "text": "atenção, né, tio?",
+   "words": [
+    {
+     "word": "atenção,",
+     "start": 33.52,
+     "end": 33.9
+    },
+    {
+     "word": "né,",
+     "start": 34.04,
+     "end": 34.12
+    },
+    {
+     "word": "tio?",
+     "start": 34.12,
+     "end": 34.55
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 38.86,
+   "end": 40.31,
+   "text": "Conheço a versão... Só",
+   "words": [
+    {
+     "word": "Conheço",
+     "start": 38.86,
+     "end": 39.2
+    },
+    {
+     "word": "a",
+     "start": 39.2,
+     "end": 39.28
+    },
+    {
+     "word": "versão...",
+     "start": 39.28,
+     "end": 39.54
+    },
+    {
+     "word": "Só",
+     "start": 39.54,
+     "end": 40.31
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 42.87,
+   "end": 43.43,
+   "text": "conheço a versão",
+   "words": [
+    {
+     "word": "conheço",
+     "start": 42.87,
+     "end": 43.17
+    },
+    {
+     "word": "a",
+     "start": 43.17,
+     "end": 43.23
+    },
+    {
+     "word": "versão",
+     "start": 43.23,
+     "end": 43.43
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 43.47,
+   "end": 44.23,
+   "text": "do Paramore dessa",
+   "words": [
+    {
+     "word": "do",
+     "start": 43.47,
+     "end": 43.59
+    },
+    {
+     "word": "Paramore",
+     "start": 43.59,
+     "end": 44.09
+    },
+    {
+     "word": "dessa",
+     "start": 44.09,
+     "end": 44.23
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 44.27,
+   "end": 44.87,
+   "text": "música",
+   "words": [
+    {
+     "word": "música",
+     "start": 44.27,
+     "end": 44.87
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 58.71,
+   "end": 59.17,
+   "text": "Capri?",
+   "words": [
+    {
+     "word": "Capri?",
+     "start": 58.71,
+     "end": 59.17
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 59.21,
+   "end": 60.14,
+   "text": "Cê tá maluco",
+   "words": [
+    {
+     "word": "Cê",
+     "start": 59.21,
+     "end": 59.33
+    },
+    {
+     "word": "tá",
+     "start": 59.33,
+     "end": 59.45
+    },
+    {
+     "word": "maluco",
+     "start": 59.45,
+     "end": 60.14
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
