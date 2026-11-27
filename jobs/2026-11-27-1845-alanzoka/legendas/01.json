@@ -1,0 +1,310 @@
+{
+ "segments": [
+  {
+   "start": 5.31,
+   "end": 6.45,
+   "text": "Ele pediu com limão",
+   "words": [
+    {
+     "word": "Ele",
+     "start": 5.31,
+     "end": 5.75
+    },
+    {
+     "word": "pediu",
+     "start": 5.75,
+     "end": 5.99
+    },
+    {
+     "word": "com",
+     "start": 5.99,
+     "end": 6.15
+    },
+    {
+     "word": "limão",
+     "start": 6.15,
+     "end": 6.45
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.49,
+   "end": 7.8,
+   "text": "ou sem? Eu não lembro",
+   "words": [
+    {
+     "word": "ou",
+     "start": 6.49,
+     "end": 6.79
+    },
+    {
+     "word": "sem?",
+     "start": 6.79,
+     "end": 7.03
+    },
+    {
+     "word": "Eu",
+     "start": 7.13,
+     "end": 7.18
+    },
+    {
+     "word": "não",
+     "start": 7.18,
+     "end": 7.23
+    },
+    {
+     "word": "lembro",
+     "start": 7.23,
+     "end": 7.8
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 9.77,
+   "end": 10.86,
+   "text": "Com? Sem? Lá, mano",
+   "words": [
+    {
+     "word": "Com?",
+     "start": 9.77,
+     "end": 9.99
+    },
+    {
+     "word": "Sem?",
+     "start": 9.99,
+     "end": 10.25
+    },
+    {
+     "word": "Lá,",
+     "start": 10.25,
+     "end": 10.47
+    },
+    {
+     "word": "mano",
+     "start": 10.51,
+     "end": 10.86
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 15.13,
+   "end": 16.38,
+   "text": "Ele pediu sem?",
+   "words": [
+    {
+     "word": "Ele",
+     "start": 15.13,
+     "end": 15.57
+    },
+    {
+     "word": "pediu",
+     "start": 15.57,
+     "end": 15.81
+    },
+    {
+     "word": "sem?",
+     "start": 15.81,
+     "end": 16.38
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 16.61,
+   "end": 17.94,
+   "text": "Nossa, agora já era, mano",
+   "words": [
+    {
+     "word": "Nossa,",
+     "start": 16.61,
+     "end": 16.91
+    },
+    {
+     "word": "agora",
+     "start": 17.05,
+     "end": 17.21
+    },
+    {
+     "word": "já",
+     "start": 17.21,
+     "end": 17.37
+    },
+    {
+     "word": "era,",
+     "start": 17.37,
+     "end": 17.57
+    },
+    {
+     "word": "mano",
+     "start": 17.59,
+     "end": 17.94
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 22.92,
+   "end": 23.81,
+   "text": "já era, mano",
+   "words": [
+    {
+     "word": "já",
+     "start": 22.92,
+     "end": 23.06
+    },
+    {
+     "word": "era,",
+     "start": 23.06,
+     "end": 23.28
+    },
+    {
+     "word": "mano",
+     "start": 23.32,
+     "end": 23.81
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 25.52,
+   "end": 26.55,
+   "text": "Imagina",
+   "words": [
+    {
+     "word": "Imagina",
+     "start": 25.52,
+     "end": 26.55
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 34.65,
+   "end": 35.47,
+   "text": "ele tem alergia a limão",
+   "words": [
+    {
+     "word": "ele",
+     "start": 34.65,
+     "end": 34.67
+    },
+    {
+     "word": "tem",
+     "start": 34.67,
+     "end": 34.75
+    },
+    {
+     "word": "alergia",
+     "start": 34.75,
+     "end": 35.13
+    },
+    {
+     "word": "a",
+     "start": 35.13,
+     "end": 35.21
+    },
+    {
+     "word": "limão",
+     "start": 35.21,
+     "end": 35.47
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 35.51,
+   "end": 36.46,
+   "text": "ele vai explodir",
+   "words": [
+    {
+     "word": "ele",
+     "start": 35.51,
+     "end": 35.57
+    },
+    {
+     "word": "vai",
+     "start": 35.57,
+     "end": 35.69
+    },
+    {
+     "word": "explodir",
+     "start": 35.69,
+     "end": 36.46
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 63.73,
+   "end": 64.88,
+   "text": "de limão mesmo",
+   "words": [
+    {
+     "word": "de",
+     "start": 63.73,
+     "end": 63.93
+    },
+    {
+     "word": "limão",
+     "start": 63.93,
+     "end": 64.31
+    },
+    {
+     "word": "mesmo",
+     "start": 64.31,
+     "end": 64.88
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 71.78,
+   "end": 73.87,
+   "text": "Nice, nice, nice",
+   "words": [
+    {
+     "word": "Nice,",
+     "start": 71.78,
+     "end": 72.42
+    },
+    {
+     "word": "nice,",
+     "start": 72.8,
+     "end": 73.08
+    },
+    {
+     "word": "nice",
+     "start": 73.14,
+     "end": 73.87
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 77.05,
+   "end": 78.44,
+   "text": "Não me marca",
+   "words": [
+    {
+     "word": "Não",
+     "start": 77.05,
+     "end": 77.69
+    },
+    {
+     "word": "me",
+     "start": 77.69,
+     "end": 77.89
+    },
+    {
+     "word": "marca",
+     "start": 77.89,
+     "end": 78.44
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
