@@ -1,0 +1,142 @@
+{
+ "segments": [
+  {
+   "start": 4.08,
+   "end": 5.0,
+   "text": "Pô, mas eu vestido",
+   "words": [
+    {
+     "word": "Pô,",
+     "start": 4.08,
+     "end": 4.54
+    },
+    {
+     "word": "mas",
+     "start": 4.6,
+     "end": 4.66
+    },
+    {
+     "word": "eu",
+     "start": 4.66,
+     "end": 4.76
+    },
+    {
+     "word": "vestido",
+     "start": 4.76,
+     "end": 5.0
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 5.04,
+   "end": 5.67,
+   "text": "com essa roupa aqui",
+   "words": [
+    {
+     "word": "com",
+     "start": 5.04,
+     "end": 5.18
+    },
+    {
+     "word": "essa",
+     "start": 5.18,
+     "end": 5.32
+    },
+    {
+     "word": "roupa",
+     "start": 5.32,
+     "end": 5.62
+    },
+    {
+     "word": "aqui",
+     "start": 5.62,
+     "end": 5.67
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 5.7,
+   "end": 6.36,
+   "text": "claramente eu",
+   "words": [
+    {
+     "word": "claramente",
+     "start": 5.7,
+     "end": 6.26
+    },
+    {
+     "word": "eu",
+     "start": 6.26,
+     "end": 6.36
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.4,
+   "end": 7.0,
+   "text": "tô pulando errado",
+   "words": [
+    {
+     "word": "tô",
+     "start": 6.4,
+     "end": 6.46
+    },
+    {
+     "word": "pulando",
+     "start": 6.46,
+     "end": 6.72
+    },
+    {
+     "word": "errado",
+     "start": 6.72,
+     "end": 7.0
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.04,
+   "end": 7.64,
+   "text": "né?",
+   "words": [
+    {
+     "word": "né?",
+     "start": 7.04,
+     "end": 7.64
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.94,
+   "end": 9.09,
+   "text": "Bagulho é uma festa",
+   "words": [
+    {
+     "word": "Bagulho",
+     "start": 7.94,
+     "end": 8.26
+    },
+    {
+     "word": "é",
+     "start": 8.26,
+     "end": 8.31
+    },
+    {
+     "word": "uma",
+     "start": 8.31,
+     "end": 8.4
+    },
+    {
+     "word": "festa",
+     "start": 8.4,
+     "end": 9.09
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
