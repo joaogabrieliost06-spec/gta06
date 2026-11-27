@@ -1,0 +1,583 @@
+{
+ "segments": [
+  {
+   "start": 21.35,
+   "end": 22.35,
+   "text": "Eu não vou ajudar",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 21.35,
+     "end": 21.53
+    },
+    {
+     "word": "não",
+     "start": 21.53,
+     "end": 21.63
+    },
+    {
+     "word": "vou",
+     "start": 21.63,
+     "end": 21.79
+    },
+    {
+     "word": "ajudar",
+     "start": 21.79,
+     "end": 22.35
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 22.39,
+   "end": 22.99,
+   "text": "não, mano",
+   "words": [
+    {
+     "word": "não,",
+     "start": 22.39,
+     "end": 22.45
+    },
+    {
+     "word": "mano",
+     "start": 22.47,
+     "end": 22.99
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 25.57,
+   "end": 26.09,
+   "text": "Essa música",
+   "words": [
+    {
+     "word": "Essa",
+     "start": 25.57,
+     "end": 25.85
+    },
+    {
+     "word": "música",
+     "start": 25.85,
+     "end": 26.09
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 26.13,
+   "end": 26.81,
+   "text": "é insana, velho",
+   "words": [
+    {
+     "word": "é",
+     "start": 26.13,
+     "end": 26.23
+    },
+    {
+     "word": "insana,",
+     "start": 26.23,
+     "end": 26.57
+    },
+    {
+     "word": "velho",
+     "start": 26.67,
+     "end": 26.81
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 26.85,
+   "end": 27.45,
+   "text": "na moral",
+   "words": [
+    {
+     "word": "na",
+     "start": 26.85,
+     "end": 26.91
+    },
+    {
+     "word": "moral",
+     "start": 26.91,
+     "end": 27.45
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 27.49,
+   "end": 28.23,
+   "text": "Quem que fez essa música",
+   "words": [
+    {
+     "word": "Quem",
+     "start": 27.49,
+     "end": 27.63
+    },
+    {
+     "word": "que",
+     "start": 27.63,
+     "end": 27.73
+    },
+    {
+     "word": "fez",
+     "start": 27.73,
+     "end": 27.91
+    },
+    {
+     "word": "essa",
+     "start": 27.91,
+     "end": 28.01
+    },
+    {
+     "word": "música",
+     "start": 28.01,
+     "end": 28.23
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 28.27,
+   "end": 29.17,
+   "text": "é bizarramente bom",
+   "words": [
+    {
+     "word": "é",
+     "start": 28.27,
+     "end": 28.37
+    },
+    {
+     "word": "bizarramente",
+     "start": 28.37,
+     "end": 28.89
+    },
+    {
+     "word": "bom",
+     "start": 28.89,
+     "end": 29.17
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 29.21,
+   "end": 29.81,
+   "text": "velho",
+   "words": [
+    {
+     "word": "velho",
+     "start": 29.21,
+     "end": 29.81
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 44.44,
+   "end": 45.68,
+   "text": "Você é ladrão também?",
+   "words": [
+    {
+     "word": "Você",
+     "start": 44.44,
+     "end": 44.76
+    },
+    {
+     "word": "é",
+     "start": 44.76,
+     "end": 44.9
+    },
+    {
+     "word": "ladrão",
+     "start": 44.9,
+     "end": 45.24
+    },
+    {
+     "word": "também?",
+     "start": 45.24,
+     "end": 45.68
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 45.72,
+   "end": 46.48,
+   "text": "Eu sou ladrão, mano",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 45.72,
+     "end": 45.9
+    },
+    {
+     "word": "sou",
+     "start": 45.9,
+     "end": 46.02
+    },
+    {
+     "word": "ladrão,",
+     "start": 46.02,
+     "end": 46.32
+    },
+    {
+     "word": "mano",
+     "start": 46.36,
+     "end": 46.48
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 46.52,
+   "end": 46.9,
+   "text": "Não quer dizer que eu",
+   "words": [
+    {
+     "word": "Não",
+     "start": 46.52,
+     "end": 46.56
+    },
+    {
+     "word": "quer",
+     "start": 46.56,
+     "end": 46.62
+    },
+    {
+     "word": "dizer",
+     "start": 46.62,
+     "end": 46.74
+    },
+    {
+     "word": "que",
+     "start": 46.74,
+     "end": 46.84
+    },
+    {
+     "word": "eu",
+     "start": 46.84,
+     "end": 46.9
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 46.94,
+   "end": 48.49,
+   "text": "apoio ladrão",
+   "words": [
+    {
+     "word": "apoio",
+     "start": 46.94,
+     "end": 47.9
+    },
+    {
+     "word": "ladrão",
+     "start": 47.9,
+     "end": 48.49
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 49.63,
+   "end": 50.33,
+   "text": "Eu sou ladrão, não",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 49.63,
+     "end": 49.83
+    },
+    {
+     "word": "sou",
+     "start": 49.83,
+     "end": 49.99
+    },
+    {
+     "word": "ladrão,",
+     "start": 49.99,
+     "end": 50.27
+    },
+    {
+     "word": "não",
+     "start": 50.27,
+     "end": 50.33
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 50.37,
+   "end": 50.95,
+   "text": "quer dizer que eu apoio",
+   "words": [
+    {
+     "word": "quer",
+     "start": 50.37,
+     "end": 50.49
+    },
+    {
+     "word": "dizer",
+     "start": 50.49,
+     "end": 50.59
+    },
+    {
+     "word": "que",
+     "start": 50.59,
+     "end": 50.69
+    },
+    {
+     "word": "eu",
+     "start": 50.69,
+     "end": 50.75
+    },
+    {
+     "word": "apoio",
+     "start": 50.75,
+     "end": 50.95
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 50.99,
+   "end": 51.96,
+   "text": "ladrão. É diferente",
+   "words": [
+    {
+     "word": "ladrão.",
+     "start": 50.99,
+     "end": 51.27
+    },
+    {
+     "word": "É",
+     "start": 51.39,
+     "end": 51.44
+    },
+    {
+     "word": "diferente",
+     "start": 51.44,
+     "end": 51.96
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 53.06,
+   "end": 53.88,
+   "text": "Uma coisa é uma coisa",
+   "words": [
+    {
+     "word": "Uma",
+     "start": 53.06,
+     "end": 53.2
+    },
+    {
+     "word": "coisa",
+     "start": 53.2,
+     "end": 53.44
+    },
+    {
+     "word": "é",
+     "start": 53.44,
+     "end": 53.56
+    },
+    {
+     "word": "uma",
+     "start": 53.56,
+     "end": 53.64
+    },
+    {
+     "word": "coisa",
+     "start": 53.64,
+     "end": 53.88
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 53.92,
+   "end": 54.97,
+   "text": "outra coisa é outra coisa",
+   "words": [
+    {
+     "word": "outra",
+     "start": 53.92,
+     "end": 54.02
+    },
+    {
+     "word": "coisa",
+     "start": 54.02,
+     "end": 54.2
+    },
+    {
+     "word": "é",
+     "start": 54.2,
+     "end": 54.3
+    },
+    {
+     "word": "outra",
+     "start": 54.3,
+     "end": 54.4
+    },
+    {
+     "word": "coisa",
+     "start": 54.4,
+     "end": 54.97
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 56.85,
+   "end": 57.54,
+   "text": "Tá ligado?",
+   "words": [
+    {
+     "word": "Tá",
+     "start": 56.85,
+     "end": 57.03
+    },
+    {
+     "word": "ligado?",
+     "start": 57.03,
+     "end": 57.54
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 74.72,
+   "end": 75.7,
+   "text": "Como você vai usar",
+   "words": [
+    {
+     "word": "Como",
+     "start": 74.72,
+     "end": 75.04
+    },
+    {
+     "word": "você",
+     "start": 75.04,
+     "end": 75.36
+    },
+    {
+     "word": "vai",
+     "start": 75.36,
+     "end": 75.48
+    },
+    {
+     "word": "usar",
+     "start": 75.48,
+     "end": 75.7
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 75.74,
+   "end": 76.26,
+   "text": "suas... Você sai",
+   "words": [
+    {
+     "word": "suas...",
+     "start": 75.74,
+     "end": 75.96
+    },
+    {
+     "word": "Você",
+     "start": 75.96,
+     "end": 76.1
+    },
+    {
+     "word": "sai",
+     "start": 76.1,
+     "end": 76.26
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 76.3,
+   "end": 77.32,
+   "text": "com a porra",
+   "words": [
+    {
+     "word": "com",
+     "start": 76.3,
+     "end": 77.14
+    },
+    {
+     "word": "a",
+     "start": 77.14,
+     "end": 77.19
+    },
+    {
+     "word": "porra",
+     "start": 77.19,
+     "end": 77.32
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 77.36,
+   "end": 78.08,
+   "text": "do taco e fala",
+   "words": [
+    {
+     "word": "do",
+     "start": 77.36,
+     "end": 77.46
+    },
+    {
+     "word": "taco",
+     "start": 77.46,
+     "end": 77.8
+    },
+    {
+     "word": "e",
+     "start": 77.8,
+     "end": 77.98
+    },
+    {
+     "word": "fala",
+     "start": 77.98,
+     "end": 78.08
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 78.12,
+   "end": 79.27,
+   "text": "que vai usar suas",
+   "words": [
+    {
+     "word": "que",
+     "start": 78.12,
+     "end": 78.26
+    },
+    {
+     "word": "vai",
+     "start": 78.26,
+     "end": 78.34
+    },
+    {
+     "word": "usar",
+     "start": 78.34,
+     "end": 78.54
+    },
+    {
+     "word": "suas",
+     "start": 78.54,
+     "end": 79.27
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
