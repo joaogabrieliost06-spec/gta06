@@ -1,0 +1,941 @@
+{
+ "segments": [
+  {
+   "start": 2.54,
+   "end": 3.59,
+   "text": "Pô, acordo",
+   "words": [
+    {
+     "word": "Pô,",
+     "start": 2.54,
+     "end": 2.78
+    },
+    {
+     "word": "acordo",
+     "start": 2.82,
+     "end": 3.59
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 4.04,
+   "end": 5.47,
+   "text": "meto aquele treininho",
+   "words": [
+    {
+     "word": "meto",
+     "start": 4.04,
+     "end": 4.28
+    },
+    {
+     "word": "aquele",
+     "start": 4.28,
+     "end": 4.52
+    },
+    {
+     "word": "treininho",
+     "start": 4.52,
+     "end": 5.47
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 5.92,
+   "end": 6.48,
+   "text": "daí eu vou",
+   "words": [
+    {
+     "word": "daí",
+     "start": 5.92,
+     "end": 6.12
+    },
+    {
+     "word": "eu",
+     "start": 6.12,
+     "end": 6.32
+    },
+    {
+     "word": "vou",
+     "start": 6.32,
+     "end": 6.48
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 6.52,
+   "end": 7.12,
+   "text": "o quê?",
+   "words": [
+    {
+     "word": "o",
+     "start": 6.52,
+     "end": 6.72
+    },
+    {
+     "word": "quê?",
+     "start": 6.72,
+     "end": 7.12
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 7.27,
+   "end": 8.09,
+   "text": "Vou roubar um banco",
+   "words": [
+    {
+     "word": "Vou",
+     "start": 7.27,
+     "end": 7.43
+    },
+    {
+     "word": "roubar",
+     "start": 7.43,
+     "end": 7.65
+    },
+    {
+     "word": "um",
+     "start": 7.65,
+     "end": 7.75
+    },
+    {
+     "word": "banco",
+     "start": 7.75,
+     "end": 8.09
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 8.13,
+   "end": 9.12,
+   "text": "roubei o banco",
+   "words": [
+    {
+     "word": "roubei",
+     "start": 8.13,
+     "end": 8.37
+    },
+    {
+     "word": "o",
+     "start": 8.37,
+     "end": 8.49
+    },
+    {
+     "word": "banco",
+     "start": 8.49,
+     "end": 9.12
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 9.35,
+   "end": 10.09,
+   "text": "pera demais",
+   "words": [
+    {
+     "word": "pera",
+     "start": 9.35,
+     "end": 9.57
+    },
+    {
+     "word": "demais",
+     "start": 9.57,
+     "end": 10.09
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 10.13,
+   "end": 10.77,
+   "text": "— daí,⁠ cara,⁠ vou⁠",
+   "words": [
+    {
+     "word": "— daí,⁠",
+     "start": 10.13,
+     "end": 10.33
+    },
+    {
+     "word": "cara,⁠",
+     "start": 10.51,
+     "end": 10.63
+    },
+    {
+     "word": "vou⁠",
+     "start": 10.71,
+     "end": 10.77
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 10.81,
+   "end": 11.61,
+   "text": "roubar⁠ um⁠ carro⁠",
+   "words": [
+    {
+     "word": "roubar⁠",
+     "start": 10.81,
+     "end": 11.01
+    },
+    {
+     "word": "um⁠",
+     "start": 11.01,
+     "end": 11.13
+    },
+    {
+     "word": "carro⁠",
+     "start": 11.13,
+     "end": 11.61
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 11.65,
+   "end": 12.59,
+   "text": "pera,⁠ acordei,⁠ pô⁠",
+   "words": [
+    {
+     "word": "pera,⁠",
+     "start": 11.65,
+     "end": 11.85
+    },
+    {
+     "word": "acordei,⁠",
+     "start": 11.93,
+     "end": 12.39
+    },
+    {
+     "word": "pô⁠",
+     "start": 12.51,
+     "end": 12.59
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 12.63,
+   "end": 13.33,
+   "text": "roubei⁠ um⁠ carrinho⁠",
+   "words": [
+    {
+     "word": "roubei⁠",
+     "start": 12.63,
+     "end": 12.83
+    },
+    {
+     "word": "um⁠",
+     "start": 12.83,
+     "end": 12.93
+    },
+    {
+     "word": "carrinho⁠",
+     "start": 12.93,
+     "end": 13.33
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 13.37,
+   "end": 13.83,
+   "text": "daí,⁠ ah,⁠ vou⁠ fazer⁠",
+   "words": [
+    {
+     "word": "daí,⁠",
+     "start": 13.37,
+     "end": 13.45
+    },
+    {
+     "word": "ah,⁠",
+     "start": 13.57,
+     "end": 13.62
+    },
+    {
+     "word": "vou⁠",
+     "start": 13.63,
+     "end": 13.69
+    },
+    {
+     "word": "fazer⁠",
+     "start": 13.69,
+     "end": 13.83
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 13.87,
+   "end": 14.51,
+   "text": "uma⁠ missãozinha,⁠ fiz⁠",
+   "words": [
+    {
+     "word": "uma⁠",
+     "start": 13.87,
+     "end": 13.95
+    },
+    {
+     "word": "missãozinha,⁠",
+     "start": 13.95,
+     "end": 14.39
+    },
+    {
+     "word": "fiz⁠",
+     "start": 14.41,
+     "end": 14.51
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 14.55,
+   "end": 15.37,
+   "text": "uma⁠ missãozinha,⁠ ah⁠",
+   "words": [
+    {
+     "word": "uma⁠",
+     "start": 14.55,
+     "end": 14.65
+    },
+    {
+     "word": "missãozinha,⁠",
+     "start": 14.65,
+     "end": 15.15
+    },
+    {
+     "word": "ah⁠",
+     "start": 15.29,
+     "end": 15.37
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 15.41,
+   "end": 15.87,
+   "text": "não,⁠ tem⁠ que⁠ roubar⁠",
+   "words": [
+    {
+     "word": "não,⁠",
+     "start": 15.41,
+     "end": 15.49
+    },
+    {
+     "word": "tem⁠",
+     "start": 15.57,
+     "end": 15.65
+    },
+    {
+     "word": "que⁠",
+     "start": 15.65,
+     "end": 15.73
+    },
+    {
+     "word": "roubar⁠",
+     "start": 15.73,
+     "end": 15.87
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 15.91,
+   "end": 16.61,
+   "text": "outro⁠ carro,⁠ rouba⁠",
+   "words": [
+    {
+     "word": "outro⁠",
+     "start": 15.91,
+     "end": 16.09
+    },
+    {
+     "word": "carro,⁠",
+     "start": 16.09,
+     "end": 16.33
+    },
+    {
+     "word": "rouba⁠",
+     "start": 16.45,
+     "end": 16.61
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 16.65,
+   "end": 17.48,
+   "text": "outro⁠ carro⁠",
+   "words": [
+    {
+     "word": "outro⁠",
+     "start": 16.65,
+     "end": 16.83
+    },
+    {
+     "word": "carro⁠",
+     "start": 16.83,
+     "end": 17.48
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 18.91,
+   "end": 19.51,
+   "text": "daí,⁠ ah⁠",
+   "words": [
+    {
+     "word": "daí,⁠",
+     "start": 18.91,
+     "end": 19.07
+    },
+    {
+     "word": "ah⁠",
+     "start": 19.15,
+     "end": 19.51
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 25.59,
+   "end": 26.35,
+   "text": "de horas amanhã",
+   "words": [
+    {
+     "word": "de",
+     "start": 25.59,
+     "end": 25.67
+    },
+    {
+     "word": "horas",
+     "start": 25.67,
+     "end": 25.85
+    },
+    {
+     "word": "amanhã",
+     "start": 25.85,
+     "end": 26.35
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 26.39,
+   "end": 26.93,
+   "text": "assim que eu chegar",
+   "words": [
+    {
+     "word": "assim",
+     "start": 26.39,
+     "end": 26.61
+    },
+    {
+     "word": "que",
+     "start": 26.61,
+     "end": 26.75
+    },
+    {
+     "word": "eu",
+     "start": 26.75,
+     "end": 26.8
+    },
+    {
+     "word": "chegar",
+     "start": 26.8,
+     "end": 26.93
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 26.97,
+   "end": 27.77,
+   "text": "da academia, cara",
+   "words": [
+    {
+     "word": "da",
+     "start": 26.97,
+     "end": 27.11
+    },
+    {
+     "word": "academia,",
+     "start": 27.11,
+     "end": 27.49
+    },
+    {
+     "word": "cara",
+     "start": 27.67,
+     "end": 27.77
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 27.81,
+   "end": 28.49,
+   "text": "só que amanhã é meu dia",
+   "words": [
+    {
+     "word": "só",
+     "start": 27.81,
+     "end": 27.89
+    },
+    {
+     "word": "que",
+     "start": 27.89,
+     "end": 28.01
+    },
+    {
+     "word": "amanhã",
+     "start": 28.01,
+     "end": 28.21
+    },
+    {
+     "word": "é",
+     "start": 28.21,
+     "end": 28.31
+    },
+    {
+     "word": "meu",
+     "start": 28.31,
+     "end": 28.41
+    },
+    {
+     "word": "dia",
+     "start": 28.41,
+     "end": 28.49
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 28.53,
+   "end": 29.72,
+   "text": "de perna, velho",
+   "words": [
+    {
+     "word": "de",
+     "start": 28.53,
+     "end": 28.69
+    },
+    {
+     "word": "perna,",
+     "start": 28.69,
+     "end": 29.11
+    },
+    {
+     "word": "velho",
+     "start": 29.21,
+     "end": 29.72
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 30.3,
+   "end": 30.73,
+   "text": "não sei se eu",
+   "words": [
+    {
+     "word": "não",
+     "start": 30.3,
+     "end": 30.46
+    },
+    {
+     "word": "sei",
+     "start": 30.46,
+     "end": 30.58
+    },
+    {
+     "word": "se",
+     "start": 30.58,
+     "end": 30.68
+    },
+    {
+     "word": "eu",
+     "start": 30.68,
+     "end": 30.73
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 30.72,
+   "end": 31.34,
+   "text": "vou fazer cardio",
+   "words": [
+    {
+     "word": "vou",
+     "start": 30.72,
+     "end": 30.82
+    },
+    {
+     "word": "fazer",
+     "start": 30.82,
+     "end": 31.02
+    },
+    {
+     "word": "cardio",
+     "start": 31.02,
+     "end": 31.34
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 31.38,
+   "end": 31.83,
+   "text": "amanhã, porque eu",
+   "words": [
+    {
+     "word": "amanhã,",
+     "start": 31.38,
+     "end": 31.62
+    },
+    {
+     "word": "porque",
+     "start": 31.7,
+     "end": 31.78
+    },
+    {
+     "word": "eu",
+     "start": 31.78,
+     "end": 31.83
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 31.86,
+   "end": 32.62,
+   "text": "vou fazer perna",
+   "words": [
+    {
+     "word": "vou",
+     "start": 31.86,
+     "end": 31.92
+    },
+    {
+     "word": "fazer",
+     "start": 31.92,
+     "end": 32.14
+    },
+    {
+     "word": "perna",
+     "start": 32.14,
+     "end": 32.62
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 32.66,
+   "end": 35.85,
+   "text": "mano, como é que eu",
+   "words": [
+    {
+     "word": "mano,",
+     "start": 32.66,
+     "end": 32.8
+    },
+    {
+     "word": "como",
+     "start": 35.54,
+     "end": 35.7
+    },
+    {
+     "word": "é",
+     "start": 35.7,
+     "end": 35.75
+    },
+    {
+     "word": "que",
+     "start": 35.75,
+     "end": 35.8
+    },
+    {
+     "word": "eu",
+     "start": 35.8,
+     "end": 35.85
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 35.86,
+   "end": 37.26,
+   "text": "vou correr na esteira, fazer",
+   "words": [
+    {
+     "word": "vou",
+     "start": 35.86,
+     "end": 35.96
+    },
+    {
+     "word": "correr",
+     "start": 35.96,
+     "end": 36.24
+    },
+    {
+     "word": "na",
+     "start": 36.24,
+     "end": 36.38
+    },
+    {
+     "word": "esteira,",
+     "start": 36.38,
+     "end": 36.86
+    },
+    {
+     "word": "fazer",
+     "start": 37.08,
+     "end": 37.26
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 37.3,
+   "end": 37.92,
+   "text": "minhas pernas todas",
+   "words": [
+    {
+     "word": "minhas",
+     "start": 37.3,
+     "end": 37.54
+    },
+    {
+     "word": "pernas",
+     "start": 37.54,
+     "end": 37.78
+    },
+    {
+     "word": "todas",
+     "start": 37.78,
+     "end": 37.92
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 37.96,
+   "end": 38.95,
+   "text": "fodidas, né",
+   "words": [
+    {
+     "word": "fodidas,",
+     "start": 37.96,
+     "end": 38.52
+    },
+    {
+     "word": "né",
+     "start": 38.64,
+     "end": 38.95
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 39.41,
+   "end": 40.03,
+   "text": "vai depender",
+   "words": [
+    {
+     "word": "vai",
+     "start": 39.41,
+     "end": 39.55
+    },
+    {
+     "word": "depender",
+     "start": 39.55,
+     "end": 40.03
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 40.07,
+   "end": 40.77,
+   "text": "Mano, vai depender",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 40.07,
+     "end": 40.29
+    },
+    {
+     "word": "vai",
+     "start": 40.31,
+     "end": 40.41
+    },
+    {
+     "word": "depender",
+     "start": 40.41,
+     "end": 40.77
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 40.81,
+   "end": 41.47,
+   "text": "de alguém me parar",
+   "words": [
+    {
+     "word": "de",
+     "start": 40.81,
+     "end": 40.93
+    },
+    {
+     "word": "alguém",
+     "start": 40.93,
+     "end": 41.13
+    },
+    {
+     "word": "me",
+     "start": 41.13,
+     "end": 41.33
+    },
+    {
+     "word": "parar",
+     "start": 41.33,
+     "end": 41.47
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 41.51,
+   "end": 41.99,
+   "text": "na live e ficar",
+   "words": [
+    {
+     "word": "na",
+     "start": 41.51,
+     "end": 41.63
+    },
+    {
+     "word": "live",
+     "start": 41.63,
+     "end": 41.79
+    },
+    {
+     "word": "e",
+     "start": 41.79,
+     "end": 41.91
+    },
+    {
+     "word": "ficar",
+     "start": 41.91,
+     "end": 41.99
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 42.03,
+   "end": 42.75,
+   "text": "40 minutos falando",
+   "words": [
+    {
+     "word": "40",
+     "start": 42.03,
+     "end": 42.35
+    },
+    {
+     "word": "minutos",
+     "start": 42.35,
+     "end": 42.61
+    },
+    {
+     "word": "falando",
+     "start": 42.61,
+     "end": 42.75
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 42.79,
+   "end": 43.78,
+   "text": "de GTA 6",
+   "words": [
+    {
+     "word": "de",
+     "start": 42.79,
+     "end": 42.91
+    },
+    {
+     "word": "GTA",
+     "start": 42.91,
+     "end": 43.13
+    },
+    {
+     "word": "6",
+     "start": 43.13,
+     "end": 43.78
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 43.94,
+   "end": 44.74,
+   "text": "Na live não, falei",
+   "words": [
+    {
+     "word": "Na",
+     "start": 43.94,
+     "end": 44.14
+    },
+    {
+     "word": "live",
+     "start": 44.14,
+     "end": 44.38
+    },
+    {
+     "word": "não,",
+     "start": 44.38,
+     "end": 44.52
+    },
+    {
+     "word": "falei",
+     "start": 44.6,
+     "end": 44.74
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 44.78,
+   "end": 45.77,
+   "text": "na academia, né?",
+   "words": [
+    {
+     "word": "na",
+     "start": 44.78,
+     "end": 44.92
+    },
+    {
+     "word": "academia,",
+     "start": 44.92,
+     "end": 45.3
+    },
+    {
+     "word": "né?",
+     "start": 45.44,
+     "end": 45.77
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
