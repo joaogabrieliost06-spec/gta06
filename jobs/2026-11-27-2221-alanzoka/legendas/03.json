@@ -1,0 +1,1042 @@
+{
+ "segments": [
+  {
+   "start": 9.3,
+   "end": 10.47,
+   "text": "Que clima é esse?",
+   "words": [
+    {
+     "word": "Que",
+     "start": 9.3,
+     "end": 9.52
+    },
+    {
+     "word": "clima",
+     "start": 9.52,
+     "end": 9.8
+    },
+    {
+     "word": "é",
+     "start": 9.8,
+     "end": 9.94
+    },
+    {
+     "word": "esse?",
+     "start": 9.94,
+     "end": 10.47
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 13.61,
+   "end": 14.29,
+   "text": "Ah, mano, eu vim",
+   "words": [
+    {
+     "word": "Ah,",
+     "start": 13.61,
+     "end": 13.83
+    },
+    {
+     "word": "mano,",
+     "start": 13.97,
+     "end": 14.09
+    },
+    {
+     "word": "eu",
+     "start": 14.13,
+     "end": 14.23
+    },
+    {
+     "word": "vim",
+     "start": 14.23,
+     "end": 14.29
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 14.33,
+   "end": 14.9,
+   "text": "pra um lugar que não dá",
+   "words": [
+    {
+     "word": "pra",
+     "start": 14.33,
+     "end": 14.41
+    },
+    {
+     "word": "um",
+     "start": 14.41,
+     "end": 14.49
+    },
+    {
+     "word": "lugar",
+     "start": 14.49,
+     "end": 14.63
+    },
+    {
+     "word": "que",
+     "start": 14.63,
+     "end": 14.75
+    },
+    {
+     "word": "não",
+     "start": 14.75,
+     "end": 14.85
+    },
+    {
+     "word": "dá",
+     "start": 14.85,
+     "end": 14.9
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 14.93,
+   "end": 15.89,
+   "text": "pra eu pular o muro",
+   "words": [
+    {
+     "word": "pra",
+     "start": 14.93,
+     "end": 15.03
+    },
+    {
+     "word": "eu",
+     "start": 15.03,
+     "end": 15.17
+    },
+    {
+     "word": "pular",
+     "start": 15.17,
+     "end": 15.35
+    },
+    {
+     "word": "o",
+     "start": 15.35,
+     "end": 15.51
+    },
+    {
+     "word": "muro",
+     "start": 15.51,
+     "end": 15.89
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 15.93,
+   "end": 16.53,
+   "text": "Os caras não fizeram",
+   "words": [
+    {
+     "word": "Os",
+     "start": 15.93,
+     "end": 16.07
+    },
+    {
+     "word": "caras",
+     "start": 16.07,
+     "end": 16.19
+    },
+    {
+     "word": "não",
+     "start": 16.19,
+     "end": 16.27
+    },
+    {
+     "word": "fizeram",
+     "start": 16.27,
+     "end": 16.53
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 16.57,
+   "end": 17.43,
+   "text": "muro aí na água, né?",
+   "words": [
+    {
+     "word": "muro",
+     "start": 16.57,
+     "end": 16.85
+    },
+    {
+     "word": "aí",
+     "start": 16.85,
+     "end": 16.99
+    },
+    {
+     "word": "na",
+     "start": 16.99,
+     "end": 17.09
+    },
+    {
+     "word": "água,",
+     "start": 17.09,
+     "end": 17.33
+    },
+    {
+     "word": "né?",
+     "start": 17.37,
+     "end": 17.43
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 17.47,
+   "end": 18.13,
+   "text": "Vamos falar a verdade",
+   "words": [
+    {
+     "word": "Vamos",
+     "start": 17.47,
+     "end": 17.55
+    },
+    {
+     "word": "falar",
+     "start": 17.55,
+     "end": 17.73
+    },
+    {
+     "word": "a",
+     "start": 17.73,
+     "end": 17.83
+    },
+    {
+     "word": "verdade",
+     "start": 17.83,
+     "end": 18.13
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 18.17,
+   "end": 18.75,
+   "text": "Qualquer um consegue",
+   "words": [
+    {
+     "word": "Qualquer",
+     "start": 18.17,
+     "end": 18.41
+    },
+    {
+     "word": "um",
+     "start": 18.41,
+     "end": 18.47
+    },
+    {
+     "word": "consegue",
+     "start": 18.47,
+     "end": 18.75
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 18.79,
+   "end": 19.51,
+   "text": "passar pela água",
+   "words": [
+    {
+     "word": "passar",
+     "start": 18.79,
+     "end": 19.07
+    },
+    {
+     "word": "pela",
+     "start": 19.07,
+     "end": 19.33
+    },
+    {
+     "word": "água",
+     "start": 19.33,
+     "end": 19.51
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 19.55,
+   "end": 20.62,
+   "text": "e entrar nesse",
+   "words": [
+    {
+     "word": "e",
+     "start": 19.55,
+     "end": 19.63
+    },
+    {
+     "word": "entrar",
+     "start": 19.63,
+     "end": 19.77
+    },
+    {
+     "word": "nesse",
+     "start": 19.77,
+     "end": 20.62
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 21.35,
+   "end": 22.07,
+   "text": "Nossa senhora",
+   "words": [
+    {
+     "word": "Nossa",
+     "start": 21.35,
+     "end": 21.81
+    },
+    {
+     "word": "senhora",
+     "start": 21.81,
+     "end": 22.07
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 22.11,
+   "end": 22.63,
+   "text": "que condomínio",
+   "words": [
+    {
+     "word": "que",
+     "start": 22.11,
+     "end": 22.17
+    },
+    {
+     "word": "condomínio",
+     "start": 22.17,
+     "end": 22.63
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 22.67,
+   "end": 23.47,
+   "text": "merda, hein, gente?",
+   "words": [
+    {
+     "word": "merda,",
+     "start": 22.67,
+     "end": 23.05
+    },
+    {
+     "word": "hein,",
+     "start": 23.13,
+     "end": 23.18
+    },
+    {
+     "word": "gente?",
+     "start": 23.25,
+     "end": 23.47
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 23.51,
+   "end": 24.9,
+   "text": "Que segurança é essa, cara?",
+   "words": [
+    {
+     "word": "Que",
+     "start": 23.51,
+     "end": 23.63
+    },
+    {
+     "word": "segurança",
+     "start": 23.63,
+     "end": 23.95
+    },
+    {
+     "word": "é",
+     "start": 23.95,
+     "end": 24.19
+    },
+    {
+     "word": "essa,",
+     "start": 24.19,
+     "end": 24.35
+    },
+    {
+     "word": "cara?",
+     "start": 24.47,
+     "end": 24.9
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 42.83,
+   "end": 44.17,
+   "text": "Bom, a convergência",
+   "words": [
+    {
+     "word": "Bom,",
+     "start": 42.83,
+     "end": 43.09
+    },
+    {
+     "word": "a",
+     "start": 43.27,
+     "end": 43.47
+    },
+    {
+     "word": "convergência",
+     "start": 43.47,
+     "end": 44.17
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 44.21,
+   "end": 44.71,
+   "text": "que a gente vê",
+   "words": [
+    {
+     "word": "que",
+     "start": 44.21,
+     "end": 44.39
+    },
+    {
+     "word": "a",
+     "start": 44.39,
+     "end": 44.47
+    },
+    {
+     "word": "gente",
+     "start": 44.47,
+     "end": 44.57
+    },
+    {
+     "word": "vê",
+     "start": 44.57,
+     "end": 44.71
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 44.75,
+   "end": 45.54,
+   "text": "onde as linhas",
+   "words": [
+    {
+     "word": "onde",
+     "start": 44.75,
+     "end": 44.89
+    },
+    {
+     "word": "as",
+     "start": 44.89,
+     "end": 45.09
+    },
+    {
+     "word": "linhas",
+     "start": 45.09,
+     "end": 45.54
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 45.71,
+   "end": 46.68,
+   "text": "convergiam era aqui",
+   "words": [
+    {
+     "word": "convergiam",
+     "start": 45.71,
+     "end": 45.99
+    },
+    {
+     "word": "era",
+     "start": 45.99,
+     "end": 46.13
+    },
+    {
+     "word": "aqui",
+     "start": 46.13,
+     "end": 46.68
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 47.11,
+   "end": 47.79,
+   "text": "Mas eu tô sem",
+   "words": [
+    {
+     "word": "Mas",
+     "start": 47.11,
+     "end": 47.39
+    },
+    {
+     "word": "eu",
+     "start": 47.39,
+     "end": 47.51
+    },
+    {
+     "word": "tô",
+     "start": 47.51,
+     "end": 47.61
+    },
+    {
+     "word": "sem",
+     "start": 47.61,
+     "end": 47.79
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 47.83,
+   "end": 48.37,
+   "text": "equipamento",
+   "words": [
+    {
+     "word": "equipamento",
+     "start": 47.83,
+     "end": 48.37
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 48.41,
+   "end": 49.51,
+   "text": "de mergulho, então",
+   "words": [
+    {
+     "word": "de",
+     "start": 48.41,
+     "end": 48.63
+    },
+    {
+     "word": "mergulho,",
+     "start": 48.63,
+     "end": 49.15
+    },
+    {
+     "word": "então",
+     "start": 49.35,
+     "end": 49.51
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 49.55,
+   "end": 50.09,
+   "text": "eu não vou enxergar",
+   "words": [
+    {
+     "word": "eu",
+     "start": 49.55,
+     "end": 49.63
+    },
+    {
+     "word": "não",
+     "start": 49.63,
+     "end": 49.68
+    },
+    {
+     "word": "vou",
+     "start": 49.68,
+     "end": 49.79
+    },
+    {
+     "word": "enxergar",
+     "start": 49.79,
+     "end": 50.09
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 50.13,
+   "end": 50.86,
+   "text": "nada. E aí?",
+   "words": [
+    {
+     "word": "nada.",
+     "start": 50.13,
+     "end": 50.37
+    },
+    {
+     "word": "E",
+     "start": 50.43,
+     "end": 50.49
+    },
+    {
+     "word": "aí?",
+     "start": 50.49,
+     "end": 50.86
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 54.31,
+   "end": 55.11,
+   "text": "Cara, sem equipamento",
+   "words": [
+    {
+     "word": "Cara,",
+     "start": 54.31,
+     "end": 54.53
+    },
+    {
+     "word": "sem",
+     "start": 54.59,
+     "end": 54.73
+    },
+    {
+     "word": "equipamento",
+     "start": 54.73,
+     "end": 55.11
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 55.15,
+   "end": 55.65,
+   "text": "de mergulho",
+   "words": [
+    {
+     "word": "de",
+     "start": 55.15,
+     "end": 55.33
+    },
+    {
+     "word": "mergulho",
+     "start": 55.33,
+     "end": 55.65
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 55.69,
+   "end": 56.05,
+   "text": "acho que eu não vou",
+   "words": [
+    {
+     "word": "acho",
+     "start": 55.69,
+     "end": 55.81
+    },
+    {
+     "word": "que",
+     "start": 55.81,
+     "end": 55.87
+    },
+    {
+     "word": "eu",
+     "start": 55.87,
+     "end": 55.92
+    },
+    {
+     "word": "não",
+     "start": 55.92,
+     "end": 55.97
+    },
+    {
+     "word": "vou",
+     "start": 55.97,
+     "end": 56.05
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 56.09,
+   "end": 56.63,
+   "text": "enxergar nada",
+   "words": [
+    {
+     "word": "enxergar",
+     "start": 56.09,
+     "end": 56.47
+    },
+    {
+     "word": "nada",
+     "start": 56.47,
+     "end": 56.63
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 56.67,
+   "end": 57.41,
+   "text": "se tiver alguma coisa",
+   "words": [
+    {
+     "word": "se",
+     "start": 56.67,
+     "end": 56.81
+    },
+    {
+     "word": "tiver",
+     "start": 56.81,
+     "end": 56.95
+    },
+    {
+     "word": "alguma",
+     "start": 56.95,
+     "end": 57.15
+    },
+    {
+     "word": "coisa",
+     "start": 57.15,
+     "end": 57.41
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 57.45,
+   "end": 58.18,
+   "text": "aqui, mano",
+   "words": [
+    {
+     "word": "aqui,",
+     "start": 57.45,
+     "end": 57.69
+    },
+    {
+     "word": "mano",
+     "start": 57.77,
+     "end": 58.18
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 66.13,
+   "end": 67.13,
+   "text": "Pô, tem um helicóptero, mano",
+   "words": [
+    {
+     "word": "Pô,",
+     "start": 66.13,
+     "end": 66.25
+    },
+    {
+     "word": "tem",
+     "start": 66.29,
+     "end": 66.35
+    },
+    {
+     "word": "um",
+     "start": 66.35,
+     "end": 66.45
+    },
+    {
+     "word": "helicóptero,",
+     "start": 66.45,
+     "end": 67.01
+    },
+    {
+     "word": "mano",
+     "start": 67.05,
+     "end": 67.13
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 67.17,
+   "end": 67.49,
+   "text": "Eu posso pegar",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 67.17,
+     "end": 67.23
+    },
+    {
+     "word": "posso",
+     "start": 67.23,
+     "end": 67.35
+    },
+    {
+     "word": "pegar",
+     "start": 67.35,
+     "end": 67.49
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 67.53,
+   "end": 68.15,
+   "text": "aquele helicóptero",
+   "words": [
+    {
+     "word": "aquele",
+     "start": 67.53,
+     "end": 67.71
+    },
+    {
+     "word": "helicóptero",
+     "start": 67.71,
+     "end": 68.15
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 68.19,
+   "end": 68.67,
+   "text": "e ir pra ilha",
+   "words": [
+    {
+     "word": "e",
+     "start": 68.19,
+     "end": 68.25
+    },
+    {
+     "word": "ir",
+     "start": 68.25,
+     "end": 68.33
+    },
+    {
+     "word": "pra",
+     "start": 68.33,
+     "end": 68.41
+    },
+    {
+     "word": "ilha",
+     "start": 68.41,
+     "end": 68.67
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 68.71,
+   "end": 69.32,
+   "text": "lá, hein?",
+   "words": [
+    {
+     "word": "lá,",
+     "start": 68.71,
+     "end": 68.87
+    },
+    {
+     "word": "hein?",
+     "start": 68.97,
+     "end": 69.32
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 79.36,
+   "end": 80.06,
+   "text": "Que ela não sobe",
+   "words": [
+    {
+     "word": "Que",
+     "start": 79.36,
+     "end": 79.4
+    },
+    {
+     "word": "ela",
+     "start": 79.4,
+     "end": 79.52
+    },
+    {
+     "word": "não",
+     "start": 79.52,
+     "end": 79.66
+    },
+    {
+     "word": "sobe",
+     "start": 79.66,
+     "end": 80.06
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 80.1,
+   "end": 80.7,
+   "text": "meu Deus?",
+   "words": [
+    {
+     "word": "meu",
+     "start": 80.1,
+     "end": 80.2
+    },
+    {
+     "word": "Deus?",
+     "start": 80.2,
+     "end": 80.7
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 81.23,
+   "end": 82.14,
+   "text": "É louco",
+   "words": [
+    {
+     "word": "É",
+     "start": 81.23,
+     "end": 81.45
+    },
+    {
+     "word": "louco",
+     "start": 81.45,
+     "end": 82.14
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 83.52,
+   "end": 84.48,
+   "text": "Eu ia ter que voltar aqui",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 83.52,
+     "end": 83.84
+    },
+    {
+     "word": "ia",
+     "start": 83.84,
+     "end": 83.94
+    },
+    {
+     "word": "ter",
+     "start": 83.94,
+     "end": 84.04
+    },
+    {
+     "word": "que",
+     "start": 84.04,
+     "end": 84.12
+    },
+    {
+     "word": "voltar",
+     "start": 84.12,
+     "end": 84.34
+    },
+    {
+     "word": "aqui",
+     "start": 84.34,
+     "end": 84.48
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 84.52,
+   "end": 85.61,
+   "text": "com o barco, mano",
+   "words": [
+    {
+     "word": "com",
+     "start": 84.52,
+     "end": 84.68
+    },
+    {
+     "word": "o",
+     "start": 84.68,
+     "end": 84.82
+    },
+    {
+     "word": "barco,",
+     "start": 84.82,
+     "end": 85.18
+    },
+    {
+     "word": "mano",
+     "start": 85.26,
+     "end": 85.61
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 87.62,
+   "end": 88.44,
+   "text": "Aparece no HUD?",
+   "words": [
+    {
+     "word": "Aparece",
+     "start": 87.62,
+     "end": 87.94
+    },
+    {
+     "word": "no",
+     "start": 87.94,
+     "end": 88.1
+    },
+    {
+     "word": "HUD?",
+     "start": 88.1,
+     "end": 88.44
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 88.48,
+   "end": 89.49,
+   "text": "O que que aparece no HUD?",
+   "words": [
+    {
+     "word": "O",
+     "start": 88.48,
+     "end": 88.54
+    },
+    {
+     "word": "que",
+     "start": 88.54,
+     "end": 88.6
+    },
+    {
+     "word": "que",
+     "start": 88.6,
+     "end": 88.68
+    },
+    {
+     "word": "aparece",
+     "start": 88.68,
+     "end": 88.88
+    },
+    {
+     "word": "no",
+     "start": 88.88,
+     "end": 89.0
+    },
+    {
+     "word": "HUD?",
+     "start": 89.0,
+     "end": 89.49
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
