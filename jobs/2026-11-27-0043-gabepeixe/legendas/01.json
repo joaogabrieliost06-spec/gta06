@@ -1,0 +1,387 @@
+{
+ "segments": [
+  {
+   "start": 8.88,
+   "end": 10.42,
+   "text": "ainda bugou o jogo",
+   "words": [
+    {
+     "word": "ainda",
+     "start": 8.88,
+     "end": 9.28
+    },
+    {
+     "word": "bugou",
+     "start": 9.28,
+     "end": 10.16
+    },
+    {
+     "word": "o",
+     "start": 10.16,
+     "end": 10.24
+    },
+    {
+     "word": "jogo",
+     "start": 10.24,
+     "end": 10.42
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.46,
+   "end": 11.77,
+   "text": "porque eu",
+   "words": [
+    {
+     "word": "porque",
+     "start": 10.46,
+     "end": 10.7
+    },
+    {
+     "word": "eu",
+     "start": 10.7,
+     "end": 11.77
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 13.81,
+   "end": 14.43,
+   "text": "mandei mensagem",
+   "words": [
+    {
+     "word": "mandei",
+     "start": 13.81,
+     "end": 14.03
+    },
+    {
+     "word": "mensagem",
+     "start": 14.03,
+     "end": 14.43
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 14.47,
+   "end": 15.03,
+   "text": "falando que ia",
+   "words": [
+    {
+     "word": "falando",
+     "start": 14.47,
+     "end": 14.75
+    },
+    {
+     "word": "que",
+     "start": 14.75,
+     "end": 14.95
+    },
+    {
+     "word": "ia",
+     "start": 14.95,
+     "end": 15.03
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 15.07,
+   "end": 15.7,
+   "text": "conseguir",
+   "words": [
+    {
+     "word": "conseguir",
+     "start": 15.07,
+     "end": 15.7
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 15.94,
+   "end": 17.27,
+   "text": "bugou o game ainda",
+   "words": [
+    {
+     "word": "bugou",
+     "start": 15.94,
+     "end": 16.44
+    },
+    {
+     "word": "o",
+     "start": 16.44,
+     "end": 16.54
+    },
+    {
+     "word": "game",
+     "start": 16.54,
+     "end": 16.7
+    },
+    {
+     "word": "ainda",
+     "start": 16.7,
+     "end": 17.27
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 19.02,
+   "end": 20.73,
+   "text": "meu Jesus Cristo",
+   "words": [
+    {
+     "word": "meu",
+     "start": 19.02,
+     "end": 19.5
+    },
+    {
+     "word": "Jesus",
+     "start": 19.5,
+     "end": 19.94
+    },
+    {
+     "word": "Cristo",
+     "start": 19.94,
+     "end": 20.73
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 21.07,
+   "end": 21.85,
+   "text": "você vê como é que o bagulho",
+   "words": [
+    {
+     "word": "você",
+     "start": 21.07,
+     "end": 21.19
+    },
+    {
+     "word": "vê",
+     "start": 21.19,
+     "end": 21.33
+    },
+    {
+     "word": "como",
+     "start": 21.33,
+     "end": 21.51
+    },
+    {
+     "word": "é",
+     "start": 21.51,
+     "end": 21.56
+    },
+    {
+     "word": "que",
+     "start": 21.56,
+     "end": 21.61
+    },
+    {
+     "word": "o",
+     "start": 21.61,
+     "end": 21.67
+    },
+    {
+     "word": "bagulho",
+     "start": 21.67,
+     "end": 21.85
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 21.89,
+   "end": 22.46,
+   "text": "é roubado, nem",
+   "words": [
+    {
+     "word": "é",
+     "start": 21.89,
+     "end": 21.97
+    },
+    {
+     "word": "roubado,",
+     "start": 21.97,
+     "end": 22.33
+    },
+    {
+     "word": "nem",
+     "start": 22.41,
+     "end": 22.46
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 22.47,
+   "end": 23.17,
+   "text": "o jogo entendeu",
+   "words": [
+    {
+     "word": "o",
+     "start": 22.47,
+     "end": 22.57
+    },
+    {
+     "word": "jogo",
+     "start": 22.57,
+     "end": 22.77
+    },
+    {
+     "word": "entendeu",
+     "start": 22.77,
+     "end": 23.17
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 23.21,
+   "end": 24.02,
+   "text": "nem a missão",
+   "words": [
+    {
+     "word": "nem",
+     "start": 23.21,
+     "end": 23.29
+    },
+    {
+     "word": "a",
+     "start": 23.29,
+     "end": 23.35
+    },
+    {
+     "word": "missão",
+     "start": 23.35,
+     "end": 24.02
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 24.06,
+   "end": 25.12,
+   "text": "acatou, o cara",
+   "words": [
+    {
+     "word": "acatou,",
+     "start": 24.06,
+     "end": 24.84
+    },
+    {
+     "word": "o",
+     "start": 24.96,
+     "end": 25.02
+    },
+    {
+     "word": "cara",
+     "start": 25.02,
+     "end": 25.12
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 25.16,
+   "end": 26.47,
+   "text": "mandou mensagem",
+   "words": [
+    {
+     "word": "mandou",
+     "start": 25.16,
+     "end": 25.58
+    },
+    {
+     "word": "mensagem",
+     "start": 25.58,
+     "end": 26.47
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 26.68,
+   "end": 27.28,
+   "text": "tipo assim",
+   "words": [
+    {
+     "word": "tipo",
+     "start": 26.68,
+     "end": 26.84
+    },
+    {
+     "word": "assim",
+     "start": 26.84,
+     "end": 27.28
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 27.32,
+   "end": 28.62,
+   "text": "terminou, tá ligado",
+   "words": [
+    {
+     "word": "terminou,",
+     "start": 27.32,
+     "end": 27.8
+    },
+    {
+     "word": "tá",
+     "start": 28.18,
+     "end": 28.26
+    },
+    {
+     "word": "ligado",
+     "start": 28.26,
+     "end": 28.62
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.66,
+   "end": 30.11,
+   "text": "e o jogo não entendeu, viado",
+   "words": [
+    {
+     "word": "e",
+     "start": 28.66,
+     "end": 28.74
+    },
+    {
+     "word": "o",
+     "start": 28.74,
+     "end": 28.8
+    },
+    {
+     "word": "jogo",
+     "start": 28.8,
+     "end": 29.0
+    },
+    {
+     "word": "não",
+     "start": 29.0,
+     "end": 29.12
+    },
+    {
+     "word": "entendeu,",
+     "start": 29.12,
+     "end": 29.42
+    },
+    {
+     "word": "viado",
+     "start": 29.6,
+     "end": 30.11
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
