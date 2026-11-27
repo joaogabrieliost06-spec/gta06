@@ -1,0 +1,320 @@
+{
+ "segments": [
+  {
+   "start": 3.11,
+   "end": 3.67,
+   "text": "Você tem que ficar andando",
+   "words": [
+    {
+     "word": "Você",
+     "start": 3.11,
+     "end": 3.23
+    },
+    {
+     "word": "tem",
+     "start": 3.23,
+     "end": 3.31
+    },
+    {
+     "word": "que",
+     "start": 3.31,
+     "end": 3.41
+    },
+    {
+     "word": "ficar",
+     "start": 3.41,
+     "end": 3.53
+    },
+    {
+     "word": "andando",
+     "start": 3.53,
+     "end": 3.67
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 3.71,
+   "end": 4.45,
+   "text": "muito devagar, cara",
+   "words": [
+    {
+     "word": "muito",
+     "start": 3.71,
+     "end": 3.85
+    },
+    {
+     "word": "devagar,",
+     "start": 3.85,
+     "end": 4.29
+    },
+    {
+     "word": "cara",
+     "start": 4.33,
+     "end": 4.45
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 4.49,
+   "end": 5.25,
+   "text": "nesse hotel, até você",
+   "words": [
+    {
+     "word": "nesse",
+     "start": 4.49,
+     "end": 4.67
+    },
+    {
+     "word": "hotel,",
+     "start": 4.67,
+     "end": 4.93
+    },
+    {
+     "word": "até",
+     "start": 5.03,
+     "end": 5.15
+    },
+    {
+     "word": "você",
+     "start": 5.15,
+     "end": 5.25
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 5.29,
+   "end": 6.2,
+   "text": "sair do hotel",
+   "words": [
+    {
+     "word": "sair",
+     "start": 5.29,
+     "end": 5.51
+    },
+    {
+     "word": "do",
+     "start": 5.51,
+     "end": 5.63
+    },
+    {
+     "word": "hotel",
+     "start": 5.63,
+     "end": 6.2
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 19.85,
+   "end": 20.94,
+   "text": "É sábado, né?",
+   "words": [
+    {
+     "word": "É",
+     "start": 19.85,
+     "end": 19.93
+    },
+    {
+     "word": "sábado,",
+     "start": 19.93,
+     "end": 20.53
+    },
+    {
+     "word": "né?",
+     "start": 20.61,
+     "end": 20.94
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 24.0,
+   "end": 24.9,
+   "text": "Essa cor de cabelo",
+   "words": [
+    {
+     "word": "Essa",
+     "start": 24.0,
+     "end": 24.24
+    },
+    {
+     "word": "cor",
+     "start": 24.24,
+     "end": 24.5
+    },
+    {
+     "word": "de",
+     "start": 24.5,
+     "end": 24.6
+    },
+    {
+     "word": "cabelo",
+     "start": 24.6,
+     "end": 24.9
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 24.94,
+   "end": 25.83,
+   "text": "que tá horrível",
+   "words": [
+    {
+     "word": "que",
+     "start": 24.94,
+     "end": 25.08
+    },
+    {
+     "word": "tá",
+     "start": 25.08,
+     "end": 25.14
+    },
+    {
+     "word": "horrível",
+     "start": 25.14,
+     "end": 25.83
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 25.87,
+   "end": 27.31,
+   "text": "Outro salão de cabelo",
+   "words": [
+    {
+     "word": "Outro",
+     "start": 25.87,
+     "end": 26.51
+    },
+    {
+     "word": "salão",
+     "start": 26.51,
+     "end": 26.77
+    },
+    {
+     "word": "de",
+     "start": 26.77,
+     "end": 26.87
+    },
+    {
+     "word": "cabelo",
+     "start": 26.87,
+     "end": 27.31
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 27.35,
+   "end": 28.4,
+   "text": "eu vim nesse, né?",
+   "words": [
+    {
+     "word": "eu",
+     "start": 27.35,
+     "end": 27.43
+    },
+    {
+     "word": "vim",
+     "start": 27.43,
+     "end": 27.63
+    },
+    {
+     "word": "nesse,",
+     "start": 27.63,
+     "end": 27.95
+    },
+    {
+     "word": "né?",
+     "start": 28.03,
+     "end": 28.4
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 42.11,
+   "end": 42.89,
+   "text": "Vim nesse Gabriel",
+   "words": [
+    {
+     "word": "Vim",
+     "start": 42.11,
+     "end": 42.27
+    },
+    {
+     "word": "nesse",
+     "start": 42.27,
+     "end": 42.47
+    },
+    {
+     "word": "Gabriel",
+     "start": 42.47,
+     "end": 42.89
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 42.93,
+   "end": 44.66,
+   "text": "Wexler, acho que eu",
+   "words": [
+    {
+     "word": "Wexler,",
+     "start": 42.93,
+     "end": 44.25
+    },
+    {
+     "word": "acho",
+     "start": 44.35,
+     "end": 44.51
+    },
+    {
+     "word": "que",
+     "start": 44.51,
+     "end": 44.61
+    },
+    {
+     "word": "eu",
+     "start": 44.61,
+     "end": 44.66
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 44.67,
+   "end": 45.72,
+   "text": "já vim nesse, né?",
+   "words": [
+    {
+     "word": "já",
+     "start": 44.67,
+     "end": 44.77
+    },
+    {
+     "word": "vim",
+     "start": 44.77,
+     "end": 45.05
+    },
+    {
+     "word": "nesse,",
+     "start": 45.05,
+     "end": 45.29
+    },
+    {
+     "word": "né?",
+     "start": 45.37,
+     "end": 45.72
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
