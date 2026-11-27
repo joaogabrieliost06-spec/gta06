@@ -1,0 +1,410 @@
+{
+ "segments": [
+  {
+   "start": 2.83,
+   "end": 3.51,
+   "text": "Olha só quem eu",
+   "words": [
+    {
+     "word": "Olha",
+     "start": 2.83,
+     "end": 3.07
+    },
+    {
+     "word": "só",
+     "start": 3.07,
+     "end": 3.27
+    },
+    {
+     "word": "quem",
+     "start": 3.27,
+     "end": 3.45
+    },
+    {
+     "word": "eu",
+     "start": 3.45,
+     "end": 3.51
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 3.55,
+   "end": 3.91,
+   "text": "achei, o filho",
+   "words": [
+    {
+     "word": "achei,",
+     "start": 3.55,
+     "end": 3.73
+    },
+    {
+     "word": "o",
+     "start": 3.81,
+     "end": 3.86
+    },
+    {
+     "word": "filho",
+     "start": 3.86,
+     "end": 3.91
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 3.95,
+   "end": 4.77,
+   "text": "da puta do Arnold",
+   "words": [
+    {
+     "word": "da",
+     "start": 3.95,
+     "end": 4.07
+    },
+    {
+     "word": "puta",
+     "start": 4.07,
+     "end": 4.29
+    },
+    {
+     "word": "do",
+     "start": 4.29,
+     "end": 4.43
+    },
+    {
+     "word": "Arnold",
+     "start": 4.43,
+     "end": 4.77
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 4.81,
+   "end": 5.29,
+   "text": "tive que perdurar",
+   "words": [
+    {
+     "word": "tive",
+     "start": 4.81,
+     "end": 4.91
+    },
+    {
+     "word": "que",
+     "start": 4.91,
+     "end": 5.03
+    },
+    {
+     "word": "perdurar",
+     "start": 5.03,
+     "end": 5.29
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 5.33,
+   "end": 6.38,
+   "text": "esse escroto já",
+   "words": [
+    {
+     "word": "esse",
+     "start": 5.33,
+     "end": 5.49
+    },
+    {
+     "word": "escroto",
+     "start": 5.49,
+     "end": 5.93
+    },
+    {
+     "word": "já",
+     "start": 5.93,
+     "end": 6.38
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 7.15,
+   "end": 8.27,
+   "text": "— cara⁠ que,⁠ lá⁠",
+   "words": [
+    {
+     "word": "— cara⁠",
+     "start": 7.15,
+     "end": 7.37
+    },
+    {
+     "word": "que,⁠",
+     "start": 7.37,
+     "end": 7.59
+    },
+    {
+     "word": "lá⁠",
+     "start": 8.01,
+     "end": 8.27
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 8.31,
+   "end": 8.92,
+   "text": "do⁠ começo⁠ que⁠ eu⁠",
+   "words": [
+    {
+     "word": "do⁠",
+     "start": 8.31,
+     "end": 8.41
+    },
+    {
+     "word": "começo⁠",
+     "start": 8.41,
+     "end": 8.71
+    },
+    {
+     "word": "que⁠",
+     "start": 8.71,
+     "end": 8.87
+    },
+    {
+     "word": "eu⁠",
+     "start": 8.87,
+     "end": 8.92
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 8.91,
+   "end": 10.2,
+   "text": "persegui,⁠ foi⁠",
+   "words": [
+    {
+     "word": "persegui,⁠",
+     "start": 8.91,
+     "end": 9.69
+    },
+    {
+     "word": "foi⁠",
+     "start": 10.12,
+     "end": 10.2
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 10.24,
+   "end": 10.86,
+   "text": "um⁠ tiro⁠ na⁠ perna⁠",
+   "words": [
+    {
+     "word": "um⁠",
+     "start": 10.24,
+     "end": 10.38
+    },
+    {
+     "word": "tiro⁠",
+     "start": 10.38,
+     "end": 10.48
+    },
+    {
+     "word": "na⁠",
+     "start": 10.48,
+     "end": 10.62
+    },
+    {
+     "word": "perna⁠",
+     "start": 10.62,
+     "end": 10.86
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 10.9,
+   "end": 11.95,
+   "text": "dele⁠ Eu⁠",
+   "words": [
+    {
+     "word": "dele⁠",
+     "start": 10.9,
+     "end": 11.28
+    },
+    {
+     "word": "Eu⁠",
+     "start": 11.28,
+     "end": 11.95
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 15.05,
+   "end": 15.61,
+   "text": "quero te agradecer",
+   "words": [
+    {
+     "word": "quero",
+     "start": 15.05,
+     "end": 15.13
+    },
+    {
+     "word": "te",
+     "start": 15.13,
+     "end": 15.23
+    },
+    {
+     "word": "agradecer",
+     "start": 15.23,
+     "end": 15.61
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 15.65,
+   "end": 16.09,
+   "text": "por deixar ele",
+   "words": [
+    {
+     "word": "por",
+     "start": 15.65,
+     "end": 15.77
+    },
+    {
+     "word": "deixar",
+     "start": 15.77,
+     "end": 16.01
+    },
+    {
+     "word": "ele",
+     "start": 16.01,
+     "end": 16.09
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 16.13,
+   "end": 17.15,
+   "text": "se aposentar em paz",
+   "words": [
+    {
+     "word": "se",
+     "start": 16.13,
+     "end": 16.23
+    },
+    {
+     "word": "aposentar",
+     "start": 16.23,
+     "end": 16.65
+    },
+    {
+     "word": "em",
+     "start": 16.65,
+     "end": 16.81
+    },
+    {
+     "word": "paz",
+     "start": 16.81,
+     "end": 17.15
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 17.19,
+   "end": 18.01,
+   "text": "confere a sua conta",
+   "words": [
+    {
+     "word": "confere",
+     "start": 17.19,
+     "end": 17.45
+    },
+    {
+     "word": "a",
+     "start": 17.45,
+     "end": 17.55
+    },
+    {
+     "word": "sua",
+     "start": 17.55,
+     "end": 17.65
+    },
+    {
+     "word": "conta",
+     "start": 17.65,
+     "end": 18.01
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 18.05,
+   "end": 18.73,
+   "text": "Quanto que eu ganhei?",
+   "words": [
+    {
+     "word": "Quanto",
+     "start": 18.05,
+     "end": 18.33
+    },
+    {
+     "word": "que",
+     "start": 18.33,
+     "end": 18.41
+    },
+    {
+     "word": "eu",
+     "start": 18.41,
+     "end": 18.47
+    },
+    {
+     "word": "ganhei?",
+     "start": 18.47,
+     "end": 18.73
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 18.77,
+   "end": 19.39,
+   "text": "10 maus?",
+   "words": [
+    {
+     "word": "10",
+     "start": 18.77,
+     "end": 18.93
+    },
+    {
+     "word": "maus?",
+     "start": 18.93,
+     "end": 19.39
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 19.43,
+   "end": 20.18,
+   "text": "10 pau?",
+   "words": [
+    {
+     "word": "10",
+     "start": 19.43,
+     "end": 19.59
+    },
+    {
+     "word": "pau?",
+     "start": 19.59,
+     "end": 20.18
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
