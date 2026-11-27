@@ -1,0 +1,308 @@
+{
+ "segments": [
+  {
+   "start": 7.24,
+   "end": 7.98,
+   "text": "Moleque, deixou",
+   "words": [
+    {
+     "word": "Moleque,",
+     "start": 7.24,
+     "end": 7.64
+    },
+    {
+     "word": "deixou",
+     "start": 7.7,
+     "end": 7.98
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 8.02,
+   "end": 9.13,
+   "text": "o cara, mano",
+   "words": [
+    {
+     "word": "o",
+     "start": 8.02,
+     "end": 8.14
+    },
+    {
+     "word": "cara,",
+     "start": 8.14,
+     "end": 8.34
+    },
+    {
+     "word": "mano",
+     "start": 8.56,
+     "end": 9.13
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 9.42,
+   "end": 10.02,
+   "text": "o pinto dele já",
+   "words": [
+    {
+     "word": "o",
+     "start": 9.42,
+     "end": 9.54
+    },
+    {
+     "word": "pinto",
+     "start": 9.54,
+     "end": 9.74
+    },
+    {
+     "word": "dele",
+     "start": 9.74,
+     "end": 9.9
+    },
+    {
+     "word": "já",
+     "start": 9.9,
+     "end": 10.02
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.06,
+   "end": 10.76,
+   "text": "era pequeno, agora",
+   "words": [
+    {
+     "word": "era",
+     "start": 10.06,
+     "end": 10.18
+    },
+    {
+     "word": "pequeno,",
+     "start": 10.18,
+     "end": 10.56
+    },
+    {
+     "word": "agora",
+     "start": 10.68,
+     "end": 10.76
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.8,
+   "end": 11.67,
+   "text": "ele sumiu",
+   "words": [
+    {
+     "word": "ele",
+     "start": 10.8,
+     "end": 10.98
+    },
+    {
+     "word": "sumiu",
+     "start": 10.98,
+     "end": 11.67
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.08,
+   "end": 30.7,
+   "text": "Pelo amor de Deus, não",
+   "words": [
+    {
+     "word": "Pelo",
+     "start": 28.08,
+     "end": 28.48
+    },
+    {
+     "word": "amor",
+     "start": 29.43,
+     "end": 29.83
+    },
+    {
+     "word": "de",
+     "start": 29.83,
+     "end": 29.99
+    },
+    {
+     "word": "Deus,",
+     "start": 29.99,
+     "end": 30.19
+    },
+    {
+     "word": "não",
+     "start": 30.33,
+     "end": 30.7
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 32.0,
+   "end": 32.65,
+   "text": "vi o game",
+   "words": [
+    {
+     "word": "vi",
+     "start": 32.0,
+     "end": 32.14
+    },
+    {
+     "word": "o",
+     "start": 32.14,
+     "end": 32.26
+    },
+    {
+     "word": "game",
+     "start": 32.26,
+     "end": 32.65
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 34.06,
+   "end": 34.74,
+   "text": "moleque, essa foi",
+   "words": [
+    {
+     "word": "moleque,",
+     "start": 34.06,
+     "end": 34.36
+    },
+    {
+     "word": "essa",
+     "start": 34.48,
+     "end": 34.6
+    },
+    {
+     "word": "foi",
+     "start": 34.6,
+     "end": 34.74
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 34.78,
+   "end": 36.23,
+   "text": "a missão mais longa",
+   "words": [
+    {
+     "word": "a",
+     "start": 34.78,
+     "end": 34.84
+    },
+    {
+     "word": "missão",
+     "start": 34.84,
+     "end": 35.2
+    },
+    {
+     "word": "mais",
+     "start": 35.2,
+     "end": 35.48
+    },
+    {
+     "word": "longa",
+     "start": 35.48,
+     "end": 36.23
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 36.44,
+   "end": 38.43,
+   "text": "96%",
+   "words": [
+    {
+     "word": "96%",
+     "start": 36.44,
+     "end": 38.43
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 40.12,
+   "end": 41.06,
+   "text": "mano, deve estar",
+   "words": [
+    {
+     "word": "mano,",
+     "start": 40.12,
+     "end": 40.44
+    },
+    {
+     "word": "deve",
+     "start": 40.76,
+     "end": 40.9
+    },
+    {
+     "word": "estar",
+     "start": 40.9,
+     "end": 41.06
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 41.1,
+   "end": 42.29,
+   "text": "faltando, tipo assim",
+   "words": [
+    {
+     "word": "faltando,",
+     "start": 41.1,
+     "end": 41.56
+    },
+    {
+     "word": "tipo",
+     "start": 41.62,
+     "end": 41.78
+    },
+    {
+     "word": "assim",
+     "start": 41.78,
+     "end": 42.29
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 43.42,
+   "end": 44.69,
+   "text": "3 missões para acabar",
+   "words": [
+    {
+     "word": "3",
+     "start": 43.42,
+     "end": 43.52
+    },
+    {
+     "word": "missões",
+     "start": 43.52,
+     "end": 44.02
+    },
+    {
+     "word": "para",
+     "start": 44.02,
+     "end": 44.16
+    },
+    {
+     "word": "acabar",
+     "start": 44.16,
+     "end": 44.69
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
