@@ -1,0 +1,699 @@
+{
+ "segments": [
+  {
+   "start": 2.15,
+   "end": 3.34,
+   "text": "Primeiramente, boa tarde",
+   "words": [
+    {
+     "word": "Primeiramente,",
+     "start": 2.15,
+     "end": 2.57
+    },
+    {
+     "word": "boa",
+     "start": 2.69,
+     "end": 2.74
+    },
+    {
+     "word": "tarde",
+     "start": 2.74,
+     "end": 3.34
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 7.51,
+   "end": 9.16,
+   "text": "segundamente, voltei",
+   "words": [
+    {
+     "word": "segundamente,",
+     "start": 7.51,
+     "end": 8.13
+    },
+    {
+     "word": "voltei",
+     "start": 8.29,
+     "end": 9.16
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 10.28,
+   "end": 11.93,
+   "text": "Dois minutos longos?",
+   "words": [
+    {
+     "word": "Dois",
+     "start": 10.28,
+     "end": 10.82
+    },
+    {
+     "word": "minutos",
+     "start": 10.82,
+     "end": 11.06
+    },
+    {
+     "word": "longos?",
+     "start": 11.06,
+     "end": 11.93
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 11.97,
+   "end": 12.6,
+   "text": "Cara, sempre que eu",
+   "words": [
+    {
+     "word": "Cara,",
+     "start": 11.97,
+     "end": 12.29
+    },
+    {
+     "word": "sempre",
+     "start": 12.35,
+     "end": 12.47
+    },
+    {
+     "word": "que",
+     "start": 12.47,
+     "end": 12.55
+    },
+    {
+     "word": "eu",
+     "start": 12.55,
+     "end": 12.6
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 12.61,
+   "end": 13.19,
+   "text": "falo dois minutos",
+   "words": [
+    {
+     "word": "falo",
+     "start": 12.61,
+     "end": 12.77
+    },
+    {
+     "word": "dois",
+     "start": 12.77,
+     "end": 12.95
+    },
+    {
+     "word": "minutos",
+     "start": 12.95,
+     "end": 13.19
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 13.23,
+   "end": 13.75,
+   "text": "nunca é dois minutos",
+   "words": [
+    {
+     "word": "nunca",
+     "start": 13.23,
+     "end": 13.43
+    },
+    {
+     "word": "é",
+     "start": 13.43,
+     "end": 13.53
+    },
+    {
+     "word": "dois",
+     "start": 13.53,
+     "end": 13.65
+    },
+    {
+     "word": "minutos",
+     "start": 13.65,
+     "end": 13.75
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 13.79,
+   "end": 15.2,
+   "text": "de verdade, mano, é",
+   "words": [
+    {
+     "word": "de",
+     "start": 13.79,
+     "end": 13.89
+    },
+    {
+     "word": "verdade,",
+     "start": 13.89,
+     "end": 14.21
+    },
+    {
+     "word": "mano,",
+     "start": 14.29,
+     "end": 14.51
+    },
+    {
+     "word": "é",
+     "start": 14.51,
+     "end": 15.2
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 16.61,
+   "end": 18.22,
+   "text": "sempre pelo menos uns",
+   "words": [
+    {
+     "word": "sempre",
+     "start": 16.61,
+     "end": 16.87
+    },
+    {
+     "word": "pelo",
+     "start": 16.87,
+     "end": 17.07
+    },
+    {
+     "word": "menos",
+     "start": 17.07,
+     "end": 17.23
+    },
+    {
+     "word": "uns",
+     "start": 17.23,
+     "end": 18.22
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 19.62,
+   "end": 20.38,
+   "text": "Não, cinco não",
+   "words": [
+    {
+     "word": "Não,",
+     "start": 19.62,
+     "end": 19.76
+    },
+    {
+     "word": "cinco",
+     "start": 20.12,
+     "end": 20.17
+    },
+    {
+     "word": "não",
+     "start": 20.17,
+     "end": 20.38
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 20.42,
+   "end": 21.16,
+   "text": "às vezes é menos",
+   "words": [
+    {
+     "word": "às",
+     "start": 20.42,
+     "end": 20.52
+    },
+    {
+     "word": "vezes",
+     "start": 20.52,
+     "end": 20.64
+    },
+    {
+     "word": "é",
+     "start": 20.64,
+     "end": 20.76
+    },
+    {
+     "word": "menos",
+     "start": 20.76,
+     "end": 21.16
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 21.2,
+   "end": 22.22,
+   "text": "mas às vezes é uns oito",
+   "words": [
+    {
+     "word": "mas",
+     "start": 21.2,
+     "end": 21.32
+    },
+    {
+     "word": "às",
+     "start": 21.32,
+     "end": 21.48
+    },
+    {
+     "word": "vezes",
+     "start": 21.48,
+     "end": 21.58
+    },
+    {
+     "word": "é",
+     "start": 21.58,
+     "end": 21.68
+    },
+    {
+     "word": "uns",
+     "start": 21.68,
+     "end": 21.86
+    },
+    {
+     "word": "oito",
+     "start": 21.86,
+     "end": 22.22
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 22.26,
+   "end": 23.27,
+   "text": "às vezes é uns dez",
+   "words": [
+    {
+     "word": "às",
+     "start": 22.26,
+     "end": 22.32
+    },
+    {
+     "word": "vezes",
+     "start": 22.32,
+     "end": 22.4
+    },
+    {
+     "word": "é",
+     "start": 22.4,
+     "end": 22.5
+    },
+    {
+     "word": "uns",
+     "start": 22.5,
+     "end": 22.64
+    },
+    {
+     "word": "dez",
+     "start": 22.64,
+     "end": 23.27
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 26.64,
+   "end": 28.09,
+   "text": "Vai jogar o port pra PC?",
+   "words": [
+    {
+     "word": "Vai",
+     "start": 26.64,
+     "end": 26.78
+    },
+    {
+     "word": "jogar",
+     "start": 26.78,
+     "end": 26.96
+    },
+    {
+     "word": "o",
+     "start": 26.96,
+     "end": 27.12
+    },
+    {
+     "word": "port",
+     "start": 27.12,
+     "end": 27.28
+    },
+    {
+     "word": "pra",
+     "start": 27.28,
+     "end": 27.46
+    },
+    {
+     "word": "PC?",
+     "start": 27.46,
+     "end": 28.09
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 28.9,
+   "end": 29.86,
+   "text": "Não, o que estão fazendo?",
+   "words": [
+    {
+     "word": "Não,",
+     "start": 28.9,
+     "end": 29.18
+    },
+    {
+     "word": "o",
+     "start": 29.28,
+     "end": 29.33
+    },
+    {
+     "word": "que",
+     "start": 29.33,
+     "end": 29.38
+    },
+    {
+     "word": "estão",
+     "start": 29.38,
+     "end": 29.46
+    },
+    {
+     "word": "fazendo?",
+     "start": 29.46,
+     "end": 29.86
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 29.9,
+   "end": 31.02,
+   "text": "Eu não vou esperar",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 29.9,
+     "end": 30.1
+    },
+    {
+     "word": "não",
+     "start": 30.1,
+     "end": 30.28
+    },
+    {
+     "word": "vou",
+     "start": 30.28,
+     "end": 30.78
+    },
+    {
+     "word": "esperar",
+     "start": 30.78,
+     "end": 31.02
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 31.06,
+   "end": 32.53,
+   "text": "eles lançar pra PC, pô",
+   "words": [
+    {
+     "word": "eles",
+     "start": 31.06,
+     "end": 31.2
+    },
+    {
+     "word": "lançar",
+     "start": 31.2,
+     "end": 31.52
+    },
+    {
+     "word": "pra",
+     "start": 31.52,
+     "end": 31.64
+    },
+    {
+     "word": "PC,",
+     "start": 31.64,
+     "end": 31.94
+    },
+    {
+     "word": "pô",
+     "start": 32.0,
+     "end": 32.53
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 42.93,
+   "end": 43.91,
+   "text": "Quantos por cento?",
+   "words": [
+    {
+     "word": "Quantos",
+     "start": 42.93,
+     "end": 43.25
+    },
+    {
+     "word": "por",
+     "start": 43.25,
+     "end": 43.403
+    },
+    {
+     "word": "cento?",
+     "start": 43.403,
+     "end": 43.91
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 43.95,
+   "end": 45.02,
+   "text": "83, mano",
+   "words": [
+    {
+     "word": "83,",
+     "start": 43.95,
+     "end": 44.27
+    },
+    {
+     "word": "mano",
+     "start": 44.51,
+     "end": 45.02
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 46.09,
+   "end": 47.31,
+   "text": "83, vamos dar mais",
+   "words": [
+    {
+     "word": "83,",
+     "start": 46.09,
+     "end": 46.41
+    },
+    {
+     "word": "vamos",
+     "start": 46.93,
+     "end": 47.03
+    },
+    {
+     "word": "dar",
+     "start": 47.03,
+     "end": 47.17
+    },
+    {
+     "word": "mais",
+     "start": 47.17,
+     "end": 47.31
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 47.35,
+   "end": 48.3,
+   "text": "uma seguida agora, será que",
+   "words": [
+    {
+     "word": "uma",
+     "start": 47.35,
+     "end": 47.49
+    },
+    {
+     "word": "seguida",
+     "start": 47.49,
+     "end": 47.89
+    },
+    {
+     "word": "agora,",
+     "start": 47.89,
+     "end": 48.07
+    },
+    {
+     "word": "será",
+     "start": 48.15,
+     "end": 48.25
+    },
+    {
+     "word": "que",
+     "start": 48.25,
+     "end": 48.3
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 48.33,
+   "end": 49.66,
+   "text": "a gente chega em 90 hoje?",
+   "words": [
+    {
+     "word": "a",
+     "start": 48.33,
+     "end": 48.37
+    },
+    {
+     "word": "gente",
+     "start": 48.37,
+     "end": 48.45
+    },
+    {
+     "word": "chega",
+     "start": 48.45,
+     "end": 48.57
+    },
+    {
+     "word": "em",
+     "start": 48.57,
+     "end": 48.63
+    },
+    {
+     "word": "90",
+     "start": 48.63,
+     "end": 49.03
+    },
+    {
+     "word": "hoje?",
+     "start": 49.03,
+     "end": 49.66
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 54.27,
+   "end": 55.07,
+   "text": "Daí, cara, quero",
+   "words": [
+    {
+     "word": "Daí,",
+     "start": 54.27,
+     "end": 54.59
+    },
+    {
+     "word": "cara,",
+     "start": 54.73,
+     "end": 54.83
+    },
+    {
+     "word": "quero",
+     "start": 54.99,
+     "end": 55.07
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 55.11,
+   "end": 55.83,
+   "text": "terminar, mano, até",
+   "words": [
+    {
+     "word": "terminar,",
+     "start": 55.11,
+     "end": 55.41
+    },
+    {
+     "word": "mano,",
+     "start": 55.51,
+     "end": 55.61
+    },
+    {
+     "word": "até",
+     "start": 55.77,
+     "end": 55.83
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 55.87,
+   "end": 56.66,
+   "text": "quarta que vem eu",
+   "words": [
+    {
+     "word": "quarta",
+     "start": 55.87,
+     "end": 56.29
+    },
+    {
+     "word": "que",
+     "start": 56.29,
+     "end": 56.47
+    },
+    {
+     "word": "vem",
+     "start": 56.47,
+     "end": 56.61
+    },
+    {
+     "word": "eu",
+     "start": 56.61,
+     "end": 56.66
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 56.67,
+   "end": 57.52,
+   "text": "quero terminar esse jogo",
+   "words": [
+    {
+     "word": "quero",
+     "start": 56.67,
+     "end": 56.79
+    },
+    {
+     "word": "terminar",
+     "start": 56.79,
+     "end": 56.95
+    },
+    {
+     "word": "esse",
+     "start": 56.95,
+     "end": 57.07
+    },
+    {
+     "word": "jogo",
+     "start": 57.07,
+     "end": 57.52
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
