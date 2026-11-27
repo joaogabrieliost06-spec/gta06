@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, Alan, GTA 6, Lucia, Jason, bebezinha, NPC, guarda-chuva, GPS, Trax, balsa, chat, mano",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:02:40", "fim": "0:03:40", "titulo": "POR QUE EU TÔ DE BRAÇO LEVANTADO?"},
+  {"id": "02", "inicio": "0:16:05", "fim": "0:17:25", "titulo": "ELE ME MANDOU A FOTO ERRADA"},
+  {"id": "03", "inicio": "0:08:30", "fim": "0:09:50", "titulo": "NPC NÃO USA GUARDA-CHUVA"}
+ ]
+}
