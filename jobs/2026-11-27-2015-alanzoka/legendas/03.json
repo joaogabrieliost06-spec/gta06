@@ -1,0 +1,500 @@
+{
+ "segments": [
+  {
+   "start": 10.04,
+   "end": 11.16,
+   "text": "Jogo bonito, sempre",
+   "words": [
+    {
+     "word": "Jogo",
+     "start": 10.04,
+     "end": 10.48
+    },
+    {
+     "word": "bonito,",
+     "start": 10.48,
+     "end": 10.8
+    },
+    {
+     "word": "sempre",
+     "start": 10.96,
+     "end": 11.16
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 11.2,
+   "end": 12.4,
+   "text": "bom lembrar, sempre",
+   "words": [
+    {
+     "word": "bom",
+     "start": 11.2,
+     "end": 11.5
+    },
+    {
+     "word": "lembrar,",
+     "start": 11.5,
+     "end": 11.88
+    },
+    {
+     "word": "sempre",
+     "start": 11.96,
+     "end": 12.4
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 12.44,
+   "end": 13.62,
+   "text": "bom lembrar. Oh",
+   "words": [
+    {
+     "word": "bom",
+     "start": 12.44,
+     "end": 12.74
+    },
+    {
+     "word": "lembrar.",
+     "start": 12.74,
+     "end": 13.28
+    },
+    {
+     "word": "Oh",
+     "start": 13.48,
+     "end": 13.62
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 13.66,
+   "end": 14.04,
+   "text": "fizemos um monte",
+   "words": [
+    {
+     "word": "fizemos",
+     "start": 13.66,
+     "end": 13.9
+    },
+    {
+     "word": "um",
+     "start": 13.9,
+     "end": 13.98
+    },
+    {
+     "word": "monte",
+     "start": 13.98,
+     "end": 14.04
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 14.08,
+   "end": 15.19,
+   "text": "de missão principal",
+   "words": [
+    {
+     "word": "de",
+     "start": 14.08,
+     "end": 14.16
+    },
+    {
+     "word": "missão",
+     "start": 14.16,
+     "end": 14.38
+    },
+    {
+     "word": "principal",
+     "start": 14.38,
+     "end": 15.19
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 18.53,
+   "end": 19.44,
+   "text": "Quem vai me ligar?",
+   "words": [
+    {
+     "word": "Quem",
+     "start": 18.53,
+     "end": 18.71
+    },
+    {
+     "word": "vai",
+     "start": 18.71,
+     "end": 18.81
+    },
+    {
+     "word": "me",
+     "start": 18.81,
+     "end": 18.95
+    },
+    {
+     "word": "ligar?",
+     "start": 18.95,
+     "end": 19.44
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 20.05,
+   "end": 20.61,
+   "text": "Você sabe sobre",
+   "words": [
+    {
+     "word": "Você",
+     "start": 20.05,
+     "end": 20.19
+    },
+    {
+     "word": "sabe",
+     "start": 20.19,
+     "end": 20.39
+    },
+    {
+     "word": "sobre",
+     "start": 20.39,
+     "end": 20.61
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 20.65,
+   "end": 22.04,
+   "text": "o palácio da putaria?",
+   "words": [
+    {
+     "word": "o",
+     "start": 20.65,
+     "end": 20.73
+    },
+    {
+     "word": "palácio",
+     "start": 20.73,
+     "end": 21.09
+    },
+    {
+     "word": "da",
+     "start": 21.09,
+     "end": 21.23
+    },
+    {
+     "word": "putaria?",
+     "start": 21.23,
+     "end": 22.04
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 30.96,
+   "end": 32.31,
+   "text": "Credo, ô louco",
+   "words": [
+    {
+     "word": "Credo,",
+     "start": 30.96,
+     "end": 31.52
+    },
+    {
+     "word": "ô",
+     "start": 31.62,
+     "end": 31.72
+    },
+    {
+     "word": "louco",
+     "start": 31.72,
+     "end": 32.31
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 34.36,
+   "end": 35.31,
+   "text": "imagina",
+   "words": [
+    {
+     "word": "imagina",
+     "start": 34.36,
+     "end": 35.31
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 35.83,
+   "end": 37.06,
+   "text": "eu explico depois",
+   "words": [
+    {
+     "word": "eu",
+     "start": 35.83,
+     "end": 36.05
+    },
+    {
+     "word": "explico",
+     "start": 36.05,
+     "end": 36.37
+    },
+    {
+     "word": "depois",
+     "start": 36.37,
+     "end": 37.06
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 39.12,
+   "end": 39.86,
+   "text": "Vai ficar uma situação",
+   "words": [
+    {
+     "word": "Vai",
+     "start": 39.12,
+     "end": 39.26
+    },
+    {
+     "word": "ficar",
+     "start": 39.26,
+     "end": 39.5
+    },
+    {
+     "word": "uma",
+     "start": 39.5,
+     "end": 39.6
+    },
+    {
+     "word": "situação",
+     "start": 39.6,
+     "end": 39.86
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 39.9,
+   "end": 43.04,
+   "text": "meio esquisita. Caralho",
+   "words": [
+    {
+     "word": "meio",
+     "start": 39.9,
+     "end": 40.34
+    },
+    {
+     "word": "esquisita.",
+     "start": 40.84,
+     "end": 42.54
+    },
+    {
+     "word": "Caralho",
+     "start": 42.62,
+     "end": 43.04
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 43.08,
+   "end": 43.74,
+   "text": "é onde eu tô, mano",
+   "words": [
+    {
+     "word": "é",
+     "start": 43.08,
+     "end": 43.16
+    },
+    {
+     "word": "onde",
+     "start": 43.16,
+     "end": 43.26
+    },
+    {
+     "word": "eu",
+     "start": 43.26,
+     "end": 43.38
+    },
+    {
+     "word": "tô,",
+     "start": 43.38,
+     "end": 43.54
+    },
+    {
+     "word": "mano",
+     "start": 43.66,
+     "end": 43.74
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 43.78,
+   "end": 44.59,
+   "text": "no meio da rua",
+   "words": [
+    {
+     "word": "no",
+     "start": 43.78,
+     "end": 43.86
+    },
+    {
+     "word": "meio",
+     "start": 43.86,
+     "end": 43.96
+    },
+    {
+     "word": "da",
+     "start": 43.96,
+     "end": 44.1
+    },
+    {
+     "word": "rua",
+     "start": 44.1,
+     "end": 44.59
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 44.84,
+   "end": 46.5,
+   "text": "Bom, vou salvar",
+   "words": [
+    {
+     "word": "Bom,",
+     "start": 44.84,
+     "end": 45.52
+    },
+    {
+     "word": "vou",
+     "start": 45.76,
+     "end": 45.86
+    },
+    {
+     "word": "salvar",
+     "start": 45.86,
+     "end": 46.5
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 46.54,
+   "end": 47.02,
+   "text": "Quantos por cento",
+   "words": [
+    {
+     "word": "Quantos",
+     "start": 46.54,
+     "end": 46.78
+    },
+    {
+     "word": "por",
+     "start": 46.78,
+     "end": 46.94
+    },
+    {
+     "word": "cento",
+     "start": 46.94,
+     "end": 47.02
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 47.06,
+   "end": 47.74,
+   "text": "nós tá? Batemos",
+   "words": [
+    {
+     "word": "nós",
+     "start": 47.06,
+     "end": 47.2
+    },
+    {
+     "word": "tá?",
+     "start": 47.2,
+     "end": 47.32
+    },
+    {
+     "word": "Batemos",
+     "start": 47.44,
+     "end": 47.74
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 47.78,
+   "end": 48.67,
+   "text": "oitenta!",
+   "words": [
+    {
+     "word": "oitenta!",
+     "start": 47.78,
+     "end": 48.67
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 50.72,
+   "end": 51.47,
+   "text": "Oitenta e dois!",
+   "words": [
+    {
+     "word": "Oitenta",
+     "start": 50.72,
+     "end": 51.06
+    },
+    {
+     "word": "e",
+     "start": 51.06,
+     "end": 51.11
+    },
+    {
+     "word": "dois!",
+     "start": 51.11,
+     "end": 51.47
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 55.85,
+   "end": 58.06,
+   "text": "Oitenta!",
+   "words": [
+    {
+     "word": "Oitenta!",
+     "start": 55.85,
+     "end": 58.06
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 60.19,
+   "end": 61.1,
+   "text": "Nice!",
+   "words": [
+    {
+     "word": "Nice!",
+     "start": 60.19,
+     "end": 61.1
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
