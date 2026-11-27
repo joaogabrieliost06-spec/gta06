@@ -1,0 +1,579 @@
+{
+ "segments": [
+  {
+   "start": 6.51,
+   "end": 7.59,
+   "text": "Nossa, chat, olha",
+   "words": [
+    {
+     "word": "Nossa,",
+     "start": 6.51,
+     "end": 6.93
+    },
+    {
+     "word": "chat,",
+     "start": 7.17,
+     "end": 7.37
+    },
+    {
+     "word": "olha",
+     "start": 7.51,
+     "end": 7.59
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.63,
+   "end": 8.29,
+   "text": "onde eu vim me",
+   "words": [
+    {
+     "word": "onde",
+     "start": 7.63,
+     "end": 7.79
+    },
+    {
+     "word": "eu",
+     "start": 7.79,
+     "end": 7.87
+    },
+    {
+     "word": "vim",
+     "start": 7.87,
+     "end": 8.13
+    },
+    {
+     "word": "me",
+     "start": 8.13,
+     "end": 8.29
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 8.33,
+   "end": 9.32,
+   "text": "meter, mano",
+   "words": [
+    {
+     "word": "meter,",
+     "start": 8.33,
+     "end": 8.73
+    },
+    {
+     "word": "mano",
+     "start": 8.85,
+     "end": 9.32
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 13.0,
+   "end": 14.23,
+   "text": "Eu tenho paraquedas",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 13.0,
+     "end": 13.04
+    },
+    {
+     "word": "tenho",
+     "start": 13.04,
+     "end": 13.14
+    },
+    {
+     "word": "paraquedas",
+     "start": 13.14,
+     "end": 14.23
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 15.67,
+   "end": 16.35,
+   "text": "relaxa, nós desce",
+   "words": [
+    {
+     "word": "relaxa,",
+     "start": 15.67,
+     "end": 16.01
+    },
+    {
+     "word": "nós",
+     "start": 16.01,
+     "end": 16.13
+    },
+    {
+     "word": "desce",
+     "start": 16.13,
+     "end": 16.35
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 16.39,
+   "end": 16.95,
+   "text": "por aqui assim",
+   "words": [
+    {
+     "word": "por",
+     "start": 16.39,
+     "end": 16.53
+    },
+    {
+     "word": "aqui",
+     "start": 16.53,
+     "end": 16.69
+    },
+    {
+     "word": "assim",
+     "start": 16.69,
+     "end": 16.95
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 16.99,
+   "end": 18.03,
+   "text": "ó. Nós pulamos a",
+   "words": [
+    {
+     "word": "ó.",
+     "start": 16.99,
+     "end": 17.11
+    },
+    {
+     "word": "Nós",
+     "start": 17.11,
+     "end": 17.55
+    },
+    {
+     "word": "pulamos",
+     "start": 17.63,
+     "end": 17.97
+    },
+    {
+     "word": "a",
+     "start": 17.97,
+     "end": 18.03
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 18.07,
+   "end": 19.02,
+   "text": "sacada do vizinho",
+   "words": [
+    {
+     "word": "sacada",
+     "start": 18.07,
+     "end": 18.35
+    },
+    {
+     "word": "do",
+     "start": 18.35,
+     "end": 18.45
+    },
+    {
+     "word": "vizinho",
+     "start": 18.45,
+     "end": 19.02
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 22.37,
+   "end": 23.15,
+   "text": "Pô, se eu queria",
+   "words": [
+    {
+     "word": "Pô,",
+     "start": 22.37,
+     "end": 22.73
+    },
+    {
+     "word": "se",
+     "start": 22.83,
+     "end": 22.89
+    },
+    {
+     "word": "eu",
+     "start": 22.89,
+     "end": 23.01
+    },
+    {
+     "word": "queria",
+     "start": 23.01,
+     "end": 23.15
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 23.19,
+   "end": 23.93,
+   "text": "morrer mesmo, porque",
+   "words": [
+    {
+     "word": "morrer",
+     "start": 23.19,
+     "end": 23.45
+    },
+    {
+     "word": "mesmo,",
+     "start": 23.45,
+     "end": 23.65
+    },
+    {
+     "word": "porque",
+     "start": 23.69,
+     "end": 23.93
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 23.97,
+   "end": 25.2,
+   "text": "aí, que inferno",
+   "words": [
+    {
+     "word": "aí,",
+     "start": 23.97,
+     "end": 24.13
+    },
+    {
+     "word": "que",
+     "start": 24.35,
+     "end": 24.49
+    },
+    {
+     "word": "inferno",
+     "start": 24.49,
+     "end": 25.2
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 27.98,
+   "end": 28.73,
+   "text": "Ah, eu não ia",
+   "words": [
+    {
+     "word": "Ah,",
+     "start": 27.98,
+     "end": 28.44
+    },
+    {
+     "word": "eu",
+     "start": 28.54,
+     "end": 28.6
+    },
+    {
+     "word": "não",
+     "start": 28.6,
+     "end": 28.68
+    },
+    {
+     "word": "ia",
+     "start": 28.68,
+     "end": 28.73
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 28.76,
+   "end": 29.4,
+   "text": "descer essa escada",
+   "words": [
+    {
+     "word": "descer",
+     "start": 28.76,
+     "end": 29.02
+    },
+    {
+     "word": "essa",
+     "start": 29.02,
+     "end": 29.14
+    },
+    {
+     "word": "escada",
+     "start": 29.14,
+     "end": 29.4
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 29.44,
+   "end": 30.2,
+   "text": "nem fudendo, mano",
+   "words": [
+    {
+     "word": "nem",
+     "start": 29.44,
+     "end": 29.58
+    },
+    {
+     "word": "fudendo,",
+     "start": 29.58,
+     "end": 30.04
+    },
+    {
+     "word": "mano",
+     "start": 30.14,
+     "end": 30.2
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 30.24,
+   "end": 30.66,
+   "text": "Você viu o tamanho",
+   "words": [
+    {
+     "word": "Você",
+     "start": 30.24,
+     "end": 30.4
+    },
+    {
+     "word": "viu",
+     "start": 30.4,
+     "end": 30.52
+    },
+    {
+     "word": "o",
+     "start": 30.52,
+     "end": 30.6
+    },
+    {
+     "word": "tamanho",
+     "start": 30.6,
+     "end": 30.66
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 30.7,
+   "end": 31.24,
+   "text": "dessa porra dessa",
+   "words": [
+    {
+     "word": "dessa",
+     "start": 30.7,
+     "end": 30.92
+    },
+    {
+     "word": "porra",
+     "start": 30.92,
+     "end": 31.18
+    },
+    {
+     "word": "dessa",
+     "start": 31.18,
+     "end": 31.24
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 31.28,
+   "end": 32.38,
+   "text": "escada, velho? Tá",
+   "words": [
+    {
+     "word": "escada,",
+     "start": 31.28,
+     "end": 31.66
+    },
+    {
+     "word": "velho?",
+     "start": 31.68,
+     "end": 32.1
+    },
+    {
+     "word": "Tá",
+     "start": 32.28,
+     "end": 32.38
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 32.42,
+   "end": 33.13,
+   "text": "maluco",
+   "words": [
+    {
+     "word": "maluco",
+     "start": 32.42,
+     "end": 33.13
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 34.72,
+   "end": 35.26,
+   "text": "cara, gigante",
+   "words": [
+    {
+     "word": "cara,",
+     "start": 34.72,
+     "end": 34.92
+    },
+    {
+     "word": "gigante",
+     "start": 34.92,
+     "end": 35.26
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 35.3,
+   "end": 36.41,
+   "text": "da porra, velho",
+   "words": [
+    {
+     "word": "da",
+     "start": 35.3,
+     "end": 35.46
+    },
+    {
+     "word": "porra,",
+     "start": 35.46,
+     "end": 35.86
+    },
+    {
+     "word": "velho",
+     "start": 35.86,
+     "end": 36.41
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 53.39,
+   "end": 54.39,
+   "text": "\"O intervalo me quebrou",
+   "words": [
+    {
+     "word": "\"O",
+     "start": 53.39,
+     "end": 53.57
+    },
+    {
+     "word": "intervalo",
+     "start": 53.57,
+     "end": 53.99
+    },
+    {
+     "word": "me",
+     "start": 53.99,
+     "end": 54.07
+    },
+    {
+     "word": "quebrou",
+     "start": 54.07,
+     "end": 54.39
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 54.43,
+   "end": 54.91,
+   "text": "hoje, cansada",
+   "words": [
+    {
+     "word": "hoje,",
+     "start": 54.43,
+     "end": 54.59
+    },
+    {
+     "word": "cansada",
+     "start": 54.65,
+     "end": 54.91
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 54.95,
+   "end": 55.73,
+   "text": "pra caralho. Eu vou",
+   "words": [
+    {
+     "word": "pra",
+     "start": 54.95,
+     "end": 55.13
+    },
+    {
+     "word": "caralho.",
+     "start": 55.13,
+     "end": 55.55
+    },
+    {
+     "word": "Eu",
+     "start": 55.55,
+     "end": 55.63
+    },
+    {
+     "word": "vou",
+     "start": 55.63,
+     "end": 55.73
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 55.77,
+   "end": 56.57,
+   "text": "pra cama, morta",
+   "words": [
+    {
+     "word": "pra",
+     "start": 55.77,
+     "end": 55.87
+    },
+    {
+     "word": "cama,",
+     "start": 55.87,
+     "end": 56.15
+    },
+    {
+     "word": "morta",
+     "start": 56.21,
+     "end": 56.57
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 56.61,
+   "end": 57.24,
+   "text": "demais.\"",
+   "words": [
+    {
+     "word": "demais.\"",
+     "start": 56.61,
+     "end": 57.24
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
