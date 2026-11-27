@@ -1,0 +1,236 @@
+{
+ "segments": [
+  {
+   "start": 27.98,
+   "end": 28.46,
+   "text": "Ó, ganhei ainda",
+   "words": [
+    {
+     "word": "Ó,",
+     "start": 27.98,
+     "end": 28.0
+    },
+    {
+     "word": "ganhei",
+     "start": 28.0,
+     "end": 28.28
+    },
+    {
+     "word": "ainda",
+     "start": 28.28,
+     "end": 28.46
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 28.5,
+   "end": 29.27,
+   "text": "o foco",
+   "words": [
+    {
+     "word": "o",
+     "start": 28.5,
+     "end": 28.58
+    },
+    {
+     "word": "foco",
+     "start": 28.58,
+     "end": 29.27
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 44.99,
+   "end": 45.93,
+   "text": "Pablo, qual é",
+   "words": [
+    {
+     "word": "Pablo,",
+     "start": 44.99,
+     "end": 45.33
+    },
+    {
+     "word": "qual",
+     "start": 45.33,
+     "end": 45.67
+    },
+    {
+     "word": "é",
+     "start": 45.67,
+     "end": 45.93
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 45.97,
+   "end": 46.86,
+   "text": "a música?",
+   "words": [
+    {
+     "word": "a",
+     "start": 45.97,
+     "end": 46.13
+    },
+    {
+     "word": "música?",
+     "start": 46.13,
+     "end": 46.86
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 49.41,
+   "end": 50.09,
+   "text": "Mas na moral",
+   "words": [
+    {
+     "word": "Mas",
+     "start": 49.41,
+     "end": 49.67
+    },
+    {
+     "word": "na",
+     "start": 49.67,
+     "end": 49.79
+    },
+    {
+     "word": "moral",
+     "start": 49.79,
+     "end": 50.09
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 50.13,
+   "end": 50.83,
+   "text": "o avião tá aqui ainda?",
+   "words": [
+    {
+     "word": "o",
+     "start": 50.13,
+     "end": 50.15
+    },
+    {
+     "word": "avião",
+     "start": 50.15,
+     "end": 50.35
+    },
+    {
+     "word": "tá",
+     "start": 50.35,
+     "end": 50.49
+    },
+    {
+     "word": "aqui",
+     "start": 50.49,
+     "end": 50.67
+    },
+    {
+     "word": "ainda?",
+     "start": 50.67,
+     "end": 50.83
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 50.87,
+   "end": 52.52,
+   "text": "Você tá de sacanagem, velho",
+   "words": [
+    {
+     "word": "Você",
+     "start": 50.87,
+     "end": 51.01
+    },
+    {
+     "word": "tá",
+     "start": 51.01,
+     "end": 51.06
+    },
+    {
+     "word": "de",
+     "start": 51.06,
+     "end": 51.13
+    },
+    {
+     "word": "sacanagem,",
+     "start": 51.13,
+     "end": 51.67
+    },
+    {
+     "word": "velho",
+     "start": 51.71,
+     "end": 52.52
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 60.57,
+   "end": 61.46,
+   "text": "Mano, esse avião vai",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 60.57,
+     "end": 61.05
+    },
+    {
+     "word": "esse",
+     "start": 61.05,
+     "end": 61.17
+    },
+    {
+     "word": "avião",
+     "start": 61.17,
+     "end": 61.41
+    },
+    {
+     "word": "vai",
+     "start": 61.41,
+     "end": 61.46
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 61.49,
+   "end": 62.98,
+   "text": "ficar aqui pra sempre, mano",
+   "words": [
+    {
+     "word": "ficar",
+     "start": 61.49,
+     "end": 61.63
+    },
+    {
+     "word": "aqui",
+     "start": 61.63,
+     "end": 61.79
+    },
+    {
+     "word": "pra",
+     "start": 61.79,
+     "end": 61.95
+    },
+    {
+     "word": "sempre,",
+     "start": 61.95,
+     "end": 62.39
+    },
+    {
+     "word": "mano",
+     "start": 62.49,
+     "end": 62.98
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
