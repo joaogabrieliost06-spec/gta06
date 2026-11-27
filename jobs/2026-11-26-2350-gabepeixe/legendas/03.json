@@ -1,0 +1,296 @@
+{
+ "segments": [
+  {
+   "start": 0.9,
+   "end": 2.68,
+   "text": "— parei,⁠ parei,⁠ parei⁠",
+   "words": [
+    {
+     "word": "— parei,⁠",
+     "start": 0.9,
+     "end": 1.3
+    },
+    {
+     "word": "parei,⁠",
+     "start": 1.51,
+     "end": 2.07
+    },
+    {
+     "word": "parei⁠",
+     "start": 2.07,
+     "end": 2.68
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 32.6,
+   "end": 33.77,
+   "text": "é inacreditável",
+   "words": [
+    {
+     "word": "é",
+     "start": 32.6,
+     "end": 32.84
+    },
+    {
+     "word": "inacreditável",
+     "start": 32.84,
+     "end": 33.77
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 34.45,
+   "end": 34.99,
+   "text": "é inacreditável",
+   "words": [
+    {
+     "word": "é",
+     "start": 34.45,
+     "end": 34.51
+    },
+    {
+     "word": "inacreditável",
+     "start": 34.51,
+     "end": 34.99
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 35.03,
+   "end": 36.29,
+   "text": "isso não existe, pô",
+   "words": [
+    {
+     "word": "isso",
+     "start": 35.03,
+     "end": 35.07
+    },
+    {
+     "word": "não",
+     "start": 35.07,
+     "end": 35.19
+    },
+    {
+     "word": "existe,",
+     "start": 35.19,
+     "end": 35.63
+    },
+    {
+     "word": "pô",
+     "start": 35.79,
+     "end": 36.29
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 36.33,
+   "end": 37.96,
+   "text": "— é⁠",
+   "words": [
+    {
+     "word": "— é⁠",
+     "start": 36.33,
+     "end": 37.96
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 38.33,
+   "end": 39.39,
+   "text": "é esse meu argumento",
+   "words": [
+    {
+     "word": "é",
+     "start": 38.33,
+     "end": 38.55
+    },
+    {
+     "word": "esse",
+     "start": 38.55,
+     "end": 38.81
+    },
+    {
+     "word": "meu",
+     "start": 38.81,
+     "end": 38.95
+    },
+    {
+     "word": "argumento",
+     "start": 38.95,
+     "end": 39.39
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 39.43,
+   "end": 39.95,
+   "text": "meu argumento não",
+   "words": [
+    {
+     "word": "meu",
+     "start": 39.43,
+     "end": 39.53
+    },
+    {
+     "word": "argumento",
+     "start": 39.53,
+     "end": 39.87
+    },
+    {
+     "word": "não",
+     "start": 39.87,
+     "end": 39.95
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 39.99,
+   "end": 40.65,
+   "text": "era que, ah, você",
+   "words": [
+    {
+     "word": "era",
+     "start": 39.99,
+     "end": 40.13
+    },
+    {
+     "word": "que,",
+     "start": 40.13,
+     "end": 40.27
+    },
+    {
+     "word": "ah,",
+     "start": 40.35,
+     "end": 40.45
+    },
+    {
+     "word": "você",
+     "start": 40.57,
+     "end": 40.65
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 40.69,
+   "end": 41.26,
+   "text": "não atirou, não",
+   "words": [
+    {
+     "word": "não",
+     "start": 40.69,
+     "end": 40.81
+    },
+    {
+     "word": "atirou,",
+     "start": 40.81,
+     "end": 41.15
+    },
+    {
+     "word": "não",
+     "start": 41.21,
+     "end": 41.26
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 41.29,
+   "end": 42.2,
+   "text": "atirei, beleza",
+   "words": [
+    {
+     "word": "atirei,",
+     "start": 41.29,
+     "end": 41.69
+    },
+    {
+     "word": "beleza",
+     "start": 41.73,
+     "end": 42.2
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 42.45,
+   "end": 43.05,
+   "text": "no",
+   "words": [
+    {
+     "word": "no",
+     "start": 42.45,
+     "end": 43.05
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 50.97,
+   "end": 51.57,
+   "text": "— pau⁠",
+   "words": [
+    {
+     "word": "— pau⁠",
+     "start": 50.97,
+     "end": 51.57
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 52.45,
+   "end": 53.36,
+   "text": "olha⁠ aí,⁠ viado⁠",
+   "words": [
+    {
+     "word": "olha⁠",
+     "start": 52.45,
+     "end": 52.61
+    },
+    {
+     "word": "aí,⁠",
+     "start": 52.61,
+     "end": 52.77
+    },
+    {
+     "word": "viado⁠",
+     "start": 52.87,
+     "end": 53.36
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 54.73,
+   "end": 56.0,
+   "text": "pronto,⁠ vamos⁠ morrer⁠",
+   "words": [
+    {
+     "word": "pronto,⁠",
+     "start": 54.73,
+     "end": 54.97
+    },
+    {
+     "word": "vamos⁠",
+     "start": 55.23,
+     "end": 55.39
+    },
+    {
+     "word": "morrer⁠",
+     "start": 55.39,
+     "end": 56.0
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
