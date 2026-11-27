@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, Alan, GTA 6, Lucia, Jason, academia, anilha, máquina, suco, Dark, Globoplay, sogra, pirataria, mano, velho, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:01:00", "fim": "0:02:22", "titulo": "A MINA ROUBOU 10KG DA MINHA MÁQUINA"},
+  {"id": "02", "inicio": "0:04:08", "fim": "0:04:47", "titulo": "JÁ TÔ GIGANTE SEM SUCO"},
+  {"id": "03", "inicio": "0:17:00", "fim": "0:18:05", "titulo": "QUEM ASSINA GLOBOPLAY?"}
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Jason, Lucia, aeroporto, mano, viado, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:01:10", "fim": "0:02:32", "titulo": "O JASON NÃO MERECE A LUCIA"},
+  {"id": "02", "inicio": "0:07:45", "fim": "0:08:15", "titulo": "TEM ÁGUA NO AEROPORTO"},
+  {"id": "03", "inicio": "0:17:38", "fim": "0:18:35", "titulo": "ISSO NÃO EXISTE"}
+ ]
+}

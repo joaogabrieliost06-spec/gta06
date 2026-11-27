@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Jason, Lucia, Brasil, poupança, milhões, Free Willy, mano, viado, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:06:55", "fim": "0:07:25", "titulo": "VEM PRO BRASIL"},
+  {"id": "02", "inicio": "0:10:35", "fim": "0:11:45", "titulo": "POUPANÇA DE 2 MILHÕES"},
+  {"id": "03", "inicio": "0:12:58", "fim": "0:13:38", "titulo": "FREE WILLY"}
+ ]
+}
