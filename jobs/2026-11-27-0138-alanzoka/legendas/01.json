@@ -1,0 +1,68 @@
+{
+ "segments": [
+  {
+   "start": 0.3,
+   "end": 1.45,
+   "text": "cabecinha do alien",
+   "words": [
+    {
+     "word": "cabecinha",
+     "start": 0.3,
+     "end": 0.74
+    },
+    {
+     "word": "do",
+     "start": 0.74,
+     "end": 0.88
+    },
+    {
+     "word": "alien",
+     "start": 0.88,
+     "end": 1.45
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 6.09,
+   "end": 10.35,
+   "text": "Meu Deus, tem",
+   "words": [
+    {
+     "word": "Meu",
+     "start": 6.09,
+     "end": 6.53
+    },
+    {
+     "word": "Deus,",
+     "start": 10.04,
+     "end": 10.22
+    },
+    {
+     "word": "tem",
+     "start": 10.3,
+     "end": 10.35
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 10.38,
+   "end": 11.59,
+   "text": "um alienígena!",
+   "words": [
+    {
+     "word": "um",
+     "start": 10.38,
+     "end": 10.5
+    },
+    {
+     "word": "alienígena!",
+     "start": 10.5,
+     "end": 11.59
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
