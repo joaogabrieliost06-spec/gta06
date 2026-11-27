@@ -1,0 +1,572 @@
+{
+ "segments": [
+  {
+   "start": 2.53,
+   "end": 3.57,
+   "text": "Acho, a gente vai resolver",
+   "words": [
+    {
+     "word": "Acho,",
+     "start": 2.53,
+     "end": 2.79
+    },
+    {
+     "word": "a",
+     "start": 2.87,
+     "end": 2.93
+    },
+    {
+     "word": "gente",
+     "start": 2.93,
+     "end": 2.98
+    },
+    {
+     "word": "vai",
+     "start": 2.98,
+     "end": 3.09
+    },
+    {
+     "word": "resolver",
+     "start": 3.09,
+     "end": 3.57
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 3.61,
+   "end": 4.59,
+   "text": "relacionamento",
+   "words": [
+    {
+     "word": "relacionamento",
+     "start": 3.61,
+     "end": 4.59
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 4.63,
+   "end": 5.43,
+   "text": "cada dia que passa",
+   "words": [
+    {
+     "word": "cada",
+     "start": 4.63,
+     "end": 4.77
+    },
+    {
+     "word": "dia",
+     "start": 4.77,
+     "end": 4.95
+    },
+    {
+     "word": "que",
+     "start": 4.95,
+     "end": 5.07
+    },
+    {
+     "word": "passa",
+     "start": 5.07,
+     "end": 5.43
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 5.47,
+   "end": 6.71,
+   "text": "cada mais fim do jogo",
+   "words": [
+    {
+     "word": "cada",
+     "start": 5.47,
+     "end": 5.79
+    },
+    {
+     "word": "mais",
+     "start": 5.79,
+     "end": 6.09
+    },
+    {
+     "word": "fim",
+     "start": 6.09,
+     "end": 6.29
+    },
+    {
+     "word": "do",
+     "start": 6.29,
+     "end": 6.41
+    },
+    {
+     "word": "jogo",
+     "start": 6.41,
+     "end": 6.71
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.75,
+   "end": 7.62,
+   "text": "pior fica",
+   "words": [
+    {
+     "word": "pior",
+     "start": 6.75,
+     "end": 6.99
+    },
+    {
+     "word": "fica",
+     "start": 6.99,
+     "end": 7.62
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.98,
+   "end": 9.51,
+   "text": "relacionamento fudido",
+   "words": [
+    {
+     "word": "relacionamento",
+     "start": 7.98,
+     "end": 8.62
+    },
+    {
+     "word": "fudido",
+     "start": 8.62,
+     "end": 9.51
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.1,
+   "end": 11.91,
+   "text": "perfil fudido",
+   "words": [
+    {
+     "word": "perfil",
+     "start": 10.1,
+     "end": 11.06
+    },
+    {
+     "word": "fudido",
+     "start": 11.06,
+     "end": 11.91
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 24.19,
+   "end": 25.76,
+   "text": "nossa, pilotei muito agora",
+   "words": [
+    {
+     "word": "nossa,",
+     "start": 24.19,
+     "end": 24.59
+    },
+    {
+     "word": "pilotei",
+     "start": 24.69,
+     "end": 25.09
+    },
+    {
+     "word": "muito",
+     "start": 25.09,
+     "end": 25.27
+    },
+    {
+     "word": "agora",
+     "start": 25.27,
+     "end": 25.76
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 39.19,
+   "end": 40.15,
+   "text": "minha meme coin",
+   "words": [
+    {
+     "word": "minha",
+     "start": 39.19,
+     "end": 39.47
+    },
+    {
+     "word": "meme",
+     "start": 39.47,
+     "end": 39.91
+    },
+    {
+     "word": "coin",
+     "start": 39.91,
+     "end": 40.15
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 40.19,
+   "end": 41.44,
+   "text": "foi pro caralho",
+   "words": [
+    {
+     "word": "foi",
+     "start": 40.19,
+     "end": 40.35
+    },
+    {
+     "word": "pro",
+     "start": 40.35,
+     "end": 40.51
+    },
+    {
+     "word": "caralho",
+     "start": 40.51,
+     "end": 41.44
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 41.98,
+   "end": 42.52,
+   "text": "dei nada aquela",
+   "words": [
+    {
+     "word": "dei",
+     "start": 41.98,
+     "end": 42.1
+    },
+    {
+     "word": "nada",
+     "start": 42.1,
+     "end": 42.38
+    },
+    {
+     "word": "aquela",
+     "start": 42.38,
+     "end": 42.52
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 42.56,
+   "end": 43.74,
+   "text": "meme coin, dei nada",
+   "words": [
+    {
+     "word": "meme",
+     "start": 42.56,
+     "end": 42.8
+    },
+    {
+     "word": "coin,",
+     "start": 42.8,
+     "end": 43.12
+    },
+    {
+     "word": "dei",
+     "start": 43.3,
+     "end": 43.46
+    },
+    {
+     "word": "nada",
+     "start": 43.46,
+     "end": 43.74
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 43.78,
+   "end": 45.1,
+   "text": "podia ter sacado 25 mil",
+   "words": [
+    {
+     "word": "podia",
+     "start": 43.78,
+     "end": 43.9
+    },
+    {
+     "word": "ter",
+     "start": 43.9,
+     "end": 44.0
+    },
+    {
+     "word": "sacado",
+     "start": 44.0,
+     "end": 44.36
+    },
+    {
+     "word": "25",
+     "start": 44.36,
+     "end": 44.68
+    },
+    {
+     "word": "mil",
+     "start": 44.68,
+     "end": 45.1
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 45.14,
+   "end": 47.37,
+   "text": "fiquei de xereca, acho",
+   "words": [
+    {
+     "word": "fiquei",
+     "start": 45.14,
+     "end": 45.22
+    },
+    {
+     "word": "de",
+     "start": 45.22,
+     "end": 45.36
+    },
+    {
+     "word": "xereca,",
+     "start": 45.36,
+     "end": 45.9
+    },
+    {
+     "word": "acho",
+     "start": 45.9,
+     "end": 47.37
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 53.86,
+   "end": 54.6,
+   "text": "que a missão que me deu",
+   "words": [
+    {
+     "word": "que",
+     "start": 53.86,
+     "end": 53.96
+    },
+    {
+     "word": "a",
+     "start": 53.96,
+     "end": 54.02
+    },
+    {
+     "word": "missão",
+     "start": 54.02,
+     "end": 54.28
+    },
+    {
+     "word": "que",
+     "start": 54.28,
+     "end": 54.4
+    },
+    {
+     "word": "me",
+     "start": 54.4,
+     "end": 54.54
+    },
+    {
+     "word": "deu",
+     "start": 54.54,
+     "end": 54.6
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 54.64,
+   "end": 55.14,
+   "text": "mais dinheiro",
+   "words": [
+    {
+     "word": "mais",
+     "start": 54.64,
+     "end": 54.88
+    },
+    {
+     "word": "dinheiro",
+     "start": 54.88,
+     "end": 55.14
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 55.18,
+   "end": 56.86,
+   "text": "foi essa última que eu fiz, mano",
+   "words": [
+    {
+     "word": "foi",
+     "start": 55.18,
+     "end": 55.46
+    },
+    {
+     "word": "essa",
+     "start": 55.46,
+     "end": 55.68
+    },
+    {
+     "word": "última",
+     "start": 55.68,
+     "end": 55.92
+    },
+    {
+     "word": "que",
+     "start": 55.92,
+     "end": 56.08
+    },
+    {
+     "word": "eu",
+     "start": 56.08,
+     "end": 56.16
+    },
+    {
+     "word": "fiz,",
+     "start": 56.16,
+     "end": 56.38
+    },
+    {
+     "word": "mano",
+     "start": 56.56,
+     "end": 56.86
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 57.27,
+   "end": 58.68,
+   "text": "e talvez a do range lá",
+   "words": [
+    {
+     "word": "e",
+     "start": 57.27,
+     "end": 57.39
+    },
+    {
+     "word": "talvez",
+     "start": 57.39,
+     "end": 57.61
+    },
+    {
+     "word": "a",
+     "start": 57.61,
+     "end": 57.79
+    },
+    {
+     "word": "do",
+     "start": 57.79,
+     "end": 57.93
+    },
+    {
+     "word": "range",
+     "start": 57.93,
+     "end": 58.19
+    },
+    {
+     "word": "lá",
+     "start": 58.19,
+     "end": 58.68
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 58.79,
+   "end": 59.81,
+   "text": "se eu não ganhar 100 mil",
+   "words": [
+    {
+     "word": "se",
+     "start": 58.79,
+     "end": 58.95
+    },
+    {
+     "word": "eu",
+     "start": 58.95,
+     "end": 59.01
+    },
+    {
+     "word": "não",
+     "start": 59.01,
+     "end": 59.11
+    },
+    {
+     "word": "ganhar",
+     "start": 59.11,
+     "end": 59.31
+    },
+    {
+     "word": "100",
+     "start": 59.31,
+     "end": 59.67
+    },
+    {
+     "word": "mil",
+     "start": 59.67,
+     "end": 59.81
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 59.85,
+   "end": 60.91,
+   "text": "naquela porra, no mínimo",
+   "words": [
+    {
+     "word": "naquela",
+     "start": 59.85,
+     "end": 60.15
+    },
+    {
+     "word": "porra,",
+     "start": 60.15,
+     "end": 60.39
+    },
+    {
+     "word": "no",
+     "start": 60.47,
+     "end": 60.53
+    },
+    {
+     "word": "mínimo",
+     "start": 60.53,
+     "end": 60.91
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 60.95,
+   "end": 61.55,
+   "text": "eu mato",
+   "words": [
+    {
+     "word": "eu",
+     "start": 60.95,
+     "end": 61.07
+    },
+    {
+     "word": "mato",
+     "start": 61.07,
+     "end": 61.55
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
