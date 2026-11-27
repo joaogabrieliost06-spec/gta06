@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Lucia, Jason, Vinny, Kevin, helicóptero, base militar, missão, mano, viado, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:14:05", "fim": "0:15:30", "titulo": "TÔ MUITO FOCADO, GALERA"},
+  {"id": "02", "inicio": "0:16:55", "fim": "0:18:20", "titulo": "QUANTO FALTA PRA ACABAR O JOGO?"},
+  {"id": "03", "inicio": "0:04:55", "fim": "0:05:50", "titulo": "A MISSÃO MAIS LONGA DO JOGO"}
+ ]
+}
