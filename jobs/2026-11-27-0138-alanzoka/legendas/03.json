@@ -1,0 +1,295 @@
+{
+ "segments": [
+  {
+   "start": 3.77,
+   "end": 4.59,
+   "text": "Qual era o código",
+   "words": [
+    {
+     "word": "Qual",
+     "start": 3.77,
+     "end": 4.17
+    },
+    {
+     "word": "era",
+     "start": 4.17,
+     "end": 4.33
+    },
+    {
+     "word": "o",
+     "start": 4.33,
+     "end": 4.41
+    },
+    {
+     "word": "código",
+     "start": 4.41,
+     "end": 4.59
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 4.63,
+   "end": 5.49,
+   "text": "da nave, chat?",
+   "words": [
+    {
+     "word": "da",
+     "start": 4.63,
+     "end": 4.81
+    },
+    {
+     "word": "nave,",
+     "start": 4.81,
+     "end": 5.09
+    },
+    {
+     "word": "chat?",
+     "start": 5.21,
+     "end": 5.49
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 5.53,
+   "end": 6.4,
+   "text": "Alguém lembra?",
+   "words": [
+    {
+     "word": "Alguém",
+     "start": 5.53,
+     "end": 5.73
+    },
+    {
+     "word": "lembra?",
+     "start": 5.73,
+     "end": 6.4
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 8.16,
+   "end": 8.76,
+   "text": "Qual era o código",
+   "words": [
+    {
+     "word": "Qual",
+     "start": 8.16,
+     "end": 8.36
+    },
+    {
+     "word": "era",
+     "start": 8.36,
+     "end": 8.5
+    },
+    {
+     "word": "o",
+     "start": 8.5,
+     "end": 8.58
+    },
+    {
+     "word": "código",
+     "start": 8.58,
+     "end": 8.76
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 8.8,
+   "end": 9.46,
+   "text": "do meu sonho?",
+   "words": [
+    {
+     "word": "do",
+     "start": 8.8,
+     "end": 8.92
+    },
+    {
+     "word": "meu",
+     "start": 8.92,
+     "end": 9.04
+    },
+    {
+     "word": "sonho?",
+     "start": 9.04,
+     "end": 9.46
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 9.5,
+   "end": 10.35,
+   "text": "Eu esqueci",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 9.5,
+     "end": 9.56
+    },
+    {
+     "word": "esqueci",
+     "start": 9.56,
+     "end": 10.35
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 10.6,
+   "end": 11.45,
+   "text": "Tá na tela?",
+   "words": [
+    {
+     "word": "Tá",
+     "start": 10.6,
+     "end": 10.68
+    },
+    {
+     "word": "na",
+     "start": 10.68,
+     "end": 10.8
+    },
+    {
+     "word": "tela?",
+     "start": 10.8,
+     "end": 11.45
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 11.85,
+   "end": 12.45,
+   "text": "Ah",
+   "words": [
+    {
+     "word": "Ah",
+     "start": 11.85,
+     "end": 12.45
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 14.81,
+   "end": 16.05,
+   "text": "— eu⁠ não⁠ vi⁠ que⁠ tava⁠ anotado⁠",
+   "words": [
+    {
+     "word": "— eu⁠",
+     "start": 14.81,
+     "end": 15.09
+    },
+    {
+     "word": "não⁠",
+     "start": 15.09,
+     "end": 15.15
+    },
+    {
+     "word": "vi⁠",
+     "start": 15.15,
+     "end": 15.27
+    },
+    {
+     "word": "que⁠",
+     "start": 15.27,
+     "end": 15.37
+    },
+    {
+     "word": "tava⁠",
+     "start": 15.37,
+     "end": 15.47
+    },
+    {
+     "word": "anotado⁠",
+     "start": 15.47,
+     "end": 16.05
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 16.09,
+   "end": 17.33,
+   "text": "É⁠ o⁠ mesmo⁠ código⁠",
+   "words": [
+    {
+     "word": "É⁠",
+     "start": 16.09,
+     "end": 16.37
+    },
+    {
+     "word": "o⁠",
+     "start": 16.37,
+     "end": 16.51
+    },
+    {
+     "word": "mesmo⁠",
+     "start": 16.51,
+     "end": 16.99
+    },
+    {
+     "word": "código⁠",
+     "start": 16.99,
+     "end": 17.33
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 17.37,
+   "end": 18.44,
+   "text": "da⁠ nave,⁠ esse⁠",
+   "words": [
+    {
+     "word": "da⁠",
+     "start": 17.37,
+     "end": 17.57
+    },
+    {
+     "word": "nave,⁠",
+     "start": 17.57,
+     "end": 17.85
+    },
+    {
+     "word": "esse⁠",
+     "start": 17.85,
+     "end": 18.44
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 20.61,
+   "end": 21.98,
+   "text": "Eu⁠ não⁠ vi,⁠ pô⁠",
+   "words": [
+    {
+     "word": "Eu⁠",
+     "start": 20.61,
+     "end": 21.01
+    },
+    {
+     "word": "não⁠",
+     "start": 21.01,
+     "end": 21.15
+    },
+    {
+     "word": "vi,⁠",
+     "start": 21.15,
+     "end": 21.41
+    },
+    {
+     "word": "pô⁠",
+     "start": 21.53,
+     "end": 21.98
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
