@@ -1,0 +1,12 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, Alan, GTA 6, Jason, Lucia, farol, fantasma, Godfrey, baú, raio, chuva, peixe, bits, helicóptero, hotel, Red Dead Redemption, chat, mano",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:01:50", "fim": "0:03:20", "titulo": "CHUVA COM RAIOS É RARÍSSIMO"},
+  {"id": "02", "inicio": "0:05:50", "fim": "0:07:20", "titulo": "INVESTIGAÇÃO É NA MINHA CAMA"},
+  {"id": "03", "inicio": "0:08:35", "fim": "0:10:05", "titulo": "O MAIOR PEIXE DA MINHA VIDA"},
+  {"id": "04", "inicio": "0:10:25", "fim": "0:11:55", "titulo": "AGORA CAIU UM LIVRO"},
+  {"id": "05", "inicio": "0:18:00", "fim": "0:19:30", "titulo": "SÓ DÁ PRA DORMIR NO HOTEL"}
+ ]
+}
