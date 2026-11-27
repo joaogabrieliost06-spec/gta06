@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, Alan, GTA 6, Lucia, Jason, poste, milhão, fogoso, tesouro, mergulho, chuva, mano, velho, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:05:45", "fim": "0:06:30", "titulo": "UM POSTE ME PEGOU"},
+  {"id": "02", "inicio": "0:16:40", "fim": "0:17:20", "titulo": "O MILHÃO AQUECE O CORAÇÃO"},
+  {"id": "03", "inicio": "0:19:18", "fim": "0:19:52", "titulo": "PEGAR TESOURO RENDE"}
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Lucia, Jason, demônio, portal, missão, tatuagem, sinistro, mano, viado, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:04:38", "fim": "0:05:12", "titulo": "MATANDO DEMÔNIO NO RITMO DA MÚSICA"},
+  {"id": "02", "inicio": "0:05:48", "fim": "0:06:16", "titulo": "QUE GTA É ESSE?"},
+  {"id": "03", "inicio": "0:11:28", "fim": "0:12:36", "titulo": "QUE MISSÃO FOI ESSA?"}
+ ]
+}
