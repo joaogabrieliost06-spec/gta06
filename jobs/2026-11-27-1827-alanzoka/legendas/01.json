@@ -1,0 +1,32 @@
+{
+ "segments": [
+  {
+   "start": 12.29,
+   "end": 13.96,
+   "text": "Tem criança no GTA?",
+   "words": [
+    {
+     "word": "Tem",
+     "start": 12.29,
+     "end": 12.49
+    },
+    {
+     "word": "criança",
+     "start": 12.49,
+     "end": 13.19
+    },
+    {
+     "word": "no",
+     "start": 13.19,
+     "end": 13.37
+    },
+    {
+     "word": "GTA?",
+     "start": 13.37,
+     "end": 13.96
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
