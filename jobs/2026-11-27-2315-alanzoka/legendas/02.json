@@ -1,0 +1,437 @@
+{
+ "segments": [
+  {
+   "start": 4.07,
+   "end": 5.24,
+   "text": "Cara, gostei, hein?",
+   "words": [
+    {
+     "word": "Cara,",
+     "start": 4.07,
+     "end": 4.33
+    },
+    {
+     "word": "gostei,",
+     "start": 4.45,
+     "end": 4.85
+    },
+    {
+     "word": "hein?",
+     "start": 4.89,
+     "end": 5.24
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 5.29,
+   "end": 6.03,
+   "text": "O que vocês estão achando",
+   "words": [
+    {
+     "word": "O",
+     "start": 5.29,
+     "end": 5.39
+    },
+    {
+     "word": "que",
+     "start": 5.39,
+     "end": 5.45
+    },
+    {
+     "word": "vocês",
+     "start": 5.45,
+     "end": 5.59
+    },
+    {
+     "word": "estão",
+     "start": 5.59,
+     "end": 5.73
+    },
+    {
+     "word": "achando",
+     "start": 5.73,
+     "end": 6.03
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 6.07,
+   "end": 6.96,
+   "text": "aqui do meu look?",
+   "words": [
+    {
+     "word": "aqui",
+     "start": 6.07,
+     "end": 6.21
+    },
+    {
+     "word": "do",
+     "start": 6.21,
+     "end": 6.31
+    },
+    {
+     "word": "meu",
+     "start": 6.31,
+     "end": 6.43
+    },
+    {
+     "word": "look?",
+     "start": 6.43,
+     "end": 6.96
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 7.71,
+   "end": 8.85,
+   "text": "Será que eu finalmente achei?",
+   "words": [
+    {
+     "word": "Será",
+     "start": 7.71,
+     "end": 7.83
+    },
+    {
+     "word": "que",
+     "start": 7.83,
+     "end": 7.91
+    },
+    {
+     "word": "eu",
+     "start": 7.91,
+     "end": 8.01
+    },
+    {
+     "word": "finalmente",
+     "start": 8.01,
+     "end": 8.37
+    },
+    {
+     "word": "achei?",
+     "start": 8.37,
+     "end": 8.85
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 8.89,
+   "end": 9.81,
+   "text": "Preciso de uma alpargata",
+   "words": [
+    {
+     "word": "Preciso",
+     "start": 8.89,
+     "end": 8.99
+    },
+    {
+     "word": "de",
+     "start": 8.99,
+     "end": 9.07
+    },
+    {
+     "word": "uma",
+     "start": 9.07,
+     "end": 9.17
+    },
+    {
+     "word": "alpargata",
+     "start": 9.17,
+     "end": 9.81
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 9.85,
+   "end": 10.66,
+   "text": "agora, mano",
+   "words": [
+    {
+     "word": "agora,",
+     "start": 9.85,
+     "end": 10.15
+    },
+    {
+     "word": "mano",
+     "start": 10.23,
+     "end": 10.66
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 17.49,
+   "end": 19.08,
+   "text": "Gostei da alpargata, mano",
+   "words": [
+    {
+     "word": "Gostei",
+     "start": 17.49,
+     "end": 17.79
+    },
+    {
+     "word": "da",
+     "start": 17.79,
+     "end": 17.89
+    },
+    {
+     "word": "alpargata,",
+     "start": 17.89,
+     "end": 18.55
+    },
+    {
+     "word": "mano",
+     "start": 18.57,
+     "end": 19.08
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 20.49,
+   "end": 22.08,
+   "text": "É um look comfy, tá?",
+   "words": [
+    {
+     "word": "É",
+     "start": 20.49,
+     "end": 20.61
+    },
+    {
+     "word": "um",
+     "start": 20.61,
+     "end": 20.67
+    },
+    {
+     "word": "look",
+     "start": 20.67,
+     "end": 20.85
+    },
+    {
+     "word": "comfy,",
+     "start": 20.85,
+     "end": 21.31
+    },
+    {
+     "word": "tá?",
+     "start": 21.63,
+     "end": 22.08
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 26.08,
+   "end": 27.16,
+   "text": "É um look comfy",
+   "words": [
+    {
+     "word": "É",
+     "start": 26.08,
+     "end": 26.24
+    },
+    {
+     "word": "um",
+     "start": 26.24,
+     "end": 26.3
+    },
+    {
+     "word": "look",
+     "start": 26.3,
+     "end": 26.5
+    },
+    {
+     "word": "comfy",
+     "start": 26.5,
+     "end": 27.16
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 27.2,
+   "end": 28.33,
+   "text": "já ouviu falar comfy?",
+   "words": [
+    {
+     "word": "já",
+     "start": 27.2,
+     "end": 27.36
+    },
+    {
+     "word": "ouviu",
+     "start": 27.36,
+     "end": 27.54
+    },
+    {
+     "word": "falar",
+     "start": 27.54,
+     "end": 27.68
+    },
+    {
+     "word": "comfy?",
+     "start": 27.68,
+     "end": 28.33
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 54.77,
+   "end": 56.02,
+   "text": "Mas é que eu já enjoei",
+   "words": [
+    {
+     "word": "Mas",
+     "start": 54.77,
+     "end": 55.03
+    },
+    {
+     "word": "é",
+     "start": 55.03,
+     "end": 55.08
+    },
+    {
+     "word": "que",
+     "start": 55.08,
+     "end": 55.17
+    },
+    {
+     "word": "eu",
+     "start": 55.17,
+     "end": 55.27
+    },
+    {
+     "word": "já",
+     "start": 55.27,
+     "end": 55.37
+    },
+    {
+     "word": "enjoei",
+     "start": 55.37,
+     "end": 56.02
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 66.89,
+   "end": 67.73,
+   "text": "Calça de listrinha",
+   "words": [
+    {
+     "word": "Calça",
+     "start": 66.89,
+     "end": 67.21
+    },
+    {
+     "word": "de",
+     "start": 67.21,
+     "end": 67.35
+    },
+    {
+     "word": "listrinha",
+     "start": 67.35,
+     "end": 67.73
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 67.77,
+   "end": 68.79,
+   "text": "não tá ornando?",
+   "words": [
+    {
+     "word": "não",
+     "start": 67.77,
+     "end": 67.93
+    },
+    {
+     "word": "tá",
+     "start": 67.93,
+     "end": 68.05
+    },
+    {
+     "word": "ornando?",
+     "start": 68.05,
+     "end": 68.79
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 68.83,
+   "end": 69.43,
+   "text": "É?",
+   "words": [
+    {
+     "word": "É?",
+     "start": 68.83,
+     "end": 69.43
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 70.14,
+   "end": 70.72,
+   "text": "Ah, mas eu vou ficar",
+   "words": [
+    {
+     "word": "Ah,",
+     "start": 70.14,
+     "end": 70.32
+    },
+    {
+     "word": "mas",
+     "start": 70.4,
+     "end": 70.45
+    },
+    {
+     "word": "eu",
+     "start": 70.45,
+     "end": 70.5
+    },
+    {
+     "word": "vou",
+     "start": 70.5,
+     "end": 70.62
+    },
+    {
+     "word": "ficar",
+     "start": 70.62,
+     "end": 70.72
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 70.76,
+   "end": 71.61,
+   "text": "com ela, mano",
+   "words": [
+    {
+     "word": "com",
+     "start": 70.76,
+     "end": 70.96
+    },
+    {
+     "word": "ela,",
+     "start": 70.96,
+     "end": 71.18
+    },
+    {
+     "word": "mano",
+     "start": 71.2,
+     "end": 71.61
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
