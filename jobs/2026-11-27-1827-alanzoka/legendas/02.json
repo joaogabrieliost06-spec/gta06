@@ -1,0 +1,476 @@
+{
+ "segments": [
+  {
+   "start": 6.51,
+   "end": 7.15,
+   "text": "Mano, meu carro tá",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 6.51,
+     "end": 6.77
+    },
+    {
+     "word": "meu",
+     "start": 6.81,
+     "end": 6.89
+    },
+    {
+     "word": "carro",
+     "start": 6.89,
+     "end": 7.07
+    },
+    {
+     "word": "tá",
+     "start": 7.07,
+     "end": 7.15
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 7.19,
+   "end": 8.15,
+   "text": "penso pra direita",
+   "words": [
+    {
+     "word": "penso",
+     "start": 7.19,
+     "end": 7.47
+    },
+    {
+     "word": "pra",
+     "start": 7.47,
+     "end": 7.65
+    },
+    {
+     "word": "direita",
+     "start": 7.65,
+     "end": 8.15
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 8.19,
+   "end": 9.14,
+   "text": "velho. Meu",
+   "words": [
+    {
+     "word": "velho.",
+     "start": 8.19,
+     "end": 8.47
+    },
+    {
+     "word": "Meu",
+     "start": 8.47,
+     "end": 9.14
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 10.03,
+   "end": 10.83,
+   "text": "carro não tá andando",
+   "words": [
+    {
+     "word": "carro",
+     "start": 10.03,
+     "end": 10.19
+    },
+    {
+     "word": "não",
+     "start": 10.19,
+     "end": 10.33
+    },
+    {
+     "word": "tá",
+     "start": 10.33,
+     "end": 10.47
+    },
+    {
+     "word": "andando",
+     "start": 10.47,
+     "end": 10.83
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 10.87,
+   "end": 11.6,
+   "text": "Acho",
+   "words": [
+    {
+     "word": "Acho",
+     "start": 10.87,
+     "end": 11.6
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 12.33,
+   "end": 12.85,
+   "text": "que a roda não",
+   "words": [
+    {
+     "word": "que",
+     "start": 12.33,
+     "end": 12.43
+    },
+    {
+     "word": "a",
+     "start": 12.43,
+     "end": 12.51
+    },
+    {
+     "word": "roda",
+     "start": 12.51,
+     "end": 12.75
+    },
+    {
+     "word": "não",
+     "start": 12.75,
+     "end": 12.85
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 12.89,
+   "end": 14.63,
+   "text": "tá girando. Aí",
+   "words": [
+    {
+     "word": "tá",
+     "start": 12.89,
+     "end": 13.09
+    },
+    {
+     "word": "girando.",
+     "start": 13.09,
+     "end": 13.67
+    },
+    {
+     "word": "Aí",
+     "start": 14.07,
+     "end": 14.63
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 14.67,
+   "end": 15.49,
+   "text": "ó, falei, ela trava",
+   "words": [
+    {
+     "word": "ó,",
+     "start": 14.67,
+     "end": 14.69
+    },
+    {
+     "word": "falei,",
+     "start": 14.75,
+     "end": 14.95
+    },
+    {
+     "word": "ela",
+     "start": 15.05,
+     "end": 15.11
+    },
+    {
+     "word": "trava",
+     "start": 15.11,
+     "end": 15.49
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 15.53,
+   "end": 16.34,
+   "text": "ó. Meu",
+   "words": [
+    {
+     "word": "ó.",
+     "start": 15.53,
+     "end": 15.69
+    },
+    {
+     "word": "Meu",
+     "start": 15.69,
+     "end": 16.34
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 19.85,
+   "end": 21.0,
+   "text": "carro não tá virando",
+   "words": [
+    {
+     "word": "carro",
+     "start": 19.85,
+     "end": 20.01
+    },
+    {
+     "word": "não",
+     "start": 20.01,
+     "end": 20.15
+    },
+    {
+     "word": "tá",
+     "start": 20.15,
+     "end": 20.27
+    },
+    {
+     "word": "virando",
+     "start": 20.27,
+     "end": 21.0
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 31.68,
+   "end": 32.5,
+   "text": "Ele tá virando sozinho agora",
+   "words": [
+    {
+     "word": "Ele",
+     "start": 31.68,
+     "end": 31.7
+    },
+    {
+     "word": "tá",
+     "start": 31.7,
+     "end": 31.76
+    },
+    {
+     "word": "virando",
+     "start": 31.76,
+     "end": 31.98
+    },
+    {
+     "word": "sozinho",
+     "start": 31.98,
+     "end": 32.26
+    },
+    {
+     "word": "agora",
+     "start": 32.26,
+     "end": 32.5
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 32.54,
+   "end": 37.62,
+   "text": "Isso tá ruim, hein",
+   "words": [
+    {
+     "word": "Isso",
+     "start": 32.54,
+     "end": 32.88
+    },
+    {
+     "word": "tá",
+     "start": 36.77,
+     "end": 36.85
+    },
+    {
+     "word": "ruim,",
+     "start": 36.85,
+     "end": 37.17
+    },
+    {
+     "word": "hein",
+     "start": 37.23,
+     "end": 37.62
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 68.0,
+   "end": 70.95,
+   "text": "Difícil. Olha se eu consigo",
+   "words": [
+    {
+     "word": "Difícil.",
+     "start": 68.0,
+     "end": 68.38
+    },
+    {
+     "word": "Olha",
+     "start": 68.38,
+     "end": 68.8
+    },
+    {
+     "word": "se",
+     "start": 70.61,
+     "end": 70.71
+    },
+    {
+     "word": "eu",
+     "start": 70.71,
+     "end": 70.81
+    },
+    {
+     "word": "consigo",
+     "start": 70.81,
+     "end": 70.95
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 70.99,
+   "end": 71.89,
+   "text": "passar num postinho",
+   "words": [
+    {
+     "word": "passar",
+     "start": 70.99,
+     "end": 71.25
+    },
+    {
+     "word": "num",
+     "start": 71.25,
+     "end": 71.37
+    },
+    {
+     "word": "postinho",
+     "start": 71.37,
+     "end": 71.89
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 71.93,
+   "end": 72.47,
+   "text": "mano, pra arrumar",
+   "words": [
+    {
+     "word": "mano,",
+     "start": 71.93,
+     "end": 72.05
+    },
+    {
+     "word": "pra",
+     "start": 72.17,
+     "end": 72.23
+    },
+    {
+     "word": "arrumar",
+     "start": 72.23,
+     "end": 72.47
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 72.51,
+   "end": 73.2,
+   "text": "ele antes",
+   "words": [
+    {
+     "word": "ele",
+     "start": 72.51,
+     "end": 72.65
+    },
+    {
+     "word": "antes",
+     "start": 72.65,
+     "end": 73.2
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 75.89,
+   "end": 76.85,
+   "text": "Nossa, o cara vai",
+   "words": [
+    {
+     "word": "Nossa,",
+     "start": 75.89,
+     "end": 76.45
+    },
+    {
+     "word": "o",
+     "start": 76.57,
+     "end": 76.63
+    },
+    {
+     "word": "cara",
+     "start": 76.63,
+     "end": 76.75
+    },
+    {
+     "word": "vai",
+     "start": 76.75,
+     "end": 76.85
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 76.89,
+   "end": 77.93,
+   "text": "me zoar pra caralho",
+   "words": [
+    {
+     "word": "me",
+     "start": 76.89,
+     "end": 77.05
+    },
+    {
+     "word": "zoar",
+     "start": 77.05,
+     "end": 77.29
+    },
+    {
+     "word": "pra",
+     "start": 77.29,
+     "end": 77.39
+    },
+    {
+     "word": "caralho",
+     "start": 77.39,
+     "end": 77.93
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 77.97,
+   "end": 79.35,
+   "text": "velho. Virou sozinho!",
+   "words": [
+    {
+     "word": "velho.",
+     "start": 77.97,
+     "end": 78.37
+    },
+    {
+     "word": "Virou",
+     "start": 78.42,
+     "end": 78.78
+    },
+    {
+     "word": "sozinho!",
+     "start": 78.78,
+     "end": 79.35
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
