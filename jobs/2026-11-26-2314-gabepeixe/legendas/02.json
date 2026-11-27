@@ -1,0 +1,369 @@
+{
+ "segments": [
+  {
+   "start": 4.81,
+   "end": 5.97,
+   "text": "Caralho, o take bonitão",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 4.81,
+     "end": 5.19
+    },
+    {
+     "word": "o",
+     "start": 5.33,
+     "end": 5.39
+    },
+    {
+     "word": "take",
+     "start": 5.39,
+     "end": 5.44
+    },
+    {
+     "word": "bonitão",
+     "start": 5.44,
+     "end": 5.97
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 6.01,
+   "end": 7.02,
+   "text": "dela assim, mano",
+   "words": [
+    {
+     "word": "dela",
+     "start": 6.01,
+     "end": 6.21
+    },
+    {
+     "word": "assim,",
+     "start": 6.21,
+     "end": 6.53
+    },
+    {
+     "word": "mano",
+     "start": 6.61,
+     "end": 7.02
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 7.81,
+   "end": 9.23,
+   "text": "Atende essa porra aí",
+   "words": [
+    {
+     "word": "Atende",
+     "start": 7.81,
+     "end": 8.21
+    },
+    {
+     "word": "essa",
+     "start": 8.21,
+     "end": 8.41
+    },
+    {
+     "word": "porra",
+     "start": 8.41,
+     "end": 8.79
+    },
+    {
+     "word": "aí",
+     "start": 8.79,
+     "end": 9.23
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 9.27,
+   "end": 10.32,
+   "text": "filha da porra",
+   "words": [
+    {
+     "word": "filha",
+     "start": 9.27,
+     "end": 9.47
+    },
+    {
+     "word": "da",
+     "start": 9.47,
+     "end": 9.61
+    },
+    {
+     "word": "porra",
+     "start": 9.61,
+     "end": 10.32
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 10.36,
+   "end": 11.17,
+   "text": "Ei",
+   "words": [
+    {
+     "word": "Ei",
+     "start": 10.36,
+     "end": 11.17
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 11.36,
+   "end": 12.44,
+   "text": "É assim que deve tá",
+   "words": [
+    {
+     "word": "É",
+     "start": 11.36,
+     "end": 11.76
+    },
+    {
+     "word": "assim",
+     "start": 11.76,
+     "end": 12.1
+    },
+    {
+     "word": "que",
+     "start": 12.1,
+     "end": 12.22
+    },
+    {
+     "word": "deve",
+     "start": 12.22,
+     "end": 12.36
+    },
+    {
+     "word": "tá",
+     "start": 12.36,
+     "end": 12.44
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 12.48,
+   "end": 12.94,
+   "text": "a voz dela",
+   "words": [
+    {
+     "word": "a",
+     "start": 12.48,
+     "end": 12.62
+    },
+    {
+     "word": "voz",
+     "start": 12.62,
+     "end": 12.72
+    },
+    {
+     "word": "dela",
+     "start": 12.72,
+     "end": 12.94
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 12.98,
+   "end": 13.7,
+   "text": "de tanta bomba já",
+   "words": [
+    {
+     "word": "de",
+     "start": 12.98,
+     "end": 13.06
+    },
+    {
+     "word": "tanta",
+     "start": 13.06,
+     "end": 13.2
+    },
+    {
+     "word": "bomba",
+     "start": 13.2,
+     "end": 13.6
+    },
+    {
+     "word": "já",
+     "start": 13.6,
+     "end": 13.7
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 13.74,
+   "end": 14.92,
+   "text": "Ô, filha da porra",
+   "words": [
+    {
+     "word": "Ô,",
+     "start": 13.74,
+     "end": 13.94
+    },
+    {
+     "word": "filha",
+     "start": 14.12,
+     "end": 14.3
+    },
+    {
+     "word": "da",
+     "start": 14.3,
+     "end": 14.42
+    },
+    {
+     "word": "porra",
+     "start": 14.42,
+     "end": 14.92
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 14.96,
+   "end": 15.98,
+   "text": "atende essa porra aí",
+   "words": [
+    {
+     "word": "atende",
+     "start": 14.96,
+     "end": 15.24
+    },
+    {
+     "word": "essa",
+     "start": 15.24,
+     "end": 15.4
+    },
+    {
+     "word": "porra",
+     "start": 15.4,
+     "end": 15.82
+    },
+    {
+     "word": "aí",
+     "start": 15.82,
+     "end": 15.98
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 16.02,
+   "end": 17.27,
+   "text": "ô, filha da porra",
+   "words": [
+    {
+     "word": "ô,",
+     "start": 16.02,
+     "end": 16.08
+    },
+    {
+     "word": "filha",
+     "start": 16.16,
+     "end": 16.36
+    },
+    {
+     "word": "da",
+     "start": 16.36,
+     "end": 16.5
+    },
+    {
+     "word": "porra",
+     "start": 16.5,
+     "end": 17.27
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 17.52,
+   "end": 18.43,
+   "text": "Ei",
+   "words": [
+    {
+     "word": "Ei",
+     "start": 17.52,
+     "end": 18.43
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 19.2,
+   "end": 20.73,
+   "text": "Atende aí, rapá",
+   "words": [
+    {
+     "word": "Atende",
+     "start": 19.2,
+     "end": 19.6
+    },
+    {
+     "word": "aí,",
+     "start": 19.6,
+     "end": 19.78
+    },
+    {
+     "word": "rapá",
+     "start": 20.12,
+     "end": 20.73
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 22.21,
+   "end": 22.93,
+   "text": "Tanto suquinho",
+   "words": [
+    {
+     "word": "Tanto",
+     "start": 22.21,
+     "end": 22.61
+    },
+    {
+     "word": "suquinho",
+     "start": 22.61,
+     "end": 22.93
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 22.97,
+   "end": 24.22,
+   "text": "que tomou, pô, já",
+   "words": [
+    {
+     "word": "que",
+     "start": 22.97,
+     "end": 23.09
+    },
+    {
+     "word": "tomou,",
+     "start": 23.09,
+     "end": 23.45
+    },
+    {
+     "word": "pô,",
+     "start": 23.57,
+     "end": 23.77
+    },
+    {
+     "word": "já",
+     "start": 23.77,
+     "end": 24.22
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
