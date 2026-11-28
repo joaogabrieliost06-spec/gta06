@@ -1,0 +1,11 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, Alan, GTA 6, Jason, Lucia, Silksong, sub, bits, spoiler, platinar, chat, mano",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:04:38", "fim": "0:05:10", "titulo": "NOSSA, FOI MUITO BOM"},
+  {"id": "02", "inicio": "0:06:36", "fim": "0:08:00", "titulo": "TUDO TEM UM FIM"},
+  {"id": "03", "inicio": "0:09:15", "fim": "0:10:06", "titulo": "90% OU 100% PRA MINHA CAMA"},
+  {"id": "04", "inicio": "0:11:19", "fim": "0:12:07", "titulo": "DUAS PESSOAS SUPER ESPECIAIS NA SEXTA"}
+ ]
+}
