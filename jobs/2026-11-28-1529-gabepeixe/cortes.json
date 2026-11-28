@@ -1,0 +1,12 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Coringa, Thainá, Fernanda, casamento, terno, Free Fire, Loud, Fluxo, Japão, Kings League, mano, viado, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:00:59", "fim": "0:02:20", "titulo": "UM TERNO DE 16 MIL"},
+  {"id": "02", "inicio": "0:03:31", "fim": "0:04:39", "titulo": "BEBI DEMAIS NO CASAMENTO"},
+  {"id": "03", "inicio": "0:05:36", "fim": "0:06:39", "titulo": "O PRESENTE DO CORINGA"},
+  {"id": "04", "inicio": "0:06:54", "fim": "0:07:48", "titulo": "HOJE A GENTE ZERA O GTA"},
+  {"id": "05", "inicio": "0:18:38", "fim": "0:19:40", "titulo": "SE MATEM AÍ, GALERA"}
+ ]
+}
