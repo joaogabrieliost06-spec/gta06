@@ -1,0 +1,11 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Jason, Lucia, Raul, Coringa, Thainá, Fernanda, quadro, presente, crossfit, academia, conta congelada, mano, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:08:43", "fim": "0:10:07", "titulo": "O QUADRO DO CORINGA"},
+  {"id": "02", "inicio": "0:10:18", "fim": "0:11:12", "titulo": "MEDO DE ESTRAGAR O PRESENTE"},
+  {"id": "03", "inicio": "0:16:03", "fim": "0:17:23", "titulo": "CROSSFIT NO GTA 6"},
+  {"id": "04", "inicio": "0:17:34", "fim": "0:18:43", "titulo": "MINHA CONTA FOI CONGELADA"}
+ ]
+}
