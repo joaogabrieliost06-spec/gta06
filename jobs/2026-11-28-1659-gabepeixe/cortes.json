@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Jason, Lucia, Rocco, cruzeiro, stealth, biscoito, cachorro, Monster Boy, mano, viado, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:04:37", "fim": "0:05:59", "titulo": "STEALTH NO CRUZEIRO"},
+  {"id": "02", "inicio": "0:07:16", "fim": "0:08:45", "titulo": "O CACHORRO E O BISCOITO"},
+  {"id": "03", "inicio": "0:18:26", "fim": "0:19:09", "titulo": "NÃO ERA SÓ DAR BISCOITO"}
+ ]
+}
