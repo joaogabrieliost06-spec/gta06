@@ -1,0 +1,913 @@
+{
+ "segments": [
+  {
+   "start": 4.3,
+   "end": 5.6,
+   "text": "O Nate morreu, ah",
+   "words": [
+    {
+     "word": "O",
+     "start": 4.3,
+     "end": 4.54
+    },
+    {
+     "word": "Nate",
+     "start": 4.54,
+     "end": 4.82
+    },
+    {
+     "word": "morreu,",
+     "start": 4.82,
+     "end": 5.38
+    },
+    {
+     "word": "ah",
+     "start": 5.46,
+     "end": 5.6
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 5.64,
+   "end": 6.74,
+   "text": "mas daí é incompetência",
+   "words": [
+    {
+     "word": "mas",
+     "start": 5.64,
+     "end": 5.68
+    },
+    {
+     "word": "daí",
+     "start": 5.68,
+     "end": 5.82
+    },
+    {
+     "word": "é",
+     "start": 5.82,
+     "end": 5.92
+    },
+    {
+     "word": "incompetência",
+     "start": 5.92,
+     "end": 6.74
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 6.78,
+   "end": 7.62,
+   "text": "né, com todo respeito",
+   "words": [
+    {
+     "word": "né,",
+     "start": 6.78,
+     "end": 6.82
+    },
+    {
+     "word": "com",
+     "start": 6.86,
+     "end": 6.94
+    },
+    {
+     "word": "todo",
+     "start": 6.94,
+     "end": 7.1
+    },
+    {
+     "word": "respeito",
+     "start": 7.1,
+     "end": 7.62
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 7.66,
+   "end": 8.18,
+   "text": "ué, daí o que que",
+   "words": [
+    {
+     "word": "ué,",
+     "start": 7.66,
+     "end": 7.74
+    },
+    {
+     "word": "daí",
+     "start": 7.8,
+     "end": 7.94
+    },
+    {
+     "word": "o",
+     "start": 7.94,
+     "end": 8.08
+    },
+    {
+     "word": "que",
+     "start": 8.08,
+     "end": 8.13
+    },
+    {
+     "word": "que",
+     "start": 8.13,
+     "end": 8.18
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 8.18,
+   "end": 8.99,
+   "text": "eu posso fazer?",
+   "words": [
+    {
+     "word": "eu",
+     "start": 8.18,
+     "end": 8.22
+    },
+    {
+     "word": "posso",
+     "start": 8.22,
+     "end": 8.42
+    },
+    {
+     "word": "fazer?",
+     "start": 8.42,
+     "end": 8.99
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 9.92,
+   "end": 11.14,
+   "text": "Ué, morreu do quê?",
+   "words": [
+    {
+     "word": "Ué,",
+     "start": 9.92,
+     "end": 10.22
+    },
+    {
+     "word": "morreu",
+     "start": 10.32,
+     "end": 10.68
+    },
+    {
+     "word": "do",
+     "start": 10.68,
+     "end": 10.8
+    },
+    {
+     "word": "quê?",
+     "start": 10.8,
+     "end": 11.14
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 11.18,
+   "end": 12.43,
+   "text": "Morreu porque é burro, né",
+   "words": [
+    {
+     "word": "Morreu",
+     "start": 11.18,
+     "end": 11.46
+    },
+    {
+     "word": "porque",
+     "start": 11.46,
+     "end": 11.6
+    },
+    {
+     "word": "é",
+     "start": 11.6,
+     "end": 11.72
+    },
+    {
+     "word": "burro,",
+     "start": 11.72,
+     "end": 12.04
+    },
+    {
+     "word": "né",
+     "start": 12.12,
+     "end": 12.43
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 14.99,
+   "end": 16.08,
+   "text": "né, não entendi",
+   "words": [
+    {
+     "word": "né,",
+     "start": 14.99,
+     "end": 15.19
+    },
+    {
+     "word": "não",
+     "start": 15.27,
+     "end": 15.37
+    },
+    {
+     "word": "entendi",
+     "start": 15.37,
+     "end": 16.08
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 17.65,
+   "end": 18.6,
+   "text": "Eu não morri",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 17.65,
+     "end": 17.87
+    },
+    {
+     "word": "não",
+     "start": 17.87,
+     "end": 18.01
+    },
+    {
+     "word": "morri",
+     "start": 18.01,
+     "end": 18.6
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 20.13,
+   "end": 20.89,
+   "text": "Vamos nesse carrinho",
+   "words": [
+    {
+     "word": "Vamos",
+     "start": 20.13,
+     "end": 20.45
+    },
+    {
+     "word": "nesse",
+     "start": 20.45,
+     "end": 20.67
+    },
+    {
+     "word": "carrinho",
+     "start": 20.67,
+     "end": 20.89
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 20.93,
+   "end": 21.87,
+   "text": "aqui então, golfão",
+   "words": [
+    {
+     "word": "aqui",
+     "start": 20.93,
+     "end": 21.09
+    },
+    {
+     "word": "então,",
+     "start": 21.09,
+     "end": 21.29
+    },
+    {
+     "word": "golfão",
+     "start": 21.39,
+     "end": 21.87
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 21.91,
+   "end": 22.63,
+   "text": "mano, vamos de golfão",
+   "words": [
+    {
+     "word": "mano,",
+     "start": 21.91,
+     "end": 21.95
+    },
+    {
+     "word": "vamos",
+     "start": 22.07,
+     "end": 22.17
+    },
+    {
+     "word": "de",
+     "start": 22.17,
+     "end": 22.31
+    },
+    {
+     "word": "golfão",
+     "start": 22.31,
+     "end": 22.63
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 22.67,
+   "end": 23.5,
+   "text": "vamos de golfão",
+   "words": [
+    {
+     "word": "vamos",
+     "start": 22.67,
+     "end": 22.77
+    },
+    {
+     "word": "de",
+     "start": 22.77,
+     "end": 22.89
+    },
+    {
+     "word": "golfão",
+     "start": 22.89,
+     "end": 23.5
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 36.34,
+   "end": 37.84,
+   "text": "Cara, meu carro atolou",
+   "words": [
+    {
+     "word": "Cara,",
+     "start": 36.34,
+     "end": 36.74
+    },
+    {
+     "word": "meu",
+     "start": 36.88,
+     "end": 36.93
+    },
+    {
+     "word": "carro",
+     "start": 36.93,
+     "end": 37.54
+    },
+    {
+     "word": "atolou",
+     "start": 37.54,
+     "end": 37.84
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 37.88,
+   "end": 38.62,
+   "text": "Meu carro literalmente",
+   "words": [
+    {
+     "word": "Meu",
+     "start": 37.88,
+     "end": 38.12
+    },
+    {
+     "word": "carro",
+     "start": 38.12,
+     "end": 38.28
+    },
+    {
+     "word": "literalmente",
+     "start": 38.28,
+     "end": 38.62
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 38.66,
+   "end": 39.45,
+   "text": "atolou, mano",
+   "words": [
+    {
+     "word": "atolou,",
+     "start": 38.66,
+     "end": 39.04
+    },
+    {
+     "word": "mano",
+     "start": 39.04,
+     "end": 39.45
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 43.54,
+   "end": 44.56,
+   "text": "Meu carro atolou, chat",
+   "words": [
+    {
+     "word": "Meu",
+     "start": 43.54,
+     "end": 43.74
+    },
+    {
+     "word": "carro",
+     "start": 43.74,
+     "end": 43.94
+    },
+    {
+     "word": "atolou,",
+     "start": 43.94,
+     "end": 44.4
+    },
+    {
+     "word": "chat",
+     "start": 44.4,
+     "end": 44.56
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 44.6,
+   "end": 46.08,
+   "text": "Eu não conseguia andar, mano",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 44.6,
+     "end": 44.82
+    },
+    {
+     "word": "não",
+     "start": 44.82,
+     "end": 44.94
+    },
+    {
+     "word": "conseguia",
+     "start": 44.94,
+     "end": 45.48
+    },
+    {
+     "word": "andar,",
+     "start": 45.48,
+     "end": 45.82
+    },
+    {
+     "word": "mano",
+     "start": 45.9,
+     "end": 46.08
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 46.12,
+   "end": 46.96,
+   "text": "Vamos pegar a van mesmo",
+   "words": [
+    {
+     "word": "Vamos",
+     "start": 46.12,
+     "end": 46.34
+    },
+    {
+     "word": "pegar",
+     "start": 46.34,
+     "end": 46.54
+    },
+    {
+     "word": "a",
+     "start": 46.54,
+     "end": 46.68
+    },
+    {
+     "word": "van",
+     "start": 46.68,
+     "end": 46.8
+    },
+    {
+     "word": "mesmo",
+     "start": 46.8,
+     "end": 46.96
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 47.0,
+   "end": 48.11,
+   "text": "Que vai ser melhor",
+   "words": [
+    {
+     "word": "Que",
+     "start": 47.0,
+     "end": 47.1
+    },
+    {
+     "word": "vai",
+     "start": 47.1,
+     "end": 47.4
+    },
+    {
+     "word": "ser",
+     "start": 47.4,
+     "end": 47.6
+    },
+    {
+     "word": "melhor",
+     "start": 47.6,
+     "end": 48.11
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 51.91,
+   "end": 53.19,
+   "text": "Irmão, não dá pra enxergar nada",
+   "words": [
+    {
+     "word": "Irmão,",
+     "start": 51.91,
+     "end": 52.17
+    },
+    {
+     "word": "não",
+     "start": 52.23,
+     "end": 52.28
+    },
+    {
+     "word": "dá",
+     "start": 52.28,
+     "end": 52.39
+    },
+    {
+     "word": "pra",
+     "start": 52.39,
+     "end": 52.49
+    },
+    {
+     "word": "enxergar",
+     "start": 52.49,
+     "end": 52.85
+    },
+    {
+     "word": "nada",
+     "start": 52.85,
+     "end": 53.19
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 53.23,
+   "end": 54.09,
+   "text": "Tá mó névoa",
+   "words": [
+    {
+     "word": "Tá",
+     "start": 53.23,
+     "end": 53.45
+    },
+    {
+     "word": "mó",
+     "start": 53.45,
+     "end": 53.61
+    },
+    {
+     "word": "névoa",
+     "start": 53.61,
+     "end": 54.09
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 54.13,
+   "end": 56.08,
+   "text": "Fumaça de fogo",
+   "words": [
+    {
+     "word": "Fumaça",
+     "start": 54.13,
+     "end": 54.83
+    },
+    {
+     "word": "de",
+     "start": 54.83,
+     "end": 55.07
+    },
+    {
+     "word": "fogo",
+     "start": 55.07,
+     "end": 56.08
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 59.79,
+   "end": 60.72,
+   "text": "Fui pro lado errado",
+   "words": [
+    {
+     "word": "Fui",
+     "start": 59.79,
+     "end": 59.91
+    },
+    {
+     "word": "pro",
+     "start": 59.91,
+     "end": 60.05
+    },
+    {
+     "word": "lado",
+     "start": 60.05,
+     "end": 60.15
+    },
+    {
+     "word": "errado",
+     "start": 60.15,
+     "end": 60.72
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 65.02,
+   "end": 65.48,
+   "text": "Quer que eu fuja",
+   "words": [
+    {
+     "word": "Quer",
+     "start": 65.02,
+     "end": 65.12
+    },
+    {
+     "word": "que",
+     "start": 65.12,
+     "end": 65.22
+    },
+    {
+     "word": "eu",
+     "start": 65.22,
+     "end": 65.28
+    },
+    {
+     "word": "fuja",
+     "start": 65.28,
+     "end": 65.48
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 65.52,
+   "end": 66.32,
+   "text": "de ré? Não, não, não",
+   "words": [
+    {
+     "word": "de",
+     "start": 65.52,
+     "end": 65.66
+    },
+    {
+     "word": "ré?",
+     "start": 65.66,
+     "end": 65.9
+    },
+    {
+     "word": "Não,",
+     "start": 65.9,
+     "end": 66.02
+    },
+    {
+     "word": "não,",
+     "start": 66.08,
+     "end": 66.24
+    },
+    {
+     "word": "não",
+     "start": 66.24,
+     "end": 66.32
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 66.36,
+   "end": 66.97,
+   "text": "eu vou reto",
+   "words": [
+    {
+     "word": "eu",
+     "start": 66.36,
+     "end": 66.46
+    },
+    {
+     "word": "vou",
+     "start": 66.46,
+     "end": 66.6
+    },
+    {
+     "word": "reto",
+     "start": 66.6,
+     "end": 66.97
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 68.14,
+   "end": 69.13,
+   "text": "Eu entrei no mesmo",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 68.14,
+     "end": 68.54
+    },
+    {
+     "word": "entrei",
+     "start": 68.79,
+     "end": 68.99
+    },
+    {
+     "word": "no",
+     "start": 68.99,
+     "end": 69.05
+    },
+    {
+     "word": "mesmo",
+     "start": 69.05,
+     "end": 69.13
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 69.17,
+   "end": 69.96,
+   "text": "carro, mano",
+   "words": [
+    {
+     "word": "carro,",
+     "start": 69.17,
+     "end": 69.45
+    },
+    {
+     "word": "mano",
+     "start": 69.53,
+     "end": 69.96
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 72.83,
+   "end": 73.29,
+   "text": "Dá pra eu passar",
+   "words": [
+    {
+     "word": "Dá",
+     "start": 72.83,
+     "end": 72.93
+    },
+    {
+     "word": "pra",
+     "start": 72.93,
+     "end": 73.03
+    },
+    {
+     "word": "eu",
+     "start": 73.03,
+     "end": 73.19
+    },
+    {
+     "word": "passar",
+     "start": 73.19,
+     "end": 73.29
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 73.33,
+   "end": 74.64,
+   "text": "por aqui, cara",
+   "words": [
+    {
+     "word": "por",
+     "start": 73.33,
+     "end": 73.55
+    },
+    {
+     "word": "aqui,",
+     "start": 73.55,
+     "end": 73.85
+    },
+    {
+     "word": "cara",
+     "start": 73.95,
+     "end": 74.64
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 82.79,
+   "end": 83.79,
+   "text": "Cara, eu acho que não dá pra eu passar",
+   "words": [
+    {
+     "word": "Cara,",
+     "start": 82.79,
+     "end": 83.03
+    },
+    {
+     "word": "eu",
+     "start": 83.11,
+     "end": 83.16
+    },
+    {
+     "word": "acho",
+     "start": 83.16,
+     "end": 83.23
+    },
+    {
+     "word": "que",
+     "start": 83.23,
+     "end": 83.31
+    },
+    {
+     "word": "não",
+     "start": 83.31,
+     "end": 83.39
+    },
+    {
+     "word": "dá",
+     "start": 83.39,
+     "end": 83.45
+    },
+    {
+     "word": "pra",
+     "start": 83.45,
+     "end": 83.57
+    },
+    {
+     "word": "eu",
+     "start": 83.57,
+     "end": 83.71
+    },
+    {
+     "word": "passar",
+     "start": 83.71,
+     "end": 83.79
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 83.83,
+   "end": 84.8,
+   "text": "por aqui não, mano",
+   "words": [
+    {
+     "word": "por",
+     "start": 83.83,
+     "end": 84.01
+    },
+    {
+     "word": "aqui",
+     "start": 84.01,
+     "end": 84.17
+    },
+    {
+     "word": "não,",
+     "start": 84.17,
+     "end": 84.31
+    },
+    {
+     "word": "mano",
+     "start": 84.39,
+     "end": 84.8
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}

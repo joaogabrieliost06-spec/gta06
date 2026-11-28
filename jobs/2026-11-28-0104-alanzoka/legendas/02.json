@@ -1,0 +1,1245 @@
+{
+ "segments": [
+  {
+   "start": 2.83,
+   "end": 3.47,
+   "text": "Opa",
+   "words": [
+    {
+     "word": "Opa",
+     "start": 2.83,
+     "end": 3.47
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 3.51,
+   "end": 6.81,
+   "text": "Vamos ver, ó",
+   "words": [
+    {
+     "word": "Vamos",
+     "start": 3.51,
+     "end": 6.03
+    },
+    {
+     "word": "ver,",
+     "start": 6.03,
+     "end": 6.71
+    },
+    {
+     "word": "ó",
+     "start": 6.71,
+     "end": 6.81
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.85,
+   "end": 8.31,
+   "text": "O treino dos caras",
+   "words": [
+    {
+     "word": "O",
+     "start": 6.85,
+     "end": 7.59
+    },
+    {
+     "word": "treino",
+     "start": 7.59,
+     "end": 7.75
+    },
+    {
+     "word": "dos",
+     "start": 7.75,
+     "end": 8.13
+    },
+    {
+     "word": "caras",
+     "start": 8.13,
+     "end": 8.31
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 8.35,
+   "end": 8.81,
+   "text": "é upper",
+   "words": [
+    {
+     "word": "é",
+     "start": 8.35,
+     "end": 8.47
+    },
+    {
+     "word": "upper",
+     "start": 8.47,
+     "end": 8.81
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 8.85,
+   "end": 11.09,
+   "text": "Leg day na terça",
+   "words": [
+    {
+     "word": "Leg",
+     "start": 8.85,
+     "end": 9.57
+    },
+    {
+     "word": "day",
+     "start": 9.57,
+     "end": 9.81
+    },
+    {
+     "word": "na",
+     "start": 9.81,
+     "end": 10.53
+    },
+    {
+     "word": "terça",
+     "start": 10.53,
+     "end": 11.09
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 11.13,
+   "end": 12.67,
+   "text": "Na quarta bíceps",
+   "words": [
+    {
+     "word": "Na",
+     "start": 11.13,
+     "end": 11.81
+    },
+    {
+     "word": "quarta",
+     "start": 11.81,
+     "end": 12.17
+    },
+    {
+     "word": "bíceps",
+     "start": 12.17,
+     "end": 12.67
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 12.71,
+   "end": 13.47,
+   "text": "e tríceps",
+   "words": [
+    {
+     "word": "e",
+     "start": 12.71,
+     "end": 12.93
+    },
+    {
+     "word": "tríceps",
+     "start": 12.93,
+     "end": 13.47
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 13.51,
+   "end": 16.09,
+   "text": "Na quinta costas e ombros",
+   "words": [
+    {
+     "word": "Na",
+     "start": 13.51,
+     "end": 13.95
+    },
+    {
+     "word": "quinta",
+     "start": 13.95,
+     "end": 14.95
+    },
+    {
+     "word": "costas",
+     "start": 14.95,
+     "end": 15.55
+    },
+    {
+     "word": "e",
+     "start": 15.55,
+     "end": 15.71
+    },
+    {
+     "word": "ombros",
+     "start": 15.71,
+     "end": 16.09
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 16.13,
+   "end": 17.25,
+   "text": "E na sexta upper",
+   "words": [
+    {
+     "word": "E",
+     "start": 16.13,
+     "end": 16.37
+    },
+    {
+     "word": "na",
+     "start": 16.37,
+     "end": 16.51
+    },
+    {
+     "word": "sexta",
+     "start": 16.51,
+     "end": 17.01
+    },
+    {
+     "word": "upper",
+     "start": 17.01,
+     "end": 17.25
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 17.29,
+   "end": 18.36,
+   "text": "de novo, mano",
+   "words": [
+    {
+     "word": "de",
+     "start": 17.29,
+     "end": 17.47
+    },
+    {
+     "word": "novo,",
+     "start": 17.47,
+     "end": 17.81
+    },
+    {
+     "word": "mano",
+     "start": 17.85,
+     "end": 18.36
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 25.15,
+   "end": 27.44,
+   "text": "Eles fazem 100 burpees, mano",
+   "words": [
+    {
+     "word": "Eles",
+     "start": 25.15,
+     "end": 25.23
+    },
+    {
+     "word": "fazem",
+     "start": 25.23,
+     "end": 25.43
+    },
+    {
+     "word": "100",
+     "start": 25.43,
+     "end": 25.75
+    },
+    {
+     "word": "burpees,",
+     "start": 25.75,
+     "end": 26.85
+    },
+    {
+     "word": "mano",
+     "start": 26.87,
+     "end": 27.44
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.33,
+   "end": 30.94,
+   "text": "Aí no cardio, 50 burpees",
+   "words": [
+    {
+     "word": "Aí",
+     "start": 28.33,
+     "end": 28.75
+    },
+    {
+     "word": "no",
+     "start": 28.75,
+     "end": 28.91
+    },
+    {
+     "word": "cardio,",
+     "start": 28.91,
+     "end": 29.37
+    },
+    {
+     "word": "50",
+     "start": 29.64,
+     "end": 30.16
+    },
+    {
+     "word": "burpees",
+     "start": 30.16,
+     "end": 30.94
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 30.98,
+   "end": 33.72,
+   "text": "50 flexão e 50 burpees",
+   "words": [
+    {
+     "word": "50",
+     "start": 30.98,
+     "end": 31.52
+    },
+    {
+     "word": "flexão",
+     "start": 31.52,
+     "end": 32.44
+    },
+    {
+     "word": "e",
+     "start": 32.44,
+     "end": 32.74
+    },
+    {
+     "word": "50",
+     "start": 32.74,
+     "end": 33.0
+    },
+    {
+     "word": "burpees",
+     "start": 33.0,
+     "end": 33.72
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 33.76,
+   "end": 35.16,
+   "text": "Caralho, 50 flexão",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 33.76,
+     "end": 34.4
+    },
+    {
+     "word": "50",
+     "start": 34.4,
+     "end": 34.64
+    },
+    {
+     "word": "flexão",
+     "start": 34.64,
+     "end": 35.16
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 35.2,
+   "end": 36.67,
+   "text": "do cara de cardio, mano",
+   "words": [
+    {
+     "word": "do",
+     "start": 35.2,
+     "end": 35.36
+    },
+    {
+     "word": "cara",
+     "start": 35.36,
+     "end": 35.58
+    },
+    {
+     "word": "de",
+     "start": 35.58,
+     "end": 35.72
+    },
+    {
+     "word": "cardio,",
+     "start": 35.72,
+     "end": 36.14
+    },
+    {
+     "word": "mano",
+     "start": 36.18,
+     "end": 36.67
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 38.87,
+   "end": 40.68,
+   "text": "Caralho, se você chorar",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 38.87,
+     "end": 39.53
+    },
+    {
+     "word": "se",
+     "start": 39.59,
+     "end": 39.69
+    },
+    {
+     "word": "você",
+     "start": 39.69,
+     "end": 39.99
+    },
+    {
+     "word": "chorar",
+     "start": 39.99,
+     "end": 40.68
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 41.83,
+   "end": 42.759,
+   "text": "você vai fazer 100",
+   "words": [
+    {
+     "word": "você",
+     "start": 41.83,
+     "end": 42.23
+    },
+    {
+     "word": "vai",
+     "start": 42.23,
+     "end": 42.37
+    },
+    {
+     "word": "fazer",
+     "start": 42.37,
+     "end": 42.59
+    },
+    {
+     "word": "100",
+     "start": 42.59,
+     "end": 42.759
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 42.799,
+   "end": 43.8,
+   "text": "burpees, mano",
+   "words": [
+    {
+     "word": "burpees,",
+     "start": 42.799,
+     "end": 43.27
+    },
+    {
+     "word": "mano",
+     "start": 43.41,
+     "end": 43.8
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 47.08,
+   "end": 48.4,
+   "text": "Tomou sua creatina?",
+   "words": [
+    {
+     "word": "Tomou",
+     "start": 47.08,
+     "end": 47.4
+    },
+    {
+     "word": "sua",
+     "start": 47.4,
+     "end": 47.56
+    },
+    {
+     "word": "creatina?",
+     "start": 47.56,
+     "end": 48.4
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 48.44,
+   "end": 48.94,
+   "text": "Ah, dá pra exibir",
+   "words": [
+    {
+     "word": "Ah,",
+     "start": 48.44,
+     "end": 48.6
+    },
+    {
+     "word": "dá",
+     "start": 48.62,
+     "end": 48.67
+    },
+    {
+     "word": "pra",
+     "start": 48.67,
+     "end": 48.78
+    },
+    {
+     "word": "exibir",
+     "start": 48.78,
+     "end": 48.94
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 48.98,
+   "end": 50.79,
+   "text": "o texto aqui, pô",
+   "words": [
+    {
+     "word": "o",
+     "start": 48.98,
+     "end": 49.14
+    },
+    {
+     "word": "texto",
+     "start": 49.14,
+     "end": 49.34
+    },
+    {
+     "word": "aqui,",
+     "start": 49.34,
+     "end": 49.52
+    },
+    {
+     "word": "pô",
+     "start": 49.56,
+     "end": 50.79
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 56.29,
+   "end": 57.09,
+   "text": "Eu vou puxar o treino",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 56.29,
+     "end": 56.41
+    },
+    {
+     "word": "vou",
+     "start": 56.41,
+     "end": 56.53
+    },
+    {
+     "word": "puxar",
+     "start": 56.53,
+     "end": 56.83
+    },
+    {
+     "word": "o",
+     "start": 56.83,
+     "end": 56.93
+    },
+    {
+     "word": "treino",
+     "start": 56.93,
+     "end": 57.09
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 57.13,
+   "end": 58.33,
+   "text": "dos caras essa semana, hein, mano",
+   "words": [
+    {
+     "word": "dos",
+     "start": 57.13,
+     "end": 57.33
+    },
+    {
+     "word": "caras",
+     "start": 57.33,
+     "end": 57.53
+    },
+    {
+     "word": "essa",
+     "start": 57.53,
+     "end": 57.65
+    },
+    {
+     "word": "semana,",
+     "start": 57.65,
+     "end": 58.01
+    },
+    {
+     "word": "hein,",
+     "start": 58.03,
+     "end": 58.15
+    },
+    {
+     "word": "mano",
+     "start": 58.17,
+     "end": 58.33
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 58.37,
+   "end": 59.39,
+   "text": "Cara, quem vai ser",
+   "words": [
+    {
+     "word": "Cara,",
+     "start": 58.37,
+     "end": 58.79
+    },
+    {
+     "word": "quem",
+     "start": 58.87,
+     "end": 59.05
+    },
+    {
+     "word": "vai",
+     "start": 59.05,
+     "end": 59.25
+    },
+    {
+     "word": "ser",
+     "start": 59.25,
+     "end": 59.39
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 59.43,
+   "end": 60.09,
+   "text": "o primeiro?",
+   "words": [
+    {
+     "word": "o",
+     "start": 59.43,
+     "end": 59.55
+    },
+    {
+     "word": "primeiro?",
+     "start": 59.55,
+     "end": 60.09
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 60.13,
+   "end": 61.33,
+   "text": "Mano, já dei dica",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 60.13,
+     "end": 60.75
+    },
+    {
+     "word": "já",
+     "start": 60.81,
+     "end": 60.91
+    },
+    {
+     "word": "dei",
+     "start": 60.91,
+     "end": 61.15
+    },
+    {
+     "word": "dica",
+     "start": 61.15,
+     "end": 61.33
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 61.37,
+   "end": 62.1,
+   "text": "de vídeo aqui, hein",
+   "words": [
+    {
+     "word": "de",
+     "start": 61.37,
+     "end": 61.53
+    },
+    {
+     "word": "vídeo",
+     "start": 61.53,
+     "end": 61.79
+    },
+    {
+     "word": "aqui,",
+     "start": 61.79,
+     "end": 62.01
+    },
+    {
+     "word": "hein",
+     "start": 62.05,
+     "end": 62.1
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 62.13,
+   "end": 63.03,
+   "text": "Você, criador de",
+   "words": [
+    {
+     "word": "Você,",
+     "start": 62.13,
+     "end": 62.47
+    },
+    {
+     "word": "criador",
+     "start": 62.65,
+     "end": 62.93
+    },
+    {
+     "word": "de",
+     "start": 62.93,
+     "end": 63.03
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 63.07,
+   "end": 64.54,
+   "text": "conteúdo maromba",
+   "words": [
+    {
+     "word": "conteúdo",
+     "start": 63.07,
+     "end": 63.45
+    },
+    {
+     "word": "maromba",
+     "start": 63.45,
+     "end": 64.54
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 64.58,
+   "end": 65.97,
+   "text": "É, viu? Faz assim",
+   "words": [
+    {
+     "word": "É,",
+     "start": 64.58,
+     "end": 64.8
+    },
+    {
+     "word": "viu?",
+     "start": 64.94,
+     "end": 65.12
+    },
+    {
+     "word": "Faz",
+     "start": 65.35,
+     "end": 65.75
+    },
+    {
+     "word": "assim",
+     "start": 65.75,
+     "end": 65.97
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 66.01,
+   "end": 67.99,
+   "text": "Fazendo treino dos maromba",
+   "words": [
+    {
+     "word": "Fazendo",
+     "start": 66.01,
+     "end": 66.67
+    },
+    {
+     "word": "treino",
+     "start": 66.67,
+     "end": 67.19
+    },
+    {
+     "word": "dos",
+     "start": 67.19,
+     "end": 67.49
+    },
+    {
+     "word": "maromba",
+     "start": 67.49,
+     "end": 67.99
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 68.03,
+   "end": 68.81,
+   "text": "a semana inteira",
+   "words": [
+    {
+     "word": "a",
+     "start": 68.03,
+     "end": 68.17
+    },
+    {
+     "word": "semana",
+     "start": 68.17,
+     "end": 68.45
+    },
+    {
+     "word": "inteira",
+     "start": 68.45,
+     "end": 68.81
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 68.85,
+   "end": 69.53,
+   "text": "Daí você faz esse",
+   "words": [
+    {
+     "word": "Daí",
+     "start": 68.85,
+     "end": 69.03
+    },
+    {
+     "word": "você",
+     "start": 69.03,
+     "end": 69.11
+    },
+    {
+     "word": "faz",
+     "start": 69.11,
+     "end": 69.35
+    },
+    {
+     "word": "esse",
+     "start": 69.35,
+     "end": 69.53
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 69.57,
+   "end": 71.0,
+   "text": "treininho aqui, tá ligado?",
+   "words": [
+    {
+     "word": "treininho",
+     "start": 69.57,
+     "end": 69.95
+    },
+    {
+     "word": "aqui,",
+     "start": 69.95,
+     "end": 70.27
+    },
+    {
+     "word": "tá",
+     "start": 70.29,
+     "end": 70.43
+    },
+    {
+     "word": "ligado?",
+     "start": 70.43,
+     "end": 71.0
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 71.43,
+   "end": 73.22,
+   "text": "Faz esse treininho aqui, mano",
+   "words": [
+    {
+     "word": "Faz",
+     "start": 71.43,
+     "end": 71.83
+    },
+    {
+     "word": "esse",
+     "start": 71.83,
+     "end": 72.07
+    },
+    {
+     "word": "treininho",
+     "start": 72.07,
+     "end": 72.49
+    },
+    {
+     "word": "aqui,",
+     "start": 72.49,
+     "end": 72.73
+    },
+    {
+     "word": "mano",
+     "start": 72.81,
+     "end": 73.22
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 73.49,
+   "end": 74.63,
+   "text": "Segundinha você faz o superior",
+   "words": [
+    {
+     "word": "Segundinha",
+     "start": 73.49,
+     "end": 73.89
+    },
+    {
+     "word": "você",
+     "start": 73.89,
+     "end": 74.01
+    },
+    {
+     "word": "faz",
+     "start": 74.01,
+     "end": 74.19
+    },
+    {
+     "word": "o",
+     "start": 74.19,
+     "end": 74.27
+    },
+    {
+     "word": "superior",
+     "start": 74.27,
+     "end": 74.63
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 74.67,
+   "end": 75.33,
+   "text": "um aquecimento",
+   "words": [
+    {
+     "word": "um",
+     "start": 74.67,
+     "end": 74.87
+    },
+    {
+     "word": "aquecimento",
+     "start": 74.87,
+     "end": 75.33
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 75.37,
+   "end": 76.65,
+   "text": "dinâmico de 30 minutos",
+   "words": [
+    {
+     "word": "dinâmico",
+     "start": 75.37,
+     "end": 75.87
+    },
+    {
+     "word": "de",
+     "start": 75.87,
+     "end": 75.99
+    },
+    {
+     "word": "30",
+     "start": 75.99,
+     "end": 76.21
+    },
+    {
+     "word": "minutos",
+     "start": 76.21,
+     "end": 76.65
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 76.69,
+   "end": 78.31,
+   "text": "20 rosca direta com barra",
+   "words": [
+    {
+     "word": "20",
+     "start": 76.69,
+     "end": 77.07
+    },
+    {
+     "word": "rosca",
+     "start": 77.07,
+     "end": 77.57
+    },
+    {
+     "word": "direta",
+     "start": 77.57,
+     "end": 77.87
+    },
+    {
+     "word": "com",
+     "start": 77.87,
+     "end": 78.07
+    },
+    {
+     "word": "barra",
+     "start": 78.07,
+     "end": 78.31
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 78.35,
+   "end": 80.05,
+   "text": "20 balanços com kettlebell",
+   "words": [
+    {
+     "word": "20",
+     "start": 78.35,
+     "end": 78.53
+    },
+    {
+     "word": "balanços",
+     "start": 78.53,
+     "end": 78.95
+    },
+    {
+     "word": "com",
+     "start": 78.95,
+     "end": 79.01
+    },
+    {
+     "word": "kettlebell",
+     "start": 79.01,
+     "end": 80.05
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 80.09,
+   "end": 82.03,
+   "text": "10 supino, 20 rosca",
+   "words": [
+    {
+     "word": "10",
+     "start": 80.09,
+     "end": 80.55
+    },
+    {
+     "word": "supino,",
+     "start": 80.55,
+     "end": 81.15
+    },
+    {
+     "word": "20",
+     "start": 81.25,
+     "end": 81.73
+    },
+    {
+     "word": "rosca",
+     "start": 81.73,
+     "end": 82.03
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 82.07,
+   "end": 83.49,
+   "text": "Martelo e 15 rosca",
+   "words": [
+    {
+     "word": "Martelo",
+     "start": 82.07,
+     "end": 82.73
+    },
+    {
+     "word": "e",
+     "start": 82.73,
+     "end": 82.95
+    },
+    {
+     "word": "15",
+     "start": 82.95,
+     "end": 83.19
+    },
+    {
+     "word": "rosca",
+     "start": 83.19,
+     "end": 83.49
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 83.53,
+   "end": 84.21,
+   "text": "de punho, mano",
+   "words": [
+    {
+     "word": "de",
+     "start": 83.53,
+     "end": 83.65
+    },
+    {
+     "word": "punho,",
+     "start": 83.65,
+     "end": 84.01
+    },
+    {
+     "word": "mano",
+     "start": 84.05,
+     "end": 84.21
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 84.25,
+   "end": 85.71,
+   "text": "4 séries, vai doer",
+   "words": [
+    {
+     "word": "4",
+     "start": 84.25,
+     "end": 84.61
+    },
+    {
+     "word": "séries,",
+     "start": 84.61,
+     "end": 85.05
+    },
+    {
+     "word": "vai",
+     "start": 85.15,
+     "end": 85.25
+    },
+    {
+     "word": "doer",
+     "start": 85.25,
+     "end": 85.71
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 85.75,
+   "end": 87.17,
+   "text": "daí cardiozinho 50",
+   "words": [
+    {
+     "word": "daí",
+     "start": 85.75,
+     "end": 86.01
+    },
+    {
+     "word": "cardiozinho",
+     "start": 86.01,
+     "end": 86.59
+    },
+    {
+     "word": "50",
+     "start": 86.59,
+     "end": 87.17
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 87.21,
+   "end": 88.45,
+   "text": "cara, 50 flexão",
+   "words": [
+    {
+     "word": "cara,",
+     "start": 87.21,
+     "end": 87.55
+    },
+    {
+     "word": "50",
+     "start": 87.61,
+     "end": 87.91
+    },
+    {
+     "word": "flexão",
+     "start": 87.91,
+     "end": 88.45
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 88.49,
+   "end": 89.4,
+   "text": "de cardio, mano",
+   "words": [
+    {
+     "word": "de",
+     "start": 88.49,
+     "end": 88.61
+    },
+    {
+     "word": "cardio,",
+     "start": 88.61,
+     "end": 88.93
+    },
+    {
+     "word": "mano",
+     "start": 89.03,
+     "end": 89.4
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
