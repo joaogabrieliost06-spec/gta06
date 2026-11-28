@@ -1,0 +1,967 @@
+{
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 0.95,
+   "text": "A gente tem",
+   "words": [
+    {
+     "word": "A",
+     "start": 0.0,
+     "end": 0.56
+    },
+    {
+     "word": "gente",
+     "start": 0.77,
+     "end": 0.85
+    },
+    {
+     "word": "tem",
+     "start": 0.85,
+     "end": 0.95
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 0.99,
+   "end": 2.28,
+   "text": "uma viagem pro Japão",
+   "words": [
+    {
+     "word": "uma",
+     "start": 0.99,
+     "end": 1.11
+    },
+    {
+     "word": "viagem",
+     "start": 1.11,
+     "end": 1.39
+    },
+    {
+     "word": "pro",
+     "start": 1.39,
+     "end": 1.55
+    },
+    {
+     "word": "Japão",
+     "start": 1.55,
+     "end": 2.28
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 2.76,
+   "end": 3.68,
+   "text": "então não tem muito",
+   "words": [
+    {
+     "word": "então",
+     "start": 2.76,
+     "end": 3.12
+    },
+    {
+     "word": "não",
+     "start": 3.12,
+     "end": 3.34
+    },
+    {
+     "word": "tem",
+     "start": 3.34,
+     "end": 3.46
+    },
+    {
+     "word": "muito",
+     "start": 3.46,
+     "end": 3.68
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 3.72,
+   "end": 4.65,
+   "text": "como",
+   "words": [
+    {
+     "word": "como",
+     "start": 3.72,
+     "end": 4.65
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 4.69,
+   "end": 5.85,
+   "text": "Ih, ih, ih, sobe",
+   "words": [
+    {
+     "word": "Ih,",
+     "start": 4.69,
+     "end": 5.01
+    },
+    {
+     "word": "ih,",
+     "start": 5.01,
+     "end": 5.21
+    },
+    {
+     "word": "ih,",
+     "start": 5.21,
+     "end": 5.35
+    },
+    {
+     "word": "sobe",
+     "start": 5.59,
+     "end": 5.85
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 5.89,
+   "end": 6.49,
+   "text": "sobe",
+   "words": [
+    {
+     "word": "sobe",
+     "start": 5.89,
+     "end": 6.49
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 8.18,
+   "end": 9.55,
+   "text": "nossa que aviãozinho, pai",
+   "words": [
+    {
+     "word": "nossa",
+     "start": 8.18,
+     "end": 8.38
+    },
+    {
+     "word": "que",
+     "start": 8.38,
+     "end": 8.54
+    },
+    {
+     "word": "aviãozinho,",
+     "start": 8.54,
+     "end": 8.96
+    },
+    {
+     "word": "pai",
+     "start": 9.14,
+     "end": 9.55
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 13.13,
+   "end": 13.79,
+   "text": "muita coisa aqui",
+   "words": [
+    {
+     "word": "muita",
+     "start": 13.13,
+     "end": 13.37
+    },
+    {
+     "word": "coisa",
+     "start": 13.37,
+     "end": 13.67
+    },
+    {
+     "word": "aqui",
+     "start": 13.67,
+     "end": 13.79
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 13.83,
+   "end": 14.71,
+   "text": "nesse pântano aqui",
+   "words": [
+    {
+     "word": "nesse",
+     "start": 13.83,
+     "end": 14.07
+    },
+    {
+     "word": "pântano",
+     "start": 14.07,
+     "end": 14.47
+    },
+    {
+     "word": "aqui",
+     "start": 14.47,
+     "end": 14.71
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 14.75,
+   "end": 15.49,
+   "text": "é mais bagulho",
+   "words": [
+    {
+     "word": "é",
+     "start": 14.75,
+     "end": 14.79
+    },
+    {
+     "word": "mais",
+     "start": 14.79,
+     "end": 15.03
+    },
+    {
+     "word": "bagulho",
+     "start": 15.03,
+     "end": 15.49
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 15.53,
+   "end": 16.46,
+   "text": "de jacaré",
+   "words": [
+    {
+     "word": "de",
+     "start": 15.53,
+     "end": 15.65
+    },
+    {
+     "word": "jacaré",
+     "start": 15.65,
+     "end": 16.46
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 20.64,
+   "end": 21.22,
+   "text": "né, eu tenho",
+   "words": [
+    {
+     "word": "né,",
+     "start": 20.64,
+     "end": 20.72
+    },
+    {
+     "word": "eu",
+     "start": 20.96,
+     "end": 21.14
+    },
+    {
+     "word": "tenho",
+     "start": 21.14,
+     "end": 21.22
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 21.26,
+   "end": 21.78,
+   "text": "que ir pro lado",
+   "words": [
+    {
+     "word": "que",
+     "start": 21.26,
+     "end": 21.38
+    },
+    {
+     "word": "ir",
+     "start": 21.38,
+     "end": 21.5
+    },
+    {
+     "word": "pro",
+     "start": 21.5,
+     "end": 21.6
+    },
+    {
+     "word": "lado",
+     "start": 21.6,
+     "end": 21.78
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 21.82,
+   "end": 22.42,
+   "text": "aqui",
+   "words": [
+    {
+     "word": "aqui",
+     "start": 21.82,
+     "end": 22.42
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 25.11,
+   "end": 25.63,
+   "text": "isso aqui foi logo",
+   "words": [
+    {
+     "word": "isso",
+     "start": 25.11,
+     "end": 25.23
+    },
+    {
+     "word": "aqui",
+     "start": 25.23,
+     "end": 25.33
+    },
+    {
+     "word": "foi",
+     "start": 25.33,
+     "end": 25.51
+    },
+    {
+     "word": "logo",
+     "start": 25.51,
+     "end": 25.63
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 25.67,
+   "end": 26.41,
+   "text": "a missão, a primeira",
+   "words": [
+    {
+     "word": "a",
+     "start": 25.67,
+     "end": 25.81
+    },
+    {
+     "word": "missão,",
+     "start": 25.81,
+     "end": 26.07
+    },
+    {
+     "word": "a",
+     "start": 26.11,
+     "end": 26.25
+    },
+    {
+     "word": "primeira",
+     "start": 26.25,
+     "end": 26.41
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 26.45,
+   "end": 27.02,
+   "text": "missão que a gente",
+   "words": [
+    {
+     "word": "missão",
+     "start": 26.45,
+     "end": 26.77
+    },
+    {
+     "word": "que",
+     "start": 26.77,
+     "end": 26.91
+    },
+    {
+     "word": "a",
+     "start": 26.91,
+     "end": 26.97
+    },
+    {
+     "word": "gente",
+     "start": 26.97,
+     "end": 27.02
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 27.03,
+   "end": 28.02,
+   "text": "fez no jogo",
+   "words": [
+    {
+     "word": "fez",
+     "start": 27.03,
+     "end": 27.21
+    },
+    {
+     "word": "no",
+     "start": 27.21,
+     "end": 27.35
+    },
+    {
+     "word": "jogo",
+     "start": 27.35,
+     "end": 28.02
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 30.9,
+   "end": 31.66,
+   "text": "um aviãozinho legal",
+   "words": [
+    {
+     "word": "um",
+     "start": 30.9,
+     "end": 31.04
+    },
+    {
+     "word": "aviãozinho",
+     "start": 31.04,
+     "end": 31.4
+    },
+    {
+     "word": "legal",
+     "start": 31.4,
+     "end": 31.66
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 31.7,
+   "end": 32.52,
+   "text": "isso aqui, hein, mano",
+   "words": [
+    {
+     "word": "isso",
+     "start": 31.7,
+     "end": 31.9
+    },
+    {
+     "word": "aqui,",
+     "start": 31.9,
+     "end": 32.12
+    },
+    {
+     "word": "hein,",
+     "start": 32.26,
+     "end": 32.31
+    },
+    {
+     "word": "mano",
+     "start": 32.31,
+     "end": 32.52
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 32.56,
+   "end": 33.48,
+   "text": "ele dá uma manobrinha",
+   "words": [
+    {
+     "word": "ele",
+     "start": 32.56,
+     "end": 32.88
+    },
+    {
+     "word": "dá",
+     "start": 32.88,
+     "end": 33.0
+    },
+    {
+     "word": "uma",
+     "start": 33.0,
+     "end": 33.16
+    },
+    {
+     "word": "manobrinha",
+     "start": 33.16,
+     "end": 33.48
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 33.52,
+   "end": 34.41,
+   "text": "fácil, né",
+   "words": [
+    {
+     "word": "fácil,",
+     "start": 33.52,
+     "end": 33.98
+    },
+    {
+     "word": "né",
+     "start": 34.1,
+     "end": 34.41
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 36.03,
+   "end": 37.26,
+   "text": "ele não cai tanto",
+   "words": [
+    {
+     "word": "ele",
+     "start": 36.03,
+     "end": 36.21
+    },
+    {
+     "word": "não",
+     "start": 36.21,
+     "end": 36.41
+    },
+    {
+     "word": "cai",
+     "start": 36.41,
+     "end": 36.65
+    },
+    {
+     "word": "tanto",
+     "start": 36.65,
+     "end": 37.26
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 37.46,
+   "end": 38.55,
+   "text": "eita, ruim",
+   "words": [
+    {
+     "word": "eita,",
+     "start": 37.46,
+     "end": 37.76
+    },
+    {
+     "word": "ruim",
+     "start": 38.04,
+     "end": 38.55
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 39.88,
+   "end": 40.69,
+   "text": "mas foi de boa",
+   "words": [
+    {
+     "word": "mas",
+     "start": 39.88,
+     "end": 39.96
+    },
+    {
+     "word": "foi",
+     "start": 39.96,
+     "end": 40.14
+    },
+    {
+     "word": "de",
+     "start": 40.14,
+     "end": 40.22
+    },
+    {
+     "word": "boa",
+     "start": 40.22,
+     "end": 40.69
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 44.36,
+   "end": 45.0,
+   "text": "já fez a missão",
+   "words": [
+    {
+     "word": "já",
+     "start": 44.36,
+     "end": 44.5
+    },
+    {
+     "word": "fez",
+     "start": 44.5,
+     "end": 44.7
+    },
+    {
+     "word": "a",
+     "start": 44.7,
+     "end": 44.78
+    },
+    {
+     "word": "missão",
+     "start": 44.78,
+     "end": 45.0
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 45.04,
+   "end": 46.19,
+   "text": "do psicopata?",
+   "words": [
+    {
+     "word": "do",
+     "start": 45.04,
+     "end": 45.16
+    },
+    {
+     "word": "psicopata?",
+     "start": 45.16,
+     "end": 46.19
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 47.38,
+   "end": 48.46,
+   "text": "Eu acho que eu fiz uma missão",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 47.38,
+     "end": 47.78
+    },
+    {
+     "word": "acho",
+     "start": 47.78,
+     "end": 47.92
+    },
+    {
+     "word": "que",
+     "start": 47.92,
+     "end": 48.0
+    },
+    {
+     "word": "eu",
+     "start": 48.0,
+     "end": 48.06
+    },
+    {
+     "word": "fiz",
+     "start": 48.06,
+     "end": 48.2
+    },
+    {
+     "word": "uma",
+     "start": 48.2,
+     "end": 48.3
+    },
+    {
+     "word": "missão",
+     "start": 48.3,
+     "end": 48.46
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 48.5,
+   "end": 49.44,
+   "text": "de psicopata sim",
+   "words": [
+    {
+     "word": "de",
+     "start": 48.5,
+     "end": 48.62
+    },
+    {
+     "word": "psicopata",
+     "start": 48.62,
+     "end": 49.22
+    },
+    {
+     "word": "sim",
+     "start": 49.22,
+     "end": 49.44
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 49.48,
+   "end": 50.08,
+   "text": "mano",
+   "words": [
+    {
+     "word": "mano",
+     "start": 49.48,
+     "end": 50.08
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 50.83,
+   "end": 51.75,
+   "text": "Isso é uma missão",
+   "words": [
+    {
+     "word": "Isso",
+     "start": 50.83,
+     "end": 51.43
+    },
+    {
+     "word": "é",
+     "start": 51.43,
+     "end": 51.53
+    },
+    {
+     "word": "uma",
+     "start": 51.53,
+     "end": 51.63
+    },
+    {
+     "word": "missão",
+     "start": 51.63,
+     "end": 51.75
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 51.79,
+   "end": 52.43,
+   "text": "de psicopata",
+   "words": [
+    {
+     "word": "de",
+     "start": 51.79,
+     "end": 51.89
+    },
+    {
+     "word": "psicopata",
+     "start": 51.89,
+     "end": 52.43
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 52.47,
+   "end": 53.84,
+   "text": "Caralho, calma. Como",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 52.47,
+     "end": 52.95
+    },
+    {
+     "word": "calma.",
+     "start": 52.97,
+     "end": 53.31
+    },
+    {
+     "word": "Como",
+     "start": 53.31,
+     "end": 53.84
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 55.15,
+   "end": 56.03,
+   "text": "é que eu vou parar meu avião",
+   "words": [
+    {
+     "word": "é",
+     "start": 55.15,
+     "end": 55.23
+    },
+    {
+     "word": "que",
+     "start": 55.23,
+     "end": 55.28
+    },
+    {
+     "word": "eu",
+     "start": 55.28,
+     "end": 55.33
+    },
+    {
+     "word": "vou",
+     "start": 55.33,
+     "end": 55.39
+    },
+    {
+     "word": "parar",
+     "start": 55.39,
+     "end": 55.57
+    },
+    {
+     "word": "meu",
+     "start": 55.57,
+     "end": 55.77
+    },
+    {
+     "word": "avião",
+     "start": 55.77,
+     "end": 56.03
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 56.07,
+   "end": 56.79,
+   "text": "aqui, viado?",
+   "words": [
+    {
+     "word": "aqui,",
+     "start": 56.07,
+     "end": 56.33
+    },
+    {
+     "word": "viado?",
+     "start": 56.41,
+     "end": 56.79
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 56.83,
+   "end": 57.46,
+   "text": "Minha cidade?",
+   "words": [
+    {
+     "word": "Minha",
+     "start": 56.83,
+     "end": 56.97
+    },
+    {
+     "word": "cidade?",
+     "start": 56.97,
+     "end": 57.46
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 57.63,
+   "end": 58.23,
+   "text": "Eu",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 57.63,
+     "end": 58.23
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 77.1,
+   "end": 77.96,
+   "text": "sou doido, exatamente",
+   "words": [
+    {
+     "word": "sou",
+     "start": 77.1,
+     "end": 77.28
+    },
+    {
+     "word": "doido,",
+     "start": 77.28,
+     "end": 77.7
+    },
+    {
+     "word": "exatamente",
+     "start": 77.7,
+     "end": 77.96
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 78.0,
+   "end": 79.49,
+   "text": "isso aqui. O",
+   "words": [
+    {
+     "word": "isso",
+     "start": 78.0,
+     "end": 78.44
+    },
+    {
+     "word": "aqui.",
+     "start": 78.44,
+     "end": 78.74
+    },
+    {
+     "word": "O",
+     "start": 78.74,
+     "end": 79.49
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 80.02,
+   "end": 80.88,
+   "text": "cara saiu correndo",
+   "words": [
+    {
+     "word": "cara",
+     "start": 80.02,
+     "end": 80.18
+    },
+    {
+     "word": "saiu",
+     "start": 80.18,
+     "end": 80.46
+    },
+    {
+     "word": "correndo",
+     "start": 80.46,
+     "end": 80.88
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 80.92,
+   "end": 81.71,
+   "text": "ela foi",
+   "words": [
+    {
+     "word": "ela",
+     "start": 80.92,
+     "end": 81.12
+    },
+    {
+     "word": "foi",
+     "start": 81.12,
+     "end": 81.71
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
