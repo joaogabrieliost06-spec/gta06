@@ -1,0 +1,1317 @@
+{
+ "segments": [
+  {
+   "start": 0.52,
+   "end": 1.25,
+   "text": "Beleza",
+   "words": [
+    {
+     "word": "Beleza",
+     "start": 0.52,
+     "end": 1.25
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 2.21,
+   "end": 2.83,
+   "text": "tá no mesmo lugar",
+   "words": [
+    {
+     "word": "tá",
+     "start": 2.21,
+     "end": 2.33
+    },
+    {
+     "word": "no",
+     "start": 2.33,
+     "end": 2.47
+    },
+    {
+     "word": "mesmo",
+     "start": 2.47,
+     "end": 2.63
+    },
+    {
+     "word": "lugar",
+     "start": 2.63,
+     "end": 2.83
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 2.87,
+   "end": 3.39,
+   "text": "que tava, então",
+   "words": [
+    {
+     "word": "que",
+     "start": 2.87,
+     "end": 3.03
+    },
+    {
+     "word": "tava,",
+     "start": 3.03,
+     "end": 3.17
+    },
+    {
+     "word": "então",
+     "start": 3.19,
+     "end": 3.39
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 3.43,
+   "end": 4.45,
+   "text": "Mano, o que eu",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 3.43,
+     "end": 4.03
+    },
+    {
+     "word": "o",
+     "start": 4.27,
+     "end": 4.35
+    },
+    {
+     "word": "que",
+     "start": 4.35,
+     "end": 4.4
+    },
+    {
+     "word": "eu",
+     "start": 4.4,
+     "end": 4.45
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 4.43,
+   "end": 5.01,
+   "text": "tô tentando entender",
+   "words": [
+    {
+     "word": "tô",
+     "start": 4.43,
+     "end": 4.47
+    },
+    {
+     "word": "tentando",
+     "start": 4.47,
+     "end": 4.75
+    },
+    {
+     "word": "entender",
+     "start": 4.75,
+     "end": 5.01
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 5.05,
+   "end": 6.73,
+   "text": "aqui, é que eu",
+   "words": [
+    {
+     "word": "aqui,",
+     "start": 5.05,
+     "end": 5.41
+    },
+    {
+     "word": "é",
+     "start": 5.41,
+     "end": 6.05
+    },
+    {
+     "word": "que",
+     "start": 6.45,
+     "end": 6.67
+    },
+    {
+     "word": "eu",
+     "start": 6.67,
+     "end": 6.73
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 6.77,
+   "end": 7.65,
+   "text": "ganhei muita, deixa",
+   "words": [
+    {
+     "word": "ganhei",
+     "start": 6.77,
+     "end": 7.07
+    },
+    {
+     "word": "muita,",
+     "start": 7.07,
+     "end": 7.47
+    },
+    {
+     "word": "deixa",
+     "start": 7.59,
+     "end": 7.65
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.69,
+   "end": 8.6,
+   "text": "eu ver se eu fiz. Já que ele",
+   "words": [
+    {
+     "word": "eu",
+     "start": 7.69,
+     "end": 7.73
+    },
+    {
+     "word": "ver",
+     "start": 7.73,
+     "end": 7.83
+    },
+    {
+     "word": "se",
+     "start": 7.83,
+     "end": 7.99
+    },
+    {
+     "word": "eu",
+     "start": 7.99,
+     "end": 8.11
+    },
+    {
+     "word": "fiz.",
+     "start": 8.11,
+     "end": 8.17
+    },
+    {
+     "word": "Já",
+     "start": 8.33,
+     "end": 8.47
+    },
+    {
+     "word": "que",
+     "start": 8.47,
+     "end": 8.55
+    },
+    {
+     "word": "ele",
+     "start": 8.55,
+     "end": 8.6
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 8.63,
+   "end": 9.13,
+   "text": "pegou, ele tava",
+   "words": [
+    {
+     "word": "pegou,",
+     "start": 8.63,
+     "end": 8.97
+    },
+    {
+     "word": "ele",
+     "start": 9.03,
+     "end": 9.08
+    },
+    {
+     "word": "tava",
+     "start": 9.08,
+     "end": 9.13
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 9.17,
+   "end": 10.39,
+   "text": "com a fim de beber, minhas",
+   "words": [
+    {
+     "word": "com",
+     "start": 9.17,
+     "end": 9.31
+    },
+    {
+     "word": "a",
+     "start": 9.31,
+     "end": 9.37
+    },
+    {
+     "word": "fim",
+     "start": 9.37,
+     "end": 9.45
+    },
+    {
+     "word": "de",
+     "start": 9.45,
+     "end": 9.55
+    },
+    {
+     "word": "beber,",
+     "start": 9.55,
+     "end": 9.69
+    },
+    {
+     "word": "minhas",
+     "start": 10.05,
+     "end": 10.39
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.43,
+   "end": 10.91,
+   "text": "barras tão todas",
+   "words": [
+    {
+     "word": "barras",
+     "start": 10.43,
+     "end": 10.65
+    },
+    {
+     "word": "tão",
+     "start": 10.65,
+     "end": 10.73
+    },
+    {
+     "word": "todas",
+     "start": 10.73,
+     "end": 10.91
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.95,
+   "end": 12.04,
+   "text": "zoadas. Nossa",
+   "words": [
+    {
+     "word": "zoadas.",
+     "start": 10.95,
+     "end": 11.33
+    },
+    {
+     "word": "Nossa",
+     "start": 11.33,
+     "end": 12.04
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 15.57,
+   "end": 16.4,
+   "text": "subiu tudo",
+   "words": [
+    {
+     "word": "subiu",
+     "start": 15.57,
+     "end": 15.87
+    },
+    {
+     "word": "tudo",
+     "start": 15.87,
+     "end": 16.4
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 21.37,
+   "end": 22.52,
+   "text": "Agregou um bocado",
+   "words": [
+    {
+     "word": "Agregou",
+     "start": 21.37,
+     "end": 21.69
+    },
+    {
+     "word": "um",
+     "start": 21.69,
+     "end": 21.81
+    },
+    {
+     "word": "bocado",
+     "start": 21.81,
+     "end": 22.52
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 27.76,
+   "end": 29.64,
+   "text": "1.400.000. Ganhei",
+   "words": [
+    {
+     "word": "1.400.000.",
+     "start": 27.76,
+     "end": 28.88
+    },
+    {
+     "word": "Ganhei",
+     "start": 29.06,
+     "end": 29.64
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 29.68,
+   "end": 30.8,
+   "text": "200.000 no banco",
+   "words": [
+    {
+     "word": "200.000",
+     "start": 29.68,
+     "end": 30.24
+    },
+    {
+     "word": "no",
+     "start": 30.24,
+     "end": 30.38
+    },
+    {
+     "word": "banco",
+     "start": 30.38,
+     "end": 30.8
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 30.84,
+   "end": 32.01,
+   "text": "Cara, como é que pode, né?",
+   "words": [
+    {
+     "word": "Cara,",
+     "start": 30.84,
+     "end": 31.3
+    },
+    {
+     "word": "como",
+     "start": 31.38,
+     "end": 31.5
+    },
+    {
+     "word": "é",
+     "start": 31.5,
+     "end": 31.56
+    },
+    {
+     "word": "que",
+     "start": 31.56,
+     "end": 31.64
+    },
+    {
+     "word": "pode,",
+     "start": 31.64,
+     "end": 31.86
+    },
+    {
+     "word": "né?",
+     "start": 31.96,
+     "end": 32.01
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 32.04,
+   "end": 32.78,
+   "text": "Eu joguei tão bem",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 32.04,
+     "end": 32.06
+    },
+    {
+     "word": "joguei",
+     "start": 32.06,
+     "end": 32.38
+    },
+    {
+     "word": "tão",
+     "start": 32.38,
+     "end": 32.5
+    },
+    {
+     "word": "bem",
+     "start": 32.5,
+     "end": 32.78
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 32.82,
+   "end": 34.3,
+   "text": "mano, que eu",
+   "words": [
+    {
+     "word": "mano,",
+     "start": 32.82,
+     "end": 33.0
+    },
+    {
+     "word": "que",
+     "start": 33.0,
+     "end": 33.56
+    },
+    {
+     "word": "eu",
+     "start": 33.74,
+     "end": 34.3
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 34.34,
+   "end": 35.06,
+   "text": "tô tranquilo",
+   "words": [
+    {
+     "word": "tô",
+     "start": 34.34,
+     "end": 34.5
+    },
+    {
+     "word": "tranquilo",
+     "start": 34.5,
+     "end": 35.06
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 35.1,
+   "end": 36.3,
+   "text": "com questão de dinheiro, mano",
+   "words": [
+    {
+     "word": "com",
+     "start": 35.1,
+     "end": 35.26
+    },
+    {
+     "word": "questão",
+     "start": 35.26,
+     "end": 35.58
+    },
+    {
+     "word": "de",
+     "start": 35.58,
+     "end": 35.76
+    },
+    {
+     "word": "dinheiro,",
+     "start": 35.76,
+     "end": 36.06
+    },
+    {
+     "word": "mano",
+     "start": 36.12,
+     "end": 36.3
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 36.34,
+   "end": 37.24,
+   "text": "Sendo bem sincero",
+   "words": [
+    {
+     "word": "Sendo",
+     "start": 36.34,
+     "end": 36.72
+    },
+    {
+     "word": "bem",
+     "start": 36.72,
+     "end": 36.86
+    },
+    {
+     "word": "sincero",
+     "start": 36.86,
+     "end": 37.24
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 37.28,
+   "end": 38.08,
+   "text": "eu tô tranquilaço",
+   "words": [
+    {
+     "word": "eu",
+     "start": 37.28,
+     "end": 37.3
+    },
+    {
+     "word": "tô",
+     "start": 37.3,
+     "end": 37.38
+    },
+    {
+     "word": "tranquilaço",
+     "start": 37.38,
+     "end": 38.08
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 38.12,
+   "end": 39.09,
+   "text": "com questão de dinheiro",
+   "words": [
+    {
+     "word": "com",
+     "start": 38.12,
+     "end": 38.22
+    },
+    {
+     "word": "questão",
+     "start": 38.22,
+     "end": 38.46
+    },
+    {
+     "word": "de",
+     "start": 38.46,
+     "end": 38.6
+    },
+    {
+     "word": "dinheiro",
+     "start": 38.6,
+     "end": 39.09
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 39.88,
+   "end": 40.98,
+   "text": "Coisa boa, mano",
+   "words": [
+    {
+     "word": "Coisa",
+     "start": 39.88,
+     "end": 40.44
+    },
+    {
+     "word": "boa,",
+     "start": 40.44,
+     "end": 40.74
+    },
+    {
+     "word": "mano",
+     "start": 40.86,
+     "end": 40.98
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 41.02,
+   "end": 42.84,
+   "text": "E dominando, mano",
+   "words": [
+    {
+     "word": "E",
+     "start": 41.02,
+     "end": 41.5
+    },
+    {
+     "word": "dominando,",
+     "start": 41.5,
+     "end": 41.98
+    },
+    {
+     "word": "mano",
+     "start": 42.16,
+     "end": 42.84
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 42.88,
+   "end": 43.34,
+   "text": "agora, a",
+   "words": [
+    {
+     "word": "agora,",
+     "start": 42.88,
+     "end": 43.14
+    },
+    {
+     "word": "a",
+     "start": 43.26,
+     "end": 43.34
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 43.38,
+   "end": 44.13,
+   "text": "minha dúvida",
+   "words": [
+    {
+     "word": "minha",
+     "start": 43.38,
+     "end": 43.54
+    },
+    {
+     "word": "dúvida",
+     "start": 43.54,
+     "end": 44.13
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 59.04,
+   "end": 59.88,
+   "text": "Beleza, já entendi",
+   "words": [
+    {
+     "word": "Beleza,",
+     "start": 59.04,
+     "end": 59.36
+    },
+    {
+     "word": "já",
+     "start": 59.38,
+     "end": 59.48
+    },
+    {
+     "word": "entendi",
+     "start": 59.48,
+     "end": 59.88
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 59.92,
+   "end": 61.53,
+   "text": "gente, já entendi. Eu",
+   "words": [
+    {
+     "word": "gente,",
+     "start": 59.92,
+     "end": 60.04
+    },
+    {
+     "word": "já",
+     "start": 60.14,
+     "end": 60.26
+    },
+    {
+     "word": "entendi.",
+     "start": 60.26,
+     "end": 60.66
+    },
+    {
+     "word": "Eu",
+     "start": 60.66,
+     "end": 61.53
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 61.85,
+   "end": 63.35,
+   "text": "já entendi. Mas tem",
+   "words": [
+    {
+     "word": "já",
+     "start": 61.85,
+     "end": 62.13
+    },
+    {
+     "word": "entendi.",
+     "start": 62.13,
+     "end": 62.55
+    },
+    {
+     "word": "Mas",
+     "start": 62.55,
+     "end": 63.07
+    },
+    {
+     "word": "tem",
+     "start": 63.25,
+     "end": 63.35
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 63.39,
+   "end": 63.91,
+   "text": "uma galera que não",
+   "words": [
+    {
+     "word": "uma",
+     "start": 63.39,
+     "end": 63.49
+    },
+    {
+     "word": "galera",
+     "start": 63.49,
+     "end": 63.71
+    },
+    {
+     "word": "que",
+     "start": 63.71,
+     "end": 63.85
+    },
+    {
+     "word": "não",
+     "start": 63.85,
+     "end": 63.91
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 63.95,
+   "end": 64.41,
+   "text": "entendeu ainda",
+   "words": [
+    {
+     "word": "entendeu",
+     "start": 63.95,
+     "end": 64.23
+    },
+    {
+     "word": "ainda",
+     "start": 64.23,
+     "end": 64.41
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 64.45,
+   "end": 65.36,
+   "text": "mas eu entendi",
+   "words": [
+    {
+     "word": "mas",
+     "start": 64.45,
+     "end": 64.63
+    },
+    {
+     "word": "eu",
+     "start": 64.63,
+     "end": 64.73
+    },
+    {
+     "word": "entendi",
+     "start": 64.73,
+     "end": 65.36
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 66.18,
+   "end": 66.81,
+   "text": "Mano, o que eu",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 66.18,
+     "end": 66.5
+    },
+    {
+     "word": "o",
+     "start": 66.58,
+     "end": 66.68
+    },
+    {
+     "word": "que",
+     "start": 66.68,
+     "end": 66.76
+    },
+    {
+     "word": "eu",
+     "start": 66.76,
+     "end": 66.81
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 66.84,
+   "end": 67.4,
+   "text": "não tô entendendo",
+   "words": [
+    {
+     "word": "não",
+     "start": 66.84,
+     "end": 66.92
+    },
+    {
+     "word": "tô",
+     "start": 66.92,
+     "end": 67.02
+    },
+    {
+     "word": "entendendo",
+     "start": 67.02,
+     "end": 67.4
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 67.44,
+   "end": 68.47,
+   "text": "é, eu",
+   "words": [
+    {
+     "word": "é,",
+     "start": 67.44,
+     "end": 67.68
+    },
+    {
+     "word": "eu",
+     "start": 67.68,
+     "end": 68.47
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 70.0,
+   "end": 70.62,
+   "text": "tenho",
+   "words": [
+    {
+     "word": "tenho",
+     "start": 70.0,
+     "end": 70.62
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 70.66,
+   "end": 71.44,
+   "text": "Deixa eu ver só",
+   "words": [
+    {
+     "word": "Deixa",
+     "start": 70.66,
+     "end": 70.96
+    },
+    {
+     "word": "eu",
+     "start": 70.96,
+     "end": 71.08
+    },
+    {
+     "word": "ver",
+     "start": 71.08,
+     "end": 71.28
+    },
+    {
+     "word": "só",
+     "start": 71.28,
+     "end": 71.44
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 71.48,
+   "end": 72.36,
+   "text": "um negócio aqui. Cadê",
+   "words": [
+    {
+     "word": "um",
+     "start": 71.48,
+     "end": 71.56
+    },
+    {
+     "word": "negócio",
+     "start": 71.56,
+     "end": 71.78
+    },
+    {
+     "word": "aqui.",
+     "start": 71.78,
+     "end": 71.98
+    },
+    {
+     "word": "Cadê",
+     "start": 71.98,
+     "end": 72.36
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 72.4,
+   "end": 73.44,
+   "text": "os meus carros, mano?",
+   "words": [
+    {
+     "word": "os",
+     "start": 72.4,
+     "end": 72.52
+    },
+    {
+     "word": "meus",
+     "start": 72.52,
+     "end": 72.74
+    },
+    {
+     "word": "carros,",
+     "start": 72.74,
+     "end": 73.18
+    },
+    {
+     "word": "mano?",
+     "start": 73.24,
+     "end": 73.44
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 73.48,
+   "end": 74.08,
+   "text": "queria muito ver",
+   "words": [
+    {
+     "word": "queria",
+     "start": 73.48,
+     "end": 73.66
+    },
+    {
+     "word": "muito",
+     "start": 73.66,
+     "end": 73.94
+    },
+    {
+     "word": "ver",
+     "start": 73.94,
+     "end": 74.08
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 74.12,
+   "end": 75.57,
+   "text": "meus carros, mano. Ó",
+   "words": [
+    {
+     "word": "meus",
+     "start": 74.12,
+     "end": 74.32
+    },
+    {
+     "word": "carros,",
+     "start": 74.32,
+     "end": 74.7
+    },
+    {
+     "word": "mano.",
+     "start": 74.7,
+     "end": 74.92
+    },
+    {
+     "word": "Ó",
+     "start": 74.92,
+     "end": 75.57
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 80.31,
+   "end": 81.11,
+   "text": "a mensagem do Mati",
+   "words": [
+    {
+     "word": "a",
+     "start": 80.31,
+     "end": 80.39
+    },
+    {
+     "word": "mensagem",
+     "start": 80.39,
+     "end": 80.65
+    },
+    {
+     "word": "do",
+     "start": 80.65,
+     "end": 80.77
+    },
+    {
+     "word": "Mati",
+     "start": 80.77,
+     "end": 81.11
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 81.15,
+   "end": 82.01,
+   "text": "que ele tinha mandado pra mim",
+   "words": [
+    {
+     "word": "que",
+     "start": 81.15,
+     "end": 81.23
+    },
+    {
+     "word": "ele",
+     "start": 81.23,
+     "end": 81.33
+    },
+    {
+     "word": "tinha",
+     "start": 81.33,
+     "end": 81.43
+    },
+    {
+     "word": "mandado",
+     "start": 81.43,
+     "end": 81.73
+    },
+    {
+     "word": "pra",
+     "start": 81.73,
+     "end": 81.87
+    },
+    {
+     "word": "mim",
+     "start": 81.87,
+     "end": 82.01
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 82.05,
+   "end": 82.71,
+   "text": "Tomara que eu não",
+   "words": [
+    {
+     "word": "Tomara",
+     "start": 82.05,
+     "end": 82.47
+    },
+    {
+     "word": "que",
+     "start": 82.47,
+     "end": 82.59
+    },
+    {
+     "word": "eu",
+     "start": 82.59,
+     "end": 82.65
+    },
+    {
+     "word": "não",
+     "start": 82.65,
+     "end": 82.71
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 82.75,
+   "end": 84.15,
+   "text": "trave, mano. Ó",
+   "words": [
+    {
+     "word": "trave,",
+     "start": 82.75,
+     "end": 82.99
+    },
+    {
+     "word": "mano.",
+     "start": 83.05,
+     "end": 83.27
+    },
+    {
+     "word": "Ó",
+     "start": 83.61,
+     "end": 84.15
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 84.19,
+   "end": 85.41,
+   "text": "o superior não é, porque eu já",
+   "words": [
+    {
+     "word": "o",
+     "start": 84.19,
+     "end": 84.35
+    },
+    {
+     "word": "superior",
+     "start": 84.35,
+     "end": 84.77
+    },
+    {
+     "word": "não",
+     "start": 84.77,
+     "end": 84.97
+    },
+    {
+     "word": "é,",
+     "start": 84.97,
+     "end": 85.13
+    },
+    {
+     "word": "porque",
+     "start": 85.15,
+     "end": 85.25
+    },
+    {
+     "word": "eu",
+     "start": 85.25,
+     "end": 85.35
+    },
+    {
+     "word": "já",
+     "start": 85.35,
+     "end": 85.41
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 85.45,
+   "end": 86.05,
+   "text": "fui. O inferior",
+   "words": [
+    {
+     "word": "fui.",
+     "start": 85.45,
+     "end": 85.69
+    },
+    {
+     "word": "O",
+     "start": 85.69,
+     "end": 85.81
+    },
+    {
+     "word": "inferior",
+     "start": 85.81,
+     "end": 86.05
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 86.09,
+   "end": 87.35,
+   "text": "é onde tem os carros, deixa eu ver se",
+   "words": [
+    {
+     "word": "é",
+     "start": 86.09,
+     "end": 86.27
+    },
+    {
+     "word": "onde",
+     "start": 86.27,
+     "end": 86.39
+    },
+    {
+     "word": "tem",
+     "start": 86.39,
+     "end": 86.53
+    },
+    {
+     "word": "os",
+     "start": 86.53,
+     "end": 86.69
+    },
+    {
+     "word": "carros,",
+     "start": 86.69,
+     "end": 86.99
+    },
+    {
+     "word": "deixa",
+     "start": 87.01,
+     "end": 87.13
+    },
+    {
+     "word": "eu",
+     "start": 87.13,
+     "end": 87.21
+    },
+    {
+     "word": "ver",
+     "start": 87.21,
+     "end": 87.29
+    },
+    {
+     "word": "se",
+     "start": 87.29,
+     "end": 87.35
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 87.39,
+   "end": 88.42,
+   "text": "é estacionamento",
+   "words": [
+    {
+     "word": "é",
+     "start": 87.39,
+     "end": 87.45
+    },
+    {
+     "word": "estacionamento",
+     "start": 87.45,
+     "end": 88.42
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
