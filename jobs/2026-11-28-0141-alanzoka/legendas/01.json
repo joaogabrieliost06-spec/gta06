@@ -1,0 +1,145 @@
+{
+ "segments": [
+  {
+   "start": 4.49,
+   "end": 5.36,
+   "text": "Mais",
+   "words": [
+    {
+     "word": "Mais",
+     "start": 4.49,
+     "end": 5.36
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 6.28,
+   "end": 8.03,
+   "text": "uma missão da Lu",
+   "words": [
+    {
+     "word": "uma",
+     "start": 6.28,
+     "end": 6.9
+    },
+    {
+     "word": "missão",
+     "start": 6.9,
+     "end": 7.36
+    },
+    {
+     "word": "da",
+     "start": 7.36,
+     "end": 7.5
+    },
+    {
+     "word": "Lu",
+     "start": 7.5,
+     "end": 8.03
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 16.06,
+   "end": 17.91,
+   "text": "Caralho",
+   "words": [
+    {
+     "word": "Caralho",
+     "start": 16.06,
+     "end": 17.91
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 18.56,
+   "end": 20.55,
+   "text": "nossa, foi muito",
+   "words": [
+    {
+     "word": "nossa,",
+     "start": 18.56,
+     "end": 19.04
+    },
+    {
+     "word": "foi",
+     "start": 19.26,
+     "end": 19.56
+    },
+    {
+     "word": "muito",
+     "start": 19.56,
+     "end": 20.55
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 20.82,
+   "end": 22.15,
+   "text": "mano, que",
+   "words": [
+    {
+     "word": "mano,",
+     "start": 20.82,
+     "end": 21.1
+    },
+    {
+     "word": "que",
+     "start": 21.18,
+     "end": 22.15
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 23.2,
+   "end": 25.87,
+   "text": "loucura, mano",
+   "words": [
+    {
+     "word": "loucura,",
+     "start": 23.2,
+     "end": 25.36
+    },
+    {
+     "word": "mano",
+     "start": 25.5,
+     "end": 25.87
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 27.05,
+   "end": 28.82,
+   "text": "Nossa, foi muito, mano",
+   "words": [
+    {
+     "word": "Nossa,",
+     "start": 27.05,
+     "end": 27.49
+    },
+    {
+     "word": "foi",
+     "start": 27.65,
+     "end": 27.81
+    },
+    {
+     "word": "muito,",
+     "start": 27.81,
+     "end": 28.17
+    },
+    {
+     "word": "mano",
+     "start": 28.39,
+     "end": 28.82
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}

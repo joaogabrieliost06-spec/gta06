@@ -1,0 +1,969 @@
+{
+ "segments": [
+  {
+   "start": 1.29,
+   "end": 2.79,
+   "text": "Bora 90% hoje?",
+   "words": [
+    {
+     "word": "Bora",
+     "start": 1.29,
+     "end": 1.55
+    },
+    {
+     "word": "90%",
+     "start": 1.55,
+     "end": 1.93
+    },
+    {
+     "word": "hoje?",
+     "start": 2.25,
+     "end": 2.79
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 2.83,
+   "end": 3.94,
+   "text": "Cê é louco, bebê",
+   "words": [
+    {
+     "word": "Cê",
+     "start": 2.83,
+     "end": 3.25
+    },
+    {
+     "word": "é",
+     "start": 3.25,
+     "end": 3.33
+    },
+    {
+     "word": "louco,",
+     "start": 3.33,
+     "end": 3.51
+    },
+    {
+     "word": "bebê",
+     "start": 3.55,
+     "end": 3.94
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 5.52,
+   "end": 6.4,
+   "text": "90%, 90%, eu vou",
+   "words": [
+    {
+     "word": "90%,",
+     "start": 5.52,
+     "end": 5.84
+    },
+    {
+     "word": "90%,",
+     "start": 5.84,
+     "end": 6.16
+    },
+    {
+     "word": "eu",
+     "start": 6.16,
+     "end": 6.3
+    },
+    {
+     "word": "vou",
+     "start": 6.3,
+     "end": 6.4
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 6.44,
+   "end": 7.5,
+   "text": "100% pra minha cama",
+   "words": [
+    {
+     "word": "100%",
+     "start": 6.44,
+     "end": 6.6
+    },
+    {
+     "word": "pra",
+     "start": 6.98,
+     "end": 7.1
+    },
+    {
+     "word": "minha",
+     "start": 7.1,
+     "end": 7.26
+    },
+    {
+     "word": "cama",
+     "start": 7.26,
+     "end": 7.5
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 7.54,
+   "end": 10.31,
+   "text": "Mas enfim, chat",
+   "words": [
+    {
+     "word": "Mas",
+     "start": 7.54,
+     "end": 7.82
+    },
+    {
+     "word": "enfim,",
+     "start": 9.09,
+     "end": 9.97
+    },
+    {
+     "word": "chat",
+     "start": 10.05,
+     "end": 10.31
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 10.35,
+   "end": 11.18,
+   "text": "Obrigadão a todo mundo",
+   "words": [
+    {
+     "word": "Obrigadão",
+     "start": 10.35,
+     "end": 10.93
+    },
+    {
+     "word": "a",
+     "start": 10.93,
+     "end": 11.03
+    },
+    {
+     "word": "todo",
+     "start": 11.03,
+     "end": 11.13
+    },
+    {
+     "word": "mundo",
+     "start": 11.13,
+     "end": 11.18
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 11.21,
+   "end": 12.56,
+   "text": "que acompanhou mais uma live",
+   "words": [
+    {
+     "word": "que",
+     "start": 11.21,
+     "end": 11.31
+    },
+    {
+     "word": "acompanhou",
+     "start": 11.31,
+     "end": 11.63
+    },
+    {
+     "word": "mais",
+     "start": 11.63,
+     "end": 11.79
+    },
+    {
+     "word": "uma",
+     "start": 11.79,
+     "end": 11.93
+    },
+    {
+     "word": "live",
+     "start": 11.93,
+     "end": 12.56
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 12.77,
+   "end": 13.39,
+   "text": "Obrigado a todo mundo",
+   "words": [
+    {
+     "word": "Obrigado",
+     "start": 12.77,
+     "end": 13.09
+    },
+    {
+     "word": "a",
+     "start": 13.09,
+     "end": 13.19
+    },
+    {
+     "word": "todo",
+     "start": 13.19,
+     "end": 13.34
+    },
+    {
+     "word": "mundo",
+     "start": 13.34,
+     "end": 13.39
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 13.25,
+   "end": 14.6,
+   "text": "que deu sub, mandou",
+   "words": [
+    {
+     "word": "que",
+     "start": 13.25,
+     "end": 13.31
+    },
+    {
+     "word": "deu",
+     "start": 13.31,
+     "end": 13.41
+    },
+    {
+     "word": "sub,",
+     "start": 13.41,
+     "end": 13.79
+    },
+    {
+     "word": "mandou",
+     "start": 14.03,
+     "end": 14.6
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 14.67,
+   "end": 15.75,
+   "text": "e acompanhou no geral",
+   "words": [
+    {
+     "word": "e",
+     "start": 14.67,
+     "end": 14.89
+    },
+    {
+     "word": "acompanhou",
+     "start": 14.89,
+     "end": 15.25
+    },
+    {
+     "word": "no",
+     "start": 15.25,
+     "end": 15.35
+    },
+    {
+     "word": "geral",
+     "start": 15.35,
+     "end": 15.75
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 15.79,
+   "end": 17.08,
+   "text": "muito obrigado mesmo",
+   "words": [
+    {
+     "word": "muito",
+     "start": 15.79,
+     "end": 16.07
+    },
+    {
+     "word": "obrigado",
+     "start": 16.07,
+     "end": 16.41
+    },
+    {
+     "word": "mesmo",
+     "start": 16.41,
+     "end": 17.08
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 21.63,
+   "end": 22.49,
+   "text": "Segunda tamo aí de novo",
+   "words": [
+    {
+     "word": "Segunda",
+     "start": 21.63,
+     "end": 21.95
+    },
+    {
+     "word": "tamo",
+     "start": 21.95,
+     "end": 22.15
+    },
+    {
+     "word": "aí",
+     "start": 22.15,
+     "end": 22.23
+    },
+    {
+     "word": "de",
+     "start": 22.23,
+     "end": 22.33
+    },
+    {
+     "word": "novo",
+     "start": 22.33,
+     "end": 22.49
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 22.53,
+   "end": 23.53,
+   "text": "Pra quem não é sub",
+   "words": [
+    {
+     "word": "Pra",
+     "start": 22.53,
+     "end": 22.75
+    },
+    {
+     "word": "quem",
+     "start": 22.75,
+     "end": 22.89
+    },
+    {
+     "word": "não",
+     "start": 22.89,
+     "end": 23.01
+    },
+    {
+     "word": "é",
+     "start": 23.01,
+     "end": 23.09
+    },
+    {
+     "word": "sub",
+     "start": 23.09,
+     "end": 23.53
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 23.57,
+   "end": 24.23,
+   "text": "tamo chegando",
+   "words": [
+    {
+     "word": "tamo",
+     "start": 23.57,
+     "end": 23.99
+    },
+    {
+     "word": "chegando",
+     "start": 23.99,
+     "end": 24.23
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 24.27,
+   "end": 24.83,
+   "text": "ao fim do GTA",
+   "words": [
+    {
+     "word": "ao",
+     "start": 24.27,
+     "end": 24.39
+    },
+    {
+     "word": "fim",
+     "start": 24.39,
+     "end": 24.47
+    },
+    {
+     "word": "do",
+     "start": 24.47,
+     "end": 24.57
+    },
+    {
+     "word": "GTA",
+     "start": 24.57,
+     "end": 24.83
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 24.87,
+   "end": 26.03,
+   "text": "Daí o chat sai",
+   "words": [
+    {
+     "word": "Daí",
+     "start": 24.87,
+     "end": 25.31
+    },
+    {
+     "word": "o",
+     "start": 25.31,
+     "end": 25.43
+    },
+    {
+     "word": "chat",
+     "start": 25.43,
+     "end": 25.85
+    },
+    {
+     "word": "sai",
+     "start": 25.85,
+     "end": 26.03
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 26.07,
+   "end": 26.86,
+   "text": "do sub mode",
+   "words": [
+    {
+     "word": "do",
+     "start": 26.07,
+     "end": 26.15
+    },
+    {
+     "word": "sub",
+     "start": 26.15,
+     "end": 26.31
+    },
+    {
+     "word": "mode",
+     "start": 26.31,
+     "end": 26.86
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 27.05,
+   "end": 28.58,
+   "text": "Tamo perto, tamo perto",
+   "words": [
+    {
+     "word": "Tamo",
+     "start": 27.05,
+     "end": 27.37
+    },
+    {
+     "word": "perto,",
+     "start": 27.37,
+     "end": 27.67
+    },
+    {
+     "word": "tamo",
+     "start": 27.77,
+     "end": 28.03
+    },
+    {
+     "word": "perto",
+     "start": 28.03,
+     "end": 28.58
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 28.71,
+   "end": 29.81,
+   "text": "Mas é pra evitar",
+   "words": [
+    {
+     "word": "Mas",
+     "start": 28.71,
+     "end": 29.17
+    },
+    {
+     "word": "é",
+     "start": 29.17,
+     "end": 29.29
+    },
+    {
+     "word": "pra",
+     "start": 29.29,
+     "end": 29.41
+    },
+    {
+     "word": "evitar",
+     "start": 29.41,
+     "end": 29.81
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 29.85,
+   "end": 30.89,
+   "text": "né, spoiler, backseat",
+   "words": [
+    {
+     "word": "né,",
+     "start": 29.85,
+     "end": 29.95
+    },
+    {
+     "word": "spoiler,",
+     "start": 30.13,
+     "end": 30.35
+    },
+    {
+     "word": "backseat",
+     "start": 30.47,
+     "end": 30.89
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 30.93,
+   "end": 31.99,
+   "text": "Ah não, cê viu tal coisa",
+   "words": [
+    {
+     "word": "Ah",
+     "start": 30.93,
+     "end": 31.15
+    },
+    {
+     "word": "não,",
+     "start": 31.15,
+     "end": 31.29
+    },
+    {
+     "word": "cê",
+     "start": 31.37,
+     "end": 31.49
+    },
+    {
+     "word": "viu",
+     "start": 31.49,
+     "end": 31.59
+    },
+    {
+     "word": "tal",
+     "start": 31.59,
+     "end": 31.73
+    },
+    {
+     "word": "coisa",
+     "start": 31.73,
+     "end": 31.99
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 32.03,
+   "end": 32.57,
+   "text": "ah não, vai pegar",
+   "words": [
+    {
+     "word": "ah",
+     "start": 32.03,
+     "end": 32.09
+    },
+    {
+     "word": "não,",
+     "start": 32.09,
+     "end": 32.17
+    },
+    {
+     "word": "vai",
+     "start": 32.27,
+     "end": 32.35
+    },
+    {
+     "word": "pegar",
+     "start": 32.35,
+     "end": 32.57
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 32.61,
+   "end": 33.28,
+   "text": "não sei o quê",
+   "words": [
+    {
+     "word": "não",
+     "start": 32.61,
+     "end": 32.73
+    },
+    {
+     "word": "sei",
+     "start": 32.73,
+     "end": 32.85
+    },
+    {
+     "word": "o",
+     "start": 32.85,
+     "end": 32.95
+    },
+    {
+     "word": "quê",
+     "start": 32.95,
+     "end": 33.28
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 35.35,
+   "end": 36.93,
+   "text": "Não, não quero ver",
+   "words": [
+    {
+     "word": "Não,",
+     "start": 35.35,
+     "end": 35.93
+    },
+    {
+     "word": "não",
+     "start": 36.21,
+     "end": 36.37
+    },
+    {
+     "word": "quero",
+     "start": 36.37,
+     "end": 36.55
+    },
+    {
+     "word": "ver",
+     "start": 36.55,
+     "end": 36.93
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 36.97,
+   "end": 37.78,
+   "text": "não quero saber",
+   "words": [
+    {
+     "word": "não",
+     "start": 36.97,
+     "end": 37.09
+    },
+    {
+     "word": "quero",
+     "start": 37.09,
+     "end": 37.23
+    },
+    {
+     "word": "saber",
+     "start": 37.23,
+     "end": 37.78
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 38.23,
+   "end": 39.21,
+   "text": "Se eu achar, achei",
+   "words": [
+    {
+     "word": "Se",
+     "start": 38.23,
+     "end": 38.55
+    },
+    {
+     "word": "eu",
+     "start": 38.55,
+     "end": 38.67
+    },
+    {
+     "word": "achar,",
+     "start": 38.67,
+     "end": 38.89
+    },
+    {
+     "word": "achei",
+     "start": 38.97,
+     "end": 39.21
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 39.25,
+   "end": 40.01,
+   "text": "se eu não achar, não achei",
+   "words": [
+    {
+     "word": "se",
+     "start": 39.25,
+     "end": 39.35
+    },
+    {
+     "word": "eu",
+     "start": 39.35,
+     "end": 39.41
+    },
+    {
+     "word": "não",
+     "start": 39.41,
+     "end": 39.49
+    },
+    {
+     "word": "achar,",
+     "start": 39.49,
+     "end": 39.69
+    },
+    {
+     "word": "não",
+     "start": 39.71,
+     "end": 39.77
+    },
+    {
+     "word": "achei",
+     "start": 39.77,
+     "end": 40.01
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 40.05,
+   "end": 40.65,
+   "text": "mano",
+   "words": [
+    {
+     "word": "mano",
+     "start": 40.05,
+     "end": 40.65
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 40.96,
+   "end": 41.96,
+   "text": "A única coisa que",
+   "words": [
+    {
+     "word": "A",
+     "start": 40.96,
+     "end": 41.5
+    },
+    {
+     "word": "única",
+     "start": 41.5,
+     "end": 41.64
+    },
+    {
+     "word": "coisa",
+     "start": 41.64,
+     "end": 41.9
+    },
+    {
+     "word": "que",
+     "start": 41.9,
+     "end": 41.96
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 42.0,
+   "end": 42.86,
+   "text": "talvez eu vá atrás aí",
+   "words": [
+    {
+     "word": "talvez",
+     "start": 42.0,
+     "end": 42.16
+    },
+    {
+     "word": "eu",
+     "start": 42.16,
+     "end": 42.3
+    },
+    {
+     "word": "vá",
+     "start": 42.3,
+     "end": 42.42
+    },
+    {
+     "word": "atrás",
+     "start": 42.42,
+     "end": 42.74
+    },
+    {
+     "word": "aí",
+     "start": 42.74,
+     "end": 42.86
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 42.9,
+   "end": 43.62,
+   "text": "seja do baú lá",
+   "words": [
+    {
+     "word": "seja",
+     "start": 42.9,
+     "end": 43.12
+    },
+    {
+     "word": "do",
+     "start": 43.12,
+     "end": 43.24
+    },
+    {
+     "word": "baú",
+     "start": 43.24,
+     "end": 43.54
+    },
+    {
+     "word": "lá",
+     "start": 43.54,
+     "end": 43.62
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 43.66,
+   "end": 45.31,
+   "text": "do lugar lá, né",
+   "words": [
+    {
+     "word": "do",
+     "start": 43.66,
+     "end": 43.9
+    },
+    {
+     "word": "lugar",
+     "start": 43.9,
+     "end": 44.68
+    },
+    {
+     "word": "lá,",
+     "start": 44.68,
+     "end": 44.9
+    },
+    {
+     "word": "né",
+     "start": 44.96,
+     "end": 45.31
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 46.21,
+   "end": 46.77,
+   "text": "Mais ou menos",
+   "words": [
+    {
+     "word": "Mais",
+     "start": 46.21,
+     "end": 46.53
+    },
+    {
+     "word": "ou",
+     "start": 46.53,
+     "end": 46.67
+    },
+    {
+     "word": "menos",
+     "start": 46.67,
+     "end": 46.77
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 46.81,
+   "end": 47.53,
+   "text": "umas 12 horinhas",
+   "words": [
+    {
+     "word": "umas",
+     "start": 46.81,
+     "end": 47.03
+    },
+    {
+     "word": "12",
+     "start": 47.03,
+     "end": 47.33
+    },
+    {
+     "word": "horinhas",
+     "start": 47.33,
+     "end": 47.53
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 47.57,
+   "end": 48.82,
+   "text": "de história pelo que eu vi",
+   "words": [
+    {
+     "word": "de",
+     "start": 47.57,
+     "end": 47.71
+    },
+    {
+     "word": "história",
+     "start": 47.71,
+     "end": 47.97
+    },
+    {
+     "word": "pelo",
+     "start": 47.97,
+     "end": 48.21
+    },
+    {
+     "word": "que",
+     "start": 48.21,
+     "end": 48.31
+    },
+    {
+     "word": "eu",
+     "start": 48.31,
+     "end": 48.41
+    },
+    {
+     "word": "vi",
+     "start": 48.41,
+     "end": 48.82
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
