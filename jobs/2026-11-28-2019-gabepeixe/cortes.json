@@ -1,0 +1,40 @@
+{
+ "formato": "vertical",
+ "layout": "auto",
+ "legenda": false,
+ "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Jason, Lucia, Dodo, helicóptero, chat",
+ "idioma": "pt",
+ "cortes": [
+  {
+   "id": "01",
+   "inicio": "0:00:00",
+   "fim": "0:01:27",
+   "titulo": "MAIS LUGAR PRA CAGAR"
+  },
+  {
+   "id": "02",
+   "inicio": "0:02:50",
+   "fim": "0:03:45",
+   "titulo": "PELO AMOR DE DEUS, VAI CAIR"
+  },
+  {
+   "id": "03",
+   "inicio": "0:08:11",
+   "fim": "0:09:40",
+   "titulo": "EU TÔ LOUCO NESSA PORRA"
+  },
+  {
+   "id": "04",
+   "inicio": "0:14:20",
+   "fim": "0:15:32",
+   "titulo": "EU NÃO ZEREI, TÔ ME DIVERTINDO"
+  },
+  {
+   "id": "05",
+   "inicio": "0:18:13",
+   "fim": "0:19:42",
+   "titulo": "ANDA NO CARRO, LUCIA"
+  }
+ ]
+}
