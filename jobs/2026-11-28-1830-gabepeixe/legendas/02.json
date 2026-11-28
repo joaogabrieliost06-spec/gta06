@@ -80,7 +80,7 @@
   {
    "start": 31.3,
    "end": 31.93,
-   "text": "na mesa, Impossível",
+   "text": "na mesa",
    "words": [
     {
      "word": "na",
@@ -88,13 +88,8 @@
      "end": 31.46
     },
     {
-     "word": "mesa,",
+     "word": "mesa",
      "start": 31.46,
-     "end": 31.533
-    },
-    {
-     "word": "Impossível",
-     "start": 31.533,
      "end": 31.93
     }
    ],
@@ -148,8 +143,8 @@
   },
   {
    "start": 53.36,
-   "end": 53.83,
-   "text": "eu perder de novo, Impossível",
+   "end": 53.82,
+   "text": "eu perder de novo",
    "words": [
     {
      "word": "eu",
@@ -167,14 +162,9 @@
      "end": 53.68
     },
     {
-     "word": "novo,",
+     "word": "novo",
      "start": 53.68,
-     "end": 53.78
-    },
-    {
-     "word": "Impossível",
-     "start": 53.78,
-     "end": 53.83
+     "end": 53.82
     }
    ],
    "pos": 0.46
