@@ -1,0 +1,34 @@
+{
+ "formato": "vertical",
+ "layout": "auto",
+ "legenda": false,
+ "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Jason, Lucia, orca, baby Dodo, cristal, chat",
+ "idioma": "pt",
+ "cortes": [
+  {
+   "id": "01",
+   "inicio": "0:05:10",
+   "fim": "0:06:35",
+   "titulo": "ESSA BALEIA VAI MATAR ESSA MULHER"
+  },
+  {
+   "id": "02",
+   "inicio": "0:09:40",
+   "fim": "0:11:00",
+   "titulo": "QUE PORRA FOI ESSA"
+  },
+  {
+   "id": "03",
+   "inicio": "0:14:25",
+   "fim": "0:15:15",
+   "titulo": "ELA TEVE FILHOS E METEU O PÉ"
+  },
+  {
+   "id": "04",
+   "inicio": "0:18:55",
+   "fim": "0:19:58",
+   "titulo": "EU COMPREI TUDO DELA"
+  }
+ ]
+}
