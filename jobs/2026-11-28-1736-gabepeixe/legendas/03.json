@@ -1,0 +1,343 @@
+{
+ "segments": [
+  {
+   "start": 1.45,
+   "end": 2.63,
+   "text": "Vai não, vai não",
+   "words": [
+    {
+     "word": "Vai",
+     "start": 1.45,
+     "end": 1.69
+    },
+    {
+     "word": "não,",
+     "start": 1.69,
+     "end": 1.85
+    },
+    {
+     "word": "vai",
+     "start": 2.09,
+     "end": 2.47
+    },
+    {
+     "word": "não",
+     "start": 2.47,
+     "end": 2.63
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 2.67,
+   "end": 3.8,
+   "text": "vai",
+   "words": [
+    {
+     "word": "vai",
+     "start": 2.67,
+     "end": 3.8
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 4.34,
+   "end": 4.95,
+   "text": "não",
+   "words": [
+    {
+     "word": "não",
+     "start": 4.34,
+     "end": 4.95
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 5.82,
+   "end": 6.52,
+   "text": "não, vai não, não, matar um cachorro",
+   "words": [
+    {
+     "word": "não,",
+     "start": 5.82,
+     "end": 5.86
+    },
+    {
+     "word": "vai",
+     "start": 5.92,
+     "end": 5.97
+    },
+    {
+     "word": "não,",
+     "start": 5.97,
+     "end": 6.02
+    },
+    {
+     "word": "não,",
+     "start": 6.02,
+     "end": 6.1
+    },
+    {
+     "word": "matar",
+     "start": 6.1,
+     "end": 6.16
+    },
+    {
+     "word": "um",
+     "start": 6.16,
+     "end": 6.24
+    },
+    {
+     "word": "cachorro",
+     "start": 6.24,
+     "end": 6.52
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 6.56,
+   "end": 7.12,
+   "text": "na minha frente",
+   "words": [
+    {
+     "word": "na",
+     "start": 6.56,
+     "end": 6.66
+    },
+    {
+     "word": "minha",
+     "start": 6.66,
+     "end": 6.76
+    },
+    {
+     "word": "frente",
+     "start": 6.76,
+     "end": 7.12
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 7.16,
+   "end": 8.11,
+   "text": "você tá de brincadeira",
+   "words": [
+    {
+     "word": "você",
+     "start": 7.16,
+     "end": 7.2
+    },
+    {
+     "word": "tá",
+     "start": 7.2,
+     "end": 7.26
+    },
+    {
+     "word": "de",
+     "start": 7.26,
+     "end": 7.34
+    },
+    {
+     "word": "brincadeira",
+     "start": 7.34,
+     "end": 8.11
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 57.25,
+   "end": 59.0,
+   "text": "muita vida, viado. Eu",
+   "words": [
+    {
+     "word": "muita",
+     "start": 57.25,
+     "end": 57.49
+    },
+    {
+     "word": "vida,",
+     "start": 57.49,
+     "end": 57.77
+    },
+    {
+     "word": "viado.",
+     "start": 57.91,
+     "end": 58.23
+    },
+    {
+     "word": "Eu",
+     "start": 58.23,
+     "end": 59.0
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 59.51,
+   "end": 60.45,
+   "text": "tava com muita vida",
+   "words": [
+    {
+     "word": "tava",
+     "start": 59.51,
+     "end": 59.71
+    },
+    {
+     "word": "com",
+     "start": 59.71,
+     "end": 59.87
+    },
+    {
+     "word": "muita",
+     "start": 59.87,
+     "end": 60.13
+    },
+    {
+     "word": "vida",
+     "start": 60.13,
+     "end": 60.45
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 60.49,
+   "end": 61.48,
+   "text": "da onde que eu morri?",
+   "words": [
+    {
+     "word": "da",
+     "start": 60.49,
+     "end": 60.57
+    },
+    {
+     "word": "onde",
+     "start": 60.57,
+     "end": 60.71
+    },
+    {
+     "word": "que",
+     "start": 60.71,
+     "end": 60.83
+    },
+    {
+     "word": "eu",
+     "start": 60.83,
+     "end": 60.89
+    },
+    {
+     "word": "morri?",
+     "start": 60.89,
+     "end": 61.48
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 69.69,
+   "end": 70.71,
+   "text": "Viado, tava com, eu",
+   "words": [
+    {
+     "word": "Viado,",
+     "start": 69.69,
+     "end": 70.03
+    },
+    {
+     "word": "tava",
+     "start": 70.19,
+     "end": 70.31
+    },
+    {
+     "word": "com,",
+     "start": 70.31,
+     "end": 70.53
+    },
+    {
+     "word": "eu",
+     "start": 70.65,
+     "end": 70.71
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 70.75,
+   "end": 71.35,
+   "text": "tava tipo assim",
+   "words": [
+    {
+     "word": "tava",
+     "start": 70.75,
+     "end": 70.93
+    },
+    {
+     "word": "tipo",
+     "start": 70.93,
+     "end": 71.07
+    },
+    {
+     "word": "assim",
+     "start": 71.07,
+     "end": 71.35
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 71.39,
+   "end": 72.05,
+   "text": "com uma barra dessa",
+   "words": [
+    {
+     "word": "com",
+     "start": 71.39,
+     "end": 71.45
+    },
+    {
+     "word": "uma",
+     "start": 71.45,
+     "end": 71.61
+    },
+    {
+     "word": "barra",
+     "start": 71.61,
+     "end": 71.85
+    },
+    {
+     "word": "dessa",
+     "start": 71.85,
+     "end": 72.05
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 72.09,
+   "end": 73.24,
+   "text": "de vida, viado",
+   "words": [
+    {
+     "word": "de",
+     "start": 72.09,
+     "end": 72.31
+    },
+    {
+     "word": "vida,",
+     "start": 72.31,
+     "end": 72.55
+    },
+    {
+     "word": "viado",
+     "start": 72.67,
+     "end": 73.24
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}

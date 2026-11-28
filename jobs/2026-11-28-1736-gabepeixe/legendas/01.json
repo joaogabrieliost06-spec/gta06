@@ -1,0 +1,234 @@
+{
+ "segments": [
+  {
+   "start": 25.18,
+   "end": 25.72,
+   "text": "acho que o jogo",
+   "words": [
+    {
+     "word": "acho",
+     "start": 25.18,
+     "end": 25.24
+    },
+    {
+     "word": "que",
+     "start": 25.24,
+     "end": 25.4
+    },
+    {
+     "word": "o",
+     "start": 25.4,
+     "end": 25.54
+    },
+    {
+     "word": "jogo",
+     "start": 25.54,
+     "end": 25.72
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 25.76,
+   "end": 26.22,
+   "text": "já te dá esse",
+   "words": [
+    {
+     "word": "já",
+     "start": 25.76,
+     "end": 25.9
+    },
+    {
+     "word": "te",
+     "start": 25.9,
+     "end": 26.0
+    },
+    {
+     "word": "dá",
+     "start": 26.0,
+     "end": 26.12
+    },
+    {
+     "word": "esse",
+     "start": 26.12,
+     "end": 26.22
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 26.26,
+   "end": 27.0,
+   "text": "cachorro aqui pra tu",
+   "words": [
+    {
+     "word": "cachorro",
+     "start": 26.26,
+     "end": 26.72
+    },
+    {
+     "word": "aqui",
+     "start": 26.72,
+     "end": 26.84
+    },
+    {
+     "word": "pra",
+     "start": 26.84,
+     "end": 26.94
+    },
+    {
+     "word": "tu",
+     "start": 26.94,
+     "end": 27.0
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 27.04,
+   "end": 27.96,
+   "text": "ficar fazendo carinho nele",
+   "words": [
+    {
+     "word": "ficar",
+     "start": 27.04,
+     "end": 27.18
+    },
+    {
+     "word": "fazendo",
+     "start": 27.18,
+     "end": 27.46
+    },
+    {
+     "word": "carinho",
+     "start": 27.46,
+     "end": 27.82
+    },
+    {
+     "word": "nele",
+     "start": 27.82,
+     "end": 27.96
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.0,
+   "end": 29.26,
+   "text": "ganhando perfil",
+   "words": [
+    {
+     "word": "ganhando",
+     "start": 28.0,
+     "end": 28.36
+    },
+    {
+     "word": "perfil",
+     "start": 28.36,
+     "end": 29.26
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 29.3,
+   "end": 29.8,
+   "text": "baixo",
+   "words": [
+    {
+     "word": "baixo",
+     "start": 29.3,
+     "end": 29.8
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 29.84,
+   "end": 30.38,
+   "text": "Não tem condição",
+   "words": [
+    {
+     "word": "Não",
+     "start": 29.84,
+     "end": 29.96
+    },
+    {
+     "word": "tem",
+     "start": 29.96,
+     "end": 30.08
+    },
+    {
+     "word": "condição",
+     "start": 30.08,
+     "end": 30.38
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 30.42,
+   "end": 31.39,
+   "text": "não",
+   "words": [
+    {
+     "word": "não",
+     "start": 30.42,
+     "end": 31.39
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 31.55,
+   "end": 33.22,
+   "text": "É imoral, velho",
+   "words": [
+    {
+     "word": "É",
+     "start": 31.55,
+     "end": 31.91
+    },
+    {
+     "word": "imoral,",
+     "start": 31.91,
+     "end": 32.55
+    },
+    {
+     "word": "velho",
+     "start": 32.69,
+     "end": 33.22
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 33.35,
+   "end": 34.66,
+   "text": "Eu posso fazer cachorro",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 33.35,
+     "end": 33.37
+    },
+    {
+     "word": "posso",
+     "start": 33.37,
+     "end": 33.57
+    },
+    {
+     "word": "fazer",
+     "start": 33.57,
+     "end": 33.81
+    },
+    {
+     "word": "cachorro",
+     "start": 33.81,
+     "end": 34.66
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
