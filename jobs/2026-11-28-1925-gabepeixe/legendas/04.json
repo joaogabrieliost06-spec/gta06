@@ -1,0 +1,367 @@
+{
+ "segments": [
+  {
+   "start": 6.48,
+   "end": 7.62,
+   "text": "Calma, eu ganhei tag",
+   "words": [
+    {
+     "word": "Calma,",
+     "start": 6.48,
+     "end": 6.96
+    },
+    {
+     "word": "eu",
+     "start": 7.06,
+     "end": 7.16
+    },
+    {
+     "word": "ganhei",
+     "start": 7.16,
+     "end": 7.42
+    },
+    {
+     "word": "tag",
+     "start": 7.42,
+     "end": 7.62
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.66,
+   "end": 9.37,
+   "text": "de psicopata?",
+   "words": [
+    {
+     "word": "de",
+     "start": 7.66,
+     "end": 7.92
+    },
+    {
+     "word": "psicopata?",
+     "start": 7.92,
+     "end": 9.37
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 9.57,
+   "end": 10.83,
+   "text": "Por cair na porrada",
+   "words": [
+    {
+     "word": "Por",
+     "start": 9.57,
+     "end": 9.99
+    },
+    {
+     "word": "cair",
+     "start": 9.99,
+     "end": 10.21
+    },
+    {
+     "word": "na",
+     "start": 10.21,
+     "end": 10.37
+    },
+    {
+     "word": "porrada",
+     "start": 10.37,
+     "end": 10.83
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.87,
+   "end": 11.89,
+   "text": "no cara?",
+   "words": [
+    {
+     "word": "no",
+     "start": 10.87,
+     "end": 11.07
+    },
+    {
+     "word": "cara?",
+     "start": 11.59,
+     "end": 11.89
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 13.88,
+   "end": 15.39,
+   "text": "Ele era um segurança",
+   "words": [
+    {
+     "word": "Ele",
+     "start": 13.88,
+     "end": 14.3
+    },
+    {
+     "word": "era",
+     "start": 14.3,
+     "end": 14.42
+    },
+    {
+     "word": "um",
+     "start": 14.42,
+     "end": 14.58
+    },
+    {
+     "word": "segurança",
+     "start": 14.58,
+     "end": 15.39
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 73.57,
+   "end": 74.03,
+   "text": "achei que ia",
+   "words": [
+    {
+     "word": "achei",
+     "start": 73.57,
+     "end": 73.87
+    },
+    {
+     "word": "que",
+     "start": 73.87,
+     "end": 73.97
+    },
+    {
+     "word": "ia",
+     "start": 73.97,
+     "end": 74.03
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 74.07,
+   "end": 74.91,
+   "text": "cancelar a missão",
+   "words": [
+    {
+     "word": "cancelar",
+     "start": 74.07,
+     "end": 74.43
+    },
+    {
+     "word": "a",
+     "start": 74.43,
+     "end": 74.49
+    },
+    {
+     "word": "missão",
+     "start": 74.49,
+     "end": 74.91
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 74.95,
+   "end": 77.6,
+   "text": "Eu fui, tipo",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 74.95,
+     "end": 75.01
+    },
+    {
+     "word": "fui,",
+     "start": 75.01,
+     "end": 76.71
+    },
+    {
+     "word": "tipo",
+     "start": 76.92,
+     "end": 77.6
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 77.64,
+   "end": 78.77,
+   "text": "Apareceu bater",
+   "words": [
+    {
+     "word": "Apareceu",
+     "start": 77.64,
+     "end": 78.12
+    },
+    {
+     "word": "bater",
+     "start": 78.12,
+     "end": 78.77
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 79.25,
+   "end": 79.94,
+   "text": "Bater pra mim, eu",
+   "words": [
+    {
+     "word": "Bater",
+     "start": 79.25,
+     "end": 79.51
+    },
+    {
+     "word": "pra",
+     "start": 79.51,
+     "end": 79.67
+    },
+    {
+     "word": "mim,",
+     "start": 79.67,
+     "end": 79.81
+    },
+    {
+     "word": "eu",
+     "start": 79.89,
+     "end": 79.94
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 79.93,
+   "end": 80.53,
+   "text": "achei que ia bater",
+   "words": [
+    {
+     "word": "achei",
+     "start": 79.93,
+     "end": 80.05
+    },
+    {
+     "word": "que",
+     "start": 80.05,
+     "end": 80.17
+    },
+    {
+     "word": "ia",
+     "start": 80.17,
+     "end": 80.27
+    },
+    {
+     "word": "bater",
+     "start": 80.27,
+     "end": 80.53
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 80.57,
+   "end": 81.35,
+   "text": "a bola no chão",
+   "words": [
+    {
+     "word": "a",
+     "start": 80.57,
+     "end": 80.67
+    },
+    {
+     "word": "bola",
+     "start": 80.67,
+     "end": 80.81
+    },
+    {
+     "word": "no",
+     "start": 80.81,
+     "end": 80.95
+    },
+    {
+     "word": "chão",
+     "start": 80.95,
+     "end": 81.35
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 81.39,
+   "end": 82.06,
+   "text": "tá ligado?",
+   "words": [
+    {
+     "word": "tá",
+     "start": 81.39,
+     "end": 81.49
+    },
+    {
+     "word": "ligado?",
+     "start": 81.49,
+     "end": 82.06
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 82.75,
+   "end": 83.71,
+   "text": "Tipo, literalmente",
+   "words": [
+    {
+     "word": "Tipo,",
+     "start": 82.75,
+     "end": 83.17
+    },
+    {
+     "word": "literalmente",
+     "start": 83.17,
+     "end": 83.71
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 83.75,
+   "end": 84.69,
+   "text": "era bater acertando",
+   "words": [
+    {
+     "word": "era",
+     "start": 83.75,
+     "end": 83.81
+    },
+    {
+     "word": "bater",
+     "start": 83.81,
+     "end": 84.27
+    },
+    {
+     "word": "acertando",
+     "start": 84.27,
+     "end": 84.69
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 84.73,
+   "end": 85.33,
+   "text": "alguém",
+   "words": [
+    {
+     "word": "alguém",
+     "start": 84.73,
+     "end": 85.33
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
