@@ -1,0 +1,783 @@
+{
+ "segments": [
+  {
+   "start": 1.01,
+   "end": 4.51,
+   "text": "Tatuagem não acho",
+   "words": [
+    {
+     "word": "Tatuagem",
+     "start": 1.01,
+     "end": 4.23
+    },
+    {
+     "word": "não",
+     "start": 4.23,
+     "end": 4.37
+    },
+    {
+     "word": "acho",
+     "start": 4.37,
+     "end": 4.51
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 4.55,
+   "end": 5.11,
+   "text": "que eu vou lançar",
+   "words": [
+    {
+     "word": "que",
+     "start": 4.55,
+     "end": 4.63
+    },
+    {
+     "word": "eu",
+     "start": 4.63,
+     "end": 4.71
+    },
+    {
+     "word": "vou",
+     "start": 4.71,
+     "end": 4.77
+    },
+    {
+     "word": "lançar",
+     "start": 4.77,
+     "end": 5.11
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 5.15,
+   "end": 6.41,
+   "text": "não, pô, não gosto",
+   "words": [
+    {
+     "word": "não,",
+     "start": 5.15,
+     "end": 5.37
+    },
+    {
+     "word": "pô,",
+     "start": 5.45,
+     "end": 5.57
+    },
+    {
+     "word": "não",
+     "start": 5.59,
+     "end": 5.79
+    },
+    {
+     "word": "gosto",
+     "start": 5.79,
+     "end": 6.41
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 6.45,
+   "end": 7.56,
+   "text": "de tatuagem, velho",
+   "words": [
+    {
+     "word": "de",
+     "start": 6.45,
+     "end": 6.65
+    },
+    {
+     "word": "tatuagem,",
+     "start": 6.65,
+     "end": 7.03
+    },
+    {
+     "word": "velho",
+     "start": 7.11,
+     "end": 7.56
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 14.29,
+   "end": 14.91,
+   "text": "Nossa, mas esse",
+   "words": [
+    {
+     "word": "Nossa,",
+     "start": 14.29,
+     "end": 14.69
+    },
+    {
+     "word": "mas",
+     "start": 14.79,
+     "end": 14.84
+    },
+    {
+     "word": "esse",
+     "start": 14.84,
+     "end": 14.91
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 14.95,
+   "end": 15.75,
+   "text": "lugarzinho aqui tá",
+   "words": [
+    {
+     "word": "lugarzinho",
+     "start": 14.95,
+     "end": 15.43
+    },
+    {
+     "word": "aqui",
+     "start": 15.43,
+     "end": 15.63
+    },
+    {
+     "word": "tá",
+     "start": 15.63,
+     "end": 15.75
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 15.79,
+   "end": 18.14,
+   "text": "meio, né, sus, mano",
+   "words": [
+    {
+     "word": "meio,",
+     "start": 15.79,
+     "end": 16.01
+    },
+    {
+     "word": "né,",
+     "start": 16.07,
+     "end": 16.21
+    },
+    {
+     "word": "sus,",
+     "start": 17.54,
+     "end": 17.9
+    },
+    {
+     "word": "mano",
+     "start": 18.02,
+     "end": 18.14
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 18.18,
+   "end": 19.16,
+   "text": "mas às vezes nos piores",
+   "words": [
+    {
+     "word": "mas",
+     "start": 18.18,
+     "end": 18.26
+    },
+    {
+     "word": "às",
+     "start": 18.26,
+     "end": 18.46
+    },
+    {
+     "word": "vezes",
+     "start": 18.46,
+     "end": 18.6
+    },
+    {
+     "word": "nos",
+     "start": 18.6,
+     "end": 18.8
+    },
+    {
+     "word": "piores",
+     "start": 18.8,
+     "end": 19.16
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 19.2,
+   "end": 20.0,
+   "text": "maquiagens a gente",
+   "words": [
+    {
+     "word": "maquiagens",
+     "start": 19.2,
+     "end": 19.74
+    },
+    {
+     "word": "a",
+     "start": 19.74,
+     "end": 19.94
+    },
+    {
+     "word": "gente",
+     "start": 19.94,
+     "end": 20.0
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 20.04,
+   "end": 20.56,
+   "text": "acha os melhores",
+   "words": [
+    {
+     "word": "acha",
+     "start": 20.04,
+     "end": 20.26
+    },
+    {
+     "word": "os",
+     "start": 20.26,
+     "end": 20.38
+    },
+    {
+     "word": "melhores",
+     "start": 20.38,
+     "end": 20.56
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 20.6,
+   "end": 21.67,
+   "text": "perfumes, mano",
+   "words": [
+    {
+     "word": "perfumes,",
+     "start": 20.6,
+     "end": 21.16
+    },
+    {
+     "word": "mano",
+     "start": 21.2,
+     "end": 21.67
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 27.81,
+   "end": 28.5,
+   "text": "Olha aqui, tem",
+   "words": [
+    {
+     "word": "Olha",
+     "start": 27.81,
+     "end": 28.21
+    },
+    {
+     "word": "aqui,",
+     "start": 28.21,
+     "end": 28.37
+    },
+    {
+     "word": "tem",
+     "start": 28.45,
+     "end": 28.5
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.51,
+   "end": 29.33,
+   "text": "uns cabelos diferentes",
+   "words": [
+    {
+     "word": "uns",
+     "start": 28.51,
+     "end": 28.61
+    },
+    {
+     "word": "cabelos",
+     "start": 28.61,
+     "end": 28.91
+    },
+    {
+     "word": "diferentes",
+     "start": 28.91,
+     "end": 29.33
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 29.37,
+   "end": 30.72,
+   "text": "nossa, gostei desse",
+   "words": [
+    {
+     "word": "nossa,",
+     "start": 29.37,
+     "end": 29.63
+    },
+    {
+     "word": "gostei",
+     "start": 29.71,
+     "end": 30.03
+    },
+    {
+     "word": "desse",
+     "start": 30.03,
+     "end": 30.72
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 32.29,
+   "end": 33.7,
+   "text": "Gostei desse também",
+   "words": [
+    {
+     "word": "Gostei",
+     "start": 32.29,
+     "end": 32.69
+    },
+    {
+     "word": "desse",
+     "start": 32.69,
+     "end": 32.95
+    },
+    {
+     "word": "também",
+     "start": 32.95,
+     "end": 33.7
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 36.86,
+   "end": 37.84,
+   "text": "Nossa, gostei desse",
+   "words": [
+    {
+     "word": "Nossa,",
+     "start": 36.86,
+     "end": 37.26
+    },
+    {
+     "word": "gostei",
+     "start": 37.26,
+     "end": 37.66
+    },
+    {
+     "word": "desse",
+     "start": 37.66,
+     "end": 37.84
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 37.88,
+   "end": 38.61,
+   "text": "também",
+   "words": [
+    {
+     "word": "também",
+     "start": 37.88,
+     "end": 38.61
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 40.34,
+   "end": 40.99,
+   "text": "Nossa",
+   "words": [
+    {
+     "word": "Nossa",
+     "start": 40.34,
+     "end": 40.99
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 41.7,
+   "end": 43.98,
+   "text": "Mas calma, essa",
+   "words": [
+    {
+     "word": "Mas",
+     "start": 41.7,
+     "end": 42.18
+    },
+    {
+     "word": "calma,",
+     "start": 43.61,
+     "end": 43.87
+    },
+    {
+     "word": "essa",
+     "start": 43.93,
+     "end": 43.98
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 44.01,
+   "end": 44.85,
+   "text": "maquiagem tá horrorosa",
+   "words": [
+    {
+     "word": "maquiagem",
+     "start": 44.01,
+     "end": 44.33
+    },
+    {
+     "word": "tá",
+     "start": 44.33,
+     "end": 44.43
+    },
+    {
+     "word": "horrorosa",
+     "start": 44.43,
+     "end": 44.85
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 44.89,
+   "end": 45.45,
+   "text": "Deixa eu arrumar",
+   "words": [
+    {
+     "word": "Deixa",
+     "start": 44.89,
+     "end": 45.11
+    },
+    {
+     "word": "eu",
+     "start": 45.11,
+     "end": 45.25
+    },
+    {
+     "word": "arrumar",
+     "start": 45.25,
+     "end": 45.45
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 45.49,
+   "end": 46.39,
+   "text": "a maquiagem primeiro, mano",
+   "words": [
+    {
+     "word": "a",
+     "start": 45.49,
+     "end": 45.59
+    },
+    {
+     "word": "maquiagem",
+     "start": 45.59,
+     "end": 45.89
+    },
+    {
+     "word": "primeiro,",
+     "start": 45.89,
+     "end": 46.23
+    },
+    {
+     "word": "mano",
+     "start": 46.23,
+     "end": 46.39
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 46.43,
+   "end": 47.01,
+   "text": "Porque essa maquiagem",
+   "words": [
+    {
+     "word": "Porque",
+     "start": 46.43,
+     "end": 46.59
+    },
+    {
+     "word": "essa",
+     "start": 46.59,
+     "end": 46.73
+    },
+    {
+     "word": "maquiagem",
+     "start": 46.73,
+     "end": 47.01
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 47.05,
+   "end": 48.1,
+   "text": "tá estragando tudo",
+   "words": [
+    {
+     "word": "tá",
+     "start": 47.05,
+     "end": 47.13
+    },
+    {
+     "word": "estragando",
+     "start": 47.13,
+     "end": 47.55
+    },
+    {
+     "word": "tudo",
+     "start": 47.55,
+     "end": 48.1
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 53.45,
+   "end": 54.8,
+   "text": "Vou um natural sutil",
+   "words": [
+    {
+     "word": "Vou",
+     "start": 53.45,
+     "end": 53.57
+    },
+    {
+     "word": "um",
+     "start": 53.57,
+     "end": 53.69
+    },
+    {
+     "word": "natural",
+     "start": 53.69,
+     "end": 53.91
+    },
+    {
+     "word": "sutil",
+     "start": 53.91,
+     "end": 54.8
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 58.73,
+   "end": 60.18,
+   "text": "né? Cara",
+   "words": [
+    {
+     "word": "né?",
+     "start": 58.73,
+     "end": 59.29
+    },
+    {
+     "word": "Cara",
+     "start": 59.29,
+     "end": 60.18
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 65.77,
+   "end": 66.37,
+   "text": "Aqui não tem o cabelo",
+   "words": [
+    {
+     "word": "Aqui",
+     "start": 65.77,
+     "end": 65.85
+    },
+    {
+     "word": "não",
+     "start": 65.85,
+     "end": 65.95
+    },
+    {
+     "word": "tem",
+     "start": 65.95,
+     "end": 66.07
+    },
+    {
+     "word": "o",
+     "start": 66.07,
+     "end": 66.15
+    },
+    {
+     "word": "cabelo",
+     "start": 66.15,
+     "end": 66.37
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 66.41,
+   "end": 67.05,
+   "text": "que eu queria, eu queria",
+   "words": [
+    {
+     "word": "que",
+     "start": 66.41,
+     "end": 66.53
+    },
+    {
+     "word": "eu",
+     "start": 66.53,
+     "end": 66.61
+    },
+    {
+     "word": "queria,",
+     "start": 66.61,
+     "end": 66.85
+    },
+    {
+     "word": "eu",
+     "start": 66.91,
+     "end": 66.96
+    },
+    {
+     "word": "queria",
+     "start": 66.96,
+     "end": 67.05
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 67.09,
+   "end": 68.42,
+   "text": "o cabelo rosa, mano",
+   "words": [
+    {
+     "word": "o",
+     "start": 67.09,
+     "end": 67.17
+    },
+    {
+     "word": "cabelo",
+     "start": 67.17,
+     "end": 67.45
+    },
+    {
+     "word": "rosa,",
+     "start": 67.45,
+     "end": 67.89
+    },
+    {
+     "word": "mano",
+     "start": 67.93,
+     "end": 68.42
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 83.62,
+   "end": 84.72,
+   "text": "Gostei desse, mano",
+   "words": [
+    {
+     "word": "Gostei",
+     "start": 83.62,
+     "end": 83.88
+    },
+    {
+     "word": "desse,",
+     "start": 83.88,
+     "end": 84.22
+    },
+    {
+     "word": "mano",
+     "start": 84.22,
+     "end": 84.72
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 84.76,
+   "end": 87.83,
+   "text": "Tá? Não?",
+   "words": [
+    {
+     "word": "Tá?",
+     "start": 84.76,
+     "end": 85.26
+    },
+    {
+     "word": "Não?",
+     "start": 87.14,
+     "end": 87.83
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 87.88,
+   "end": 88.74,
+   "text": "Gostei desse",
+   "words": [
+    {
+     "word": "Gostei",
+     "start": 87.88,
+     "end": 88.36
+    },
+    {
+     "word": "desse",
+     "start": 88.36,
+     "end": 88.74
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 88.78,
+   "end": 90.15,
+   "text": "Esse daqui ornou",
+   "words": [
+    {
+     "word": "Esse",
+     "start": 88.78,
+     "end": 89.28
+    },
+    {
+     "word": "daqui",
+     "start": 89.28,
+     "end": 89.48
+    },
+    {
+     "word": "ornou",
+     "start": 89.48,
+     "end": 90.15
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}

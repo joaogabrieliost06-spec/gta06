@@ -1,0 +1,282 @@
+{
+ "segments": [
+  {
+   "start": 6.93,
+   "end": 8.11,
+   "text": "Tears for Fears?",
+   "words": [
+    {
+     "word": "Tears",
+     "start": 6.93,
+     "end": 7.29
+    },
+    {
+     "word": "for",
+     "start": 7.29,
+     "end": 7.53
+    },
+    {
+     "word": "Fears?",
+     "start": 7.53,
+     "end": 8.11
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 8.15,
+   "end": 9.9,
+   "text": "Nossa, sou muito fã, cara",
+   "words": [
+    {
+     "word": "Nossa,",
+     "start": 8.15,
+     "end": 8.43
+    },
+    {
+     "word": "sou",
+     "start": 8.55,
+     "end": 8.65
+    },
+    {
+     "word": "muito",
+     "start": 8.65,
+     "end": 8.91
+    },
+    {
+     "word": "fã,",
+     "start": 8.91,
+     "end": 9.27
+    },
+    {
+     "word": "cara",
+     "start": 9.41,
+     "end": 9.9
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 12.17,
+   "end": 12.93,
+   "text": "Caralho, meu Deus",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 12.17,
+     "end": 12.53
+    },
+    {
+     "word": "meu",
+     "start": 12.59,
+     "end": 12.71
+    },
+    {
+     "word": "Deus",
+     "start": 12.71,
+     "end": 12.93
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 12.97,
+   "end": 13.85,
+   "text": "minha música favorita",
+   "words": [
+    {
+     "word": "minha",
+     "start": 12.97,
+     "end": 13.03
+    },
+    {
+     "word": "música",
+     "start": 13.03,
+     "end": 13.23
+    },
+    {
+     "word": "favorita",
+     "start": 13.23,
+     "end": 13.85
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 13.89,
+   "end": 14.88,
+   "text": "mano, da minha vida",
+   "words": [
+    {
+     "word": "mano,",
+     "start": 13.89,
+     "end": 14.03
+    },
+    {
+     "word": "da",
+     "start": 14.11,
+     "end": 14.21
+    },
+    {
+     "word": "minha",
+     "start": 14.21,
+     "end": 14.33
+    },
+    {
+     "word": "vida",
+     "start": 14.33,
+     "end": 14.88
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 20.03,
+   "end": 21.58,
+   "text": "Cara, até arrepiado, mano",
+   "words": [
+    {
+     "word": "Cara,",
+     "start": 20.03,
+     "end": 20.39
+    },
+    {
+     "word": "até",
+     "start": 20.55,
+     "end": 20.69
+    },
+    {
+     "word": "arrepiado,",
+     "start": 20.69,
+     "end": 21.13
+    },
+    {
+     "word": "mano",
+     "start": 21.25,
+     "end": 21.58
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 33.98,
+   "end": 34.78,
+   "text": "Tá me perseguindo",
+   "words": [
+    {
+     "word": "Tá",
+     "start": 33.98,
+     "end": 34.1
+    },
+    {
+     "word": "me",
+     "start": 34.1,
+     "end": 34.22
+    },
+    {
+     "word": "perseguindo",
+     "start": 34.22,
+     "end": 34.78
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 34.82,
+   "end": 35.93,
+   "text": "esse psicopata?",
+   "words": [
+    {
+     "word": "esse",
+     "start": 34.82,
+     "end": 34.92
+    },
+    {
+     "word": "psicopata?",
+     "start": 34.92,
+     "end": 35.93
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 40.69,
+   "end": 41.79,
+   "text": "Mano, esse um quilômetro aí",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 40.69,
+     "end": 40.99
+    },
+    {
+     "word": "esse",
+     "start": 40.99,
+     "end": 41.05
+    },
+    {
+     "word": "um",
+     "start": 41.05,
+     "end": 41.19
+    },
+    {
+     "word": "quilômetro",
+     "start": 41.19,
+     "end": 41.71
+    },
+    {
+     "word": "aí",
+     "start": 41.71,
+     "end": 41.79
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 41.83,
+   "end": 42.75,
+   "text": "parece muito longe",
+   "words": [
+    {
+     "word": "parece",
+     "start": 41.83,
+     "end": 42.07
+    },
+    {
+     "word": "muito",
+     "start": 42.07,
+     "end": 42.33
+    },
+    {
+     "word": "longe",
+     "start": 42.33,
+     "end": 42.75
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 42.79,
+   "end": 43.62,
+   "text": "do meu gosto",
+   "words": [
+    {
+     "word": "do",
+     "start": 42.79,
+     "end": 42.95
+    },
+    {
+     "word": "meu",
+     "start": 42.95,
+     "end": 43.13
+    },
+    {
+     "word": "gosto",
+     "start": 43.13,
+     "end": 43.62
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}

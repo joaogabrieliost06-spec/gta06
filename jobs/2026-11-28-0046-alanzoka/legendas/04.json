@@ -1,0 +1,111 @@
+{
+ "segments": [
+  {
+   "start": 67.23,
+   "end": 68.74,
+   "text": "Principal",
+   "words": [
+    {
+     "word": "Principal",
+     "start": 67.23,
+     "end": 68.74
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 71.57,
+   "end": 73.48,
+   "text": "É, meu Deus, os caras têm",
+   "words": [
+    {
+     "word": "É,",
+     "start": 71.57,
+     "end": 71.65
+    },
+    {
+     "word": "meu",
+     "start": 71.65,
+     "end": 72.17
+    },
+    {
+     "word": "Deus,",
+     "start": 73.02,
+     "end": 73.1
+    },
+    {
+     "word": "os",
+     "start": 73.24,
+     "end": 73.29
+    },
+    {
+     "word": "caras",
+     "start": 73.29,
+     "end": 73.4
+    },
+    {
+     "word": "têm",
+     "start": 73.4,
+     "end": 73.48
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 73.52,
+   "end": 74.24,
+   "text": "uma academia em todo",
+   "words": [
+    {
+     "word": "uma",
+     "start": 73.52,
+     "end": 73.64
+    },
+    {
+     "word": "academia",
+     "start": 73.64,
+     "end": 73.94
+    },
+    {
+     "word": "em",
+     "start": 73.94,
+     "end": 74.12
+    },
+    {
+     "word": "todo",
+     "start": 74.12,
+     "end": 74.24
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 74.28,
+   "end": 75.53,
+   "text": "lugar do jogo, velho",
+   "words": [
+    {
+     "word": "lugar",
+     "start": 74.28,
+     "end": 74.56
+    },
+    {
+     "word": "do",
+     "start": 74.56,
+     "end": 74.68
+    },
+    {
+     "word": "jogo,",
+     "start": 74.68,
+     "end": 74.94
+    },
+    {
+     "word": "velho",
+     "start": 75.02,
+     "end": 75.53
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
