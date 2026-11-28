@@ -1,0 +1,526 @@
+{
+ "segments": [
+  {
+   "start": 2.28,
+   "end": 2.81,
+   "text": "Ó, aqui é",
+   "words": [
+    {
+     "word": "Ó,",
+     "start": 2.28,
+     "end": 2.5
+    },
+    {
+     "word": "aqui",
+     "start": 2.62,
+     "end": 2.76
+    },
+    {
+     "word": "é",
+     "start": 2.76,
+     "end": 2.81
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 2.84,
+   "end": 3.89,
+   "text": "o nosso quarto",
+   "words": [
+    {
+     "word": "o",
+     "start": 2.84,
+     "end": 2.9
+    },
+    {
+     "word": "nosso",
+     "start": 2.9,
+     "end": 3.06
+    },
+    {
+     "word": "quarto",
+     "start": 3.06,
+     "end": 3.89
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 3.95,
+   "end": 5.13,
+   "text": "a nossa foto sempre",
+   "words": [
+    {
+     "word": "a",
+     "start": 3.95,
+     "end": 4.33
+    },
+    {
+     "word": "nossa",
+     "start": 4.33,
+     "end": 4.55
+    },
+    {
+     "word": "foto",
+     "start": 4.55,
+     "end": 4.87
+    },
+    {
+     "word": "sempre",
+     "start": 4.87,
+     "end": 5.13
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 5.17,
+   "end": 5.7,
+   "text": "vem, o que",
+   "words": [
+    {
+     "word": "vem,",
+     "start": 5.17,
+     "end": 5.49
+    },
+    {
+     "word": "o",
+     "start": 5.59,
+     "end": 5.65
+    },
+    {
+     "word": "que",
+     "start": 5.65,
+     "end": 5.7
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 5.67,
+   "end": 6.38,
+   "text": "que é isso aqui?",
+   "words": [
+    {
+     "word": "que",
+     "start": 5.67,
+     "end": 5.77
+    },
+    {
+     "word": "é",
+     "start": 5.77,
+     "end": 5.85
+    },
+    {
+     "word": "isso",
+     "start": 5.85,
+     "end": 5.97
+    },
+    {
+     "word": "aqui?",
+     "start": 5.97,
+     "end": 6.38
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.87,
+   "end": 7.89,
+   "text": "Chamar meu veículo",
+   "words": [
+    {
+     "word": "Chamar",
+     "start": 6.87,
+     "end": 7.27
+    },
+    {
+     "word": "meu",
+     "start": 7.27,
+     "end": 7.41
+    },
+    {
+     "word": "veículo",
+     "start": 7.41,
+     "end": 7.89
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.93,
+   "end": 8.47,
+   "text": "eu consigo chamar",
+   "words": [
+    {
+     "word": "eu",
+     "start": 7.93,
+     "end": 7.97
+    },
+    {
+     "word": "consigo",
+     "start": 7.97,
+     "end": 8.19
+    },
+    {
+     "word": "chamar",
+     "start": 8.19,
+     "end": 8.47
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 8.51,
+   "end": 10.0,
+   "text": "meu veículo, também",
+   "words": [
+    {
+     "word": "meu",
+     "start": 8.51,
+     "end": 8.65
+    },
+    {
+     "word": "veículo,",
+     "start": 8.65,
+     "end": 9.23
+    },
+    {
+     "word": "também",
+     "start": 9.64,
+     "end": 10.0
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.04,
+   "end": 11.03,
+   "text": "tenho isso",
+   "words": [
+    {
+     "word": "tenho",
+     "start": 10.04,
+     "end": 10.34
+    },
+    {
+     "word": "isso",
+     "start": 10.34,
+     "end": 11.03
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 11.95,
+   "end": 13.19,
+   "text": "nosso closet, não",
+   "words": [
+    {
+     "word": "nosso",
+     "start": 11.95,
+     "end": 12.19
+    },
+    {
+     "word": "closet,",
+     "start": 12.19,
+     "end": 12.73
+    },
+    {
+     "word": "não",
+     "start": 12.97,
+     "end": 13.19
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 13.23,
+   "end": 13.71,
+   "text": "primeiramente",
+   "words": [
+    {
+     "word": "primeiramente",
+     "start": 13.23,
+     "end": 13.71
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 13.75,
+   "end": 14.65,
+   "text": "o banho, né?",
+   "words": [
+    {
+     "word": "o",
+     "start": 13.75,
+     "end": 13.93
+    },
+    {
+     "word": "banho,",
+     "start": 13.93,
+     "end": 14.27
+    },
+    {
+     "word": "né?",
+     "start": 14.35,
+     "end": 14.65
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 15.13,
+   "end": 16.08,
+   "text": "Tem banheiro aqui?",
+   "words": [
+    {
+     "word": "Tem",
+     "start": 15.13,
+     "end": 15.27
+    },
+    {
+     "word": "banheiro",
+     "start": 15.27,
+     "end": 15.63
+    },
+    {
+     "word": "aqui?",
+     "start": 15.63,
+     "end": 16.08
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 18.75,
+   "end": 19.69,
+   "text": "— Cadê⁠ o⁠ nosso⁠ banheiro⁠",
+   "words": [
+    {
+     "word": "— Cadê⁠",
+     "start": 18.75,
+     "end": 19.13
+    },
+    {
+     "word": "o⁠",
+     "start": 19.13,
+     "end": 19.19
+    },
+    {
+     "word": "nosso⁠",
+     "start": 19.19,
+     "end": 19.27
+    },
+    {
+     "word": "banheiro⁠",
+     "start": 19.27,
+     "end": 19.69
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 19.73,
+   "end": 20.33,
+   "text": "Lucia?⁠",
+   "words": [
+    {
+     "word": "Lucia?⁠",
+     "start": 19.73,
+     "end": 20.33
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 23.07,
+   "end": 23.89,
+   "text": "Esse⁠ aqui,⁠ né?⁠",
+   "words": [
+    {
+     "word": "Esse⁠",
+     "start": 23.07,
+     "end": 23.33
+    },
+    {
+     "word": "aqui,⁠",
+     "start": 23.33,
+     "end": 23.59
+    },
+    {
+     "word": "né?⁠",
+     "start": 23.69,
+     "end": 23.89
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 23.93,
+   "end": 24.53,
+   "text": "Não⁠",
+   "words": [
+    {
+     "word": "Não⁠",
+     "start": 23.93,
+     "end": 24.53
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 31.84,
+   "end": 32.78,
+   "text": "acredito, mano",
+   "words": [
+    {
+     "word": "acredito,",
+     "start": 31.84,
+     "end": 32.46
+    },
+    {
+     "word": "mano",
+     "start": 32.6,
+     "end": 32.78
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 32.82,
+   "end": 33.7,
+   "text": "até a bundinha",
+   "words": [
+    {
+     "word": "até",
+     "start": 32.82,
+     "end": 32.98
+    },
+    {
+     "word": "a",
+     "start": 32.98,
+     "end": 33.14
+    },
+    {
+     "word": "bundinha",
+     "start": 33.14,
+     "end": 33.7
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 33.74,
+   "end": 36.18,
+   "text": "do Jason voltou, a",
+   "words": [
+    {
+     "word": "do",
+     "start": 33.74,
+     "end": 34.26
+    },
+    {
+     "word": "Jason",
+     "start": 34.67,
+     "end": 34.97
+    },
+    {
+     "word": "voltou,",
+     "start": 34.97,
+     "end": 35.63
+    },
+    {
+     "word": "a",
+     "start": 35.79,
+     "end": 36.18
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 38.44,
+   "end": 39.32,
+   "text": "bundinha do Jason",
+   "words": [
+    {
+     "word": "bundinha",
+     "start": 38.44,
+     "end": 38.84
+    },
+    {
+     "word": "do",
+     "start": 38.84,
+     "end": 38.98
+    },
+    {
+     "word": "Jason",
+     "start": 38.98,
+     "end": 39.32
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 39.36,
+   "end": 40.49,
+   "text": "voltou, mano",
+   "words": [
+    {
+     "word": "voltou,",
+     "start": 39.36,
+     "end": 40.04
+    },
+    {
+     "word": "mano",
+     "start": 40.14,
+     "end": 40.49
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 41.1,
+   "end": 41.86,
+   "text": "a bundinha dele",
+   "words": [
+    {
+     "word": "a",
+     "start": 41.1,
+     "end": 41.32
+    },
+    {
+     "word": "bundinha",
+     "start": 41.32,
+     "end": 41.7
+    },
+    {
+     "word": "dele",
+     "start": 41.7,
+     "end": 41.86
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 41.9,
+   "end": 42.81,
+   "text": "voltou, mano",
+   "words": [
+    {
+     "word": "voltou,",
+     "start": 41.9,
+     "end": 42.42
+    },
+    {
+     "word": "mano",
+     "start": 42.48,
+     "end": 42.81
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
