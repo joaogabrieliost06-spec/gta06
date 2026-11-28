@@ -1,0 +1,688 @@
+{
+ "segments": [
+  {
+   "start": 1.46,
+   "end": 2.57,
+   "text": "missão do Ranger",
+   "words": [
+    {
+     "word": "missão",
+     "start": 1.46,
+     "end": 1.62
+    },
+    {
+     "word": "do",
+     "start": 1.62,
+     "end": 2.08
+    },
+    {
+     "word": "Ranger",
+     "start": 2.08,
+     "end": 2.57
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 6.23,
+   "end": 6.93,
+   "text": "Não, não é possível",
+   "words": [
+    {
+     "word": "Não,",
+     "start": 6.23,
+     "end": 6.39
+    },
+    {
+     "word": "não",
+     "start": 6.43,
+     "end": 6.51
+    },
+    {
+     "word": "é",
+     "start": 6.51,
+     "end": 6.57
+    },
+    {
+     "word": "possível",
+     "start": 6.57,
+     "end": 6.93
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 6.97,
+   "end": 8.08,
+   "text": "que sumiu a missão",
+   "words": [
+    {
+     "word": "que",
+     "start": 6.97,
+     "end": 7.13
+    },
+    {
+     "word": "sumiu",
+     "start": 7.13,
+     "end": 7.43
+    },
+    {
+     "word": "a",
+     "start": 7.43,
+     "end": 7.51
+    },
+    {
+     "word": "missão",
+     "start": 7.51,
+     "end": 8.08
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 13.26,
+   "end": 13.76,
+   "text": "Não, é moral",
+   "words": [
+    {
+     "word": "Não,",
+     "start": 13.26,
+     "end": 13.42
+    },
+    {
+     "word": "é",
+     "start": 13.5,
+     "end": 13.58
+    },
+    {
+     "word": "moral",
+     "start": 13.58,
+     "end": 13.76
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 13.8,
+   "end": 14.3,
+   "text": "que vai ficar só",
+   "words": [
+    {
+     "word": "que",
+     "start": 13.8,
+     "end": 13.92
+    },
+    {
+     "word": "vai",
+     "start": 13.92,
+     "end": 14.02
+    },
+    {
+     "word": "ficar",
+     "start": 14.02,
+     "end": 14.18
+    },
+    {
+     "word": "só",
+     "start": 14.18,
+     "end": 14.3
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 14.34,
+   "end": 14.94,
+   "text": "isso aí",
+   "words": [
+    {
+     "word": "isso",
+     "start": 14.34,
+     "end": 14.52
+    },
+    {
+     "word": "aí",
+     "start": 14.52,
+     "end": 14.94
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 15.62,
+   "end": 16.56,
+   "text": "Tem que ter, mano",
+   "words": [
+    {
+     "word": "Tem",
+     "start": 15.62,
+     "end": 15.94
+    },
+    {
+     "word": "que",
+     "start": 15.94,
+     "end": 16.06
+    },
+    {
+     "word": "ter,",
+     "start": 16.06,
+     "end": 16.26
+    },
+    {
+     "word": "mano",
+     "start": 16.4,
+     "end": 16.56
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 16.6,
+   "end": 17.22,
+   "text": "Não pode ficar só",
+   "words": [
+    {
+     "word": "Não",
+     "start": 16.6,
+     "end": 16.68
+    },
+    {
+     "word": "pode",
+     "start": 16.68,
+     "end": 16.9
+    },
+    {
+     "word": "ficar",
+     "start": 16.9,
+     "end": 17.1
+    },
+    {
+     "word": "só",
+     "start": 17.1,
+     "end": 17.22
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 17.26,
+   "end": 18.1,
+   "text": "travado na missão",
+   "words": [
+    {
+     "word": "travado",
+     "start": 17.26,
+     "end": 17.6
+    },
+    {
+     "word": "na",
+     "start": 17.6,
+     "end": 17.7
+    },
+    {
+     "word": "missão",
+     "start": 17.7,
+     "end": 18.1
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 18.14,
+   "end": 19.18,
+   "text": "viado. Tipo assim, eu sou",
+   "words": [
+    {
+     "word": "viado.",
+     "start": 18.14,
+     "end": 18.4
+    },
+    {
+     "word": "Tipo",
+     "start": 18.48,
+     "end": 18.66
+    },
+    {
+     "word": "assim,",
+     "start": 18.66,
+     "end": 18.8
+    },
+    {
+     "word": "eu",
+     "start": 18.9,
+     "end": 19.02
+    },
+    {
+     "word": "sou",
+     "start": 19.02,
+     "end": 19.18
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 19.22,
+   "end": 20.35,
+   "text": "obrigado a",
+   "words": [
+    {
+     "word": "obrigado",
+     "start": 19.22,
+     "end": 19.52
+    },
+    {
+     "word": "a",
+     "start": 19.52,
+     "end": 20.35
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 21.01,
+   "end": 21.53,
+   "text": "Eu quero ver",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 21.01,
+     "end": 21.23
+    },
+    {
+     "word": "quero",
+     "start": 21.23,
+     "end": 21.39
+    },
+    {
+     "word": "ver",
+     "start": 21.39,
+     "end": 21.53
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 21.57,
+   "end": 22.51,
+   "text": "o prédio todo aqui",
+   "words": [
+    {
+     "word": "o",
+     "start": 21.57,
+     "end": 21.77
+    },
+    {
+     "word": "prédio",
+     "start": 21.77,
+     "end": 22.15
+    },
+    {
+     "word": "todo",
+     "start": 22.15,
+     "end": 22.35
+    },
+    {
+     "word": "aqui",
+     "start": 22.35,
+     "end": 22.51
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 22.55,
+   "end": 23.65,
+   "text": "Eu tenho um monte de coisa, mano",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 22.55,
+     "end": 22.61
+    },
+    {
+     "word": "tenho",
+     "start": 22.61,
+     "end": 22.71
+    },
+    {
+     "word": "um",
+     "start": 22.71,
+     "end": 22.83
+    },
+    {
+     "word": "monte",
+     "start": 22.83,
+     "end": 22.97
+    },
+    {
+     "word": "de",
+     "start": 22.97,
+     "end": 23.09
+    },
+    {
+     "word": "coisa,",
+     "start": 23.09,
+     "end": 23.35
+    },
+    {
+     "word": "mano",
+     "start": 23.49,
+     "end": 23.65
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 23.69,
+   "end": 24.29,
+   "text": "Calma aí",
+   "words": [
+    {
+     "word": "Calma",
+     "start": 23.69,
+     "end": 23.89
+    },
+    {
+     "word": "aí",
+     "start": 23.89,
+     "end": 24.29
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 24.73,
+   "end": 25.45,
+   "text": "Vamos lá. Eu posso andar",
+   "words": [
+    {
+     "word": "Vamos",
+     "start": 24.73,
+     "end": 24.91
+    },
+    {
+     "word": "lá.",
+     "start": 24.91,
+     "end": 24.99
+    },
+    {
+     "word": "Eu",
+     "start": 25.07,
+     "end": 25.12
+    },
+    {
+     "word": "posso",
+     "start": 25.12,
+     "end": 25.29
+    },
+    {
+     "word": "andar",
+     "start": 25.29,
+     "end": 25.45
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 25.49,
+   "end": 26.17,
+   "text": "por tudo aqui",
+   "words": [
+    {
+     "word": "por",
+     "start": 25.49,
+     "end": 25.73
+    },
+    {
+     "word": "tudo",
+     "start": 25.73,
+     "end": 25.95
+    },
+    {
+     "word": "aqui",
+     "start": 25.95,
+     "end": 26.17
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 26.21,
+   "end": 27.04,
+   "text": "Aqui tem o quê?",
+   "words": [
+    {
+     "word": "Aqui",
+     "start": 26.21,
+     "end": 26.37
+    },
+    {
+     "word": "tem",
+     "start": 26.37,
+     "end": 26.53
+    },
+    {
+     "word": "o",
+     "start": 26.53,
+     "end": 26.67
+    },
+    {
+     "word": "quê?",
+     "start": 26.67,
+     "end": 27.04
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.13,
+   "end": 29.36,
+   "text": "Aqui é uma",
+   "words": [
+    {
+     "word": "Aqui",
+     "start": 28.13,
+     "end": 28.49
+    },
+    {
+     "word": "é",
+     "start": 28.49,
+     "end": 28.75
+    },
+    {
+     "word": "uma",
+     "start": 28.75,
+     "end": 29.36
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 30.03,
+   "end": 31.26,
+   "text": "cozinha",
+   "words": [
+    {
+     "word": "cozinha",
+     "start": 30.03,
+     "end": 31.26
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 33.88,
+   "end": 34.87,
+   "text": "Cozinha. Cozinha",
+   "words": [
+    {
+     "word": "Cozinha.",
+     "start": 33.88,
+     "end": 34.24
+    },
+    {
+     "word": "Cozinha",
+     "start": 34.28,
+     "end": 34.87
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 40.14,
+   "end": 40.94,
+   "text": "Aqui tem a",
+   "words": [
+    {
+     "word": "Aqui",
+     "start": 40.14,
+     "end": 40.5
+    },
+    {
+     "word": "tem",
+     "start": 40.5,
+     "end": 40.86
+    },
+    {
+     "word": "a",
+     "start": 40.86,
+     "end": 40.94
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 40.98,
+   "end": 41.71,
+   "text": "academia que a gente",
+   "words": [
+    {
+     "word": "academia",
+     "start": 40.98,
+     "end": 41.38
+    },
+    {
+     "word": "que",
+     "start": 41.38,
+     "end": 41.56
+    },
+    {
+     "word": "a",
+     "start": 41.56,
+     "end": 41.66
+    },
+    {
+     "word": "gente",
+     "start": 41.66,
+     "end": 41.71
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 41.74,
+   "end": 42.57,
+   "text": "já foi",
+   "words": [
+    {
+     "word": "já",
+     "start": 41.74,
+     "end": 41.94
+    },
+    {
+     "word": "foi",
+     "start": 41.94,
+     "end": 42.57
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 42.98,
+   "end": 43.78,
+   "text": "Inclusive a gente já",
+   "words": [
+    {
+     "word": "Inclusive",
+     "start": 42.98,
+     "end": 43.3
+    },
+    {
+     "word": "a",
+     "start": 43.3,
+     "end": 43.48
+    },
+    {
+     "word": "gente",
+     "start": 43.48,
+     "end": 43.58
+    },
+    {
+     "word": "já",
+     "start": 43.58,
+     "end": 43.78
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 43.82,
+   "end": 44.85,
+   "text": "malhou",
+   "words": [
+    {
+     "word": "malhou",
+     "start": 43.82,
+     "end": 44.85
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 46.61,
+   "end": 47.59,
+   "text": "4 de 4",
+   "words": [
+    {
+     "word": "4",
+     "start": 46.61,
+     "end": 46.93
+    },
+    {
+     "word": "de",
+     "start": 46.93,
+     "end": 47.13
+    },
+    {
+     "word": "4",
+     "start": 47.13,
+     "end": 47.59
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 47.63,
+   "end": 48.38,
+   "text": "Tá de boa",
+   "words": [
+    {
+     "word": "Tá",
+     "start": 47.63,
+     "end": 47.69
+    },
+    {
+     "word": "de",
+     "start": 47.69,
+     "end": 47.83
+    },
+    {
+     "word": "boa",
+     "start": 47.83,
+     "end": 48.38
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}

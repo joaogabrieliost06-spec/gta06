@@ -1,0 +1,643 @@
+{
+ "segments": [
+  {
+   "start": 0.08,
+   "end": 0.68,
+   "text": "ela",
+   "words": [
+    {
+     "word": "ela",
+     "start": 0.08,
+     "end": 0.68
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 1.67,
+   "end": 2.17,
+   "text": "mas não tem como",
+   "words": [
+    {
+     "word": "mas",
+     "start": 1.67,
+     "end": 1.83
+    },
+    {
+     "word": "não",
+     "start": 1.83,
+     "end": 1.95
+    },
+    {
+     "word": "tem",
+     "start": 1.95,
+     "end": 2.05
+    },
+    {
+     "word": "como",
+     "start": 2.05,
+     "end": 2.17
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 2.21,
+   "end": 3.78,
+   "text": "eu perder para a Lucia, Lucia",
+   "words": [
+    {
+     "word": "eu",
+     "start": 2.21,
+     "end": 2.29
+    },
+    {
+     "word": "perder",
+     "start": 2.29,
+     "end": 2.47
+    },
+    {
+     "word": "para",
+     "start": 2.47,
+     "end": 2.61
+    },
+    {
+     "word": "a",
+     "start": 2.61,
+     "end": 2.75
+    },
+    {
+     "word": "Lucia,",
+     "start": 2.75,
+     "end": 2.99
+    },
+    {
+     "word": "Lucia",
+     "start": 3.17,
+     "end": 3.78
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 4.66,
+   "end": 5.63,
+   "text": "não é possível",
+   "words": [
+    {
+     "word": "não",
+     "start": 4.66,
+     "end": 5.0
+    },
+    {
+     "word": "é",
+     "start": 5.0,
+     "end": 5.05
+    },
+    {
+     "word": "possível",
+     "start": 5.05,
+     "end": 5.63
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.78,
+   "end": 7.46,
+   "text": "nunca vi a Lucia",
+   "words": [
+    {
+     "word": "nunca",
+     "start": 6.78,
+     "end": 7.1
+    },
+    {
+     "word": "vi",
+     "start": 7.1,
+     "end": 7.24
+    },
+    {
+     "word": "a",
+     "start": 7.24,
+     "end": 7.36
+    },
+    {
+     "word": "Lucia",
+     "start": 7.36,
+     "end": 7.46
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.5,
+   "end": 8.49,
+   "text": "jogando sinuca",
+   "words": [
+    {
+     "word": "jogando",
+     "start": 7.5,
+     "end": 7.8
+    },
+    {
+     "word": "sinuca",
+     "start": 7.8,
+     "end": 8.49
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.56,
+   "end": 11.47,
+   "text": "já vi tudo",
+   "words": [
+    {
+     "word": "já",
+     "start": 10.56,
+     "end": 10.76
+    },
+    {
+     "word": "vi",
+     "start": 10.76,
+     "end": 10.94
+    },
+    {
+     "word": "tudo",
+     "start": 10.94,
+     "end": 11.47
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 12.63,
+   "end": 13.6,
+   "text": "descritada",
+   "words": [
+    {
+     "word": "descritada",
+     "start": 12.63,
+     "end": 13.6
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 18.26,
+   "end": 19.37,
+   "text": "beleza, só",
+   "words": [
+    {
+     "word": "beleza,",
+     "start": 18.26,
+     "end": 18.62
+    },
+    {
+     "word": "só",
+     "start": 18.96,
+     "end": 19.37
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 39.69,
+   "end": 41.07,
+   "text": "para espalhar as bolas, né",
+   "words": [
+    {
+     "word": "para",
+     "start": 39.69,
+     "end": 39.77
+    },
+    {
+     "word": "espalhar",
+     "start": 39.77,
+     "end": 40.11
+    },
+    {
+     "word": "as",
+     "start": 40.11,
+     "end": 40.27
+    },
+    {
+     "word": "bolas,",
+     "start": 40.27,
+     "end": 40.65
+    },
+    {
+     "word": "né",
+     "start": 40.77,
+     "end": 41.07
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 41.93,
+   "end": 43.21,
+   "text": "matei, legal, bola",
+   "words": [
+    {
+     "word": "matei,",
+     "start": 41.93,
+     "end": 42.37
+    },
+    {
+     "word": "legal,",
+     "start": 42.47,
+     "end": 42.83
+    },
+    {
+     "word": "bola",
+     "start": 43.07,
+     "end": 43.21
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 43.25,
+   "end": 43.75,
+   "text": "de estrada daquela",
+   "words": [
+    {
+     "word": "de",
+     "start": 43.25,
+     "end": 43.37
+    },
+    {
+     "word": "estrada",
+     "start": 43.37,
+     "end": 43.57
+    },
+    {
+     "word": "daquela",
+     "start": 43.57,
+     "end": 43.75
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 43.79,
+   "end": 45.88,
+   "text": "sapada, muito",
+   "words": [
+    {
+     "word": "sapada,",
+     "start": 43.79,
+     "end": 44.27
+    },
+    {
+     "word": "muito",
+     "start": 44.35,
+     "end": 45.88
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 60.3,
+   "end": 61.67,
+   "text": "forte, viado",
+   "words": [
+    {
+     "word": "forte,",
+     "start": 60.3,
+     "end": 60.9
+    },
+    {
+     "word": "viado",
+     "start": 61.12,
+     "end": 61.67
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 61.98,
+   "end": 62.46,
+   "text": "como é que joga",
+   "words": [
+    {
+     "word": "como",
+     "start": 61.98,
+     "end": 62.1
+    },
+    {
+     "word": "é",
+     "start": 62.1,
+     "end": 62.16
+    },
+    {
+     "word": "que",
+     "start": 62.16,
+     "end": 62.24
+    },
+    {
+     "word": "joga",
+     "start": 62.24,
+     "end": 62.46
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 62.5,
+   "end": 63.69,
+   "text": "devagar, viado",
+   "words": [
+    {
+     "word": "devagar,",
+     "start": 62.5,
+     "end": 63.0
+    },
+    {
+     "word": "viado",
+     "start": 63.22,
+     "end": 63.69
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 65.27,
+   "end": 66.17,
+   "text": "tentei jogar devagar",
+   "words": [
+    {
+     "word": "tentei",
+     "start": 65.27,
+     "end": 65.57
+    },
+    {
+     "word": "jogar",
+     "start": 65.57,
+     "end": 65.73
+    },
+    {
+     "word": "devagar",
+     "start": 65.73,
+     "end": 66.17
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 66.21,
+   "end": 66.93,
+   "text": "não vai devagar",
+   "words": [
+    {
+     "word": "não",
+     "start": 66.21,
+     "end": 66.27
+    },
+    {
+     "word": "vai",
+     "start": 66.27,
+     "end": 66.41
+    },
+    {
+     "word": "devagar",
+     "start": 66.41,
+     "end": 66.93
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 66.97,
+   "end": 67.57,
+   "text": "mano",
+   "words": [
+    {
+     "word": "mano",
+     "start": 66.97,
+     "end": 67.57
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 78.64,
+   "end": 80.11,
+   "text": "bola ali, encaçapada",
+   "words": [
+    {
+     "word": "bola",
+     "start": 78.64,
+     "end": 78.84
+    },
+    {
+     "word": "ali,",
+     "start": 78.84,
+     "end": 79.02
+    },
+    {
+     "word": "encaçapada",
+     "start": 79.1,
+     "end": 80.11
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 80.91,
+   "end": 81.76,
+   "text": "beleza, beleza",
+   "words": [
+    {
+     "word": "beleza,",
+     "start": 80.91,
+     "end": 81.15
+    },
+    {
+     "word": "beleza",
+     "start": 81.33,
+     "end": 81.76
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 81.81,
+   "end": 82.75,
+   "text": "Lucia, beleza, vai",
+   "words": [
+    {
+     "word": "Lucia,",
+     "start": 81.81,
+     "end": 82.03
+    },
+    {
+     "word": "beleza,",
+     "start": 82.29,
+     "end": 82.49
+    },
+    {
+     "word": "vai",
+     "start": 82.65,
+     "end": 82.75
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 82.79,
+   "end": 83.41,
+   "text": "indo lá, vai me",
+   "words": [
+    {
+     "word": "indo",
+     "start": 82.79,
+     "end": 82.93
+    },
+    {
+     "word": "lá,",
+     "start": 82.93,
+     "end": 83.11
+    },
+    {
+     "word": "vai",
+     "start": 83.23,
+     "end": 83.35
+    },
+    {
+     "word": "me",
+     "start": 83.35,
+     "end": 83.41
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 83.45,
+   "end": 84.24,
+   "text": "avisando, hein",
+   "words": [
+    {
+     "word": "avisando,",
+     "start": 83.45,
+     "end": 83.83
+    },
+    {
+     "word": "hein",
+     "start": 83.91,
+     "end": 84.24
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 84.56,
+   "end": 85.32,
+   "text": "você anda treinando",
+   "words": [
+    {
+     "word": "você",
+     "start": 84.56,
+     "end": 84.68
+    },
+    {
+     "word": "anda",
+     "start": 84.68,
+     "end": 84.8
+    },
+    {
+     "word": "treinando",
+     "start": 84.8,
+     "end": 85.32
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 85.36,
+   "end": 86.32,
+   "text": "né, você sai às noites para",
+   "words": [
+    {
+     "word": "né,",
+     "start": 85.36,
+     "end": 85.4
+    },
+    {
+     "word": "você",
+     "start": 85.48,
+     "end": 85.54
+    },
+    {
+     "word": "sai",
+     "start": 85.54,
+     "end": 85.76
+    },
+    {
+     "word": "às",
+     "start": 85.76,
+     "end": 85.9
+    },
+    {
+     "word": "noites",
+     "start": 85.9,
+     "end": 86.18
+    },
+    {
+     "word": "para",
+     "start": 86.18,
+     "end": 86.32
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 86.36,
+   "end": 87.48,
+   "text": "jogar, né, você ficava jogando",
+   "words": [
+    {
+     "word": "jogar,",
+     "start": 86.36,
+     "end": 86.8
+    },
+    {
+     "word": "né,",
+     "start": 86.96,
+     "end": 87.01
+    },
+    {
+     "word": "você",
+     "start": 87.06,
+     "end": 87.11
+    },
+    {
+     "word": "ficava",
+     "start": 87.11,
+     "end": 87.28
+    },
+    {
+     "word": "jogando",
+     "start": 87.28,
+     "end": 87.48
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 87.52,
+   "end": 88.12,
+   "text": "sinuca",
+   "words": [
+    {
+     "word": "sinuca",
+     "start": 87.52,
+     "end": 88.12
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}

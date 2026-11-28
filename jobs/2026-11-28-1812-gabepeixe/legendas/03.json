@@ -1,0 +1,403 @@
+{
+ "segments": [
+  {
+   "start": 0.69,
+   "end": 1.33,
+   "text": "oficina do andar",
+   "words": [
+    {
+     "word": "oficina",
+     "start": 0.69,
+     "end": 1.11
+    },
+    {
+     "word": "do",
+     "start": 1.11,
+     "end": 1.25
+    },
+    {
+     "word": "andar",
+     "start": 1.25,
+     "end": 1.33
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 1.37,
+   "end": 1.85,
+   "text": "de baixo tem",
+   "words": [
+    {
+     "word": "de",
+     "start": 1.37,
+     "end": 1.53
+    },
+    {
+     "word": "baixo",
+     "start": 1.53,
+     "end": 1.75
+    },
+    {
+     "word": "tem",
+     "start": 1.75,
+     "end": 1.85
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 1.89,
+   "end": 2.57,
+   "text": "um armário de armas",
+   "words": [
+    {
+     "word": "um",
+     "start": 1.89,
+     "end": 1.97
+    },
+    {
+     "word": "armário",
+     "start": 1.97,
+     "end": 2.27
+    },
+    {
+     "word": "de",
+     "start": 2.27,
+     "end": 2.39
+    },
+    {
+     "word": "armas",
+     "start": 2.39,
+     "end": 2.57
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 2.61,
+   "end": 3.29,
+   "text": "que você pode usar",
+   "words": [
+    {
+     "word": "que",
+     "start": 2.61,
+     "end": 2.77
+    },
+    {
+     "word": "você",
+     "start": 2.77,
+     "end": 2.93
+    },
+    {
+     "word": "pode",
+     "start": 2.93,
+     "end": 3.15
+    },
+    {
+     "word": "usar",
+     "start": 3.15,
+     "end": 3.29
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 3.33,
+   "end": 3.87,
+   "text": "para gerenciar",
+   "words": [
+    {
+     "word": "para",
+     "start": 3.33,
+     "end": 3.55
+    },
+    {
+     "word": "gerenciar",
+     "start": 3.55,
+     "end": 3.87
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 3.91,
+   "end": 5.26,
+   "text": "seu arsenal. O",
+   "words": [
+    {
+     "word": "seu",
+     "start": 3.91,
+     "end": 4.07
+    },
+    {
+     "word": "arsenal.",
+     "start": 4.07,
+     "end": 4.41
+    },
+    {
+     "word": "O",
+     "start": 4.41,
+     "end": 5.26
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 7.69,
+   "end": 8.31,
+   "text": "elevador agora",
+   "words": [
+    {
+     "word": "elevador",
+     "start": 7.69,
+     "end": 8.11
+    },
+    {
+     "word": "agora",
+     "start": 8.11,
+     "end": 8.31
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 8.35,
+   "end": 9.25,
+   "text": "dá acesso à garagem",
+   "words": [
+    {
+     "word": "dá",
+     "start": 8.35,
+     "end": 8.51
+    },
+    {
+     "word": "acesso",
+     "start": 8.51,
+     "end": 8.79
+    },
+    {
+     "word": "à",
+     "start": 8.79,
+     "end": 8.89
+    },
+    {
+     "word": "garagem",
+     "start": 8.89,
+     "end": 9.25
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 9.29,
+   "end": 9.81,
+   "text": "heliponte e outros",
+   "words": [
+    {
+     "word": "heliponte",
+     "start": 9.29,
+     "end": 9.59
+    },
+    {
+     "word": "e",
+     "start": 9.59,
+     "end": 9.71
+    },
+    {
+     "word": "outros",
+     "start": 9.71,
+     "end": 9.81
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 9.85,
+   "end": 11.19,
+   "text": "andares na Pegasus",
+   "words": [
+    {
+     "word": "andares",
+     "start": 9.85,
+     "end": 10.21
+    },
+    {
+     "word": "na",
+     "start": 10.21,
+     "end": 10.39
+    },
+    {
+     "word": "Pegasus",
+     "start": 10.39,
+     "end": 11.19
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 11.23,
+   "end": 12.31,
+   "text": "Towers. Que isso",
+   "words": [
+    {
+     "word": "Towers.",
+     "start": 11.23,
+     "end": 11.51
+    },
+    {
+     "word": "Que",
+     "start": 11.51,
+     "end": 11.75
+    },
+    {
+     "word": "isso",
+     "start": 11.75,
+     "end": 12.31
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 12.35,
+   "end": 13.0,
+   "text": "viado?",
+   "words": [
+    {
+     "word": "viado?",
+     "start": 12.35,
+     "end": 13.0
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 16.17,
+   "end": 16.91,
+   "text": "Explore Pegasus",
+   "words": [
+    {
+     "word": "Explore",
+     "start": 16.17,
+     "end": 16.45
+    },
+    {
+     "word": "Pegasus",
+     "start": 16.45,
+     "end": 16.91
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 16.95,
+   "end": 17.81,
+   "text": "Towers para descobrir lá",
+   "words": [
+    {
+     "word": "Towers",
+     "start": 16.95,
+     "end": 17.11
+    },
+    {
+     "word": "para",
+     "start": 17.11,
+     "end": 17.27
+    },
+    {
+     "word": "descobrir",
+     "start": 17.27,
+     "end": 17.65
+    },
+    {
+     "word": "lá",
+     "start": 17.65,
+     "end": 17.81
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 17.85,
+   "end": 18.51,
+   "text": "as áreas e coisa",
+   "words": [
+    {
+     "word": "as",
+     "start": 17.85,
+     "end": 17.99
+    },
+    {
+     "word": "áreas",
+     "start": 17.99,
+     "end": 18.17
+    },
+    {
+     "word": "e",
+     "start": 18.17,
+     "end": 18.33
+    },
+    {
+     "word": "coisa",
+     "start": 18.33,
+     "end": 18.51
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 18.55,
+   "end": 19.24,
+   "text": "fazer",
+   "words": [
+    {
+     "word": "fazer",
+     "start": 18.55,
+     "end": 19.24
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 19.7,
+   "end": 20.39,
+   "text": "Irmão!",
+   "words": [
+    {
+     "word": "Irmão!",
+     "start": 19.7,
+     "end": 20.39
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 45.67,
+   "end": 47.53,
+   "text": "Mano, eu tô livre!",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 45.67,
+     "end": 46.11
+    },
+    {
+     "word": "eu",
+     "start": 46.4,
+     "end": 46.78
+    },
+    {
+     "word": "tô",
+     "start": 46.78,
+     "end": 46.92
+    },
+    {
+     "word": "livre!",
+     "start": 46.92,
+     "end": 47.53
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
