@@ -1,0 +1,235 @@
+{
+ "segments": [
+  {
+   "start": 11.36,
+   "end": 12.48,
+   "text": "Drogar o cachorro?",
+   "words": [
+    {
+     "word": "Drogar",
+     "start": 11.36,
+     "end": 11.88
+    },
+    {
+     "word": "o",
+     "start": 11.88,
+     "end": 12.04
+    },
+    {
+     "word": "cachorro?",
+     "start": 12.04,
+     "end": 12.48
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 12.52,
+   "end": 13.06,
+   "text": "Não era só dar",
+   "words": [
+    {
+     "word": "Não",
+     "start": 12.52,
+     "end": 12.54
+    },
+    {
+     "word": "era",
+     "start": 12.54,
+     "end": 12.64
+    },
+    {
+     "word": "só",
+     "start": 12.64,
+     "end": 12.82
+    },
+    {
+     "word": "dar",
+     "start": 12.82,
+     "end": 13.06
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 13.1,
+   "end": 13.95,
+   "text": "biscoito?",
+   "words": [
+    {
+     "word": "biscoito?",
+     "start": 13.1,
+     "end": 13.95
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 16.53,
+   "end": 17.3,
+   "text": "— Que⁠",
+   "words": [
+    {
+     "word": "— Que⁠",
+     "start": 16.53,
+     "end": 17.3
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 17.55,
+   "end": 18.71,
+   "text": "— bagulho⁠ paia⁠",
+   "words": [
+    {
+     "word": "— bagulho⁠",
+     "start": 17.55,
+     "end": 18.39
+    },
+    {
+     "word": "paia⁠",
+     "start": 18.39,
+     "end": 18.71
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 18.75,
+   "end": 19.48,
+   "text": "mas⁠ vambora⁠",
+   "words": [
+    {
+     "word": "mas⁠",
+     "start": 18.75,
+     "end": 18.89
+    },
+    {
+     "word": "vambora⁠",
+     "start": 18.89,
+     "end": 19.48
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 35.51,
+   "end": 36.05,
+   "text": "Caralho",
+   "words": [
+    {
+     "word": "Caralho",
+     "start": 35.51,
+     "end": 36.05
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 36.09,
+   "end": 36.75,
+   "text": "que missãozinha",
+   "words": [
+    {
+     "word": "que",
+     "start": 36.09,
+     "end": 36.15
+    },
+    {
+     "word": "missãozinha",
+     "start": 36.15,
+     "end": 36.75
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 36.79,
+   "end": 38.51,
+   "text": "maneira, velho pena",
+   "words": [
+    {
+     "word": "maneira,",
+     "start": 36.79,
+     "end": 37.39
+    },
+    {
+     "word": "velho",
+     "start": 37.59,
+     "end": 38.11
+    },
+    {
+     "word": "pena",
+     "start": 38.31,
+     "end": 38.51
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 38.55,
+   "end": 41.09,
+   "text": "eu ter errado ela",
+   "words": [
+    {
+     "word": "eu",
+     "start": 38.55,
+     "end": 38.69
+    },
+    {
+     "word": "ter",
+     "start": 38.69,
+     "end": 38.85
+    },
+    {
+     "word": "errado",
+     "start": 38.85,
+     "end": 40.85
+    },
+    {
+     "word": "ela",
+     "start": 40.85,
+     "end": 41.09
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 41.13,
+   "end": 41.65,
+   "text": "duas vezes",
+   "words": [
+    {
+     "word": "duas",
+     "start": 41.13,
+     "end": 41.37
+    },
+    {
+     "word": "vezes",
+     "start": 41.37,
+     "end": 41.65
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 41.69,
+   "end": 42.58,
+   "text": "por burrice",
+   "words": [
+    {
+     "word": "por",
+     "start": 41.69,
+     "end": 41.83
+    },
+    {
+     "word": "burrice",
+     "start": 41.83,
+     "end": 42.58
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}

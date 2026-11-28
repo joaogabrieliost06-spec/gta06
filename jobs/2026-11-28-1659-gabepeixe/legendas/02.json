@@ -1,0 +1,297 @@
+{
+ "segments": [
+  {
+   "start": 0.01,
+   "end": 0.63,
+   "text": "Eu não vou poder",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 0.01,
+     "end": 0.25
+    },
+    {
+     "word": "não",
+     "start": 0.25,
+     "end": 0.33
+    },
+    {
+     "word": "vou",
+     "start": 0.33,
+     "end": 0.49
+    },
+    {
+     "word": "poder",
+     "start": 0.49,
+     "end": 0.63
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 0.67,
+   "end": 1.27,
+   "text": "dar o biscoito",
+   "words": [
+    {
+     "word": "dar",
+     "start": 0.67,
+     "end": 0.83
+    },
+    {
+     "word": "o",
+     "start": 0.83,
+     "end": 0.91
+    },
+    {
+     "word": "biscoito",
+     "start": 0.91,
+     "end": 1.27
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 1.31,
+   "end": 1.96,
+   "text": "lá, caralho, eu",
+   "words": [
+    {
+     "word": "lá,",
+     "start": 1.31,
+     "end": 1.45
+    },
+    {
+     "word": "caralho,",
+     "start": 1.61,
+     "end": 1.87
+    },
+    {
+     "word": "eu",
+     "start": 1.91,
+     "end": 1.96
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 1.95,
+   "end": 2.47,
+   "text": "tenho que eliminar",
+   "words": [
+    {
+     "word": "tenho",
+     "start": 1.95,
+     "end": 2.03
+    },
+    {
+     "word": "que",
+     "start": 2.03,
+     "end": 2.13
+    },
+    {
+     "word": "eliminar",
+     "start": 2.13,
+     "end": 2.47
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 2.51,
+   "end": 3.64,
+   "text": "esses caras aqui, ó",
+   "words": [
+    {
+     "word": "esses",
+     "start": 2.51,
+     "end": 2.63
+    },
+    {
+     "word": "caras",
+     "start": 2.63,
+     "end": 2.95
+    },
+    {
+     "word": "aqui,",
+     "start": 2.95,
+     "end": 3.17
+    },
+    {
+     "word": "ó",
+     "start": 3.21,
+     "end": 3.64
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 65.51,
+   "end": 66.49,
+   "text": "— Biscoito,⁠ filho,⁠ eu⁠",
+   "words": [
+    {
+     "word": "— Biscoito,⁠",
+     "start": 65.51,
+     "end": 65.83
+    },
+    {
+     "word": "filho,⁠",
+     "start": 65.91,
+     "end": 66.11
+    },
+    {
+     "word": "eu⁠",
+     "start": 66.43,
+     "end": 66.49
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 66.53,
+   "end": 68.08,
+   "text": "quero⁠ te⁠ dar⁠ o⁠ biscoito⁠ Deixa⁠",
+   "words": [
+    {
+     "word": "quero⁠",
+     "start": 66.53,
+     "end": 66.65
+    },
+    {
+     "word": "te⁠",
+     "start": 66.65,
+     "end": 66.77
+    },
+    {
+     "word": "dar⁠",
+     "start": 66.77,
+     "end": 66.85
+    },
+    {
+     "word": "o⁠",
+     "start": 66.85,
+     "end": 66.91
+    },
+    {
+     "word": "biscoito⁠",
+     "start": 66.91,
+     "end": 67.41
+    },
+    {
+     "word": "Deixa⁠",
+     "start": 67.41,
+     "end": 68.08
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 81.86,
+   "end": 82.7,
+   "text": "eu pegar minha comida aqui",
+   "words": [
+    {
+     "word": "eu",
+     "start": 81.86,
+     "end": 81.96
+    },
+    {
+     "word": "pegar",
+     "start": 81.96,
+     "end": 82.1
+    },
+    {
+     "word": "minha",
+     "start": 82.1,
+     "end": 82.26
+    },
+    {
+     "word": "comida",
+     "start": 82.26,
+     "end": 82.6
+    },
+    {
+     "word": "aqui",
+     "start": 82.6,
+     "end": 82.7
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 82.74,
+   "end": 84.13,
+   "text": "rapidão, chat Já",
+   "words": [
+    {
+     "word": "rapidão,",
+     "start": 82.74,
+     "end": 83.14
+    },
+    {
+     "word": "chat",
+     "start": 83.18,
+     "end": 83.5
+    },
+    {
+     "word": "Já",
+     "start": 83.5,
+     "end": 84.13
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 87.47,
+   "end": 88.23,
+   "text": "ninguém viu, deixa eu pegar",
+   "words": [
+    {
+     "word": "ninguém",
+     "start": 87.47,
+     "end": 87.63
+    },
+    {
+     "word": "viu,",
+     "start": 87.63,
+     "end": 87.91
+    },
+    {
+     "word": "deixa",
+     "start": 88.01,
+     "end": 88.06
+    },
+    {
+     "word": "eu",
+     "start": 88.06,
+     "end": 88.11
+    },
+    {
+     "word": "pegar",
+     "start": 88.11,
+     "end": 88.23
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 88.27,
+   "end": 89.02,
+   "text": "minha comida",
+   "words": [
+    {
+     "word": "minha",
+     "start": 88.27,
+     "end": 88.39
+    },
+    {
+     "word": "comida",
+     "start": 88.39,
+     "end": 89.02
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}

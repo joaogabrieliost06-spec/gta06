@@ -1,0 +1,584 @@
+{
+ "segments": [
+  {
+   "start": 0.23,
+   "end": 1.29,
+   "text": "Pela minha teoria",
+   "words": [
+    {
+     "word": "Pela",
+     "start": 0.23,
+     "end": 0.51
+    },
+    {
+     "word": "minha",
+     "start": 0.51,
+     "end": 0.65
+    },
+    {
+     "word": "teoria",
+     "start": 0.65,
+     "end": 1.29
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 1.33,
+   "end": 1.83,
+   "text": "eu teria que matar",
+   "words": [
+    {
+     "word": "eu",
+     "start": 1.33,
+     "end": 1.35
+    },
+    {
+     "word": "teria",
+     "start": 1.35,
+     "end": 1.49
+    },
+    {
+     "word": "que",
+     "start": 1.49,
+     "end": 1.65
+    },
+    {
+     "word": "matar",
+     "start": 1.65,
+     "end": 1.83
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 1.87,
+   "end": 3.09,
+   "text": "o primeiro de cima",
+   "words": [
+    {
+     "word": "o",
+     "start": 1.87,
+     "end": 2.03
+    },
+    {
+     "word": "primeiro",
+     "start": 2.03,
+     "end": 2.35
+    },
+    {
+     "word": "de",
+     "start": 2.35,
+     "end": 2.53
+    },
+    {
+     "word": "cima",
+     "start": 2.53,
+     "end": 3.09
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 3.13,
+   "end": 4.72,
+   "text": "merda",
+   "words": [
+    {
+     "word": "merda",
+     "start": 3.13,
+     "end": 4.72
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 9.89,
+   "end": 10.37,
+   "text": "eu tenho que matar",
+   "words": [
+    {
+     "word": "eu",
+     "start": 9.89,
+     "end": 10.01
+    },
+    {
+     "word": "tenho",
+     "start": 10.01,
+     "end": 10.11
+    },
+    {
+     "word": "que",
+     "start": 10.11,
+     "end": 10.19
+    },
+    {
+     "word": "matar",
+     "start": 10.19,
+     "end": 10.37
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.41,
+   "end": 10.91,
+   "text": "aquele primeiro",
+   "words": [
+    {
+     "word": "aquele",
+     "start": 10.41,
+     "end": 10.65
+    },
+    {
+     "word": "primeiro",
+     "start": 10.65,
+     "end": 10.91
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.95,
+   "end": 11.85,
+   "text": "de cima, porque ele é o que tem",
+   "words": [
+    {
+     "word": "de",
+     "start": 10.95,
+     "end": 11.09
+    },
+    {
+     "word": "cima,",
+     "start": 11.09,
+     "end": 11.29
+    },
+    {
+     "word": "porque",
+     "start": 11.33,
+     "end": 11.53
+    },
+    {
+     "word": "ele",
+     "start": 11.53,
+     "end": 11.61
+    },
+    {
+     "word": "é",
+     "start": 11.61,
+     "end": 11.66
+    },
+    {
+     "word": "o",
+     "start": 11.66,
+     "end": 11.73
+    },
+    {
+     "word": "que",
+     "start": 11.73,
+     "end": 11.78
+    },
+    {
+     "word": "tem",
+     "start": 11.78,
+     "end": 11.85
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 11.89,
+   "end": 12.43,
+   "text": "o maior visual",
+   "words": [
+    {
+     "word": "o",
+     "start": 11.89,
+     "end": 11.97
+    },
+    {
+     "word": "maior",
+     "start": 11.97,
+     "end": 12.11
+    },
+    {
+     "word": "visual",
+     "start": 12.11,
+     "end": 12.43
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 12.47,
+   "end": 13.18,
+   "text": "de todos",
+   "words": [
+    {
+     "word": "de",
+     "start": 12.47,
+     "end": 12.63
+    },
+    {
+     "word": "todos",
+     "start": 12.63,
+     "end": 13.18
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 14.16,
+   "end": 15.1,
+   "text": "pela minha inteligência",
+   "words": [
+    {
+     "word": "pela",
+     "start": 14.16,
+     "end": 14.26
+    },
+    {
+     "word": "minha",
+     "start": 14.26,
+     "end": 14.42
+    },
+    {
+     "word": "inteligência",
+     "start": 14.42,
+     "end": 15.1
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 15.14,
+   "end": 16.14,
+   "text": "mato o de cima",
+   "words": [
+    {
+     "word": "mato",
+     "start": 15.14,
+     "end": 15.36
+    },
+    {
+     "word": "o",
+     "start": 15.36,
+     "end": 15.46
+    },
+    {
+     "word": "de",
+     "start": 15.46,
+     "end": 15.52
+    },
+    {
+     "word": "cima",
+     "start": 15.52,
+     "end": 16.14
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 16.18,
+   "end": 16.78,
+   "text": "ó",
+   "words": [
+    {
+     "word": "ó",
+     "start": 16.18,
+     "end": 16.78
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 25.41,
+   "end": 26.46,
+   "text": "cachorro, tem cachorro ali",
+   "words": [
+    {
+     "word": "cachorro,",
+     "start": 25.41,
+     "end": 25.59
+    },
+    {
+     "word": "tem",
+     "start": 25.63,
+     "end": 25.71
+    },
+    {
+     "word": "cachorro",
+     "start": 25.71,
+     "end": 26.05
+    },
+    {
+     "word": "ali",
+     "start": 26.05,
+     "end": 26.46
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 27.21,
+   "end": 28.2,
+   "text": "primeiro esse aqui",
+   "words": [
+    {
+     "word": "primeiro",
+     "start": 27.21,
+     "end": 27.47
+    },
+    {
+     "word": "esse",
+     "start": 27.47,
+     "end": 27.67
+    },
+    {
+     "word": "aqui",
+     "start": 27.67,
+     "end": 28.2
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 65.48,
+   "end": 65.96,
+   "text": "ele tá, tipo",
+   "words": [
+    {
+     "word": "ele",
+     "start": 65.48,
+     "end": 65.58
+    },
+    {
+     "word": "tá,",
+     "start": 65.58,
+     "end": 65.72
+    },
+    {
+     "word": "tipo",
+     "start": 65.72,
+     "end": 65.96
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 66.0,
+   "end": 66.72,
+   "text": "tentando entender o que tá",
+   "words": [
+    {
+     "word": "tentando",
+     "start": 66.0,
+     "end": 66.2
+    },
+    {
+     "word": "entender",
+     "start": 66.2,
+     "end": 66.38
+    },
+    {
+     "word": "o",
+     "start": 66.38,
+     "end": 66.54
+    },
+    {
+     "word": "que",
+     "start": 66.54,
+     "end": 66.59
+    },
+    {
+     "word": "tá",
+     "start": 66.59,
+     "end": 66.72
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 66.76,
+   "end": 67.26,
+   "text": "acontecendo, tem",
+   "words": [
+    {
+     "word": "acontecendo,",
+     "start": 66.76,
+     "end": 67.1
+    },
+    {
+     "word": "tem",
+     "start": 67.2,
+     "end": 67.26
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 67.3,
+   "end": 67.82,
+   "text": "que matar ele antes",
+   "words": [
+    {
+     "word": "que",
+     "start": 67.3,
+     "end": 67.38
+    },
+    {
+     "word": "matar",
+     "start": 67.38,
+     "end": 67.6
+    },
+    {
+     "word": "ele",
+     "start": 67.6,
+     "end": 67.74
+    },
+    {
+     "word": "antes",
+     "start": 67.74,
+     "end": 67.82
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 67.86,
+   "end": 68.99,
+   "text": "de avisar. É",
+   "words": [
+    {
+     "word": "de",
+     "start": 67.86,
+     "end": 67.94
+    },
+    {
+     "word": "avisar.",
+     "start": 67.94,
+     "end": 68.4
+    },
+    {
+     "word": "É",
+     "start": 68.4,
+     "end": 68.99
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 73.75,
+   "end": 74.35,
+   "text": "isso aí",
+   "words": [
+    {
+     "word": "isso",
+     "start": 73.75,
+     "end": 73.95
+    },
+    {
+     "word": "aí",
+     "start": 73.95,
+     "end": 74.35
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 74.8,
+   "end": 75.65,
+   "text": "joguei muito",
+   "words": [
+    {
+     "word": "joguei",
+     "start": 74.8,
+     "end": 75.16
+    },
+    {
+     "word": "muito",
+     "start": 75.16,
+     "end": 75.65
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 76.12,
+   "end": 76.94,
+   "text": "agora continuamos",
+   "words": [
+    {
+     "word": "agora",
+     "start": 76.12,
+     "end": 76.3
+    },
+    {
+     "word": "continuamos",
+     "start": 76.3,
+     "end": 76.94
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 76.98,
+   "end": 78.05,
+   "text": "stealth, mano",
+   "words": [
+    {
+     "word": "stealth,",
+     "start": 76.98,
+     "end": 77.34
+    },
+    {
+     "word": "mano",
+     "start": 77.68,
+     "end": 78.05
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 78.91,
+   "end": 80.15,
+   "text": "beleza, temos cachorro aqui",
+   "words": [
+    {
+     "word": "beleza,",
+     "start": 78.91,
+     "end": 79.07
+    },
+    {
+     "word": "temos",
+     "start": 79.19,
+     "end": 79.39
+    },
+    {
+     "word": "cachorro",
+     "start": 79.39,
+     "end": 80.01
+    },
+    {
+     "word": "aqui",
+     "start": 80.01,
+     "end": 80.15
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 80.19,
+   "end": 81.04,
+   "text": "latindo",
+   "words": [
+    {
+     "word": "latindo",
+     "start": 80.19,
+     "end": 81.04
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
