@@ -1,0 +1,935 @@
+{
+ "segments": [
+  {
+   "start": 0.54,
+   "end": 2.03,
+   "text": "jogo já sabe",
+   "words": [
+    {
+     "word": "jogo",
+     "start": 0.54,
+     "end": 1.62
+    },
+    {
+     "word": "já",
+     "start": 1.67,
+     "end": 1.81
+    },
+    {
+     "word": "sabe",
+     "start": 1.81,
+     "end": 2.03
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 2.07,
+   "end": 3.26,
+   "text": "que eu não vou martelar, né",
+   "words": [
+    {
+     "word": "que",
+     "start": 2.07,
+     "end": 2.17
+    },
+    {
+     "word": "eu",
+     "start": 2.17,
+     "end": 2.23
+    },
+    {
+     "word": "não",
+     "start": 2.23,
+     "end": 2.29
+    },
+    {
+     "word": "vou",
+     "start": 2.29,
+     "end": 2.39
+    },
+    {
+     "word": "martelar,",
+     "start": 2.39,
+     "end": 2.89
+    },
+    {
+     "word": "né",
+     "start": 2.91,
+     "end": 3.26
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 3.86,
+   "end": 5.19,
+   "text": "mas botei ela numa sinuca",
+   "words": [
+    {
+     "word": "mas",
+     "start": 3.86,
+     "end": 3.96
+    },
+    {
+     "word": "botei",
+     "start": 3.96,
+     "end": 4.26
+    },
+    {
+     "word": "ela",
+     "start": 4.26,
+     "end": 4.31
+    },
+    {
+     "word": "numa",
+     "start": 4.31,
+     "end": 4.46
+    },
+    {
+     "word": "sinuca",
+     "start": 4.46,
+     "end": 5.19
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 5.44,
+   "end": 6.44,
+   "text": "botei ela numa sinuca, ela não",
+   "words": [
+    {
+     "word": "botei",
+     "start": 5.44,
+     "end": 5.8
+    },
+    {
+     "word": "ela",
+     "start": 5.8,
+     "end": 5.85
+    },
+    {
+     "word": "numa",
+     "start": 5.85,
+     "end": 5.96
+    },
+    {
+     "word": "sinuca,",
+     "start": 5.96,
+     "end": 6.24
+    },
+    {
+     "word": "ela",
+     "start": 6.3,
+     "end": 6.38
+    },
+    {
+     "word": "não",
+     "start": 6.38,
+     "end": 6.44
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.48,
+   "end": 6.94,
+   "text": "tem o que fazer",
+   "words": [
+    {
+     "word": "tem",
+     "start": 6.48,
+     "end": 6.6
+    },
+    {
+     "word": "o",
+     "start": 6.6,
+     "end": 6.66
+    },
+    {
+     "word": "que",
+     "start": 6.66,
+     "end": 6.71
+    },
+    {
+     "word": "fazer",
+     "start": 6.71,
+     "end": 6.94
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.98,
+   "end": 7.75,
+   "text": "mano",
+   "words": [
+    {
+     "word": "mano",
+     "start": 6.98,
+     "end": 7.75
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 8.5,
+   "end": 9.1,
+   "text": "o que?",
+   "words": [
+    {
+     "word": "o",
+     "start": 8.5,
+     "end": 8.72
+    },
+    {
+     "word": "que?",
+     "start": 8.72,
+     "end": 9.1
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 9.16,
+   "end": 9.74,
+   "text": "como é que ela",
+   "words": [
+    {
+     "word": "como",
+     "start": 9.16,
+     "end": 9.52
+    },
+    {
+     "word": "é",
+     "start": 9.52,
+     "end": 9.6
+    },
+    {
+     "word": "que",
+     "start": 9.6,
+     "end": 9.66
+    },
+    {
+     "word": "ela",
+     "start": 9.66,
+     "end": 9.74
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 9.78,
+   "end": 10.74,
+   "text": "encaçapa? eu não vi ela",
+   "words": [
+    {
+     "word": "encaçapa?",
+     "start": 9.78,
+     "end": 10.16
+    },
+    {
+     "word": "eu",
+     "start": 10.26,
+     "end": 10.36
+    },
+    {
+     "word": "não",
+     "start": 10.36,
+     "end": 10.48
+    },
+    {
+     "word": "vi",
+     "start": 10.48,
+     "end": 10.66
+    },
+    {
+     "word": "ela",
+     "start": 10.66,
+     "end": 10.74
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 10.78,
+   "end": 12.15,
+   "text": "jogar, ela roubou o",
+   "words": [
+    {
+     "word": "jogar,",
+     "start": 10.78,
+     "end": 11.0
+    },
+    {
+     "word": "ela",
+     "start": 11.12,
+     "end": 11.18
+    },
+    {
+     "word": "roubou",
+     "start": 11.18,
+     "end": 11.54
+    },
+    {
+     "word": "o",
+     "start": 11.54,
+     "end": 12.15
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 18.0,
+   "end": 19.3,
+   "text": "jogo é muito roubado, viado",
+   "words": [
+    {
+     "word": "jogo",
+     "start": 18.0,
+     "end": 18.14
+    },
+    {
+     "word": "é",
+     "start": 18.14,
+     "end": 18.24
+    },
+    {
+     "word": "muito",
+     "start": 18.24,
+     "end": 18.42
+    },
+    {
+     "word": "roubado,",
+     "start": 18.42,
+     "end": 18.94
+    },
+    {
+     "word": "viado",
+     "start": 18.96,
+     "end": 19.3
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 19.34,
+   "end": 20.43,
+   "text": "o jogo é muito",
+   "words": [
+    {
+     "word": "o",
+     "start": 19.34,
+     "end": 19.78
+    },
+    {
+     "word": "jogo",
+     "start": 20.03,
+     "end": 20.19
+    },
+    {
+     "word": "é",
+     "start": 20.19,
+     "end": 20.27
+    },
+    {
+     "word": "muito",
+     "start": 20.27,
+     "end": 20.43
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 20.47,
+   "end": 21.42,
+   "text": "roubado, viado",
+   "words": [
+    {
+     "word": "roubado,",
+     "start": 20.47,
+     "end": 20.97
+    },
+    {
+     "word": "viado",
+     "start": 20.99,
+     "end": 21.42
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 21.71,
+   "end": 22.41,
+   "text": "o jogo não deixa",
+   "words": [
+    {
+     "word": "o",
+     "start": 21.71,
+     "end": 21.95
+    },
+    {
+     "word": "jogo",
+     "start": 21.95,
+     "end": 22.15
+    },
+    {
+     "word": "não",
+     "start": 22.15,
+     "end": 22.27
+    },
+    {
+     "word": "deixa",
+     "start": 22.27,
+     "end": 22.41
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 22.45,
+   "end": 23.57,
+   "text": "nem ver, mano ela",
+   "words": [
+    {
+     "word": "nem",
+     "start": 22.45,
+     "end": 22.61
+    },
+    {
+     "word": "ver,",
+     "start": 22.61,
+     "end": 22.83
+    },
+    {
+     "word": "mano",
+     "start": 22.85,
+     "end": 23.11
+    },
+    {
+     "word": "ela",
+     "start": 23.11,
+     "end": 23.57
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 23.61,
+   "end": 24.47,
+   "text": "do nada o bagulho",
+   "words": [
+    {
+     "word": "do",
+     "start": 23.61,
+     "end": 24.01
+    },
+    {
+     "word": "nada",
+     "start": 24.01,
+     "end": 24.21
+    },
+    {
+     "word": "o",
+     "start": 24.21,
+     "end": 24.31
+    },
+    {
+     "word": "bagulho",
+     "start": 24.31,
+     "end": 24.47
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 24.51,
+   "end": 25.47,
+   "text": "bugou e só botou",
+   "words": [
+    {
+     "word": "bugou",
+     "start": 24.51,
+     "end": 24.93
+    },
+    {
+     "word": "e",
+     "start": 24.93,
+     "end": 25.03
+    },
+    {
+     "word": "só",
+     "start": 25.03,
+     "end": 25.19
+    },
+    {
+     "word": "botou",
+     "start": 25.19,
+     "end": 25.47
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 25.51,
+   "end": 26.94,
+   "text": "a câmera onde queria, mano",
+   "words": [
+    {
+     "word": "a",
+     "start": 25.51,
+     "end": 25.59
+    },
+    {
+     "word": "câmera",
+     "start": 25.59,
+     "end": 25.77
+    },
+    {
+     "word": "onde",
+     "start": 25.77,
+     "end": 25.93
+    },
+    {
+     "word": "queria,",
+     "start": 25.93,
+     "end": 26.29
+    },
+    {
+     "word": "mano",
+     "start": 26.33,
+     "end": 26.94
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 42.04,
+   "end": 42.81,
+   "text": "vem",
+   "words": [
+    {
+     "word": "vem",
+     "start": 42.04,
+     "end": 42.81
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 43.42,
+   "end": 44.18,
+   "text": "vem tá achando",
+   "words": [
+    {
+     "word": "vem",
+     "start": 43.42,
+     "end": 43.82
+    },
+    {
+     "word": "tá",
+     "start": 43.82,
+     "end": 44.02
+    },
+    {
+     "word": "achando",
+     "start": 44.02,
+     "end": 44.18
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 44.22,
+   "end": 44.8,
+   "text": "que só você sabe",
+   "words": [
+    {
+     "word": "que",
+     "start": 44.22,
+     "end": 44.3
+    },
+    {
+     "word": "só",
+     "start": 44.3,
+     "end": 44.42
+    },
+    {
+     "word": "você",
+     "start": 44.42,
+     "end": 44.64
+    },
+    {
+     "word": "sabe",
+     "start": 44.64,
+     "end": 44.8
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 44.84,
+   "end": 45.67,
+   "text": "fazer isso?",
+   "words": [
+    {
+     "word": "fazer",
+     "start": 44.84,
+     "end": 45.08
+    },
+    {
+     "word": "isso?",
+     "start": 45.08,
+     "end": 45.67
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 47.19,
+   "end": 47.8,
+   "text": "só",
+   "words": [
+    {
+     "word": "só",
+     "start": 47.19,
+     "end": 47.8
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 69.42,
+   "end": 70.81,
+   "text": "quero ver não tem",
+   "words": [
+    {
+     "word": "quero",
+     "start": 69.42,
+     "end": 69.66
+    },
+    {
+     "word": "ver",
+     "start": 69.66,
+     "end": 69.86
+    },
+    {
+     "word": "não",
+     "start": 70.01,
+     "end": 70.61
+    },
+    {
+     "word": "tem",
+     "start": 70.61,
+     "end": 70.81
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 70.85,
+   "end": 71.41,
+   "text": "como ela matar",
+   "words": [
+    {
+     "word": "como",
+     "start": 70.85,
+     "end": 71.05
+    },
+    {
+     "word": "ela",
+     "start": 71.05,
+     "end": 71.17
+    },
+    {
+     "word": "matar",
+     "start": 71.17,
+     "end": 71.41
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 71.45,
+   "end": 72.49,
+   "text": "a verde, nem",
+   "words": [
+    {
+     "word": "a",
+     "start": 71.45,
+     "end": 71.59
+    },
+    {
+     "word": "verde,",
+     "start": 71.59,
+     "end": 71.87
+    },
+    {
+     "word": "nem",
+     "start": 71.89,
+     "end": 72.49
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 72.53,
+   "end": 73.51,
+   "text": "a outra não tem",
+   "words": [
+    {
+     "word": "a",
+     "start": 72.53,
+     "end": 72.69
+    },
+    {
+     "word": "outra",
+     "start": 72.69,
+     "end": 72.97
+    },
+    {
+     "word": "não",
+     "start": 72.97,
+     "end": 73.35
+    },
+    {
+     "word": "tem",
+     "start": 73.35,
+     "end": 73.51
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 73.55,
+   "end": 74.47,
+   "text": "como ela matar a verde",
+   "words": [
+    {
+     "word": "como",
+     "start": 73.55,
+     "end": 73.79
+    },
+    {
+     "word": "ela",
+     "start": 73.79,
+     "end": 73.89
+    },
+    {
+     "word": "matar",
+     "start": 73.89,
+     "end": 74.13
+    },
+    {
+     "word": "a",
+     "start": 74.13,
+     "end": 74.27
+    },
+    {
+     "word": "verde",
+     "start": 74.27,
+     "end": 74.47
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 74.51,
+   "end": 75.41,
+   "text": "é impossível só se jogo estiver",
+   "words": [
+    {
+     "word": "é",
+     "start": 74.51,
+     "end": 74.55
+    },
+    {
+     "word": "impossível",
+     "start": 74.55,
+     "end": 74.91
+    },
+    {
+     "word": "só",
+     "start": 74.91,
+     "end": 75.05
+    },
+    {
+     "word": "se",
+     "start": 75.05,
+     "end": 75.17
+    },
+    {
+     "word": "jogo",
+     "start": 75.17,
+     "end": 75.31
+    },
+    {
+     "word": "estiver",
+     "start": 75.31,
+     "end": 75.41
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 75.45,
+   "end": 76.1,
+   "text": "roubando",
+   "words": [
+    {
+     "word": "roubando",
+     "start": 75.45,
+     "end": 76.1
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 78.24,
+   "end": 78.99,
+   "text": "Tá",
+   "words": [
+    {
+     "word": "Tá",
+     "start": 78.24,
+     "end": 78.99
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 79.96,
+   "end": 80.72,
+   "text": "não vou deixar, pô",
+   "words": [
+    {
+     "word": "não",
+     "start": 79.96,
+     "end": 80.02
+    },
+    {
+     "word": "vou",
+     "start": 80.02,
+     "end": 80.16
+    },
+    {
+     "word": "deixar,",
+     "start": 80.16,
+     "end": 80.5
+    },
+    {
+     "word": "pô",
+     "start": 80.62,
+     "end": 80.72
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 80.76,
+   "end": 81.24,
+   "text": "Não adianta fazer",
+   "words": [
+    {
+     "word": "Não",
+     "start": 80.76,
+     "end": 80.84
+    },
+    {
+     "word": "adianta",
+     "start": 80.84,
+     "end": 81.08
+    },
+    {
+     "word": "fazer",
+     "start": 81.08,
+     "end": 81.24
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 81.28,
+   "end": 82.08,
+   "text": "jogadinha ensaiada",
+   "words": [
+    {
+     "word": "jogadinha",
+     "start": 81.28,
+     "end": 81.68
+    },
+    {
+     "word": "ensaiada",
+     "start": 81.68,
+     "end": 82.08
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 82.12,
+   "end": 82.58,
+   "text": "não A máquina",
+   "words": [
+    {
+     "word": "não",
+     "start": 82.12,
+     "end": 82.26
+    },
+    {
+     "word": "A",
+     "start": 82.26,
+     "end": 82.36
+    },
+    {
+     "word": "máquina",
+     "start": 82.36,
+     "end": 82.58
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 82.62,
+   "end": 84.11,
+   "text": "de script, não, não",
+   "words": [
+    {
+     "word": "de",
+     "start": 82.62,
+     "end": 82.76
+    },
+    {
+     "word": "script,",
+     "start": 82.76,
+     "end": 83.16
+    },
+    {
+     "word": "não,",
+     "start": 83.16,
+     "end": 83.34
+    },
+    {
+     "word": "não",
+     "start": 83.34,
+     "end": 84.11
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 84.68,
+   "end": 85.28,
+   "text": "adianta",
+   "words": [
+    {
+     "word": "adianta",
+     "start": 84.68,
+     "end": 85.28
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
