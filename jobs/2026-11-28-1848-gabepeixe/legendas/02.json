@@ -1,0 +1,608 @@
+{
+ "segments": [
+  {
+   "start": 1.87,
+   "end": 2.79,
+   "text": "Moleque, olha essa",
+   "words": [
+    {
+     "word": "Moleque,",
+     "start": 1.87,
+     "end": 2.29
+    },
+    {
+     "word": "olha",
+     "start": 2.49,
+     "end": 2.59
+    },
+    {
+     "word": "essa",
+     "start": 2.59,
+     "end": 2.79
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 2.83,
+   "end": 4.03,
+   "text": "garagem desse cara",
+   "words": [
+    {
+     "word": "garagem",
+     "start": 2.83,
+     "end": 3.31
+    },
+    {
+     "word": "desse",
+     "start": 3.31,
+     "end": 3.49
+    },
+    {
+     "word": "cara",
+     "start": 3.49,
+     "end": 4.03
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 4.07,
+   "end": 4.67,
+   "text": "mano",
+   "words": [
+    {
+     "word": "mano",
+     "start": 4.07,
+     "end": 4.67
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 5.91,
+   "end": 7.32,
+   "text": "Que isso, gente",
+   "words": [
+    {
+     "word": "Que",
+     "start": 5.91,
+     "end": 6.05
+    },
+    {
+     "word": "isso,",
+     "start": 6.05,
+     "end": 6.69
+    },
+    {
+     "word": "gente",
+     "start": 6.91,
+     "end": 7.32
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 19.71,
+   "end": 20.38,
+   "text": "Nossa",
+   "words": [
+    {
+     "word": "Nossa",
+     "start": 19.71,
+     "end": 20.38
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 20.66,
+   "end": 21.33,
+   "text": "mano",
+   "words": [
+    {
+     "word": "mano",
+     "start": 20.66,
+     "end": 21.33
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 25.07,
+   "end": 26.41,
+   "text": "Que isso, mano",
+   "words": [
+    {
+     "word": "Que",
+     "start": 25.07,
+     "end": 25.37
+    },
+    {
+     "word": "isso,",
+     "start": 25.37,
+     "end": 26.05
+    },
+    {
+     "word": "mano",
+     "start": 26.21,
+     "end": 26.41
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 26.45,
+   "end": 26.97,
+   "text": "Olha a garagem desse",
+   "words": [
+    {
+     "word": "Olha",
+     "start": 26.45,
+     "end": 26.57
+    },
+    {
+     "word": "a",
+     "start": 26.57,
+     "end": 26.63
+    },
+    {
+     "word": "garagem",
+     "start": 26.63,
+     "end": 26.85
+    },
+    {
+     "word": "desse",
+     "start": 26.85,
+     "end": 26.97
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 27.01,
+   "end": 27.61,
+   "text": "cara",
+   "words": [
+    {
+     "word": "cara",
+     "start": 27.01,
+     "end": 27.61
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 30.37,
+   "end": 31.02,
+   "text": "Mano",
+   "words": [
+    {
+     "word": "Mano",
+     "start": 30.37,
+     "end": 31.02
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 31.61,
+   "end": 32.51,
+   "text": "se eu conseguir usar",
+   "words": [
+    {
+     "word": "se",
+     "start": 31.61,
+     "end": 31.77
+    },
+    {
+     "word": "eu",
+     "start": 31.77,
+     "end": 31.85
+    },
+    {
+     "word": "conseguir",
+     "start": 31.85,
+     "end": 32.17
+    },
+    {
+     "word": "usar",
+     "start": 32.17,
+     "end": 32.51
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 32.55,
+   "end": 33.6,
+   "text": "essa garagem",
+   "words": [
+    {
+     "word": "essa",
+     "start": 32.55,
+     "end": 32.75
+    },
+    {
+     "word": "garagem",
+     "start": 32.75,
+     "end": 33.6
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 36.81,
+   "end": 37.63,
+   "text": "eu vou tirar todos",
+   "words": [
+    {
+     "word": "eu",
+     "start": 36.81,
+     "end": 37.13
+    },
+    {
+     "word": "vou",
+     "start": 37.13,
+     "end": 37.23
+    },
+    {
+     "word": "tirar",
+     "start": 37.23,
+     "end": 37.41
+    },
+    {
+     "word": "todos",
+     "start": 37.41,
+     "end": 37.63
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 37.67,
+   "end": 38.19,
+   "text": "os carros dele",
+   "words": [
+    {
+     "word": "os",
+     "start": 37.67,
+     "end": 37.83
+    },
+    {
+     "word": "carros",
+     "start": 37.83,
+     "end": 38.09
+    },
+    {
+     "word": "dele",
+     "start": 38.09,
+     "end": 38.19
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 38.23,
+   "end": 38.83,
+   "text": "daqui",
+   "words": [
+    {
+     "word": "daqui",
+     "start": 38.23,
+     "end": 38.83
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 40.95,
+   "end": 41.64,
+   "text": "Por exemplo",
+   "words": [
+    {
+     "word": "Por",
+     "start": 40.95,
+     "end": 41.15
+    },
+    {
+     "word": "exemplo",
+     "start": 41.15,
+     "end": 41.64
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 42.96,
+   "end": 44.24,
+   "text": "eu vou acabar com esse velho",
+   "words": [
+    {
+     "word": "eu",
+     "start": 42.96,
+     "end": 43.06
+    },
+    {
+     "word": "vou",
+     "start": 43.06,
+     "end": 43.18
+    },
+    {
+     "word": "acabar",
+     "start": 43.18,
+     "end": 43.4
+    },
+    {
+     "word": "com",
+     "start": 43.4,
+     "end": 43.56
+    },
+    {
+     "word": "esse",
+     "start": 43.56,
+     "end": 43.7
+    },
+    {
+     "word": "velho",
+     "start": 43.7,
+     "end": 44.24
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 44.28,
+   "end": 44.93,
+   "text": "Foda-se",
+   "words": [
+    {
+     "word": "Foda-se",
+     "start": 44.28,
+     "end": 44.93
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 47.96,
+   "end": 48.46,
+   "text": "Eu vou pegar esse",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 47.96,
+     "end": 48.12
+    },
+    {
+     "word": "vou",
+     "start": 48.12,
+     "end": 48.2
+    },
+    {
+     "word": "pegar",
+     "start": 48.2,
+     "end": 48.38
+    },
+    {
+     "word": "esse",
+     "start": 48.38,
+     "end": 48.46
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 48.5,
+   "end": 49.63,
+   "text": "carro aqui e vou tentar vender",
+   "words": [
+    {
+     "word": "carro",
+     "start": 48.5,
+     "end": 48.66
+    },
+    {
+     "word": "aqui",
+     "start": 48.66,
+     "end": 48.78
+    },
+    {
+     "word": "e",
+     "start": 48.78,
+     "end": 48.86
+    },
+    {
+     "word": "vou",
+     "start": 48.86,
+     "end": 48.91
+    },
+    {
+     "word": "tentar",
+     "start": 48.91,
+     "end": 49.06
+    },
+    {
+     "word": "vender",
+     "start": 49.06,
+     "end": 49.63
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 58.89,
+   "end": 59.49,
+   "text": "Olha",
+   "words": [
+    {
+     "word": "Olha",
+     "start": 58.89,
+     "end": 59.49
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 69.79,
+   "end": 70.48,
+   "text": "Moleque",
+   "words": [
+    {
+     "word": "Moleque",
+     "start": 69.79,
+     "end": 70.48
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 70.81,
+   "end": 71.95,
+   "text": "não me dá asa",
+   "words": [
+    {
+     "word": "não",
+     "start": 70.81,
+     "end": 70.95
+    },
+    {
+     "word": "me",
+     "start": 70.95,
+     "end": 71.03
+    },
+    {
+     "word": "dá",
+     "start": 71.03,
+     "end": 71.65
+    },
+    {
+     "word": "asa",
+     "start": 71.65,
+     "end": 71.95
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 71.99,
+   "end": 73.07,
+   "text": "cobra, eu vou vender",
+   "words": [
+    {
+     "word": "cobra,",
+     "start": 71.99,
+     "end": 72.27
+    },
+    {
+     "word": "eu",
+     "start": 72.27,
+     "end": 72.79
+    },
+    {
+     "word": "vou",
+     "start": 72.79,
+     "end": 72.93
+    },
+    {
+     "word": "vender",
+     "start": 72.93,
+     "end": 73.07
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 73.11,
+   "end": 73.65,
+   "text": "todos os carros",
+   "words": [
+    {
+     "word": "todos",
+     "start": 73.11,
+     "end": 73.33
+    },
+    {
+     "word": "os",
+     "start": 73.33,
+     "end": 73.51
+    },
+    {
+     "word": "carros",
+     "start": 73.51,
+     "end": 73.65
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 73.69,
+   "end": 74.64,
+   "text": "de filho da puta",
+   "words": [
+    {
+     "word": "de",
+     "start": 73.69,
+     "end": 73.77
+    },
+    {
+     "word": "filho",
+     "start": 73.77,
+     "end": 73.91
+    },
+    {
+     "word": "da",
+     "start": 73.91,
+     "end": 74.05
+    },
+    {
+     "word": "puta",
+     "start": 74.05,
+     "end": 74.64
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 75.39,
+   "end": 77.49,
+   "text": "Vou botar os meus",
+   "words": [
+    {
+     "word": "Vou",
+     "start": 75.39,
+     "end": 75.83
+    },
+    {
+     "word": "botar",
+     "start": 76.01,
+     "end": 76.45
+    },
+    {
+     "word": "os",
+     "start": 76.45,
+     "end": 77.31
+    },
+    {
+     "word": "meus",
+     "start": 77.31,
+     "end": 77.49
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 77.53,
+   "end": 78.13,
+   "text": "aqui",
+   "words": [
+    {
+     "word": "aqui",
+     "start": 77.53,
+     "end": 78.13
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
