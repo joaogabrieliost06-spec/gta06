@@ -1,0 +1,40 @@
+{
+ "formato": "vertical",
+ "layout": "auto",
+ "legenda": false,
+ "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Jason, Lucia, trailer, avião, chat",
+ "idioma": "pt",
+ "cortes": [
+  {
+   "id": "01",
+   "inicio": "0:02:00",
+   "fim": "0:03:00",
+   "titulo": "DAVA PRA ROUBAR A CASA DO LADO"
+  },
+  {
+   "id": "02",
+   "inicio": "0:04:44",
+   "fim": "0:05:50",
+   "titulo": "O CARA TÁ PELADO ALI EM CIMA"
+  },
+  {
+   "id": "03",
+   "inicio": "0:07:15",
+   "fim": "0:08:40",
+   "titulo": "ISSO TAVA AÍ O TEMPO TODO"
+  },
+  {
+   "id": "04",
+   "inicio": "0:13:14",
+   "fim": "0:14:40",
+   "titulo": "A PRIMEIRA MISSÃO DO JOGO"
+  },
+  {
+   "id": "05",
+   "inicio": "0:16:05",
+   "fim": "0:16:45",
+   "titulo": "O POVO É MUITO IGNORANTE"
+  }
+ ]
+}
