@@ -1,0 +1,34 @@
+{
+ "formato": "vertical",
+ "layout": "auto",
+ "legenda": false,
+ "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Jason, Lucia, orca, baby Dodo, helicóptero, chat",
+ "idioma": "pt",
+ "cortes": [
+  {
+   "id": "01",
+   "inicio": "0:03:41",
+   "fim": "0:04:35",
+   "titulo": "NINGUÉM VAI DESCOBRIR ISSO"
+  },
+  {
+   "id": "02",
+   "inicio": "0:04:50",
+   "fim": "0:06:15",
+   "titulo": "FUI DORMIR E ELA FICOU PUTA"
+  },
+  {
+   "id": "03",
+   "inicio": "0:07:10",
+   "fim": "0:08:16",
+   "titulo": "ESSA CASA TÁ BUGANDO MINHA MENTE"
+  },
+  {
+   "id": "04",
+   "inicio": "0:12:50",
+   "fim": "0:14:19",
+   "titulo": "GANHEI TAG DE PSICOPATA"
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "formato": "vertical",
+ "layout": "auto",
+ "legenda": false,
+ "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Jason, Lucia, George, garagem, PS5, panorâmico, chat",
+ "idioma": "pt",
+ "cortes": [
+  {
+   "id": "01",
+   "inicio": "0:04:50",
+   "fim": "0:06:13",
+   "titulo": "JÁ É A TERCEIRA VEZ QUE TRAVA"
+  },
+  {
+   "id": "02",
+   "inicio": "0:06:41",
+   "fim": "0:08:10",
+   "titulo": "EU JOGUEI TÃO BEM"
+  },
+  {
+   "id": "03",
+   "inicio": "0:13:00",
+   "fim": "0:14:28",
+   "titulo": "MEUS CARROS TODOS JUNTINHOS"
+  },
+  {
+   "id": "04",
+   "inicio": "0:15:08",
+   "fim": "0:16:36",
+   "titulo": "GANHEI ESSA PORRA"
+  }
+ ]
+}
