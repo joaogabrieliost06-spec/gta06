@@ -1,0 +1,1044 @@
+{
+ "segments": [
+  {
+   "start": 1.74,
+   "end": 2.61,
+   "text": "Porra, bateu e não",
+   "words": [
+    {
+     "word": "Porra,",
+     "start": 1.74,
+     "end": 2.08
+    },
+    {
+     "word": "bateu",
+     "start": 2.14,
+     "end": 2.48
+    },
+    {
+     "word": "e",
+     "start": 2.48,
+     "end": 2.56
+    },
+    {
+     "word": "não",
+     "start": 2.56,
+     "end": 2.61
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 2.6,
+   "end": 3.44,
+   "text": "mexeu a bola?",
+   "words": [
+    {
+     "word": "mexeu",
+     "start": 2.6,
+     "end": 2.9
+    },
+    {
+     "word": "a",
+     "start": 2.9,
+     "end": 3.02
+    },
+    {
+     "word": "bola?",
+     "start": 3.02,
+     "end": 3.44
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 3.48,
+   "end": 4.08,
+   "text": "Não",
+   "words": [
+    {
+     "word": "Não",
+     "start": 3.48,
+     "end": 4.08
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 4.71,
+   "end": 5.23,
+   "text": "Caralho, muito",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 4.71,
+     "end": 5.07
+    },
+    {
+     "word": "muito",
+     "start": 5.09,
+     "end": 5.23
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 5.27,
+   "end": 6.12,
+   "text": "difícil, mano",
+   "words": [
+    {
+     "word": "difícil,",
+     "start": 5.27,
+     "end": 5.63
+    },
+    {
+     "word": "mano",
+     "start": 5.71,
+     "end": 6.12
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 7.17,
+   "end": 8.09,
+   "text": "Puta que o pariu",
+   "words": [
+    {
+     "word": "Puta",
+     "start": 7.17,
+     "end": 7.53
+    },
+    {
+     "word": "que",
+     "start": 7.53,
+     "end": 7.69
+    },
+    {
+     "word": "o",
+     "start": 7.69,
+     "end": 7.81
+    },
+    {
+     "word": "pariu",
+     "start": 7.81,
+     "end": 8.09
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 8.13,
+   "end": 9.42,
+   "text": "muito difícil Calma",
+   "words": [
+    {
+     "word": "muito",
+     "start": 8.13,
+     "end": 8.27
+    },
+    {
+     "word": "difícil",
+     "start": 8.27,
+     "end": 8.69
+    },
+    {
+     "word": "Calma",
+     "start": 8.69,
+     "end": 9.42
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 12.4,
+   "end": 13.44,
+   "text": "ela não vai conseguir matar essa",
+   "words": [
+    {
+     "word": "ela",
+     "start": 12.4,
+     "end": 12.46
+    },
+    {
+     "word": "não",
+     "start": 12.46,
+     "end": 12.56
+    },
+    {
+     "word": "vai",
+     "start": 12.56,
+     "end": 12.66
+    },
+    {
+     "word": "conseguir",
+     "start": 12.66,
+     "end": 12.92
+    },
+    {
+     "word": "matar",
+     "start": 12.92,
+     "end": 13.2
+    },
+    {
+     "word": "essa",
+     "start": 13.2,
+     "end": 13.44
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 13.48,
+   "end": 14.2,
+   "text": "Eu vou matar todas",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 13.48,
+     "end": 13.64
+    },
+    {
+     "word": "vou",
+     "start": 13.64,
+     "end": 13.76
+    },
+    {
+     "word": "matar",
+     "start": 13.76,
+     "end": 13.98
+    },
+    {
+     "word": "todas",
+     "start": 13.98,
+     "end": 14.2
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 14.24,
+   "end": 15.3,
+   "text": "depois em sequência",
+   "words": [
+    {
+     "word": "depois",
+     "start": 14.24,
+     "end": 14.74
+    },
+    {
+     "word": "em",
+     "start": 14.74,
+     "end": 14.9
+    },
+    {
+     "word": "sequência",
+     "start": 14.9,
+     "end": 15.3
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 15.34,
+   "end": 16.12,
+   "text": "mano Eu separei",
+   "words": [
+    {
+     "word": "mano",
+     "start": 15.34,
+     "end": 15.54
+    },
+    {
+     "word": "Eu",
+     "start": 15.54,
+     "end": 15.72
+    },
+    {
+     "word": "separei",
+     "start": 15.72,
+     "end": 16.12
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 16.16,
+   "end": 16.78,
+   "text": "meu jogo pra poder",
+   "words": [
+    {
+     "word": "meu",
+     "start": 16.16,
+     "end": 16.28
+    },
+    {
+     "word": "jogo",
+     "start": 16.28,
+     "end": 16.48
+    },
+    {
+     "word": "pra",
+     "start": 16.48,
+     "end": 16.62
+    },
+    {
+     "word": "poder",
+     "start": 16.62,
+     "end": 16.78
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 16.82,
+   "end": 18.41,
+   "text": "humilhar ela no final É",
+   "words": [
+    {
+     "word": "humilhar",
+     "start": 16.82,
+     "end": 17.12
+    },
+    {
+     "word": "ela",
+     "start": 17.12,
+     "end": 17.22
+    },
+    {
+     "word": "no",
+     "start": 17.22,
+     "end": 17.36
+    },
+    {
+     "word": "final",
+     "start": 17.36,
+     "end": 17.64
+    },
+    {
+     "word": "É",
+     "start": 17.64,
+     "end": 18.41
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 21.54,
+   "end": 22.73,
+   "text": "— hashtag,⁠ tá,⁠ galera?⁠",
+   "words": [
+    {
+     "word": "— hashtag,⁠",
+     "start": 21.54,
+     "end": 21.88
+    },
+    {
+     "word": "tá,⁠",
+     "start": 22.14,
+     "end": 22.19
+    },
+    {
+     "word": "galera?⁠",
+     "start": 22.28,
+     "end": 22.73
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 22.84,
+   "end": 24.18,
+   "text": "R,⁠ E,⁠ S,⁠ T⁠",
+   "words": [
+    {
+     "word": "R,⁠",
+     "start": 22.84,
+     "end": 22.98
+    },
+    {
+     "word": "E,⁠",
+     "start": 22.98,
+     "end": 23.28
+    },
+    {
+     "word": "S,⁠",
+     "start": 23.4,
+     "end": 23.7
+    },
+    {
+     "word": "T⁠",
+     "start": 24.02,
+     "end": 24.18
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 24.22,
+   "end": 24.82,
+   "text": "E,⁠ D⁠",
+   "words": [
+    {
+     "word": "E,⁠",
+     "start": 24.22,
+     "end": 24.36
+    },
+    {
+     "word": "D⁠",
+     "start": 24.44,
+     "end": 24.82
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 38.71,
+   "end": 39.39,
+   "text": "Beleza,⁠ bati⁠",
+   "words": [
+    {
+     "word": "Beleza,⁠",
+     "start": 38.71,
+     "end": 39.07
+    },
+    {
+     "word": "bati⁠",
+     "start": 39.07,
+     "end": 39.39
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 39.43,
+   "end": 40.11,
+   "text": "a⁠ primeira⁠ bola⁠",
+   "words": [
+    {
+     "word": "a⁠",
+     "start": 39.43,
+     "end": 39.47
+    },
+    {
+     "word": "primeira⁠",
+     "start": 39.47,
+     "end": 39.69
+    },
+    {
+     "word": "bola⁠",
+     "start": 39.69,
+     "end": 40.11
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 40.15,
+   "end": 40.92,
+   "text": "Parece⁠",
+   "words": [
+    {
+     "word": "Parece⁠",
+     "start": 40.15,
+     "end": 40.92
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 44.47,
+   "end": 45.98,
+   "text": "que⁠ lascada⁠ Não⁠",
+   "words": [
+    {
+     "word": "que⁠",
+     "start": 44.47,
+     "end": 44.67
+    },
+    {
+     "word": "lascada⁠",
+     "start": 44.67,
+     "end": 45.31
+    },
+    {
+     "word": "Não⁠",
+     "start": 45.31,
+     "end": 45.98
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 57.43,
+   "end": 58.03,
+   "text": "vai conseguir matar",
+   "words": [
+    {
+     "word": "vai",
+     "start": 57.43,
+     "end": 57.55
+    },
+    {
+     "word": "conseguir",
+     "start": 57.55,
+     "end": 57.81
+    },
+    {
+     "word": "matar",
+     "start": 57.81,
+     "end": 58.03
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 58.07,
+   "end": 59.43,
+   "text": "essa bola Joguei ela",
+   "words": [
+    {
+     "word": "essa",
+     "start": 58.07,
+     "end": 58.25
+    },
+    {
+     "word": "bola",
+     "start": 58.25,
+     "end": 58.55
+    },
+    {
+     "word": "Joguei",
+     "start": 58.7,
+     "end": 59.38
+    },
+    {
+     "word": "ela",
+     "start": 59.38,
+     "end": 59.43
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 59.46,
+   "end": 59.96,
+   "text": "no canto, não tem",
+   "words": [
+    {
+     "word": "no",
+     "start": 59.46,
+     "end": 59.6
+    },
+    {
+     "word": "canto,",
+     "start": 59.6,
+     "end": 59.76
+    },
+    {
+     "word": "não",
+     "start": 59.78,
+     "end": 59.88
+    },
+    {
+     "word": "tem",
+     "start": 59.88,
+     "end": 59.96
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 60.0,
+   "end": 60.58,
+   "text": "como ela matar essa",
+   "words": [
+    {
+     "word": "como",
+     "start": 60.0,
+     "end": 60.16
+    },
+    {
+     "word": "ela",
+     "start": 60.16,
+     "end": 60.26
+    },
+    {
+     "word": "matar",
+     "start": 60.26,
+     "end": 60.44
+    },
+    {
+     "word": "essa",
+     "start": 60.44,
+     "end": 60.58
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 60.62,
+   "end": 61.22,
+   "text": "bola",
+   "words": [
+    {
+     "word": "bola",
+     "start": 60.62,
+     "end": 61.22
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 62.75,
+   "end": 63.36,
+   "text": "Impossível",
+   "words": [
+    {
+     "word": "Impossível",
+     "start": 62.75,
+     "end": 63.36
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 66.23,
+   "end": 66.75,
+   "text": "esse jogo é muito",
+   "words": [
+    {
+     "word": "esse",
+     "start": 66.23,
+     "end": 66.29
+    },
+    {
+     "word": "jogo",
+     "start": 66.29,
+     "end": 66.47
+    },
+    {
+     "word": "é",
+     "start": 66.47,
+     "end": 66.57
+    },
+    {
+     "word": "muito",
+     "start": 66.57,
+     "end": 66.75
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 66.79,
+   "end": 67.98,
+   "text": "lixo, cara Esse",
+   "words": [
+    {
+     "word": "lixo,",
+     "start": 66.79,
+     "end": 67.09
+    },
+    {
+     "word": "cara",
+     "start": 67.17,
+     "end": 67.29
+    },
+    {
+     "word": "Esse",
+     "start": 67.29,
+     "end": 67.98
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 68.99,
+   "end": 69.75,
+   "text": "jogo é muito lixo",
+   "words": [
+    {
+     "word": "jogo",
+     "start": 68.99,
+     "end": 69.09
+    },
+    {
+     "word": "é",
+     "start": 69.09,
+     "end": 69.19
+    },
+    {
+     "word": "muito",
+     "start": 69.19,
+     "end": 69.43
+    },
+    {
+     "word": "lixo",
+     "start": 69.43,
+     "end": 69.75
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 69.79,
+   "end": 70.76,
+   "text": "viado Ela",
+   "words": [
+    {
+     "word": "viado",
+     "start": 69.79,
+     "end": 70.03
+    },
+    {
+     "word": "Ela",
+     "start": 70.03,
+     "end": 70.76
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 70.98,
+   "end": 71.72,
+   "text": "com a bola grudada",
+   "words": [
+    {
+     "word": "com",
+     "start": 70.98,
+     "end": 71.12
+    },
+    {
+     "word": "a",
+     "start": 71.12,
+     "end": 71.2
+    },
+    {
+     "word": "bola",
+     "start": 71.2,
+     "end": 71.38
+    },
+    {
+     "word": "grudada",
+     "start": 71.38,
+     "end": 71.72
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 71.76,
+   "end": 72.33,
+   "text": "na parede, ela",
+   "words": [
+    {
+     "word": "na",
+     "start": 71.76,
+     "end": 71.92
+    },
+    {
+     "word": "parede,",
+     "start": 71.92,
+     "end": 72.2
+    },
+    {
+     "word": "ela",
+     "start": 72.28,
+     "end": 72.33
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 72.34,
+   "end": 73.25,
+   "text": "conseguiu matar",
+   "words": [
+    {
+     "word": "conseguiu",
+     "start": 72.34,
+     "end": 72.7
+    },
+    {
+     "word": "matar",
+     "start": 72.7,
+     "end": 73.25
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 74.34,
+   "end": 75.01,
+   "text": "isso, mano",
+   "words": [
+    {
+     "word": "isso,",
+     "start": 74.34,
+     "end": 74.6
+    },
+    {
+     "word": "mano",
+     "start": 74.6,
+     "end": 75.01
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 76.39,
+   "end": 77.25,
+   "text": "Papo reto. A gente vai ter",
+   "words": [
+    {
+     "word": "Papo",
+     "start": 76.39,
+     "end": 76.71
+    },
+    {
+     "word": "reto.",
+     "start": 76.71,
+     "end": 76.89
+    },
+    {
+     "word": "A",
+     "start": 76.97,
+     "end": 77.02
+    },
+    {
+     "word": "gente",
+     "start": 77.02,
+     "end": 77.07
+    },
+    {
+     "word": "vai",
+     "start": 77.07,
+     "end": 77.19
+    },
+    {
+     "word": "ter",
+     "start": 77.19,
+     "end": 77.25
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 77.29,
+   "end": 77.81,
+   "text": "nossa revanche",
+   "words": [
+    {
+     "word": "nossa",
+     "start": 77.29,
+     "end": 77.47
+    },
+    {
+     "word": "revanche",
+     "start": 77.47,
+     "end": 77.81
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 77.85,
+   "end": 78.55,
+   "text": "ainda. Fica tranquilo",
+   "words": [
+    {
+     "word": "ainda.",
+     "start": 77.85,
+     "end": 77.99
+    },
+    {
+     "word": "Fica",
+     "start": 78.07,
+     "end": 78.15
+    },
+    {
+     "word": "tranquilo",
+     "start": 78.15,
+     "end": 78.55
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 78.59,
+   "end": 79.19,
+   "text": "você",
+   "words": [
+    {
+     "word": "você",
+     "start": 78.59,
+     "end": 79.19
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 80.15,
+   "end": 80.88,
+   "text": "Fica tranquilo",
+   "words": [
+    {
+     "word": "Fica",
+     "start": 80.15,
+     "end": 80.29
+    },
+    {
+     "word": "tranquilo",
+     "start": 80.29,
+     "end": 80.88
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 82.1,
+   "end": 82.8,
+   "text": "Talvez você possa",
+   "words": [
+    {
+     "word": "Talvez",
+     "start": 82.1,
+     "end": 82.46
+    },
+    {
+     "word": "você",
+     "start": 82.46,
+     "end": 82.64
+    },
+    {
+     "word": "possa",
+     "start": 82.64,
+     "end": 82.8
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 82.84,
+   "end": 83.58,
+   "text": "desistir",
+   "words": [
+    {
+     "word": "desistir",
+     "start": 82.84,
+     "end": 83.58
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 83.62,
+   "end": 85.02,
+   "text": "É, eu vou desistir",
+   "words": [
+    {
+     "word": "É,",
+     "start": 83.62,
+     "end": 83.92
+    },
+    {
+     "word": "eu",
+     "start": 84.1,
+     "end": 84.22
+    },
+    {
+     "word": "vou",
+     "start": 84.22,
+     "end": 84.34
+    },
+    {
+     "word": "desistir",
+     "start": 84.34,
+     "end": 85.02
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 85.06,
+   "end": 85.64,
+   "text": "Calma, vou te",
+   "words": [
+    {
+     "word": "Calma,",
+     "start": 85.06,
+     "end": 85.42
+    },
+    {
+     "word": "vou",
+     "start": 85.42,
+     "end": 85.56
+    },
+    {
+     "word": "te",
+     "start": 85.56,
+     "end": 85.64
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 85.68,
+   "end": 86.54,
+   "text": "ganhar. Fica tranquilo",
+   "words": [
+    {
+     "word": "ganhar.",
+     "start": 85.68,
+     "end": 85.92
+    },
+    {
+     "word": "Fica",
+     "start": 86.16,
+     "end": 86.26
+    },
+    {
+     "word": "tranquilo",
+     "start": 86.26,
+     "end": 86.54
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 86.58,
+   "end": 87.31,
+   "text": "que eu vou te ganhar",
+   "words": [
+    {
+     "word": "que",
+     "start": 86.58,
+     "end": 86.66
+    },
+    {
+     "word": "eu",
+     "start": 86.66,
+     "end": 86.71
+    },
+    {
+     "word": "vou",
+     "start": 86.71,
+     "end": 86.78
+    },
+    {
+     "word": "te",
+     "start": 86.78,
+     "end": 86.88
+    },
+    {
+     "word": "ganhar",
+     "start": 86.88,
+     "end": 87.31
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
