@@ -1,0 +1,81 @@
+{
+ "segments": [
+  {
+   "start": 43.01,
+   "end": 43.49,
+   "text": "Vocês marcaram",
+   "words": [
+    {
+     "word": "Vocês",
+     "start": 43.01,
+     "end": 43.13
+    },
+    {
+     "word": "marcaram",
+     "start": 43.13,
+     "end": 43.49
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 43.53,
+   "end": 45.24,
+   "text": "de lutar jiu-jitsu, velho?",
+   "words": [
+    {
+     "word": "de",
+     "start": 43.53,
+     "end": 43.61
+    },
+    {
+     "word": "lutar",
+     "start": 43.61,
+     "end": 43.77
+    },
+    {
+     "word": "jiu-jitsu,",
+     "start": 43.77,
+     "end": 44.41
+    },
+    {
+     "word": "velho?",
+     "start": 44.61,
+     "end": 45.24
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 55.62,
+   "end": 57.45,
+   "text": "Ai, Deus",
+   "words": [
+    {
+     "word": "Ai,",
+     "start": 55.62,
+     "end": 56.14
+    },
+    {
+     "word": "Deus",
+     "start": 56.86,
+     "end": 57.45
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 59.06,
+   "end": 59.83,
+   "text": "Opa!",
+   "words": [
+    {
+     "word": "Opa!",
+     "start": 59.06,
+     "end": 59.83
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
