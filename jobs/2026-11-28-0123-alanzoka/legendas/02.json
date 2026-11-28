@@ -1,0 +1,147 @@
+{
+ "segments": [
+  {
+   "start": 3.78,
+   "end": 6.95,
+   "text": "Tem alguém pelado aqui?",
+   "words": [
+    {
+     "word": "Tem",
+     "start": 3.78,
+     "end": 4.38
+    },
+    {
+     "word": "alguém",
+     "start": 5.59,
+     "end": 6.19
+    },
+    {
+     "word": "pelado",
+     "start": 6.19,
+     "end": 6.77
+    },
+    {
+     "word": "aqui?",
+     "start": 6.77,
+     "end": 6.95
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 6.99,
+   "end": 9.59,
+   "text": "Eu tô maluco, meu",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 6.99,
+     "end": 7.05
+    },
+    {
+     "word": "tô",
+     "start": 7.05,
+     "end": 7.15
+    },
+    {
+     "word": "maluco,",
+     "start": 7.15,
+     "end": 7.65
+    },
+    {
+     "word": "meu",
+     "start": 8.77,
+     "end": 9.59
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 9.63,
+   "end": 10.27,
+   "text": "Mano, o tamanho",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 9.63,
+     "end": 9.93
+    },
+    {
+     "word": "o",
+     "start": 9.99,
+     "end": 10.07
+    },
+    {
+     "word": "tamanho",
+     "start": 10.07,
+     "end": 10.27
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 10.31,
+   "end": 11.15,
+   "text": "da biromba do cara",
+   "words": [
+    {
+     "word": "da",
+     "start": 10.31,
+     "end": 10.43
+    },
+    {
+     "word": "biromba",
+     "start": 10.43,
+     "end": 10.79
+    },
+    {
+     "word": "do",
+     "start": 10.79,
+     "end": 10.87
+    },
+    {
+     "word": "cara",
+     "start": 10.87,
+     "end": 11.15
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 11.19,
+   "end": 12.14,
+   "text": "que absurdo",
+   "words": [
+    {
+     "word": "que",
+     "start": 11.19,
+     "end": 11.41
+    },
+    {
+     "word": "absurdo",
+     "start": 11.41,
+     "end": 12.14
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 22.33,
+   "end": 23.72,
+   "text": "Nudismo, chat",
+   "words": [
+    {
+     "word": "Nudismo,",
+     "start": 22.33,
+     "end": 22.93
+    },
+    {
+     "word": "chat",
+     "start": 23.05,
+     "end": 23.72
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
