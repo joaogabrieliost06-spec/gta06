@@ -1,0 +1,846 @@
+{
+ "segments": [
+  {
+   "start": 3.21,
+   "end": 3.99,
+   "text": "fechando o mapa",
+   "words": [
+    {
+     "word": "fechando",
+     "start": 3.21,
+     "end": 3.69
+    },
+    {
+     "word": "o",
+     "start": 3.69,
+     "end": 3.83
+    },
+    {
+     "word": "mapa",
+     "start": 3.83,
+     "end": 3.99
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 4.03,
+   "end": 4.8,
+   "text": "jogo travou",
+   "words": [
+    {
+     "word": "jogo",
+     "start": 4.03,
+     "end": 4.15
+    },
+    {
+     "word": "travou",
+     "start": 4.15,
+     "end": 4.8
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 8.17,
+   "end": 9.12,
+   "text": "juro pra vocês",
+   "words": [
+    {
+     "word": "juro",
+     "start": 8.17,
+     "end": 8.39
+    },
+    {
+     "word": "pra",
+     "start": 8.39,
+     "end": 8.49
+    },
+    {
+     "word": "vocês",
+     "start": 8.49,
+     "end": 9.12
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 19.15,
+   "end": 20.15,
+   "text": "travou o meu progresso, mano",
+   "words": [
+    {
+     "word": "travou",
+     "start": 19.15,
+     "end": 19.37
+    },
+    {
+     "word": "o",
+     "start": 19.37,
+     "end": 19.49
+    },
+    {
+     "word": "meu",
+     "start": 19.49,
+     "end": 19.59
+    },
+    {
+     "word": "progresso,",
+     "start": 19.59,
+     "end": 19.99
+    },
+    {
+     "word": "mano",
+     "start": 20.07,
+     "end": 20.15
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 20.19,
+   "end": 20.96,
+   "text": "já",
+   "words": [
+    {
+     "word": "já",
+     "start": 20.19,
+     "end": 20.96
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 33.6,
+   "end": 34.24,
+   "text": "é a terceira vez",
+   "words": [
+    {
+     "word": "é",
+     "start": 33.6,
+     "end": 33.72
+    },
+    {
+     "word": "a",
+     "start": 33.72,
+     "end": 33.78
+    },
+    {
+     "word": "terceira",
+     "start": 33.78,
+     "end": 34.1
+    },
+    {
+     "word": "vez",
+     "start": 34.1,
+     "end": 34.24
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 34.28,
+   "end": 34.82,
+   "text": "que acontece isso",
+   "words": [
+    {
+     "word": "que",
+     "start": 34.28,
+     "end": 34.42
+    },
+    {
+     "word": "acontece",
+     "start": 34.42,
+     "end": 34.68
+    },
+    {
+     "word": "isso",
+     "start": 34.68,
+     "end": 34.82
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 34.86,
+   "end": 35.67,
+   "text": "comigo, mano",
+   "words": [
+    {
+     "word": "comigo,",
+     "start": 34.86,
+     "end": 35.14
+    },
+    {
+     "word": "mano",
+     "start": 35.24,
+     "end": 35.67
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 38.03,
+   "end": 38.71,
+   "text": "engraçado, não tem",
+   "words": [
+    {
+     "word": "engraçado,",
+     "start": 38.03,
+     "end": 38.35
+    },
+    {
+     "word": "não",
+     "start": 38.41,
+     "end": 38.59
+    },
+    {
+     "word": "tem",
+     "start": 38.59,
+     "end": 38.71
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 38.75,
+   "end": 39.72,
+   "text": "nada a ver, ó",
+   "words": [
+    {
+     "word": "nada",
+     "start": 38.75,
+     "end": 38.95
+    },
+    {
+     "word": "a",
+     "start": 38.95,
+     "end": 39.05
+    },
+    {
+     "word": "ver,",
+     "start": 39.05,
+     "end": 39.19
+    },
+    {
+     "word": "ó",
+     "start": 39.29,
+     "end": 39.72
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 43.33,
+   "end": 44.41,
+   "text": "eu devo ser o único cara",
+   "words": [
+    {
+     "word": "eu",
+     "start": 43.33,
+     "end": 43.65
+    },
+    {
+     "word": "devo",
+     "start": 43.65,
+     "end": 43.81
+    },
+    {
+     "word": "ser",
+     "start": 43.81,
+     "end": 43.97
+    },
+    {
+     "word": "o",
+     "start": 43.97,
+     "end": 44.09
+    },
+    {
+     "word": "único",
+     "start": 44.09,
+     "end": 44.23
+    },
+    {
+     "word": "cara",
+     "start": 44.23,
+     "end": 44.41
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 44.45,
+   "end": 45.16,
+   "text": "que travou porque eu",
+   "words": [
+    {
+     "word": "que",
+     "start": 44.45,
+     "end": 44.57
+    },
+    {
+     "word": "travou",
+     "start": 44.57,
+     "end": 44.97
+    },
+    {
+     "word": "porque",
+     "start": 44.97,
+     "end": 45.11
+    },
+    {
+     "word": "eu",
+     "start": 45.11,
+     "end": 45.16
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 45.17,
+   "end": 45.67,
+   "text": "não vi mais ninguém",
+   "words": [
+    {
+     "word": "não",
+     "start": 45.17,
+     "end": 45.25
+    },
+    {
+     "word": "vi",
+     "start": 45.25,
+     "end": 45.35
+    },
+    {
+     "word": "mais",
+     "start": 45.35,
+     "end": 45.49
+    },
+    {
+     "word": "ninguém",
+     "start": 45.49,
+     "end": 45.67
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 45.71,
+   "end": 46.33,
+   "text": "tendo esse feedback",
+   "words": [
+    {
+     "word": "tendo",
+     "start": 45.71,
+     "end": 45.91
+    },
+    {
+     "word": "esse",
+     "start": 45.91,
+     "end": 46.05
+    },
+    {
+     "word": "feedback",
+     "start": 46.05,
+     "end": 46.33
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 46.37,
+   "end": 47.55,
+   "text": "negativo com o GTA",
+   "words": [
+    {
+     "word": "negativo",
+     "start": 46.37,
+     "end": 46.97
+    },
+    {
+     "word": "com",
+     "start": 46.97,
+     "end": 47.11
+    },
+    {
+     "word": "o",
+     "start": 47.11,
+     "end": 47.17
+    },
+    {
+     "word": "GTA",
+     "start": 47.17,
+     "end": 47.55
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 47.59,
+   "end": 48.34,
+   "text": "não vamos",
+   "words": [
+    {
+     "word": "não",
+     "start": 47.59,
+     "end": 47.67
+    },
+    {
+     "word": "vamos",
+     "start": 47.67,
+     "end": 48.34
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 49.48,
+   "end": 50.62,
+   "text": "lá, vamos encerrar",
+   "words": [
+    {
+     "word": "lá,",
+     "start": 49.48,
+     "end": 49.58
+    },
+    {
+     "word": "vamos",
+     "start": 49.7,
+     "end": 49.86
+    },
+    {
+     "word": "encerrar",
+     "start": 49.86,
+     "end": 50.62
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 50.66,
+   "end": 51.16,
+   "text": "ele e vamos abrir",
+   "words": [
+    {
+     "word": "ele",
+     "start": 50.66,
+     "end": 50.86
+    },
+    {
+     "word": "e",
+     "start": 50.86,
+     "end": 50.96
+    },
+    {
+     "word": "vamos",
+     "start": 50.96,
+     "end": 51.04
+    },
+    {
+     "word": "abrir",
+     "start": 51.04,
+     "end": 51.16
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 51.2,
+   "end": 52.37,
+   "text": "de novo o",
+   "words": [
+    {
+     "word": "de",
+     "start": 51.2,
+     "end": 51.38
+    },
+    {
+     "word": "novo",
+     "start": 51.38,
+     "end": 51.58
+    },
+    {
+     "word": "o",
+     "start": 51.58,
+     "end": 52.37
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 64.94,
+   "end": 66.36,
+   "text": "jogo também tá travando no PS5",
+   "words": [
+    {
+     "word": "jogo",
+     "start": 64.94,
+     "end": 65.06
+    },
+    {
+     "word": "também",
+     "start": 65.06,
+     "end": 65.24
+    },
+    {
+     "word": "tá",
+     "start": 65.24,
+     "end": 65.36
+    },
+    {
+     "word": "travando",
+     "start": 65.36,
+     "end": 65.66
+    },
+    {
+     "word": "no",
+     "start": 65.66,
+     "end": 65.78
+    },
+    {
+     "word": "PS5",
+     "start": 65.78,
+     "end": 66.36
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 66.4,
+   "end": 67.05,
+   "text": "é mesmo?",
+   "words": [
+    {
+     "word": "é",
+     "start": 66.4,
+     "end": 66.56
+    },
+    {
+     "word": "mesmo?",
+     "start": 66.56,
+     "end": 67.05
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 67.63,
+   "end": 69.37,
+   "text": "eu não coisei não",
+   "words": [
+    {
+     "word": "eu",
+     "start": 67.63,
+     "end": 67.75
+    },
+    {
+     "word": "não",
+     "start": 67.75,
+     "end": 67.95
+    },
+    {
+     "word": "coisei",
+     "start": 67.95,
+     "end": 69.19
+    },
+    {
+     "word": "não",
+     "start": 69.19,
+     "end": 69.37
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 69.41,
+   "end": 70.17,
+   "text": "mano eu não",
+   "words": [
+    {
+     "word": "mano",
+     "start": 69.41,
+     "end": 69.55
+    },
+    {
+     "word": "eu",
+     "start": 69.55,
+     "end": 70.09
+    },
+    {
+     "word": "não",
+     "start": 70.09,
+     "end": 70.17
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 70.21,
+   "end": 71.06,
+   "text": "tô ligado",
+   "words": [
+    {
+     "word": "tô",
+     "start": 70.21,
+     "end": 70.37
+    },
+    {
+     "word": "ligado",
+     "start": 70.37,
+     "end": 71.06
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 71.39,
+   "end": 72.06,
+   "text": "na verdade eu não",
+   "words": [
+    {
+     "word": "na",
+     "start": 71.39,
+     "end": 71.71
+    },
+    {
+     "word": "verdade",
+     "start": 71.71,
+     "end": 71.89
+    },
+    {
+     "word": "eu",
+     "start": 71.89,
+     "end": 72.01
+    },
+    {
+     "word": "não",
+     "start": 72.01,
+     "end": 72.06
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 72.09,
+   "end": 72.67,
+   "text": "vi nenhum feedback",
+   "words": [
+    {
+     "word": "vi",
+     "start": 72.09,
+     "end": 72.19
+    },
+    {
+     "word": "nenhum",
+     "start": 72.19,
+     "end": 72.33
+    },
+    {
+     "word": "feedback",
+     "start": 72.33,
+     "end": 72.67
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 72.71,
+   "end": 73.42,
+   "text": "relacionado a isso",
+   "words": [
+    {
+     "word": "relacionado",
+     "start": 72.71,
+     "end": 73.25
+    },
+    {
+     "word": "a",
+     "start": 73.25,
+     "end": 73.37
+    },
+    {
+     "word": "isso",
+     "start": 73.37,
+     "end": 73.42
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 73.41,
+   "end": 74.33,
+   "text": "a travar jogo, eu",
+   "words": [
+    {
+     "word": "a",
+     "start": 73.41,
+     "end": 73.53
+    },
+    {
+     "word": "travar",
+     "start": 73.53,
+     "end": 73.81
+    },
+    {
+     "word": "jogo,",
+     "start": 73.81,
+     "end": 74.13
+    },
+    {
+     "word": "eu",
+     "start": 74.21,
+     "end": 74.33
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 74.37,
+   "end": 75.07,
+   "text": "achei que fosse até",
+   "words": [
+    {
+     "word": "achei",
+     "start": 74.37,
+     "end": 74.59
+    },
+    {
+     "word": "que",
+     "start": 74.59,
+     "end": 74.71
+    },
+    {
+     "word": "fosse",
+     "start": 74.71,
+     "end": 74.95
+    },
+    {
+     "word": "até",
+     "start": 74.95,
+     "end": 75.07
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 75.11,
+   "end": 77.24,
+   "text": "alguma coisa de esquentar, mas ar",
+   "words": [
+    {
+     "word": "alguma",
+     "start": 75.11,
+     "end": 75.33
+    },
+    {
+     "word": "coisa",
+     "start": 75.33,
+     "end": 75.59
+    },
+    {
+     "word": "de",
+     "start": 75.59,
+     "end": 75.74
+    },
+    {
+     "word": "esquentar,",
+     "start": 75.74,
+     "end": 76.23
+    },
+    {
+     "word": "mas",
+     "start": 76.27,
+     "end": 76.51
+    },
+    {
+     "word": "ar",
+     "start": 76.51,
+     "end": 77.24
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 77.58,
+   "end": 78.92,
+   "text": "-condicionado ligado, o bagulho",
+   "words": [
+    {
+     "word": "-condicionado",
+     "start": 77.58,
+     "end": 78.02
+    },
+    {
+     "word": "ligado,",
+     "start": 78.02,
+     "end": 78.54
+    },
+    {
+     "word": "o",
+     "start": 78.58,
+     "end": 78.7
+    },
+    {
+     "word": "bagulho",
+     "start": 78.7,
+     "end": 78.92
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 78.96,
+   "end": 80.04,
+   "text": "aqui sem nada",
+   "words": [
+    {
+     "word": "aqui",
+     "start": 78.96,
+     "end": 79.1
+    },
+    {
+     "word": "sem",
+     "start": 79.1,
+     "end": 79.66
+    },
+    {
+     "word": "nada",
+     "start": 79.66,
+     "end": 80.04
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 80.08,
+   "end": 80.97,
+   "text": "travando",
+   "words": [
+    {
+     "word": "travando",
+     "start": 80.08,
+     "end": 80.97
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 81.68,
+   "end": 82.59,
+   "text": "console novo",
+   "words": [
+    {
+     "word": "console",
+     "start": 81.68,
+     "end": 82.06
+    },
+    {
+     "word": "novo",
+     "start": 82.06,
+     "end": 82.59
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
