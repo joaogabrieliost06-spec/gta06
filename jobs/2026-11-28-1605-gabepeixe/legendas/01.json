@@ -1,0 +1,530 @@
+{
+ "segments": [
+  {
+   "start": 1.1,
+   "end": 2.09,
+   "text": "Vou dar like, né?",
+   "words": [
+    {
+     "word": "Vou",
+     "start": 1.1,
+     "end": 1.28
+    },
+    {
+     "word": "dar",
+     "start": 1.28,
+     "end": 1.42
+    },
+    {
+     "word": "like,",
+     "start": 1.42,
+     "end": 1.68
+    },
+    {
+     "word": "né?",
+     "start": 1.78,
+     "end": 2.09
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 2.18,
+   "end": 3.27,
+   "text": "Tá ligado, né, pai?",
+   "words": [
+    {
+     "word": "Tá",
+     "start": 2.18,
+     "end": 2.28
+    },
+    {
+     "word": "ligado,",
+     "start": 2.28,
+     "end": 2.66
+    },
+    {
+     "word": "né,",
+     "start": 2.74,
+     "end": 2.79
+    },
+    {
+     "word": "pai?",
+     "start": 2.88,
+     "end": 3.27
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 3.46,
+   "end": 4.1,
+   "text": "Mas eu queria botar",
+   "words": [
+    {
+     "word": "Mas",
+     "start": 3.46,
+     "end": 3.52
+    },
+    {
+     "word": "eu",
+     "start": 3.52,
+     "end": 3.64
+    },
+    {
+     "word": "queria",
+     "start": 3.64,
+     "end": 3.82
+    },
+    {
+     "word": "botar",
+     "start": 3.82,
+     "end": 4.1
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 4.14,
+   "end": 4.96,
+   "text": "legenda, porque",
+   "words": [
+    {
+     "word": "legenda,",
+     "start": 4.14,
+     "end": 4.72
+    },
+    {
+     "word": "porque",
+     "start": 4.86,
+     "end": 4.96
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 5.0,
+   "end": 5.68,
+   "text": "o bichão aqui",
+   "words": [
+    {
+     "word": "o",
+     "start": 5.0,
+     "end": 5.16
+    },
+    {
+     "word": "bichão",
+     "start": 5.16,
+     "end": 5.5
+    },
+    {
+     "word": "aqui",
+     "start": 5.5,
+     "end": 5.68
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 5.72,
+   "end": 6.55,
+   "text": "é burro que só",
+   "words": [
+    {
+     "word": "é",
+     "start": 5.72,
+     "end": 6.04
+    },
+    {
+     "word": "burro",
+     "start": 6.04,
+     "end": 6.4
+    },
+    {
+     "word": "que",
+     "start": 6.4,
+     "end": 6.5
+    },
+    {
+     "word": "só",
+     "start": 6.5,
+     "end": 6.55
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 6.58,
+   "end": 7.33,
+   "text": "uma porta",
+   "words": [
+    {
+     "word": "uma",
+     "start": 6.58,
+     "end": 6.74
+    },
+    {
+     "word": "porta",
+     "start": 6.74,
+     "end": 7.33
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 8.72,
+   "end": 9.56,
+   "text": "Legendas, alemão",
+   "words": [
+    {
+     "word": "Legendas,",
+     "start": 8.72,
+     "end": 9.12
+    },
+    {
+     "word": "alemão",
+     "start": 9.12,
+     "end": 9.56
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 9.6,
+   "end": 10.74,
+   "text": "pô, alemão, falo",
+   "words": [
+    {
+     "word": "pô,",
+     "start": 9.6,
+     "end": 9.78
+    },
+    {
+     "word": "alemão,",
+     "start": 10.06,
+     "end": 10.5
+    },
+    {
+     "word": "falo",
+     "start": 10.62,
+     "end": 10.74
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 10.78,
+   "end": 11.75,
+   "text": "nem português",
+   "words": [
+    {
+     "word": "nem",
+     "start": 10.78,
+     "end": 10.86
+    },
+    {
+     "word": "português",
+     "start": 10.86,
+     "end": 11.75
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 11.94,
+   "end": 13.59,
+   "text": "tradução automática",
+   "words": [
+    {
+     "word": "tradução",
+     "start": 11.94,
+     "end": 12.6
+    },
+    {
+     "word": "automática",
+     "start": 12.6,
+     "end": 13.59
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 14.57,
+   "end": 15.7,
+   "text": "português, né, pai?",
+   "words": [
+    {
+     "word": "português,",
+     "start": 14.57,
+     "end": 15.05
+    },
+    {
+     "word": "né,",
+     "start": 15.13,
+     "end": 15.19
+    },
+    {
+     "word": "pai?",
+     "start": 15.29,
+     "end": 15.7
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 21.87,
+   "end": 23.18,
+   "text": "português, legal",
+   "words": [
+    {
+     "word": "português,",
+     "start": 21.87,
+     "end": 22.37
+    },
+    {
+     "word": "legal",
+     "start": 22.65,
+     "end": 23.18
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 29.15,
+   "end": 30.28,
+   "text": "— E⁠ aí,⁠ ô⁠ YouTube?⁠",
+   "words": [
+    {
+     "word": "— E⁠",
+     "start": 29.15,
+     "end": 29.41
+    },
+    {
+     "word": "aí,⁠",
+     "start": 29.41,
+     "end": 29.55
+    },
+    {
+     "word": "ô⁠",
+     "start": 29.67,
+     "end": 29.72
+    },
+    {
+     "word": "YouTube?⁠",
+     "start": 29.72,
+     "end": 30.28
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 31.29,
+   "end": 32.38,
+   "text": "E⁠ aí,⁠ ô⁠ YouTube?⁠",
+   "words": [
+    {
+     "word": "E⁠",
+     "start": 31.29,
+     "end": 31.43
+    },
+    {
+     "word": "aí,⁠",
+     "start": 31.43,
+     "end": 31.57
+    },
+    {
+     "word": "ô⁠",
+     "start": 31.59,
+     "end": 31.73
+    },
+    {
+     "word": "YouTube?⁠",
+     "start": 31.73,
+     "end": 32.38
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 44.42,
+   "end": 47.04,
+   "text": "— Como⁠ é?⁠ Que⁠ mundo⁠ é⁠ esse⁠",
+   "words": [
+    {
+     "word": "— Como⁠",
+     "start": 44.42,
+     "end": 44.68
+    },
+    {
+     "word": "é?⁠",
+     "start": 46.46,
+     "end": 46.52
+    },
+    {
+     "word": "Que⁠",
+     "start": 46.62,
+     "end": 46.7
+    },
+    {
+     "word": "mundo⁠",
+     "start": 46.7,
+     "end": 46.84
+    },
+    {
+     "word": "é⁠",
+     "start": 46.84,
+     "end": 46.98
+    },
+    {
+     "word": "esse⁠",
+     "start": 46.98,
+     "end": 47.04
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 47.08,
+   "end": 47.96,
+   "text": "— que⁠ eu⁠ não⁠ sei⁠ usar⁠ uma⁠ legenda⁠",
+   "words": [
+    {
+     "word": "— que⁠",
+     "start": 47.08,
+     "end": 47.16
+    },
+    {
+     "word": "eu⁠",
+     "start": 47.16,
+     "end": 47.24
+    },
+    {
+     "word": "não⁠",
+     "start": 47.24,
+     "end": 47.29
+    },
+    {
+     "word": "sei⁠",
+     "start": 47.29,
+     "end": 47.4
+    },
+    {
+     "word": "usar⁠",
+     "start": 47.4,
+     "end": 47.56
+    },
+    {
+     "word": "uma⁠",
+     "start": 47.56,
+     "end": 47.72
+    },
+    {
+     "word": "legenda⁠",
+     "start": 47.72,
+     "end": 47.96
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 48.0,
+   "end": 48.97,
+   "text": "no⁠ YouTube,⁠ bicho?⁠",
+   "words": [
+    {
+     "word": "no⁠",
+     "start": 48.0,
+     "end": 48.14
+    },
+    {
+     "word": "YouTube,⁠",
+     "start": 48.14,
+     "end": 48.36
+    },
+    {
+     "word": "bicho?⁠",
+     "start": 48.48,
+     "end": 48.97
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 54.89,
+   "end": 55.51,
+   "text": "Tradução⁠ automática⁠",
+   "words": [
+    {
+     "word": "Tradução⁠",
+     "start": 54.89,
+     "end": 55.19
+    },
+    {
+     "word": "automática⁠",
+     "start": 55.19,
+     "end": 55.51
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 55.55,
+   "end": 56.19,
+   "text": "O⁠ bicho⁠ é⁠ burro⁠",
+   "words": [
+    {
+     "word": "O⁠",
+     "start": 55.55,
+     "end": 55.65
+    },
+    {
+     "word": "bicho⁠",
+     "start": 55.65,
+     "end": 55.85
+    },
+    {
+     "word": "é⁠",
+     "start": 55.85,
+     "end": 55.99
+    },
+    {
+     "word": "burro⁠",
+     "start": 55.99,
+     "end": 56.19
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 56.23,
+   "end": 56.83,
+   "text": "mesmo⁠",
+   "words": [
+    {
+     "word": "mesmo⁠",
+     "start": 56.23,
+     "end": 56.83
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 58.51,
+   "end": 59.22,
+   "text": "Não⁠ tá⁠",
+   "words": [
+    {
+     "word": "Não⁠",
+     "start": 58.51,
+     "end": 58.77
+    },
+    {
+     "word": "tá⁠",
+     "start": 58.77,
+     "end": 59.22
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}

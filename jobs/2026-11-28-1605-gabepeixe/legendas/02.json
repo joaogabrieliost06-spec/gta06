@@ -1,0 +1,740 @@
+{
+ "segments": [
+  {
+   "start": 0.43,
+   "end": 1.33,
+   "text": "Gente, não",
+   "words": [
+    {
+     "word": "Gente,",
+     "start": 0.43,
+     "end": 0.81
+    },
+    {
+     "word": "não",
+     "start": 1.21,
+     "end": 1.33
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 1.37,
+   "end": 2.13,
+   "text": "é possível, por",
+   "words": [
+    {
+     "word": "é",
+     "start": 1.37,
+     "end": 1.43
+    },
+    {
+     "word": "possível,",
+     "start": 1.43,
+     "end": 1.83
+    },
+    {
+     "word": "por",
+     "start": 1.95,
+     "end": 2.13
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 2.17,
+   "end": 2.77,
+   "text": "que a legenda não",
+   "words": [
+    {
+     "word": "que",
+     "start": 2.17,
+     "end": 2.27
+    },
+    {
+     "word": "a",
+     "start": 2.27,
+     "end": 2.43
+    },
+    {
+     "word": "legenda",
+     "start": 2.43,
+     "end": 2.67
+    },
+    {
+     "word": "não",
+     "start": 2.67,
+     "end": 2.77
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 2.81,
+   "end": 3.92,
+   "text": "tá aparecendo, mano?",
+   "words": [
+    {
+     "word": "tá",
+     "start": 2.81,
+     "end": 2.93
+    },
+    {
+     "word": "aparecendo,",
+     "start": 2.93,
+     "end": 3.41
+    },
+    {
+     "word": "mano?",
+     "start": 3.49,
+     "end": 3.92
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 7.69,
+   "end": 8.34,
+   "text": "Muda",
+   "words": [
+    {
+     "word": "Muda",
+     "start": 7.69,
+     "end": 8.34
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 12.08,
+   "end": 12.9,
+   "text": "a legenda pra alemão",
+   "words": [
+    {
+     "word": "a",
+     "start": 12.08,
+     "end": 12.2
+    },
+    {
+     "word": "legenda",
+     "start": 12.2,
+     "end": 12.46
+    },
+    {
+     "word": "pra",
+     "start": 12.46,
+     "end": 12.6
+    },
+    {
+     "word": "alemão",
+     "start": 12.6,
+     "end": 12.9
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 12.94,
+   "end": 13.87,
+   "text": "automático?",
+   "words": [
+    {
+     "word": "automático?",
+     "start": 12.94,
+     "end": 13.87
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 14.39,
+   "end": 15.01,
+   "text": "Mas eu não falo",
+   "words": [
+    {
+     "word": "Mas",
+     "start": 14.39,
+     "end": 14.59
+    },
+    {
+     "word": "eu",
+     "start": 14.59,
+     "end": 14.77
+    },
+    {
+     "word": "não",
+     "start": 14.77,
+     "end": 14.85
+    },
+    {
+     "word": "falo",
+     "start": 14.85,
+     "end": 15.01
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 15.05,
+   "end": 16.4,
+   "text": "alemão, tá aqui, ó",
+   "words": [
+    {
+     "word": "alemão,",
+     "start": 15.05,
+     "end": 15.49
+    },
+    {
+     "word": "tá",
+     "start": 15.63,
+     "end": 15.77
+    },
+    {
+     "word": "aqui,",
+     "start": 15.77,
+     "end": 15.99
+    },
+    {
+     "word": "ó",
+     "start": 16.05,
+     "end": 16.4
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 16.64,
+   "end": 17.32,
+   "text": "alemão gerado",
+   "words": [
+    {
+     "word": "alemão",
+     "start": 16.64,
+     "end": 17.02
+    },
+    {
+     "word": "gerado",
+     "start": 17.02,
+     "end": 17.32
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 17.36,
+   "end": 17.84,
+   "text": "automaticamente",
+   "words": [
+    {
+     "word": "automaticamente",
+     "start": 17.36,
+     "end": 17.84
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 17.88,
+   "end": 18.85,
+   "text": "português",
+   "words": [
+    {
+     "word": "português",
+     "start": 17.88,
+     "end": 18.85
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 19.51,
+   "end": 22.86,
+   "text": "— E⁠ aí?⁠",
+   "words": [
+    {
+     "word": "— E⁠",
+     "start": 19.51,
+     "end": 20.05
+    },
+    {
+     "word": "aí?⁠",
+     "start": 20.05,
+     "end": 22.86
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 31.48,
+   "end": 32.06,
+   "text": "Porque eu acho",
+   "words": [
+    {
+     "word": "Porque",
+     "start": 31.48,
+     "end": 31.76
+    },
+    {
+     "word": "eu",
+     "start": 31.76,
+     "end": 31.94
+    },
+    {
+     "word": "acho",
+     "start": 31.94,
+     "end": 32.06
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 32.1,
+   "end": 32.58,
+   "text": "que, calma aí",
+   "words": [
+    {
+     "word": "que,",
+     "start": 32.1,
+     "end": 32.26
+    },
+    {
+     "word": "calma",
+     "start": 32.32,
+     "end": 32.5
+    },
+    {
+     "word": "aí",
+     "start": 32.5,
+     "end": 32.58
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 32.62,
+   "end": 34.15,
+   "text": "o cara falou um negócio, eu",
+   "words": [
+    {
+     "word": "o",
+     "start": 32.62,
+     "end": 32.7
+    },
+    {
+     "word": "cara",
+     "start": 32.7,
+     "end": 32.82
+    },
+    {
+     "word": "falou",
+     "start": 32.82,
+     "end": 33.0
+    },
+    {
+     "word": "um",
+     "start": 33.0,
+     "end": 33.08
+    },
+    {
+     "word": "negócio,",
+     "start": 33.08,
+     "end": 33.26
+    },
+    {
+     "word": "eu",
+     "start": 33.46,
+     "end": 34.15
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 35.97,
+   "end": 36.61,
+   "text": "quero tradução",
+   "words": [
+    {
+     "word": "quero",
+     "start": 35.97,
+     "end": 36.17
+    },
+    {
+     "word": "tradução",
+     "start": 36.17,
+     "end": 36.61
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 36.65,
+   "end": 37.27,
+   "text": "automática",
+   "words": [
+    {
+     "word": "automática",
+     "start": 36.65,
+     "end": 37.27
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 37.31,
+   "end": 38.6,
+   "text": "em português, pô",
+   "words": [
+    {
+     "word": "em",
+     "start": 37.31,
+     "end": 37.51
+    },
+    {
+     "word": "português,",
+     "start": 37.51,
+     "end": 38.05
+    },
+    {
+     "word": "pô",
+     "start": 38.11,
+     "end": 38.6
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 46.84,
+   "end": 47.78,
+   "text": "Ele tá botando",
+   "words": [
+    {
+     "word": "Ele",
+     "start": 46.84,
+     "end": 47.24
+    },
+    {
+     "word": "tá",
+     "start": 47.24,
+     "end": 47.42
+    },
+    {
+     "word": "botando",
+     "start": 47.42,
+     "end": 47.78
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 47.82,
+   "end": 48.34,
+   "text": "alemão",
+   "words": [
+    {
+     "word": "alemão",
+     "start": 47.82,
+     "end": 48.34
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 48.38,
+   "end": 49.1,
+   "text": "pra português",
+   "words": [
+    {
+     "word": "pra",
+     "start": 48.38,
+     "end": 48.52
+    },
+    {
+     "word": "português",
+     "start": 48.52,
+     "end": 49.1
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 49.14,
+   "end": 50.1,
+   "text": "o cara tá falando",
+   "words": [
+    {
+     "word": "o",
+     "start": 49.14,
+     "end": 49.5
+    },
+    {
+     "word": "cara",
+     "start": 49.5,
+     "end": 49.68
+    },
+    {
+     "word": "tá",
+     "start": 49.68,
+     "end": 49.86
+    },
+    {
+     "word": "falando",
+     "start": 49.86,
+     "end": 50.1
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 50.14,
+   "end": 51.28,
+   "text": "inglês, ô YouTube",
+   "words": [
+    {
+     "word": "inglês,",
+     "start": 50.14,
+     "end": 50.68
+    },
+    {
+     "word": "ô",
+     "start": 50.78,
+     "end": 50.84
+    },
+    {
+     "word": "YouTube",
+     "start": 50.84,
+     "end": 51.28
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 51.32,
+   "end": 52.97,
+   "text": "ele tá falando inglês, YouTube",
+   "words": [
+    {
+     "word": "ele",
+     "start": 51.32,
+     "end": 51.4
+    },
+    {
+     "word": "tá",
+     "start": 51.4,
+     "end": 51.54
+    },
+    {
+     "word": "falando",
+     "start": 51.54,
+     "end": 51.78
+    },
+    {
+     "word": "inglês,",
+     "start": 51.78,
+     "end": 52.34
+    },
+    {
+     "word": "YouTube",
+     "start": 52.44,
+     "end": 52.97
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 53.29,
+   "end": 54.83,
+   "text": "Como é que você tá botando alemão?",
+   "words": [
+    {
+     "word": "Como",
+     "start": 53.29,
+     "end": 53.53
+    },
+    {
+     "word": "é",
+     "start": 53.53,
+     "end": 53.61
+    },
+    {
+     "word": "que",
+     "start": 53.61,
+     "end": 53.67
+    },
+    {
+     "word": "você",
+     "start": 53.67,
+     "end": 53.75
+    },
+    {
+     "word": "tá",
+     "start": 53.75,
+     "end": 53.87
+    },
+    {
+     "word": "botando",
+     "start": 53.87,
+     "end": 54.19
+    },
+    {
+     "word": "alemão?",
+     "start": 54.19,
+     "end": 54.83
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 54.87,
+   "end": 56.23,
+   "text": "É inglês, inglês",
+   "words": [
+    {
+     "word": "É",
+     "start": 54.87,
+     "end": 54.93
+    },
+    {
+     "word": "inglês,",
+     "start": 54.93,
+     "end": 55.55
+    },
+    {
+     "word": "inglês",
+     "start": 55.61,
+     "end": 56.23
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 56.27,
+   "end": 57.28,
+   "text": "irmão. Me ajuda a te",
+   "words": [
+    {
+     "word": "irmão.",
+     "start": 56.27,
+     "end": 56.55
+    },
+    {
+     "word": "Me",
+     "start": 56.63,
+     "end": 56.77
+    },
+    {
+     "word": "ajuda",
+     "start": 56.77,
+     "end": 57.11
+    },
+    {
+     "word": "a",
+     "start": 57.11,
+     "end": 57.23
+    },
+    {
+     "word": "te",
+     "start": 57.23,
+     "end": 57.28
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 57.27,
+   "end": 57.87,
+   "text": "ajudar?",
+   "words": [
+    {
+     "word": "ajudar?",
+     "start": 57.27,
+     "end": 57.87
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 59.35,
+   "end": 59.89,
+   "text": "Senão eu vou ter",
+   "words": [
+    {
+     "word": "Senão",
+     "start": 59.35,
+     "end": 59.59
+    },
+    {
+     "word": "eu",
+     "start": 59.59,
+     "end": 59.73
+    },
+    {
+     "word": "vou",
+     "start": 59.73,
+     "end": 59.81
+    },
+    {
+     "word": "ter",
+     "start": 59.81,
+     "end": 59.89
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 59.93,
+   "end": 60.79,
+   "text": "que tentar traduzir",
+   "words": [
+    {
+     "word": "que",
+     "start": 59.93,
+     "end": 60.05
+    },
+    {
+     "word": "tentar",
+     "start": 60.05,
+     "end": 60.31
+    },
+    {
+     "word": "traduzir",
+     "start": 60.31,
+     "end": 60.79
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 60.83,
+   "end": 61.6,
+   "text": "o que eu não sei",
+   "words": [
+    {
+     "word": "o",
+     "start": 60.83,
+     "end": 60.91
+    },
+    {
+     "word": "que",
+     "start": 60.91,
+     "end": 60.99
+    },
+    {
+     "word": "eu",
+     "start": 60.99,
+     "end": 61.05
+    },
+    {
+     "word": "não",
+     "start": 61.05,
+     "end": 61.17
+    },
+    {
+     "word": "sei",
+     "start": 61.17,
+     "end": 61.6
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
