@@ -1,0 +1,399 @@
+{
+ "segments": [
+  {
+   "start": 4.59,
+   "end": 5.69,
+   "text": "O que que é mais bizarro?",
+   "words": [
+    {
+     "word": "O",
+     "start": 4.59,
+     "end": 4.71
+    },
+    {
+     "word": "que",
+     "start": 4.71,
+     "end": 4.83
+    },
+    {
+     "word": "que",
+     "start": 4.83,
+     "end": 4.91
+    },
+    {
+     "word": "é",
+     "start": 4.91,
+     "end": 4.99
+    },
+    {
+     "word": "mais",
+     "start": 4.99,
+     "end": 5.09
+    },
+    {
+     "word": "bizarro?",
+     "start": 5.09,
+     "end": 5.69
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 5.73,
+   "end": 6.43,
+   "text": "Que a casa",
+   "words": [
+    {
+     "word": "Que",
+     "start": 5.73,
+     "end": 6.03
+    },
+    {
+     "word": "a",
+     "start": 6.03,
+     "end": 6.19
+    },
+    {
+     "word": "casa",
+     "start": 6.19,
+     "end": 6.43
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.47,
+   "end": 7.27,
+   "text": "do meu lado dava",
+   "words": [
+    {
+     "word": "do",
+     "start": 6.47,
+     "end": 6.61
+    },
+    {
+     "word": "meu",
+     "start": 6.61,
+     "end": 6.81
+    },
+    {
+     "word": "lado",
+     "start": 6.81,
+     "end": 7.05
+    },
+    {
+     "word": "dava",
+     "start": 7.05,
+     "end": 7.27
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.31,
+   "end": 8.54,
+   "text": "pra interagir, mano",
+   "words": [
+    {
+     "word": "pra",
+     "start": 7.31,
+     "end": 7.43
+    },
+    {
+     "word": "interagir,",
+     "start": 7.43,
+     "end": 8.11
+    },
+    {
+     "word": "mano",
+     "start": 8.11,
+     "end": 8.54
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 9.87,
+   "end": 10.86,
+   "text": "casa aqui, ó",
+   "words": [
+    {
+     "word": "casa",
+     "start": 9.87,
+     "end": 10.17
+    },
+    {
+     "word": "aqui,",
+     "start": 10.17,
+     "end": 10.41
+    },
+    {
+     "word": "ó",
+     "start": 10.53,
+     "end": 10.86
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 14.22,
+   "end": 15.02,
+   "text": "eu consegui roubar",
+   "words": [
+    {
+     "word": "eu",
+     "start": 14.22,
+     "end": 14.3
+    },
+    {
+     "word": "consegui",
+     "start": 14.3,
+     "end": 14.74
+    },
+    {
+     "word": "roubar",
+     "start": 14.74,
+     "end": 15.02
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 15.06,
+   "end": 16.15,
+   "text": "ela. Olha",
+   "words": [
+    {
+     "word": "ela.",
+     "start": 15.06,
+     "end": 15.32
+    },
+    {
+     "word": "Olha",
+     "start": 15.32,
+     "end": 16.15
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 16.53,
+   "end": 17.76,
+   "text": "que louco, não",
+   "words": [
+    {
+     "word": "que",
+     "start": 16.53,
+     "end": 16.69
+    },
+    {
+     "word": "louco,",
+     "start": 16.69,
+     "end": 17.07
+    },
+    {
+     "word": "não",
+     "start": 17.07,
+     "end": 17.76
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 34.87,
+   "end": 36.44,
+   "text": "é possível. Mas",
+   "words": [
+    {
+     "word": "é",
+     "start": 34.87,
+     "end": 34.95
+    },
+    {
+     "word": "possível.",
+     "start": 34.95,
+     "end": 35.53
+    },
+    {
+     "word": "Mas",
+     "start": 35.53,
+     "end": 36.44
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 40.98,
+   "end": 42.18,
+   "text": "o jogo não ia dar nada aqui, só",
+   "words": [
+    {
+     "word": "o",
+     "start": 40.98,
+     "end": 41.06
+    },
+    {
+     "word": "jogo",
+     "start": 41.06,
+     "end": 41.24
+    },
+    {
+     "word": "não",
+     "start": 41.24,
+     "end": 41.34
+    },
+    {
+     "word": "ia",
+     "start": 41.34,
+     "end": 41.44
+    },
+    {
+     "word": "dar",
+     "start": 41.44,
+     "end": 41.6
+    },
+    {
+     "word": "nada",
+     "start": 41.6,
+     "end": 41.82
+    },
+    {
+     "word": "aqui,",
+     "start": 41.82,
+     "end": 42.02
+    },
+    {
+     "word": "só",
+     "start": 42.1,
+     "end": 42.18
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 42.22,
+   "end": 43.09,
+   "text": "porque, não",
+   "words": [
+    {
+     "word": "porque,",
+     "start": 42.22,
+     "end": 42.56
+    },
+    {
+     "word": "não",
+     "start": 42.72,
+     "end": 43.09
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 44.75,
+   "end": 46.48,
+   "text": "faz sentido. Olha",
+   "words": [
+    {
+     "word": "faz",
+     "start": 44.75,
+     "end": 45.29
+    },
+    {
+     "word": "sentido.",
+     "start": 45.29,
+     "end": 45.69
+    },
+    {
+     "word": "Olha",
+     "start": 45.69,
+     "end": 46.48
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 46.63,
+   "end": 48.08,
+   "text": "isso aí, bicho. Que",
+   "words": [
+    {
+     "word": "isso",
+     "start": 46.63,
+     "end": 46.79
+    },
+    {
+     "word": "aí,",
+     "start": 46.79,
+     "end": 46.91
+    },
+    {
+     "word": "bicho.",
+     "start": 47.03,
+     "end": 47.31
+    },
+    {
+     "word": "Que",
+     "start": 47.31,
+     "end": 48.08
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 54.38,
+   "end": 55.57,
+   "text": "isso, mano?",
+   "words": [
+    {
+     "word": "isso,",
+     "start": 54.38,
+     "end": 54.9
+    },
+    {
+     "word": "mano?",
+     "start": 55.04,
+     "end": 55.57
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 57.78,
+   "end": 58.81,
+   "text": "Não, não é a casa toda",
+   "words": [
+    {
+     "word": "Não,",
+     "start": 57.78,
+     "end": 57.86
+    },
+    {
+     "word": "não",
+     "start": 57.94,
+     "end": 58.0
+    },
+    {
+     "word": "é",
+     "start": 58.0,
+     "end": 58.05
+    },
+    {
+     "word": "a",
+     "start": 58.05,
+     "end": 58.14
+    },
+    {
+     "word": "casa",
+     "start": 58.14,
+     "end": 58.3
+    },
+    {
+     "word": "toda",
+     "start": 58.3,
+     "end": 58.81
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
