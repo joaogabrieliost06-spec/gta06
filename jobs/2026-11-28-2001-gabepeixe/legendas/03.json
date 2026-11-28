@@ -1,0 +1,941 @@
+{
+ "segments": [
+  {
+   "start": 1.98,
+   "end": 2.73,
+   "text": "Pô, velho",
+   "words": [
+    {
+     "word": "Pô,",
+     "start": 1.98,
+     "end": 2.1
+    },
+    {
+     "word": "velho",
+     "start": 2.14,
+     "end": 2.73
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 4.45,
+   "end": 5.37,
+   "text": "moleque, isso tava",
+   "words": [
+    {
+     "word": "moleque,",
+     "start": 4.45,
+     "end": 4.77
+    },
+    {
+     "word": "isso",
+     "start": 4.89,
+     "end": 5.15
+    },
+    {
+     "word": "tava",
+     "start": 5.15,
+     "end": 5.37
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 5.41,
+   "end": 6.27,
+   "text": "todo o tempo aqui",
+   "words": [
+    {
+     "word": "todo",
+     "start": 5.41,
+     "end": 5.73
+    },
+    {
+     "word": "o",
+     "start": 5.73,
+     "end": 5.89
+    },
+    {
+     "word": "tempo",
+     "start": 5.89,
+     "end": 6.03
+    },
+    {
+     "word": "aqui",
+     "start": 6.03,
+     "end": 6.27
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.31,
+   "end": 7.61,
+   "text": "e a gente não tinha visto, viado",
+   "words": [
+    {
+     "word": "e",
+     "start": 6.31,
+     "end": 6.43
+    },
+    {
+     "word": "a",
+     "start": 6.43,
+     "end": 6.51
+    },
+    {
+     "word": "gente",
+     "start": 6.51,
+     "end": 6.59
+    },
+    {
+     "word": "não",
+     "start": 6.59,
+     "end": 6.75
+    },
+    {
+     "word": "tinha",
+     "start": 6.75,
+     "end": 6.91
+    },
+    {
+     "word": "visto,",
+     "start": 6.91,
+     "end": 7.27
+    },
+    {
+     "word": "viado",
+     "start": 7.39,
+     "end": 7.61
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.65,
+   "end": 8.5,
+   "text": "mano",
+   "words": [
+    {
+     "word": "mano",
+     "start": 7.65,
+     "end": 8.5
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 9.5,
+   "end": 10.06,
+   "text": "a galera tá",
+   "words": [
+    {
+     "word": "a",
+     "start": 9.5,
+     "end": 9.7
+    },
+    {
+     "word": "galera",
+     "start": 9.7,
+     "end": 9.92
+    },
+    {
+     "word": "tá",
+     "start": 9.92,
+     "end": 10.06
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.1,
+   "end": 10.58,
+   "text": "literalmente",
+   "words": [
+    {
+     "word": "literalmente",
+     "start": 10.1,
+     "end": 10.58
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.62,
+   "end": 11.7,
+   "text": "a bingola do cara",
+   "words": [
+    {
+     "word": "a",
+     "start": 10.62,
+     "end": 10.744
+    },
+    {
+     "word": "bingola",
+     "start": 10.744,
+     "end": 11.24
+    },
+    {
+     "word": "do",
+     "start": 11.24,
+     "end": 11.38
+    },
+    {
+     "word": "cara",
+     "start": 11.38,
+     "end": 11.7
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 11.74,
+   "end": 12.59,
+   "text": "mano, que",
+   "words": [
+    {
+     "word": "mano,",
+     "start": 11.74,
+     "end": 11.9
+    },
+    {
+     "word": "que",
+     "start": 11.9,
+     "end": 12.59
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 38.05,
+   "end": 39.17,
+   "text": "doideira de, mano",
+   "words": [
+    {
+     "word": "doideira",
+     "start": 38.05,
+     "end": 38.57
+    },
+    {
+     "word": "de,",
+     "start": 38.57,
+     "end": 38.79
+    },
+    {
+     "word": "mano",
+     "start": 38.91,
+     "end": 39.17
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 39.21,
+   "end": 39.69,
+   "text": "que doideira",
+   "words": [
+    {
+     "word": "que",
+     "start": 39.21,
+     "end": 39.31
+    },
+    {
+     "word": "doideira",
+     "start": 39.31,
+     "end": 39.69
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 39.73,
+   "end": 41.3,
+   "text": "de game, viado, não",
+   "words": [
+    {
+     "word": "de",
+     "start": 39.73,
+     "end": 39.89
+    },
+    {
+     "word": "game,",
+     "start": 39.89,
+     "end": 40.13
+    },
+    {
+     "word": "viado,",
+     "start": 40.33,
+     "end": 40.53
+    },
+    {
+     "word": "não",
+     "start": 40.53,
+     "end": 41.3
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 41.84,
+   "end": 42.4,
+   "text": "dá pra acreditar",
+   "words": [
+    {
+     "word": "dá",
+     "start": 41.84,
+     "end": 41.94
+    },
+    {
+     "word": "pra",
+     "start": 41.94,
+     "end": 42.06
+    },
+    {
+     "word": "acreditar",
+     "start": 42.06,
+     "end": 42.4
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 42.44,
+   "end": 43.1,
+   "text": "num negócio desse",
+   "words": [
+    {
+     "word": "num",
+     "start": 42.44,
+     "end": 42.58
+    },
+    {
+     "word": "negócio",
+     "start": 42.58,
+     "end": 42.78
+    },
+    {
+     "word": "desse",
+     "start": 42.78,
+     "end": 43.1
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 43.14,
+   "end": 44.55,
+   "text": "não, parece até mentira, cara",
+   "words": [
+    {
+     "word": "não,",
+     "start": 43.14,
+     "end": 43.22
+    },
+    {
+     "word": "parece",
+     "start": 43.28,
+     "end": 43.42
+    },
+    {
+     "word": "até",
+     "start": 43.42,
+     "end": 43.56
+    },
+    {
+     "word": "mentira,",
+     "start": 43.56,
+     "end": 44.02
+    },
+    {
+     "word": "cara",
+     "start": 44.08,
+     "end": 44.55
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 45.03,
+   "end": 46.19,
+   "text": "parece até mentira",
+   "words": [
+    {
+     "word": "parece",
+     "start": 45.03,
+     "end": 45.57
+    },
+    {
+     "word": "até",
+     "start": 45.57,
+     "end": 45.77
+    },
+    {
+     "word": "mentira",
+     "start": 45.77,
+     "end": 46.19
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 46.23,
+   "end": 47.25,
+   "text": "isso tá todo o tempo aqui",
+   "words": [
+    {
+     "word": "isso",
+     "start": 46.23,
+     "end": 46.33
+    },
+    {
+     "word": "tá",
+     "start": 46.33,
+     "end": 46.43
+    },
+    {
+     "word": "todo",
+     "start": 46.43,
+     "end": 46.69
+    },
+    {
+     "word": "o",
+     "start": 46.69,
+     "end": 46.93
+    },
+    {
+     "word": "tempo",
+     "start": 46.93,
+     "end": 47.09
+    },
+    {
+     "word": "aqui",
+     "start": 47.09,
+     "end": 47.25
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 47.29,
+   "end": 49.18,
+   "text": "e a gente não sabia, mano, tipo",
+   "words": [
+    {
+     "word": "e",
+     "start": 47.29,
+     "end": 47.37
+    },
+    {
+     "word": "a",
+     "start": 47.37,
+     "end": 47.43
+    },
+    {
+     "word": "gente",
+     "start": 47.43,
+     "end": 47.51
+    },
+    {
+     "word": "não",
+     "start": 47.51,
+     "end": 47.67
+    },
+    {
+     "word": "sabia,",
+     "start": 47.67,
+     "end": 48.03
+    },
+    {
+     "word": "mano,",
+     "start": 48.11,
+     "end": 48.29
+    },
+    {
+     "word": "tipo",
+     "start": 48.29,
+     "end": 49.18
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 50.32,
+   "end": 51.26,
+   "text": "assim, eu pelo menos",
+   "words": [
+    {
+     "word": "assim,",
+     "start": 50.32,
+     "end": 50.54
+    },
+    {
+     "word": "eu",
+     "start": 50.62,
+     "end": 50.86
+    },
+    {
+     "word": "pelo",
+     "start": 50.86,
+     "end": 51.1
+    },
+    {
+     "word": "menos",
+     "start": 51.1,
+     "end": 51.26
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 51.3,
+   "end": 51.88,
+   "text": "não me recordo",
+   "words": [
+    {
+     "word": "não",
+     "start": 51.3,
+     "end": 51.44
+    },
+    {
+     "word": "me",
+     "start": 51.44,
+     "end": 51.56
+    },
+    {
+     "word": "recordo",
+     "start": 51.56,
+     "end": 51.88
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 51.92,
+   "end": 52.84,
+   "text": "de ter visto, tipo",
+   "words": [
+    {
+     "word": "de",
+     "start": 51.92,
+     "end": 52.02
+    },
+    {
+     "word": "ter",
+     "start": 52.02,
+     "end": 52.12
+    },
+    {
+     "word": "visto,",
+     "start": 52.12,
+     "end": 52.38
+    },
+    {
+     "word": "tipo",
+     "start": 52.5,
+     "end": 52.84
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 52.88,
+   "end": 53.54,
+   "text": "sabendo que tem",
+   "words": [
+    {
+     "word": "sabendo",
+     "start": 52.88,
+     "end": 53.34
+    },
+    {
+     "word": "que",
+     "start": 53.34,
+     "end": 53.46
+    },
+    {
+     "word": "tem",
+     "start": 53.46,
+     "end": 53.54
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 53.58,
+   "end": 54.38,
+   "text": "um bagulho peladão",
+   "words": [
+    {
+     "word": "um",
+     "start": 53.58,
+     "end": 53.68
+    },
+    {
+     "word": "bagulho",
+     "start": 53.68,
+     "end": 53.92
+    },
+    {
+     "word": "peladão",
+     "start": 53.92,
+     "end": 54.38
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 54.42,
+   "end": 55.57,
+   "text": "aqui, mano, de",
+   "words": [
+    {
+     "word": "aqui,",
+     "start": 54.42,
+     "end": 54.66
+    },
+    {
+     "word": "mano,",
+     "start": 54.76,
+     "end": 54.9
+    },
+    {
+     "word": "de",
+     "start": 54.9,
+     "end": 55.57
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 57.36,
+   "end": 58.0,
+   "text": "verdade mesmo",
+   "words": [
+    {
+     "word": "verdade",
+     "start": 57.36,
+     "end": 57.6
+    },
+    {
+     "word": "mesmo",
+     "start": 57.6,
+     "end": 58.0
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 58.04,
+   "end": 59.01,
+   "text": "não",
+   "words": [
+    {
+     "word": "não",
+     "start": 58.04,
+     "end": 59.01
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 70.71,
+   "end": 71.31,
+   "text": "vamos passar nesse",
+   "words": [
+    {
+     "word": "vamos",
+     "start": 70.71,
+     "end": 70.89
+    },
+    {
+     "word": "passar",
+     "start": 70.89,
+     "end": 71.15
+    },
+    {
+     "word": "nesse",
+     "start": 71.15,
+     "end": 71.31
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 71.35,
+   "end": 72.07,
+   "text": "aeroporto aqui",
+   "words": [
+    {
+     "word": "aeroporto",
+     "start": 71.35,
+     "end": 71.87
+    },
+    {
+     "word": "aqui",
+     "start": 71.87,
+     "end": 72.07
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 72.11,
+   "end": 72.63,
+   "text": "pegar um avião",
+   "words": [
+    {
+     "word": "pegar",
+     "start": 72.11,
+     "end": 72.29
+    },
+    {
+     "word": "um",
+     "start": 72.29,
+     "end": 72.37
+    },
+    {
+     "word": "avião",
+     "start": 72.37,
+     "end": 72.63
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 72.67,
+   "end": 73.49,
+   "text": "pra gente ir lá pra cima",
+   "words": [
+    {
+     "word": "pra",
+     "start": 72.67,
+     "end": 72.79
+    },
+    {
+     "word": "gente",
+     "start": 72.79,
+     "end": 72.95
+    },
+    {
+     "word": "ir",
+     "start": 72.95,
+     "end": 73.07
+    },
+    {
+     "word": "lá",
+     "start": 73.07,
+     "end": 73.13
+    },
+    {
+     "word": "pra",
+     "start": 73.13,
+     "end": 73.23
+    },
+    {
+     "word": "cima",
+     "start": 73.23,
+     "end": 73.49
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 73.53,
+   "end": 74.44,
+   "text": "que é mais rápido",
+   "words": [
+    {
+     "word": "que",
+     "start": 73.53,
+     "end": 73.61
+    },
+    {
+     "word": "é",
+     "start": 73.61,
+     "end": 73.67
+    },
+    {
+     "word": "mais",
+     "start": 73.67,
+     "end": 73.79
+    },
+    {
+     "word": "rápido",
+     "start": 73.79,
+     "end": 74.44
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 76.61,
+   "end": 77.56,
+   "text": "Pô",
+   "words": [
+    {
+     "word": "Pô",
+     "start": 76.61,
+     "end": 77.56
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 78.05,
+   "end": 78.68,
+   "text": "irmão",
+   "words": [
+    {
+     "word": "irmão",
+     "start": 78.05,
+     "end": 78.68
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 81.08,
+   "end": 81.62,
+   "text": "isso aqui é um jogo",
+   "words": [
+    {
+     "word": "isso",
+     "start": 81.08,
+     "end": 81.22
+    },
+    {
+     "word": "aqui",
+     "start": 81.22,
+     "end": 81.36
+    },
+    {
+     "word": "é",
+     "start": 81.36,
+     "end": 81.42
+    },
+    {
+     "word": "um",
+     "start": 81.42,
+     "end": 81.48
+    },
+    {
+     "word": "jogo",
+     "start": 81.48,
+     "end": 81.62
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 81.66,
+   "end": 82.2,
+   "text": "de surpreender",
+   "words": [
+    {
+     "word": "de",
+     "start": 81.66,
+     "end": 81.78
+    },
+    {
+     "word": "surpreender",
+     "start": 81.78,
+     "end": 82.2
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 82.24,
+   "end": 82.92,
+   "text": "Quantas coisas vocês",
+   "words": [
+    {
+     "word": "Quantas",
+     "start": 82.24,
+     "end": 82.6
+    },
+    {
+     "word": "coisas",
+     "start": 82.6,
+     "end": 82.8
+    },
+    {
+     "word": "vocês",
+     "start": 82.8,
+     "end": 82.92
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 82.96,
+   "end": 83.5,
+   "text": "acham que ainda tem",
+   "words": [
+    {
+     "word": "acham",
+     "start": 82.96,
+     "end": 83.16
+    },
+    {
+     "word": "que",
+     "start": 83.16,
+     "end": 83.24
+    },
+    {
+     "word": "ainda",
+     "start": 83.24,
+     "end": 83.34
+    },
+    {
+     "word": "tem",
+     "start": 83.34,
+     "end": 83.5
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 83.54,
+   "end": 84.1,
+   "text": "pra descobrir nesse",
+   "words": [
+    {
+     "word": "pra",
+     "start": 83.54,
+     "end": 83.64
+    },
+    {
+     "word": "descobrir",
+     "start": 83.64,
+     "end": 83.96
+    },
+    {
+     "word": "nesse",
+     "start": 83.96,
+     "end": 84.1
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 84.14,
+   "end": 84.93,
+   "text": "jogo, mano?",
+   "words": [
+    {
+     "word": "jogo,",
+     "start": 84.14,
+     "end": 84.44
+    },
+    {
+     "word": "mano?",
+     "start": 84.52,
+     "end": 84.93
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
