@@ -1,0 +1,555 @@
+{
+ "segments": [
+  {
+   "start": 1.11,
+   "end": 1.85,
+   "text": "Que fica diferente pro nosso",
+   "words": [
+    {
+     "word": "Que",
+     "start": 1.11,
+     "end": 1.19
+    },
+    {
+     "word": "fica",
+     "start": 1.19,
+     "end": 1.33
+    },
+    {
+     "word": "diferente",
+     "start": 1.33,
+     "end": 1.57
+    },
+    {
+     "word": "pro",
+     "start": 1.57,
+     "end": 1.71
+    },
+    {
+     "word": "nosso",
+     "start": 1.71,
+     "end": 1.85
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 1.89,
+   "end": 2.64,
+   "text": "quarto",
+   "words": [
+    {
+     "word": "quarto",
+     "start": 1.89,
+     "end": 2.64
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 5.7,
+   "end": 6.26,
+   "text": "Bagulho grande",
+   "words": [
+    {
+     "word": "Bagulho",
+     "start": 5.7,
+     "end": 6.02
+    },
+    {
+     "word": "grande",
+     "start": 6.02,
+     "end": 6.26
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.3,
+   "end": 7.1,
+   "text": "da porra",
+   "words": [
+    {
+     "word": "da",
+     "start": 6.3,
+     "end": 6.48
+    },
+    {
+     "word": "porra",
+     "start": 6.48,
+     "end": 7.1
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.14,
+   "end": 8.02,
+   "text": "Uma pergunta, será que eu consigo",
+   "words": [
+    {
+     "word": "Uma",
+     "start": 7.14,
+     "end": 7.24
+    },
+    {
+     "word": "pergunta,",
+     "start": 7.24,
+     "end": 7.5
+    },
+    {
+     "word": "será",
+     "start": 7.62,
+     "end": 7.7
+    },
+    {
+     "word": "que",
+     "start": 7.7,
+     "end": 7.8
+    },
+    {
+     "word": "eu",
+     "start": 7.8,
+     "end": 7.85
+    },
+    {
+     "word": "consigo",
+     "start": 7.85,
+     "end": 8.02
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 8.06,
+   "end": 8.6,
+   "text": "entrar no quarto",
+   "words": [
+    {
+     "word": "entrar",
+     "start": 8.06,
+     "end": 8.28
+    },
+    {
+     "word": "no",
+     "start": 8.28,
+     "end": 8.4
+    },
+    {
+     "word": "quarto",
+     "start": 8.4,
+     "end": 8.6
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 8.64,
+   "end": 9.79,
+   "text": "do cara agora?",
+   "words": [
+    {
+     "word": "do",
+     "start": 8.64,
+     "end": 8.8
+    },
+    {
+     "word": "cara",
+     "start": 8.8,
+     "end": 9.04
+    },
+    {
+     "word": "agora?",
+     "start": 9.04,
+     "end": 9.79
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.54,
+   "end": 11.79,
+   "text": "Naquele... Do George lá?",
+   "words": [
+    {
+     "word": "Naquele...",
+     "start": 10.54,
+     "end": 10.86
+    },
+    {
+     "word": "Do",
+     "start": 10.94,
+     "end": 11.02
+    },
+    {
+     "word": "George",
+     "start": 11.02,
+     "end": 11.34
+    },
+    {
+     "word": "lá?",
+     "start": 11.34,
+     "end": 11.79
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 20.55,
+   "end": 21.18,
+   "text": "Não sei",
+   "words": [
+    {
+     "word": "Não",
+     "start": 20.55,
+     "end": 20.69
+    },
+    {
+     "word": "sei",
+     "start": 20.69,
+     "end": 21.18
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 24.35,
+   "end": 24.87,
+   "text": "Será que tem alguma",
+   "words": [
+    {
+     "word": "Será",
+     "start": 24.35,
+     "end": 24.55
+    },
+    {
+     "word": "que",
+     "start": 24.55,
+     "end": 24.65
+    },
+    {
+     "word": "tem",
+     "start": 24.65,
+     "end": 24.73
+    },
+    {
+     "word": "alguma",
+     "start": 24.73,
+     "end": 24.87
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 24.91,
+   "end": 25.77,
+   "text": "missão aqui dentro",
+   "words": [
+    {
+     "word": "missão",
+     "start": 24.91,
+     "end": 25.37
+    },
+    {
+     "word": "aqui",
+     "start": 25.37,
+     "end": 25.59
+    },
+    {
+     "word": "dentro",
+     "start": 25.59,
+     "end": 25.77
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 25.81,
+   "end": 27.14,
+   "text": "que a gente não sabe, né, mano?",
+   "words": [
+    {
+     "word": "que",
+     "start": 25.81,
+     "end": 25.91
+    },
+    {
+     "word": "a",
+     "start": 25.91,
+     "end": 25.99
+    },
+    {
+     "word": "gente",
+     "start": 25.99,
+     "end": 26.09
+    },
+    {
+     "word": "não",
+     "start": 26.09,
+     "end": 26.25
+    },
+    {
+     "word": "sabe,",
+     "start": 26.25,
+     "end": 26.55
+    },
+    {
+     "word": "né,",
+     "start": 26.65,
+     "end": 26.7
+    },
+    {
+     "word": "mano?",
+     "start": 26.79,
+     "end": 27.14
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 27.43,
+   "end": 28.25,
+   "text": "Ó, tem um cafezinho",
+   "words": [
+    {
+     "word": "Ó,",
+     "start": 27.43,
+     "end": 27.53
+    },
+    {
+     "word": "tem",
+     "start": 27.59,
+     "end": 27.69
+    },
+    {
+     "word": "um",
+     "start": 27.69,
+     "end": 27.79
+    },
+    {
+     "word": "cafezinho",
+     "start": 27.79,
+     "end": 28.25
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.29,
+   "end": 29.0,
+   "text": "também, ó",
+   "words": [
+    {
+     "word": "também,",
+     "start": 28.29,
+     "end": 28.59
+    },
+    {
+     "word": "ó",
+     "start": 28.67,
+     "end": 29.0
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 30.91,
+   "end": 31.45,
+   "text": "Mano, é muito",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 30.91,
+     "end": 31.11
+    },
+    {
+     "word": "é",
+     "start": 31.11,
+     "end": 31.23
+    },
+    {
+     "word": "muito",
+     "start": 31.23,
+     "end": 31.45
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 31.49,
+   "end": 32.13,
+   "text": "grande, né? A gente tá",
+   "words": [
+    {
+     "word": "grande,",
+     "start": 31.49,
+     "end": 31.77
+    },
+    {
+     "word": "né?",
+     "start": 31.85,
+     "end": 31.93
+    },
+    {
+     "word": "A",
+     "start": 31.95,
+     "end": 32.0
+    },
+    {
+     "word": "gente",
+     "start": 32.0,
+     "end": 32.07
+    },
+    {
+     "word": "tá",
+     "start": 32.07,
+     "end": 32.13
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 32.17,
+   "end": 32.81,
+   "text": "acostumado a morar",
+   "words": [
+    {
+     "word": "acostumado",
+     "start": 32.17,
+     "end": 32.55
+    },
+    {
+     "word": "a",
+     "start": 32.55,
+     "end": 32.61
+    },
+    {
+     "word": "morar",
+     "start": 32.61,
+     "end": 32.81
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 32.85,
+   "end": 33.95,
+   "text": "num barraquinho",
+   "words": [
+    {
+     "word": "num",
+     "start": 32.85,
+     "end": 33.01
+    },
+    {
+     "word": "barraquinho",
+     "start": 33.01,
+     "end": 33.95
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 33.99,
+   "end": 34.88,
+   "text": "de nada, né?",
+   "words": [
+    {
+     "word": "de",
+     "start": 33.99,
+     "end": 34.17
+    },
+    {
+     "word": "nada,",
+     "start": 34.17,
+     "end": 34.45
+    },
+    {
+     "word": "né?",
+     "start": 34.49,
+     "end": 34.88
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 37.83,
+   "end": 39.01,
+   "text": "Aí tu tem uma estrutura dessa",
+   "words": [
+    {
+     "word": "Aí",
+     "start": 37.83,
+     "end": 38.01
+    },
+    {
+     "word": "tu",
+     "start": 38.01,
+     "end": 38.09
+    },
+    {
+     "word": "tem",
+     "start": 38.09,
+     "end": 38.21
+    },
+    {
+     "word": "uma",
+     "start": 38.21,
+     "end": 38.33
+    },
+    {
+     "word": "estrutura",
+     "start": 38.33,
+     "end": 38.81
+    },
+    {
+     "word": "dessa",
+     "start": 38.81,
+     "end": 39.01
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 39.05,
+   "end": 39.57,
+   "text": "aqui, tu fica até",
+   "words": [
+    {
+     "word": "aqui,",
+     "start": 39.05,
+     "end": 39.23
+    },
+    {
+     "word": "tu",
+     "start": 39.29,
+     "end": 39.34
+    },
+    {
+     "word": "fica",
+     "start": 39.34,
+     "end": 39.49
+    },
+    {
+     "word": "até",
+     "start": 39.49,
+     "end": 39.57
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 39.61,
+   "end": 40.38,
+   "text": "perdido",
+   "words": [
+    {
+     "word": "perdido",
+     "start": 39.61,
+     "end": 40.38
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
