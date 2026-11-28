@@ -1,0 +1,854 @@
+{
+ "segments": [
+  {
+   "start": 4.35,
+   "end": 5.37,
+   "text": "tirou até as câmeras",
+   "words": [
+    {
+     "word": "tirou",
+     "start": 4.35,
+     "end": 4.65
+    },
+    {
+     "word": "até",
+     "start": 4.65,
+     "end": 4.85
+    },
+    {
+     "word": "as",
+     "start": 4.85,
+     "end": 5.01
+    },
+    {
+     "word": "câmeras",
+     "start": 5.01,
+     "end": 5.37
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 5.41,
+   "end": 6.22,
+   "text": "pra mim, mano",
+   "words": [
+    {
+     "word": "pra",
+     "start": 5.41,
+     "end": 5.59
+    },
+    {
+     "word": "mim,",
+     "start": 5.59,
+     "end": 5.73
+    },
+    {
+     "word": "mano",
+     "start": 5.81,
+     "end": 6.22
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 7.91,
+   "end": 8.79,
+   "text": "mano, eu quero muito",
+   "words": [
+    {
+     "word": "mano,",
+     "start": 7.91,
+     "end": 8.25
+    },
+    {
+     "word": "eu",
+     "start": 8.35,
+     "end": 8.4
+    },
+    {
+     "word": "quero",
+     "start": 8.4,
+     "end": 8.55
+    },
+    {
+     "word": "muito",
+     "start": 8.55,
+     "end": 8.79
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 8.83,
+   "end": 9.55,
+   "text": "ver isso aqui, mano",
+   "words": [
+    {
+     "word": "ver",
+     "start": 8.83,
+     "end": 9.03
+    },
+    {
+     "word": "isso",
+     "start": 9.03,
+     "end": 9.23
+    },
+    {
+     "word": "aqui,",
+     "start": 9.23,
+     "end": 9.37
+    },
+    {
+     "word": "mano",
+     "start": 9.47,
+     "end": 9.55
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 9.59,
+   "end": 10.19,
+   "text": "se eu consigo vender",
+   "words": [
+    {
+     "word": "se",
+     "start": 9.59,
+     "end": 9.71
+    },
+    {
+     "word": "eu",
+     "start": 9.71,
+     "end": 9.77
+    },
+    {
+     "word": "consigo",
+     "start": 9.77,
+     "end": 10.01
+    },
+    {
+     "word": "vender",
+     "start": 10.01,
+     "end": 10.19
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 10.23,
+   "end": 11.3,
+   "text": "o carro do velho",
+   "words": [
+    {
+     "word": "o",
+     "start": 10.23,
+     "end": 10.35
+    },
+    {
+     "word": "carro",
+     "start": 10.35,
+     "end": 10.53
+    },
+    {
+     "word": "do",
+     "start": 10.53,
+     "end": 10.67
+    },
+    {
+     "word": "velho",
+     "start": 10.67,
+     "end": 11.3
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 11.97,
+   "end": 12.82,
+   "text": "ué",
+   "words": [
+    {
+     "word": "ué",
+     "start": 11.97,
+     "end": 12.82
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 16.86,
+   "end": 17.56,
+   "text": "como se não oferece",
+   "words": [
+    {
+     "word": "como",
+     "start": 16.86,
+     "end": 17.08
+    },
+    {
+     "word": "se",
+     "start": 17.08,
+     "end": 17.18
+    },
+    {
+     "word": "não",
+     "start": 17.18,
+     "end": 17.28
+    },
+    {
+     "word": "oferece",
+     "start": 17.28,
+     "end": 17.56
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 17.6,
+   "end": 18.18,
+   "text": "serviço pra esse",
+   "words": [
+    {
+     "word": "serviço",
+     "start": 17.6,
+     "end": 17.96
+    },
+    {
+     "word": "pra",
+     "start": 17.96,
+     "end": 18.1
+    },
+    {
+     "word": "esse",
+     "start": 18.1,
+     "end": 18.18
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 18.22,
+   "end": 18.82,
+   "text": "veículo",
+   "words": [
+    {
+     "word": "veículo",
+     "start": 18.22,
+     "end": 18.82
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 29.41,
+   "end": 30.06,
+   "text": "ué",
+   "words": [
+    {
+     "word": "ué",
+     "start": 29.41,
+     "end": 30.06
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 31.63,
+   "end": 32.77,
+   "text": "será que eu não consigo vender",
+   "words": [
+    {
+     "word": "será",
+     "start": 31.63,
+     "end": 31.79
+    },
+    {
+     "word": "que",
+     "start": 31.79,
+     "end": 31.89
+    },
+    {
+     "word": "eu",
+     "start": 31.89,
+     "end": 31.97
+    },
+    {
+     "word": "não",
+     "start": 31.97,
+     "end": 32.05
+    },
+    {
+     "word": "consigo",
+     "start": 32.05,
+     "end": 32.45
+    },
+    {
+     "word": "vender",
+     "start": 32.45,
+     "end": 32.77
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 32.81,
+   "end": 33.96,
+   "text": "o carro dele, mano",
+   "words": [
+    {
+     "word": "o",
+     "start": 32.81,
+     "end": 33.01
+    },
+    {
+     "word": "carro",
+     "start": 33.01,
+     "end": 33.21
+    },
+    {
+     "word": "dele,",
+     "start": 33.21,
+     "end": 33.43
+    },
+    {
+     "word": "mano",
+     "start": 33.55,
+     "end": 33.96
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 46.81,
+   "end": 47.39,
+   "text": "será que eu consigo",
+   "words": [
+    {
+     "word": "será",
+     "start": 46.81,
+     "end": 46.95
+    },
+    {
+     "word": "que",
+     "start": 46.95,
+     "end": 47.03
+    },
+    {
+     "word": "eu",
+     "start": 47.03,
+     "end": 47.09
+    },
+    {
+     "word": "consigo",
+     "start": 47.09,
+     "end": 47.39
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 47.43,
+   "end": 48.21,
+   "text": "não vender o carro",
+   "words": [
+    {
+     "word": "não",
+     "start": 47.43,
+     "end": 47.63
+    },
+    {
+     "word": "vender",
+     "start": 47.63,
+     "end": 47.93
+    },
+    {
+     "word": "o",
+     "start": 47.93,
+     "end": 48.07
+    },
+    {
+     "word": "carro",
+     "start": 48.07,
+     "end": 48.21
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 48.25,
+   "end": 49.18,
+   "text": "dele, tipo assim, eu",
+   "words": [
+    {
+     "word": "dele,",
+     "start": 48.25,
+     "end": 48.49
+    },
+    {
+     "word": "tipo",
+     "start": 48.65,
+     "end": 48.97
+    },
+    {
+     "word": "assim,",
+     "start": 48.97,
+     "end": 49.11
+    },
+    {
+     "word": "eu",
+     "start": 49.13,
+     "end": 49.18
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 49.21,
+   "end": 49.77,
+   "text": "não consigo vender",
+   "words": [
+    {
+     "word": "não",
+     "start": 49.21,
+     "end": 49.31
+    },
+    {
+     "word": "consigo",
+     "start": 49.31,
+     "end": 49.61
+    },
+    {
+     "word": "vender",
+     "start": 49.61,
+     "end": 49.77
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 49.81,
+   "end": 50.58,
+   "text": "o carro dele",
+   "words": [
+    {
+     "word": "o",
+     "start": 49.81,
+     "end": 49.91
+    },
+    {
+     "word": "carro",
+     "start": 49.91,
+     "end": 50.07
+    },
+    {
+     "word": "dele",
+     "start": 50.07,
+     "end": 50.58
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 51.58,
+   "end": 52.86,
+   "text": "porque, porra, o",
+   "words": [
+    {
+     "word": "porque,",
+     "start": 51.58,
+     "end": 51.84
+    },
+    {
+     "word": "porra,",
+     "start": 52.08,
+     "end": 52.4
+    },
+    {
+     "word": "o",
+     "start": 52.7,
+     "end": 52.86
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 52.9,
+   "end": 53.38,
+   "text": "que que eu queria",
+   "words": [
+    {
+     "word": "que",
+     "start": 52.9,
+     "end": 52.98
+    },
+    {
+     "word": "que",
+     "start": 52.98,
+     "end": 53.12
+    },
+    {
+     "word": "eu",
+     "start": 53.12,
+     "end": 53.2
+    },
+    {
+     "word": "queria",
+     "start": 53.2,
+     "end": 53.38
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 53.42,
+   "end": 54.54,
+   "text": "fazer, eu queria",
+   "words": [
+    {
+     "word": "fazer,",
+     "start": 53.42,
+     "end": 53.82
+    },
+    {
+     "word": "eu",
+     "start": 54.04,
+     "end": 54.38
+    },
+    {
+     "word": "queria",
+     "start": 54.38,
+     "end": 54.54
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 54.58,
+   "end": 55.44,
+   "text": "muito aproveitar",
+   "words": [
+    {
+     "word": "muito",
+     "start": 54.58,
+     "end": 54.88
+    },
+    {
+     "word": "aproveitar",
+     "start": 54.88,
+     "end": 55.44
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 55.48,
+   "end": 56.56,
+   "text": "isso e ver",
+   "words": [
+    {
+     "word": "isso",
+     "start": 55.48,
+     "end": 55.96
+    },
+    {
+     "word": "e",
+     "start": 55.96,
+     "end": 56.48
+    },
+    {
+     "word": "ver",
+     "start": 56.48,
+     "end": 56.56
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 56.6,
+   "end": 57.44,
+   "text": "se eu consigo trazer",
+   "words": [
+    {
+     "word": "se",
+     "start": 56.6,
+     "end": 56.72
+    },
+    {
+     "word": "eu",
+     "start": 56.72,
+     "end": 56.8
+    },
+    {
+     "word": "consigo",
+     "start": 56.8,
+     "end": 57.16
+    },
+    {
+     "word": "trazer",
+     "start": 57.16,
+     "end": 57.44
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 57.48,
+   "end": 58.04,
+   "text": "meus veículos",
+   "words": [
+    {
+     "word": "meus",
+     "start": 57.48,
+     "end": 57.76
+    },
+    {
+     "word": "veículos",
+     "start": 57.76,
+     "end": 58.04
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 58.08,
+   "end": 58.56,
+   "text": "pra garagem",
+   "words": [
+    {
+     "word": "pra",
+     "start": 58.08,
+     "end": 58.32
+    },
+    {
+     "word": "garagem",
+     "start": 58.32,
+     "end": 58.56
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 58.6,
+   "end": 59.24,
+   "text": "pra gente ver tudo",
+   "words": [
+    {
+     "word": "pra",
+     "start": 58.6,
+     "end": 58.72
+    },
+    {
+     "word": "gente",
+     "start": 58.72,
+     "end": 58.86
+    },
+    {
+     "word": "ver",
+     "start": 58.86,
+     "end": 59.04
+    },
+    {
+     "word": "tudo",
+     "start": 59.04,
+     "end": 59.24
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 59.28,
+   "end": 60.98,
+   "text": "que a gente conquistou ao longo",
+   "words": [
+    {
+     "word": "que",
+     "start": 59.28,
+     "end": 59.42
+    },
+    {
+     "word": "a",
+     "start": 59.42,
+     "end": 59.52
+    },
+    {
+     "word": "gente",
+     "start": 59.52,
+     "end": 59.6
+    },
+    {
+     "word": "conquistou",
+     "start": 59.6,
+     "end": 60.16
+    },
+    {
+     "word": "ao",
+     "start": 60.16,
+     "end": 60.74
+    },
+    {
+     "word": "longo",
+     "start": 60.82,
+     "end": 60.98
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 61.02,
+   "end": 62.13,
+   "text": "desses capítulos, tá",
+   "words": [
+    {
+     "word": "desses",
+     "start": 61.02,
+     "end": 61.3
+    },
+    {
+     "word": "capítulos,",
+     "start": 61.3,
+     "end": 61.96
+    },
+    {
+     "word": "tá",
+     "start": 62.08,
+     "end": 62.13
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 62.12,
+   "end": 62.73,
+   "text": "ligado",
+   "words": [
+    {
+     "word": "ligado",
+     "start": 62.12,
+     "end": 62.73
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 64.04,
+   "end": 64.63,
+   "text": "tipo, antes de eu",
+   "words": [
+    {
+     "word": "tipo,",
+     "start": 64.04,
+     "end": 64.26
+    },
+    {
+     "word": "antes",
+     "start": 64.36,
+     "end": 64.48
+    },
+    {
+     "word": "de",
+     "start": 64.48,
+     "end": 64.58
+    },
+    {
+     "word": "eu",
+     "start": 64.58,
+     "end": 64.63
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 64.64,
+   "end": 65.38,
+   "text": "fazer, tem a missão",
+   "words": [
+    {
+     "word": "fazer,",
+     "start": 64.64,
+     "end": 64.84
+    },
+    {
+     "word": "tem",
+     "start": 64.96,
+     "end": 65.08
+    },
+    {
+     "word": "a",
+     "start": 65.08,
+     "end": 65.16
+    },
+    {
+     "word": "missão",
+     "start": 65.16,
+     "end": 65.38
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 65.42,
+   "end": 66.22,
+   "text": "do Randy também",
+   "words": [
+    {
+     "word": "do",
+     "start": 65.42,
+     "end": 65.56
+    },
+    {
+     "word": "Randy",
+     "start": 65.56,
+     "end": 65.8
+    },
+    {
+     "word": "também",
+     "start": 65.8,
+     "end": 66.22
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 66.26,
+   "end": 66.72,
+   "text": "que deve me dar",
+   "words": [
+    {
+     "word": "que",
+     "start": 66.26,
+     "end": 66.32
+    },
+    {
+     "word": "deve",
+     "start": 66.32,
+     "end": 66.5
+    },
+    {
+     "word": "me",
+     "start": 66.5,
+     "end": 66.64
+    },
+    {
+     "word": "dar",
+     "start": 66.64,
+     "end": 66.72
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 66.76,
+   "end": 67.36,
+   "text": "dinheiro",
+   "words": [
+    {
+     "word": "dinheiro",
+     "start": 66.76,
+     "end": 67.36
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
