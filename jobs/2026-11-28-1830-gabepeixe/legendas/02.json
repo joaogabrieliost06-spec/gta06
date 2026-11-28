@@ -1,0 +1,469 @@
+{
+ "segments": [
+  {
+   "start": 1.81,
+   "end": 2.6,
+   "text": "— jogada⁠",
+   "words": [
+    {
+     "word": "— jogada⁠",
+     "start": 1.81,
+     "end": 2.6
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 3.44,
+   "end": 4.77,
+   "text": "que⁠ jogada⁠",
+   "words": [
+    {
+     "word": "que⁠",
+     "start": 3.44,
+     "end": 3.8
+    },
+    {
+     "word": "jogada⁠",
+     "start": 3.8,
+     "end": 4.77
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 28.07,
+   "end": 28.73,
+   "text": "vai matar a preta",
+   "words": [
+    {
+     "word": "vai",
+     "start": 28.07,
+     "end": 28.21
+    },
+    {
+     "word": "matar",
+     "start": 28.21,
+     "end": 28.41
+    },
+    {
+     "word": "a",
+     "start": 28.41,
+     "end": 28.53
+    },
+    {
+     "word": "preta",
+     "start": 28.53,
+     "end": 28.73
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 28.77,
+   "end": 29.74,
+   "text": "daí direto",
+   "words": [
+    {
+     "word": "daí",
+     "start": 28.77,
+     "end": 28.89
+    },
+    {
+     "word": "direto",
+     "start": 28.89,
+     "end": 29.74
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 31.3,
+   "end": 31.93,
+   "text": "na mesa, Impossível",
+   "words": [
+    {
+     "word": "na",
+     "start": 31.3,
+     "end": 31.46
+    },
+    {
+     "word": "mesa,",
+     "start": 31.46,
+     "end": 31.533
+    },
+    {
+     "word": "Impossível",
+     "start": 31.533,
+     "end": 31.93
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 32.88,
+   "end": 34.05,
+   "text": "eu tenho mais uma chance",
+   "words": [
+    {
+     "word": "eu",
+     "start": 32.88,
+     "end": 32.96
+    },
+    {
+     "word": "tenho",
+     "start": 32.96,
+     "end": 33.08
+    },
+    {
+     "word": "mais",
+     "start": 33.08,
+     "end": 33.26
+    },
+    {
+     "word": "uma",
+     "start": 33.26,
+     "end": 33.44
+    },
+    {
+     "word": "chance",
+     "start": 33.44,
+     "end": 34.05
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 45.17,
+   "end": 48.08,
+   "text": "se",
+   "words": [
+    {
+     "word": "se",
+     "start": 45.17,
+     "end": 48.08
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 53.36,
+   "end": 53.83,
+   "text": "eu perder de novo, Impossível",
+   "words": [
+    {
+     "word": "eu",
+     "start": 53.36,
+     "end": 53.42
+    },
+    {
+     "word": "perder",
+     "start": 53.42,
+     "end": 53.54
+    },
+    {
+     "word": "de",
+     "start": 53.54,
+     "end": 53.68
+    },
+    {
+     "word": "novo,",
+     "start": 53.68,
+     "end": 53.78
+    },
+    {
+     "word": "Impossível",
+     "start": 53.78,
+     "end": 53.83
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 53.86,
+   "end": 55.27,
+   "text": "você pode comer meu c*, Lu",
+   "words": [
+    {
+     "word": "você",
+     "start": 53.86,
+     "end": 53.92
+    },
+    {
+     "word": "pode",
+     "start": 53.92,
+     "end": 54.12
+    },
+    {
+     "word": "comer",
+     "start": 54.12,
+     "end": 54.26
+    },
+    {
+     "word": "meu",
+     "start": 54.26,
+     "end": 54.46
+    },
+    {
+     "word": "c*,",
+     "start": 54.46,
+     "end": 54.74
+    },
+    {
+     "word": "Lu",
+     "start": 54.74,
+     "end": 55.27
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 55.7,
+   "end": 56.3,
+   "text": "beleza",
+   "words": [
+    {
+     "word": "beleza",
+     "start": 55.7,
+     "end": 56.3
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 56.4,
+   "end": 57.2,
+   "text": "e agora eu peguei",
+   "words": [
+    {
+     "word": "e",
+     "start": 56.4,
+     "end": 56.78
+    },
+    {
+     "word": "agora",
+     "start": 56.78,
+     "end": 56.86
+    },
+    {
+     "word": "eu",
+     "start": 56.86,
+     "end": 57.0
+    },
+    {
+     "word": "peguei",
+     "start": 57.0,
+     "end": 57.2
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 57.24,
+   "end": 58.06,
+   "text": "o time, se eu",
+   "words": [
+    {
+     "word": "o",
+     "start": 57.24,
+     "end": 57.26
+    },
+    {
+     "word": "time,",
+     "start": 57.26,
+     "end": 57.42
+    },
+    {
+     "word": "se",
+     "start": 57.56,
+     "end": 57.62
+    },
+    {
+     "word": "eu",
+     "start": 57.62,
+     "end": 58.06
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 58.1,
+   "end": 59.1,
+   "text": "perder, você pode",
+   "words": [
+    {
+     "word": "perder,",
+     "start": 58.1,
+     "end": 58.46
+    },
+    {
+     "word": "você",
+     "start": 58.9,
+     "end": 59.0
+    },
+    {
+     "word": "pode",
+     "start": 59.0,
+     "end": 59.1
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 59.14,
+   "end": 62.492,
+   "text": "comer meu c*, Lu",
+   "words": [
+    {
+     "word": "comer",
+     "start": 59.14,
+     "end": 59.32
+    },
+    {
+     "word": "meu",
+     "start": 59.32,
+     "end": 59.48
+    },
+    {
+     "word": "c*,",
+     "start": 59.48,
+     "end": 61.006
+    },
+    {
+     "word": "Lu",
+     "start": 61.006,
+     "end": 62.492
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 62.532,
+   "end": 67.36,
+   "text": "Impossível",
+   "words": [
+    {
+     "word": "Impossível",
+     "start": 62.532,
+     "end": 67.36
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 75.47,
+   "end": 76.19,
+   "text": "beleza, já começou",
+   "words": [
+    {
+     "word": "beleza,",
+     "start": 75.47,
+     "end": 75.67
+    },
+    {
+     "word": "já",
+     "start": 75.83,
+     "end": 75.93
+    },
+    {
+     "word": "começou",
+     "start": 75.93,
+     "end": 76.19
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 76.23,
+   "end": 77.16,
+   "text": "se fodendo já",
+   "words": [
+    {
+     "word": "se",
+     "start": 76.23,
+     "end": 76.39
+    },
+    {
+     "word": "fodendo",
+     "start": 76.39,
+     "end": 76.75
+    },
+    {
+     "word": "já",
+     "start": 76.75,
+     "end": 77.16
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 78.17,
+   "end": 78.79,
+   "text": "vou mostrar pra você",
+   "words": [
+    {
+     "word": "vou",
+     "start": 78.17,
+     "end": 78.29
+    },
+    {
+     "word": "mostrar",
+     "start": 78.29,
+     "end": 78.45
+    },
+    {
+     "word": "pra",
+     "start": 78.45,
+     "end": 78.59
+    },
+    {
+     "word": "você",
+     "start": 78.59,
+     "end": 78.79
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 78.83,
+   "end": 79.4,
+   "text": "já, como é",
+   "words": [
+    {
+     "word": "já,",
+     "start": 78.83,
+     "end": 79.03
+    },
+    {
+     "word": "como",
+     "start": 79.25,
+     "end": 79.35
+    },
+    {
+     "word": "é",
+     "start": 79.35,
+     "end": 79.4
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 79.39,
+   "end": 80.04,
+   "text": "que funciona",
+   "words": [
+    {
+     "word": "que",
+     "start": 79.39,
+     "end": 79.43
+    },
+    {
+     "word": "funciona",
+     "start": 79.43,
+     "end": 80.04
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
