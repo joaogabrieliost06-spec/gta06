@@ -1,0 +1,11 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, Alan, GTA 6, Jason, Lucia, Nate, Cisco, Cariani, maromba, burpee, leg day, supino, creatina, carrinho de golfe, Baby Driver, chat, mano",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:01:08", "fim": "0:01:53", "titulo": "NINGUÉM ESPERA ALGUÉM ENTRAR PELA FRENTE"},
+  {"id": "02", "inicio": "0:02:26", "fim": "0:03:56", "titulo": "O TREINO DOS MAROMBAS"},
+  {"id": "03", "inicio": "0:15:40", "fim": "0:17:10", "titulo": "VAMOS DE CARRINHO DE GOLFE"},
+  {"id": "04", "inicio": "0:17:10", "fim": "0:18:40", "titulo": "QUE FUGA, MANO"}
+ ]
+}
