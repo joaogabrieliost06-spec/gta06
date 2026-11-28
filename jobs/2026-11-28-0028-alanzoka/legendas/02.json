@@ -1,0 +1,285 @@
+{
+ "segments": [
+  {
+   "start": 9.34,
+   "end": 10.34,
+   "text": "Equipamento de treino",
+   "words": [
+    {
+     "word": "Equipamento",
+     "start": 9.34,
+     "end": 9.72
+    },
+    {
+     "word": "de",
+     "start": 9.72,
+     "end": 9.9
+    },
+    {
+     "word": "treino",
+     "start": 9.9,
+     "end": 10.34
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 10.38,
+   "end": 10.94,
+   "text": "mano, o cara pulava",
+   "words": [
+    {
+     "word": "mano,",
+     "start": 10.38,
+     "end": 10.42
+    },
+    {
+     "word": "o",
+     "start": 10.54,
+     "end": 10.59
+    },
+    {
+     "word": "cara",
+     "start": 10.59,
+     "end": 10.64
+    },
+    {
+     "word": "pulava",
+     "start": 10.64,
+     "end": 10.94
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 10.98,
+   "end": 12.93,
+   "text": "a corda",
+   "words": [
+    {
+     "word": "a",
+     "start": 10.98,
+     "end": 12.2
+    },
+    {
+     "word": "corda",
+     "start": 12.2,
+     "end": 12.93
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 24.95,
+   "end": 26.21,
+   "text": "É a corda, mano",
+   "words": [
+    {
+     "word": "É",
+     "start": 24.95,
+     "end": 25.33
+    },
+    {
+     "word": "a",
+     "start": 25.33,
+     "end": 25.57
+    },
+    {
+     "word": "corda,",
+     "start": 25.57,
+     "end": 25.95
+    },
+    {
+     "word": "mano",
+     "start": 26.03,
+     "end": 26.21
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 26.25,
+   "end": 27.45,
+   "text": "pra usar na polia",
+   "words": [
+    {
+     "word": "pra",
+     "start": 26.25,
+     "end": 26.35
+    },
+    {
+     "word": "usar",
+     "start": 26.35,
+     "end": 26.83
+    },
+    {
+     "word": "na",
+     "start": 26.83,
+     "end": 26.95
+    },
+    {
+     "word": "polia",
+     "start": 26.95,
+     "end": 27.45
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 27.49,
+   "end": 28.52,
+   "text": "lógico que é, pô",
+   "words": [
+    {
+     "word": "lógico",
+     "start": 27.49,
+     "end": 27.79
+    },
+    {
+     "word": "que",
+     "start": 27.79,
+     "end": 27.87
+    },
+    {
+     "word": "é,",
+     "start": 27.87,
+     "end": 28.03
+    },
+    {
+     "word": "pô",
+     "start": 28.09,
+     "end": 28.52
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 30.87,
+   "end": 31.72,
+   "text": "entendi",
+   "words": [
+    {
+     "word": "entendi",
+     "start": 30.87,
+     "end": 31.72
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 57.37,
+   "end": 58.23,
+   "text": "Ele tem a roupa",
+   "words": [
+    {
+     "word": "Ele",
+     "start": 57.37,
+     "end": 57.75
+    },
+    {
+     "word": "tem",
+     "start": 57.75,
+     "end": 57.91
+    },
+    {
+     "word": "a",
+     "start": 57.91,
+     "end": 58.03
+    },
+    {
+     "word": "roupa",
+     "start": 58.03,
+     "end": 58.23
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 58.27,
+   "end": 59.23,
+   "text": "do Batman, mano",
+   "words": [
+    {
+     "word": "do",
+     "start": 58.27,
+     "end": 58.37
+    },
+    {
+     "word": "Batman,",
+     "start": 58.37,
+     "end": 58.75
+    },
+    {
+     "word": "mano",
+     "start": 58.93,
+     "end": 59.23
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 59.27,
+   "end": 60.26,
+   "text": "é o Hatchman?",
+   "words": [
+    {
+     "word": "é",
+     "start": 59.27,
+     "end": 59.37
+    },
+    {
+     "word": "o",
+     "start": 59.37,
+     "end": 59.47
+    },
+    {
+     "word": "Hatchman?",
+     "start": 59.47,
+     "end": 60.26
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 84.24,
+   "end": 87.31,
+   "text": "Meu Deus, mano",
+   "words": [
+    {
+     "word": "Meu",
+     "start": 84.24,
+     "end": 84.72
+    },
+    {
+     "word": "Deus,",
+     "start": 86.47,
+     "end": 86.95
+    },
+    {
+     "word": "mano",
+     "start": 87.13,
+     "end": 87.31
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 87.35,
+   "end": 87.98,
+   "text": "esse mural",
+   "words": [
+    {
+     "word": "esse",
+     "start": 87.35,
+     "end": 87.43
+    },
+    {
+     "word": "mural",
+     "start": 87.43,
+     "end": 87.98
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}

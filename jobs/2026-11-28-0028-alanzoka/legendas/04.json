@@ -1,0 +1,200 @@
+{
+ "segments": [
+  {
+   "start": 9.19,
+   "end": 11.19,
+   "text": "Ah, ele é desses caras",
+   "words": [
+    {
+     "word": "Ah,",
+     "start": 9.19,
+     "end": 9.65
+    },
+    {
+     "word": "ele",
+     "start": 10.2,
+     "end": 10.3
+    },
+    {
+     "word": "é",
+     "start": 10.3,
+     "end": 10.48
+    },
+    {
+     "word": "desses",
+     "start": 10.48,
+     "end": 10.72
+    },
+    {
+     "word": "caras",
+     "start": 10.72,
+     "end": 11.19
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 14.22,
+   "end": 15.67,
+   "text": "não quer dar descarga, mano",
+   "words": [
+    {
+     "word": "não",
+     "start": 14.22,
+     "end": 14.32
+    },
+    {
+     "word": "quer",
+     "start": 14.32,
+     "end": 14.46
+    },
+    {
+     "word": "dar",
+     "start": 14.46,
+     "end": 14.58
+    },
+    {
+     "word": "descarga,",
+     "start": 14.58,
+     "end": 15.14
+    },
+    {
+     "word": "mano",
+     "start": 15.34,
+     "end": 15.67
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 18.77,
+   "end": 21.02,
+   "text": "Usando o bagulho do cocô",
+   "words": [
+    {
+     "word": "Usando",
+     "start": 18.77,
+     "end": 19.15
+    },
+    {
+     "word": "o",
+     "start": 19.15,
+     "end": 19.93
+    },
+    {
+     "word": "bagulho",
+     "start": 19.93,
+     "end": 20.19
+    },
+    {
+     "word": "do",
+     "start": 20.19,
+     "end": 20.31
+    },
+    {
+     "word": "cocô",
+     "start": 20.31,
+     "end": 21.02
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 30.43,
+   "end": 32.56,
+   "text": "Ai, mano, a moral, velho",
+   "words": [
+    {
+     "word": "Ai,",
+     "start": 30.43,
+     "end": 30.89
+    },
+    {
+     "word": "mano,",
+     "start": 31.07,
+     "end": 31.17
+    },
+    {
+     "word": "a",
+     "start": 31.29,
+     "end": 31.41
+    },
+    {
+     "word": "moral,",
+     "start": 31.41,
+     "end": 31.83
+    },
+    {
+     "word": "velho",
+     "start": 32.17,
+     "end": 32.56
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 49.17,
+   "end": 50.94,
+   "text": "Cachorrinha rabuda!",
+   "words": [
+    {
+     "word": "Cachorrinha",
+     "start": 49.17,
+     "end": 49.95
+    },
+    {
+     "word": "rabuda!",
+     "start": 49.95,
+     "end": 50.94
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 54.81,
+   "end": 55.65,
+   "text": "Ele me chama de cachorrinha",
+   "words": [
+    {
+     "word": "Ele",
+     "start": 54.81,
+     "end": 54.91
+    },
+    {
+     "word": "me",
+     "start": 54.91,
+     "end": 54.99
+    },
+    {
+     "word": "chama",
+     "start": 54.99,
+     "end": 55.09
+    },
+    {
+     "word": "de",
+     "start": 55.09,
+     "end": 55.25
+    },
+    {
+     "word": "cachorrinha",
+     "start": 55.25,
+     "end": 55.65
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 55.69,
+   "end": 56.44,
+   "text": "rabuda?",
+   "words": [
+    {
+     "word": "rabuda?",
+     "start": 55.69,
+     "end": 56.44
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
