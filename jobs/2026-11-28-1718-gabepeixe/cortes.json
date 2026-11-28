@@ -1,0 +1,9 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Jason, Lucia, Matias, Rocco, bebê, traidor, mano, viado, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:07:10", "fim": "0:08:39", "titulo": "AJUDO O TRAIDOR?"},
+  {"id": "02", "inicio": "0:12:30", "fim": "0:13:35", "titulo": "ESSE CARA É MUITO CHEIRADOR"}
+ ]
+}
