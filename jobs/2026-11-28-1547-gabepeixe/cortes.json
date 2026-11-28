@@ -1,0 +1,12 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Jason, Lucia, Coringa, Pistolada, casamento, Free Fire, Loud, Fluxo, iFood, picadinho, mano, viado, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:07:44", "fim": "0:09:12", "titulo": "FLUXO CAMPEÃO MUNDIAL"},
+  {"id": "02", "inicio": "0:10:27", "fim": "0:10:57", "titulo": "ESCRAVO DO JASON"},
+  {"id": "03", "inicio": "0:13:38", "fim": "0:14:16", "titulo": "O PISTOLADA DORME PARCELADO"},
+  {"id": "04", "inicio": "0:15:35", "fim": "0:16:22", "titulo": "A BIKE VIROU BENGALA"},
+  {"id": "05", "inicio": "0:17:19", "fim": "0:18:12", "titulo": "EU VIVO DE IFOOD"}
+ ]
+}
