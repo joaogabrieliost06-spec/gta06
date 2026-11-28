@@ -1,0 +1,426 @@
+{
+ "segments": [
+  {
+   "start": 2.51,
+   "end": 3.22,
+   "text": "Entra",
+   "words": [
+    {
+     "word": "Entra",
+     "start": 2.51,
+     "end": 3.22
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 3.64,
+   "end": 5.09,
+   "text": "entra sua moncréia",
+   "words": [
+    {
+     "word": "entra",
+     "start": 3.64,
+     "end": 4.1
+    },
+    {
+     "word": "sua",
+     "start": 4.1,
+     "end": 4.3
+    },
+    {
+     "word": "moncréia",
+     "start": 4.3,
+     "end": 5.09
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.32,
+   "end": 10.86,
+   "text": "Deus, olha como",
+   "words": [
+    {
+     "word": "Deus,",
+     "start": 10.32,
+     "end": 10.56
+    },
+    {
+     "word": "olha",
+     "start": 10.68,
+     "end": 10.74
+    },
+    {
+     "word": "como",
+     "start": 10.74,
+     "end": 10.86
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.9,
+   "end": 12.75,
+   "text": "é que ela vai na van, viado Ela",
+   "words": [
+    {
+     "word": "é",
+     "start": 10.9,
+     "end": 10.96
+    },
+    {
+     "word": "que",
+     "start": 10.96,
+     "end": 11.02
+    },
+    {
+     "word": "ela",
+     "start": 11.02,
+     "end": 11.12
+    },
+    {
+     "word": "vai",
+     "start": 11.12,
+     "end": 11.32
+    },
+    {
+     "word": "na",
+     "start": 11.32,
+     "end": 11.44
+    },
+    {
+     "word": "van,",
+     "start": 11.44,
+     "end": 11.72
+    },
+    {
+     "word": "viado",
+     "start": 11.82,
+     "end": 12.06
+    },
+    {
+     "word": "Ela",
+     "start": 12.06,
+     "end": 12.75
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 17.0,
+   "end": 18.23,
+   "text": "tá sentada na",
+   "words": [
+    {
+     "word": "tá",
+     "start": 17.0,
+     "end": 17.1
+    },
+    {
+     "word": "sentada",
+     "start": 17.1,
+     "end": 17.56
+    },
+    {
+     "word": "na",
+     "start": 17.56,
+     "end": 18.23
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 56.15,
+   "end": 57.15,
+   "text": "Moleque, essa baleia",
+   "words": [
+    {
+     "word": "Moleque,",
+     "start": 56.15,
+     "end": 56.63
+    },
+    {
+     "word": "essa",
+     "start": 56.75,
+     "end": 56.83
+    },
+    {
+     "word": "baleia",
+     "start": 56.83,
+     "end": 57.15
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 57.19,
+   "end": 57.71,
+   "text": "vai matar essa",
+   "words": [
+    {
+     "word": "vai",
+     "start": 57.19,
+     "end": 57.29
+    },
+    {
+     "word": "matar",
+     "start": 57.29,
+     "end": 57.59
+    },
+    {
+     "word": "essa",
+     "start": 57.59,
+     "end": 57.71
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 57.75,
+   "end": 58.27,
+   "text": "mulher aí, mano",
+   "words": [
+    {
+     "word": "mulher",
+     "start": 57.75,
+     "end": 58.03
+    },
+    {
+     "word": "aí,",
+     "start": 58.03,
+     "end": 58.19
+    },
+    {
+     "word": "mano",
+     "start": 58.21,
+     "end": 58.27
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 58.31,
+   "end": 59.75,
+   "text": "Baleia, baleia",
+   "words": [
+    {
+     "word": "Baleia,",
+     "start": 58.31,
+     "end": 59.25
+    },
+    {
+     "word": "baleia",
+     "start": 59.25,
+     "end": 59.75
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 59.79,
+   "end": 60.5,
+   "text": "carnívora",
+   "words": [
+    {
+     "word": "carnívora",
+     "start": 59.79,
+     "end": 60.5
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 64.71,
+   "end": 66.47,
+   "text": "Certeza, aqui essa",
+   "words": [
+    {
+     "word": "Certeza,",
+     "start": 64.71,
+     "end": 65.19
+    },
+    {
+     "word": "aqui",
+     "start": 65.19,
+     "end": 65.93
+    },
+    {
+     "word": "essa",
+     "start": 66.33,
+     "end": 66.47
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 66.51,
+   "end": 66.97,
+   "text": "mulher vai virar",
+   "words": [
+    {
+     "word": "mulher",
+     "start": 66.51,
+     "end": 66.71
+    },
+    {
+     "word": "vai",
+     "start": 66.71,
+     "end": 66.81
+    },
+    {
+     "word": "virar",
+     "start": 66.81,
+     "end": 66.97
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 67.01,
+   "end": 67.75,
+   "text": "estatística. Primeira",
+   "words": [
+    {
+     "word": "estatística.",
+     "start": 67.01,
+     "end": 67.57
+    },
+    {
+     "word": "Primeira",
+     "start": 67.57,
+     "end": 67.75
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 67.79,
+   "end": 68.41,
+   "text": "baleia carnívora",
+   "words": [
+    {
+     "word": "baleia",
+     "start": 67.79,
+     "end": 68.09
+    },
+    {
+     "word": "carnívora",
+     "start": 68.09,
+     "end": 68.41
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 68.45,
+   "end": 69.21,
+   "text": "Mulher louca",
+   "words": [
+    {
+     "word": "Mulher",
+     "start": 68.45,
+     "end": 68.99
+    },
+    {
+     "word": "louca",
+     "start": 68.99,
+     "end": 69.21
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 69.25,
+   "end": 71.1,
+   "text": "da porra, bicho. Eu",
+   "words": [
+    {
+     "word": "da",
+     "start": 69.25,
+     "end": 69.37
+    },
+    {
+     "word": "porra,",
+     "start": 69.37,
+     "end": 69.85
+    },
+    {
+     "word": "bicho.",
+     "start": 69.95,
+     "end": 70.21
+    },
+    {
+     "word": "Eu",
+     "start": 70.21,
+     "end": 71.1
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 75.48,
+   "end": 76.36,
+   "text": "tô estressando ela?",
+   "words": [
+    {
+     "word": "tô",
+     "start": 75.48,
+     "end": 75.58
+    },
+    {
+     "word": "estressando",
+     "start": 75.58,
+     "end": 76.1
+    },
+    {
+     "word": "ela?",
+     "start": 76.1,
+     "end": 76.36
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 76.4,
+   "end": 77.48,
+   "text": "Nós não estamos",
+   "words": [
+    {
+     "word": "Nós",
+     "start": 76.4,
+     "end": 76.98
+    },
+    {
+     "word": "não",
+     "start": 77.16,
+     "end": 77.34
+    },
+    {
+     "word": "estamos",
+     "start": 77.34,
+     "end": 77.48
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 77.52,
+   "end": 78.53,
+   "text": "salvando ela",
+   "words": [
+    {
+     "word": "salvando",
+     "start": 77.52,
+     "end": 78.0
+    },
+    {
+     "word": "ela",
+     "start": 78.0,
+     "end": 78.53
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
