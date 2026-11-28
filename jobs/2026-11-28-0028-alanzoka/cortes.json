@@ -1,0 +1,11 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, Alan, GTA 6, Jason, Lucia, tigre, carne, pizza, pepperoni, corda, polia, Batman, mural, puzzle, chat, mano",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:02:05", "fim": "0:03:35", "titulo": "ELE TAVA COMENDO A CARNE"},
+  {"id": "02", "inicio": "0:05:00", "fim": "0:06:30", "titulo": "ELE TEM A ROUPA DO BATMAN"},
+  {"id": "03", "inicio": "0:06:30", "fim": "0:07:55", "titulo": "ACERTEI SEM SABER O PUZZLE"},
+  {"id": "04", "inicio": "0:17:35", "fim": "0:18:40", "titulo": "ESSE CARA NÃO DÁ DESCARGA"}
+ ]
+}
