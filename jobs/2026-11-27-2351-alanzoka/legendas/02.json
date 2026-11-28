@@ -1,0 +1,453 @@
+{
+ "segments": [
+  {
+   "start": 1.83,
+   "end": 3.38,
+   "text": "Contra o Nate na piscina",
+   "words": [
+    {
+     "word": "Contra",
+     "start": 1.83,
+     "end": 2.17
+    },
+    {
+     "word": "o",
+     "start": 2.17,
+     "end": 2.25
+    },
+    {
+     "word": "Nate",
+     "start": 2.25,
+     "end": 2.41
+    },
+    {
+     "word": "na",
+     "start": 2.41,
+     "end": 2.57
+    },
+    {
+     "word": "piscina",
+     "start": 2.57,
+     "end": 3.38
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 4.4,
+   "end": 5.5,
+   "text": "Finalmente, mano!",
+   "words": [
+    {
+     "word": "Finalmente,",
+     "start": 4.4,
+     "end": 4.82
+    },
+    {
+     "word": "mano!",
+     "start": 5.02,
+     "end": 5.5
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 5.54,
+   "end": 6.06,
+   "text": "Nossa, eu só quero",
+   "words": [
+    {
+     "word": "Nossa,",
+     "start": 5.54,
+     "end": 5.68
+    },
+    {
+     "word": "eu",
+     "start": 5.8,
+     "end": 5.85
+    },
+    {
+     "word": "só",
+     "start": 5.85,
+     "end": 5.9
+    },
+    {
+     "word": "quero",
+     "start": 5.9,
+     "end": 6.06
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 6.1,
+   "end": 7.72,
+   "text": "terminar essa missão, velho",
+   "words": [
+    {
+     "word": "terminar",
+     "start": 6.1,
+     "end": 6.38
+    },
+    {
+     "word": "essa",
+     "start": 6.38,
+     "end": 6.64
+    },
+    {
+     "word": "missão,",
+     "start": 6.64,
+     "end": 7.42
+    },
+    {
+     "word": "velho",
+     "start": 7.54,
+     "end": 7.72
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 7.76,
+   "end": 8.58,
+   "text": "Pra eles poder",
+   "words": [
+    {
+     "word": "Pra",
+     "start": 7.76,
+     "end": 8.32
+    },
+    {
+     "word": "eles",
+     "start": 8.32,
+     "end": 8.44
+    },
+    {
+     "word": "poder",
+     "start": 8.44,
+     "end": 8.58
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 8.62,
+   "end": 9.56,
+   "text": "voltar a andar junto",
+   "words": [
+    {
+     "word": "voltar",
+     "start": 8.62,
+     "end": 8.92
+    },
+    {
+     "word": "a",
+     "start": 8.92,
+     "end": 9.04
+    },
+    {
+     "word": "andar",
+     "start": 9.04,
+     "end": 9.14
+    },
+    {
+     "word": "junto",
+     "start": 9.14,
+     "end": 9.56
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 9.6,
+   "end": 10.54,
+   "text": "não aguento mais, velho",
+   "words": [
+    {
+     "word": "não",
+     "start": 9.6,
+     "end": 9.68
+    },
+    {
+     "word": "aguento",
+     "start": 9.68,
+     "end": 10.0
+    },
+    {
+     "word": "mais,",
+     "start": 10.0,
+     "end": 10.32
+    },
+    {
+     "word": "velho",
+     "start": 10.4,
+     "end": 10.54
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 10.58,
+   "end": 11.48,
+   "text": "eles separadinhos",
+   "words": [
+    {
+     "word": "eles",
+     "start": 10.58,
+     "end": 10.7
+    },
+    {
+     "word": "separadinhos",
+     "start": 10.7,
+     "end": 11.48
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 11.52,
+   "end": 13.49,
+   "text": "Onde é a piscina?",
+   "words": [
+    {
+     "word": "Onde",
+     "start": 11.52,
+     "end": 11.94
+    },
+    {
+     "word": "é",
+     "start": 12.89,
+     "end": 12.97
+    },
+    {
+     "word": "a",
+     "start": 12.97,
+     "end": 13.02
+    },
+    {
+     "word": "piscina?",
+     "start": 13.02,
+     "end": 13.49
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 13.53,
+   "end": 14.5,
+   "text": "Ah, lá em cima, né?",
+   "words": [
+    {
+     "word": "Ah,",
+     "start": 13.53,
+     "end": 13.65
+    },
+    {
+     "word": "lá",
+     "start": 13.67,
+     "end": 13.77
+    },
+    {
+     "word": "em",
+     "start": 13.77,
+     "end": 13.93
+    },
+    {
+     "word": "cima,",
+     "start": 13.93,
+     "end": 14.11
+    },
+    {
+     "word": "né?",
+     "start": 14.13,
+     "end": 14.5
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 18.59,
+   "end": 19.81,
+   "text": "Quero roubar uns bancos",
+   "words": [
+    {
+     "word": "Quero",
+     "start": 18.59,
+     "end": 18.77
+    },
+    {
+     "word": "roubar",
+     "start": 18.77,
+     "end": 18.97
+    },
+    {
+     "word": "uns",
+     "start": 18.97,
+     "end": 19.19
+    },
+    {
+     "word": "bancos",
+     "start": 19.19,
+     "end": 19.81
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 19.85,
+   "end": 22.94,
+   "text": "mano, quero fazer amor",
+   "words": [
+    {
+     "word": "mano,",
+     "start": 19.85,
+     "end": 19.89
+    },
+    {
+     "word": "quero",
+     "start": 20.03,
+     "end": 20.29
+    },
+    {
+     "word": "fazer",
+     "start": 20.29,
+     "end": 21.11
+    },
+    {
+     "word": "amor",
+     "start": 22.25,
+     "end": 22.94
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 24.33,
+   "end": 25.1,
+   "text": "tá ligado?",
+   "words": [
+    {
+     "word": "tá",
+     "start": 24.33,
+     "end": 24.43
+    },
+    {
+     "word": "ligado?",
+     "start": 24.43,
+     "end": 25.1
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 41.69,
+   "end": 42.43,
+   "text": "Escondido embaixo",
+   "words": [
+    {
+     "word": "Escondido",
+     "start": 41.69,
+     "end": 42.31
+    },
+    {
+     "word": "embaixo",
+     "start": 42.31,
+     "end": 42.43
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 42.47,
+   "end": 43.6,
+   "text": "do trampolim, mano",
+   "words": [
+    {
+     "word": "do",
+     "start": 42.47,
+     "end": 42.69
+    },
+    {
+     "word": "trampolim,",
+     "start": 42.69,
+     "end": 43.23
+    },
+    {
+     "word": "mano",
+     "start": 43.25,
+     "end": 43.6
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 61.59,
+   "end": 62.49,
+   "text": "Cara, grosso!",
+   "words": [
+    {
+     "word": "Cara,",
+     "start": 61.59,
+     "end": 61.77
+    },
+    {
+     "word": "grosso!",
+     "start": 61.91,
+     "end": 62.49
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 62.53,
+   "end": 63.09,
+   "text": "Por que ele arremessou",
+   "words": [
+    {
+     "word": "Por",
+     "start": 62.53,
+     "end": 62.57
+    },
+    {
+     "word": "que",
+     "start": 62.57,
+     "end": 62.63
+    },
+    {
+     "word": "ele",
+     "start": 62.63,
+     "end": 62.73
+    },
+    {
+     "word": "arremessou",
+     "start": 62.73,
+     "end": 63.09
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 63.13,
+   "end": 63.92,
+   "text": "o celular dela?",
+   "words": [
+    {
+     "word": "o",
+     "start": 63.13,
+     "end": 63.15
+    },
+    {
+     "word": "celular",
+     "start": 63.15,
+     "end": 63.35
+    },
+    {
+     "word": "dela?",
+     "start": 63.35,
+     "end": 63.92
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
