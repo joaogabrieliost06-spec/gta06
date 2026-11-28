@@ -1,0 +1,234 @@
+{
+ "segments": [
+  {
+   "start": 4.59,
+   "end": 5.13,
+   "text": "Que isso, mano?",
+   "words": [
+    {
+     "word": "Que",
+     "start": 4.59,
+     "end": 4.89
+    },
+    {
+     "word": "isso,",
+     "start": 4.89,
+     "end": 4.99
+    },
+    {
+     "word": "mano?",
+     "start": 5.03,
+     "end": 5.13
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 5.17,
+   "end": 5.79,
+   "text": "O cara tá pelado",
+   "words": [
+    {
+     "word": "O",
+     "start": 5.17,
+     "end": 5.21
+    },
+    {
+     "word": "cara",
+     "start": 5.21,
+     "end": 5.33
+    },
+    {
+     "word": "tá",
+     "start": 5.33,
+     "end": 5.43
+    },
+    {
+     "word": "pelado",
+     "start": 5.43,
+     "end": 5.79
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 5.83,
+   "end": 6.56,
+   "text": "ali em cima?",
+   "words": [
+    {
+     "word": "ali",
+     "start": 5.83,
+     "end": 5.99
+    },
+    {
+     "word": "em",
+     "start": 5.99,
+     "end": 6.11
+    },
+    {
+     "word": "cima?",
+     "start": 6.11,
+     "end": 6.56
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 7.99,
+   "end": 8.45,
+   "text": "O cara tá",
+   "words": [
+    {
+     "word": "O",
+     "start": 7.99,
+     "end": 8.23
+    },
+    {
+     "word": "cara",
+     "start": 8.23,
+     "end": 8.37
+    },
+    {
+     "word": "tá",
+     "start": 8.37,
+     "end": 8.45
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 8.49,
+   "end": 8.99,
+   "text": "com a bigola",
+   "words": [
+    {
+     "word": "com",
+     "start": 8.49,
+     "end": 8.63
+    },
+    {
+     "word": "a",
+     "start": 8.63,
+     "end": 8.68
+    },
+    {
+     "word": "bigola",
+     "start": 8.68,
+     "end": 8.99
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 9.03,
+   "end": 9.78,
+   "text": "de fora ali",
+   "words": [
+    {
+     "word": "de",
+     "start": 9.03,
+     "end": 9.15
+    },
+    {
+     "word": "fora",
+     "start": 9.15,
+     "end": 9.39
+    },
+    {
+     "word": "ali",
+     "start": 9.39,
+     "end": 9.78
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 47.95,
+   "end": 49.69,
+   "text": "moleque, calma",
+   "words": [
+    {
+     "word": "moleque,",
+     "start": 47.95,
+     "end": 48.75
+    },
+    {
+     "word": "calma",
+     "start": 49.0,
+     "end": 49.69
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 58.7,
+   "end": 59.65,
+   "text": "a Lucia tá",
+   "words": [
+    {
+     "word": "a",
+     "start": 58.7,
+     "end": 59.14
+    },
+    {
+     "word": "Lucia",
+     "start": 59.32,
+     "end": 59.6
+    },
+    {
+     "word": "tá",
+     "start": 59.6,
+     "end": 59.65
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 59.68,
+   "end": 60.14,
+   "text": "perguntando o",
+   "words": [
+    {
+     "word": "perguntando",
+     "start": 59.68,
+     "end": 60.08
+    },
+    {
+     "word": "o",
+     "start": 60.08,
+     "end": 60.14
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 60.18,
+   "end": 61.05,
+   "text": "que que tá rolando",
+   "words": [
+    {
+     "word": "que",
+     "start": 60.18,
+     "end": 60.22
+    },
+    {
+     "word": "que",
+     "start": 60.22,
+     "end": 60.3
+    },
+    {
+     "word": "tá",
+     "start": 60.3,
+     "end": 60.4
+    },
+    {
+     "word": "rolando",
+     "start": 60.4,
+     "end": 61.05
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
