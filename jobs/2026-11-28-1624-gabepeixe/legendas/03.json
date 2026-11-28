@@ -1,0 +1,771 @@
+{
+ "segments": [
+  {
+   "start": 1.01,
+   "end": 1.9,
+   "text": "O crossfit",
+   "words": [
+    {
+     "word": "O",
+     "start": 1.01,
+     "end": 1.11
+    },
+    {
+     "word": "crossfit",
+     "start": 1.11,
+     "end": 1.9
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 2.56,
+   "end": 4.04,
+   "text": "puta que o pariu",
+   "words": [
+    {
+     "word": "puta",
+     "start": 2.56,
+     "end": 3.12
+    },
+    {
+     "word": "que",
+     "start": 3.12,
+     "end": 3.36
+    },
+    {
+     "word": "o",
+     "start": 3.36,
+     "end": 3.54
+    },
+    {
+     "word": "pariu",
+     "start": 3.54,
+     "end": 4.04
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 4.08,
+   "end": 5.92,
+   "text": "joga, pneu",
+   "words": [
+    {
+     "word": "joga,",
+     "start": 4.08,
+     "end": 4.52
+    },
+    {
+     "word": "pneu",
+     "start": 4.85,
+     "end": 5.92
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.27,
+   "end": 8.05,
+   "text": "nossa, 10 repetição",
+   "words": [
+    {
+     "word": "nossa,",
+     "start": 7.27,
+     "end": 7.29
+    },
+    {
+     "word": "10",
+     "start": 7.41,
+     "end": 7.59
+    },
+    {
+     "word": "repetição",
+     "start": 7.59,
+     "end": 8.05
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 8.09,
+   "end": 9.08,
+   "text": "disso aqui, bicho",
+   "words": [
+    {
+     "word": "disso",
+     "start": 8.09,
+     "end": 8.25
+    },
+    {
+     "word": "aqui,",
+     "start": 8.25,
+     "end": 8.45
+    },
+    {
+     "word": "bicho",
+     "start": 8.63,
+     "end": 9.08
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.97,
+   "end": 29.57,
+   "text": "Caralho, toma esse",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 28.97,
+     "end": 29.27
+    },
+    {
+     "word": "toma",
+     "start": 29.33,
+     "end": 29.47
+    },
+    {
+     "word": "esse",
+     "start": 29.47,
+     "end": 29.57
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 29.61,
+   "end": 30.6,
+   "text": "crossfit, pai",
+   "words": [
+    {
+     "word": "crossfit,",
+     "start": 29.61,
+     "end": 30.03
+    },
+    {
+     "word": "pai",
+     "start": 30.17,
+     "end": 30.6
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 32.98,
+   "end": 33.98,
+   "text": "pô, eu fiz crossfit",
+   "words": [
+    {
+     "word": "pô,",
+     "start": 32.98,
+     "end": 33.08
+    },
+    {
+     "word": "eu",
+     "start": 33.1,
+     "end": 33.18
+    },
+    {
+     "word": "fiz",
+     "start": 33.18,
+     "end": 33.34
+    },
+    {
+     "word": "crossfit",
+     "start": 33.34,
+     "end": 33.98
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 34.02,
+   "end": 34.94,
+   "text": "eu nunca levantei",
+   "words": [
+    {
+     "word": "eu",
+     "start": 34.02,
+     "end": 34.22
+    },
+    {
+     "word": "nunca",
+     "start": 34.22,
+     "end": 34.62
+    },
+    {
+     "word": "levantei",
+     "start": 34.62,
+     "end": 34.94
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 34.98,
+   "end": 35.6,
+   "text": "um pneu na minha vida",
+   "words": [
+    {
+     "word": "um",
+     "start": 34.98,
+     "end": 35.04
+    },
+    {
+     "word": "pneu",
+     "start": 35.04,
+     "end": 35.22
+    },
+    {
+     "word": "na",
+     "start": 35.22,
+     "end": 35.3
+    },
+    {
+     "word": "minha",
+     "start": 35.3,
+     "end": 35.4
+    },
+    {
+     "word": "vida",
+     "start": 35.4,
+     "end": 35.6
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 35.64,
+   "end": 36.87,
+   "text": "meu crossfit",
+   "words": [
+    {
+     "word": "meu",
+     "start": 35.64,
+     "end": 35.72
+    },
+    {
+     "word": "crossfit",
+     "start": 35.72,
+     "end": 36.87
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 37.57,
+   "end": 38.17,
+   "text": "tinha essa porra",
+   "words": [
+    {
+     "word": "tinha",
+     "start": 37.57,
+     "end": 37.73
+    },
+    {
+     "word": "essa",
+     "start": 37.73,
+     "end": 37.87
+    },
+    {
+     "word": "porra",
+     "start": 37.87,
+     "end": 38.17
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 38.21,
+   "end": 38.81,
+   "text": "não",
+   "words": [
+    {
+     "word": "não",
+     "start": 38.21,
+     "end": 38.81
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 40.08,
+   "end": 40.76,
+   "text": "bagulho de levantar",
+   "words": [
+    {
+     "word": "bagulho",
+     "start": 40.08,
+     "end": 40.32
+    },
+    {
+     "word": "de",
+     "start": 40.32,
+     "end": 40.44
+    },
+    {
+     "word": "levantar",
+     "start": 40.44,
+     "end": 40.76
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 40.8,
+   "end": 42.01,
+   "text": "pneu aí, mano",
+   "words": [
+    {
+     "word": "pneu",
+     "start": 40.8,
+     "end": 41.3
+    },
+    {
+     "word": "aí,",
+     "start": 41.3,
+     "end": 41.48
+    },
+    {
+     "word": "mano",
+     "start": 41.62,
+     "end": 42.01
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 43.63,
+   "end": 44.24,
+   "text": "e ela ali, só",
+   "words": [
+    {
+     "word": "e",
+     "start": 43.63,
+     "end": 43.75
+    },
+    {
+     "word": "ela",
+     "start": 43.75,
+     "end": 43.91
+    },
+    {
+     "word": "ali,",
+     "start": 43.91,
+     "end": 44.07
+    },
+    {
+     "word": "só",
+     "start": 44.19,
+     "end": 44.24
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 44.27,
+   "end": 45.1,
+   "text": "na esteira",
+   "words": [
+    {
+     "word": "na",
+     "start": 44.27,
+     "end": 44.39
+    },
+    {
+     "word": "esteira",
+     "start": 44.39,
+     "end": 45.1
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 45.65,
+   "end": 46.36,
+   "text": "mandando ver, eu",
+   "words": [
+    {
+     "word": "mandando",
+     "start": 45.65,
+     "end": 45.95
+    },
+    {
+     "word": "ver,",
+     "start": 45.95,
+     "end": 46.17
+    },
+    {
+     "word": "eu",
+     "start": 46.31,
+     "end": 46.36
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 46.37,
+   "end": 47.07,
+   "text": "usando essa roupa",
+   "words": [
+    {
+     "word": "usando",
+     "start": 46.37,
+     "end": 46.57
+    },
+    {
+     "word": "essa",
+     "start": 46.57,
+     "end": 46.75
+    },
+    {
+     "word": "roupa",
+     "start": 46.75,
+     "end": 47.07
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 47.11,
+   "end": 48.12,
+   "text": "egípcia aqui",
+   "words": [
+    {
+     "word": "egípcia",
+     "start": 47.11,
+     "end": 47.61
+    },
+    {
+     "word": "aqui",
+     "start": 47.61,
+     "end": 48.12
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 48.63,
+   "end": 49.44,
+   "text": "egípcia não",
+   "words": [
+    {
+     "word": "egípcia",
+     "start": 48.63,
+     "end": 48.97
+    },
+    {
+     "word": "não",
+     "start": 48.97,
+     "end": 49.44
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 49.77,
+   "end": 50.56,
+   "text": "romana",
+   "words": [
+    {
+     "word": "romana",
+     "start": 49.77,
+     "end": 50.56
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 51.63,
+   "end": 52.28,
+   "text": "grega",
+   "words": [
+    {
+     "word": "grega",
+     "start": 51.63,
+     "end": 52.28
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 52.53,
+   "end": 53.3,
+   "text": "bom, sei lá",
+   "words": [
+    {
+     "word": "bom,",
+     "start": 52.53,
+     "end": 52.67
+    },
+    {
+     "word": "sei",
+     "start": 52.81,
+     "end": 52.89
+    },
+    {
+     "word": "lá",
+     "start": 52.89,
+     "end": 53.3
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 56.65,
+   "end": 57.11,
+   "text": "na realidade eu",
+   "words": [
+    {
+     "word": "na",
+     "start": 56.65,
+     "end": 56.77
+    },
+    {
+     "word": "realidade",
+     "start": 56.77,
+     "end": 57.01
+    },
+    {
+     "word": "eu",
+     "start": 57.01,
+     "end": 57.11
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 57.15,
+   "end": 57.75,
+   "text": "deveria saber",
+   "words": [
+    {
+     "word": "deveria",
+     "start": 57.15,
+     "end": 57.45
+    },
+    {
+     "word": "saber",
+     "start": 57.45,
+     "end": 57.75
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 57.79,
+   "end": 58.25,
+   "text": "porque esse símbolo",
+   "words": [
+    {
+     "word": "porque",
+     "start": 57.79,
+     "end": 57.87
+    },
+    {
+     "word": "esse",
+     "start": 57.87,
+     "end": 58.01
+    },
+    {
+     "word": "símbolo",
+     "start": 58.01,
+     "end": 58.25
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 58.29,
+   "end": 59.31,
+   "text": "é bem comum, só não sei de qual",
+   "words": [
+    {
+     "word": "é",
+     "start": 58.29,
+     "end": 58.37
+    },
+    {
+     "word": "bem",
+     "start": 58.37,
+     "end": 58.43
+    },
+    {
+     "word": "comum,",
+     "start": 58.43,
+     "end": 58.69
+    },
+    {
+     "word": "só",
+     "start": 58.79,
+     "end": 58.89
+    },
+    {
+     "word": "não",
+     "start": 58.89,
+     "end": 58.97
+    },
+    {
+     "word": "sei",
+     "start": 58.97,
+     "end": 59.11
+    },
+    {
+     "word": "de",
+     "start": 59.11,
+     "end": 59.19
+    },
+    {
+     "word": "qual",
+     "start": 59.19,
+     "end": 59.31
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 59.35,
+   "end": 60.34,
+   "text": "das três é, mano",
+   "words": [
+    {
+     "word": "das",
+     "start": 59.35,
+     "end": 59.53
+    },
+    {
+     "word": "três",
+     "start": 59.53,
+     "end": 59.69
+    },
+    {
+     "word": "é,",
+     "start": 59.69,
+     "end": 59.91
+    },
+    {
+     "word": "mano",
+     "start": 59.97,
+     "end": 60.34
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 60.83,
+   "end": 61.52,
+   "text": "mas enfim",
+   "words": [
+    {
+     "word": "mas",
+     "start": 60.83,
+     "end": 60.99
+    },
+    {
+     "word": "enfim",
+     "start": 60.99,
+     "end": 61.52
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 68.41,
+   "end": 69.15,
+   "text": "vai dar merda, 8",
+   "words": [
+    {
+     "word": "vai",
+     "start": 68.41,
+     "end": 68.61
+    },
+    {
+     "word": "dar",
+     "start": 68.61,
+     "end": 68.69
+    },
+    {
+     "word": "merda,",
+     "start": 68.69,
+     "end": 68.99
+    },
+    {
+     "word": "8",
+     "start": 69.07,
+     "end": 69.15
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 69.19,
+   "end": 70.14,
+   "text": "de 10 vai dar",
+   "words": [
+    {
+     "word": "de",
+     "start": 69.19,
+     "end": 69.35
+    },
+    {
+     "word": "10",
+     "start": 69.35,
+     "end": 69.55
+    },
+    {
+     "word": "vai",
+     "start": 69.55,
+     "end": 69.75
+    },
+    {
+     "word": "dar",
+     "start": 69.75,
+     "end": 70.14
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 76.47,
+   "end": 78.04,
+   "text": "Levanta, seu porra",
+   "words": [
+    {
+     "word": "Levanta,",
+     "start": 76.47,
+     "end": 77.21
+    },
+    {
+     "word": "seu",
+     "start": 77.23,
+     "end": 77.31
+    },
+    {
+     "word": "porra",
+     "start": 77.31,
+     "end": 78.04
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 78.91,
+   "end": 79.82,
+   "text": "Aí, porra",
+   "words": [
+    {
+     "word": "Aí,",
+     "start": 78.91,
+     "end": 79.13
+    },
+    {
+     "word": "porra",
+     "start": 79.31,
+     "end": 79.82
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
