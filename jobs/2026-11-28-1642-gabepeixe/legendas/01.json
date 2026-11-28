@@ -1,0 +1,1337 @@
+{
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.02,
+   "text": "96 de 100, isso",
+   "words": [
+    {
+     "word": "96",
+     "start": 0.0,
+     "end": 0.64
+    },
+    {
+     "word": "de",
+     "start": 0.64,
+     "end": 1.14
+    },
+    {
+     "word": "100,",
+     "start": 1.14,
+     "end": 1.4
+    },
+    {
+     "word": "isso",
+     "start": 1.82,
+     "end": 2.02
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 2.06,
+   "end": 2.66,
+   "text": "é bom?",
+   "words": [
+    {
+     "word": "é",
+     "start": 2.06,
+     "end": 2.18
+    },
+    {
+     "word": "bom?",
+     "start": 2.18,
+     "end": 2.66
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 5.49,
+   "end": 6.61,
+   "text": "4 de 4, caralho",
+   "words": [
+    {
+     "word": "4",
+     "start": 5.49,
+     "end": 5.85
+    },
+    {
+     "word": "de",
+     "start": 5.85,
+     "end": 6.01
+    },
+    {
+     "word": "4,",
+     "start": 6.01,
+     "end": 6.27
+    },
+    {
+     "word": "caralho",
+     "start": 6.41,
+     "end": 6.61
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 6.65,
+   "end": 7.47,
+   "text": "mas subiu tudo",
+   "words": [
+    {
+     "word": "mas",
+     "start": 6.65,
+     "end": 6.73
+    },
+    {
+     "word": "subiu",
+     "start": 6.73,
+     "end": 7.03
+    },
+    {
+     "word": "tudo",
+     "start": 7.03,
+     "end": 7.47
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 7.51,
+   "end": 8.8,
+   "text": "peguei 4 de 4",
+   "words": [
+    {
+     "word": "peguei",
+     "start": 7.51,
+     "end": 7.89
+    },
+    {
+     "word": "4",
+     "start": 7.89,
+     "end": 8.09
+    },
+    {
+     "word": "de",
+     "start": 8.09,
+     "end": 8.23
+    },
+    {
+     "word": "4",
+     "start": 8.23,
+     "end": 8.8
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 9.36,
+   "end": 10.03,
+   "text": "legal",
+   "words": [
+    {
+     "word": "legal",
+     "start": 9.36,
+     "end": 10.03
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 11.02,
+   "end": 11.86,
+   "text": "eu não consigo botar",
+   "words": [
+    {
+     "word": "eu",
+     "start": 11.02,
+     "end": 11.22
+    },
+    {
+     "word": "não",
+     "start": 11.22,
+     "end": 11.3
+    },
+    {
+     "word": "consigo",
+     "start": 11.3,
+     "end": 11.62
+    },
+    {
+     "word": "botar",
+     "start": 11.62,
+     "end": 11.86
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 11.9,
+   "end": 12.95,
+   "text": "na Lucia, mano",
+   "words": [
+    {
+     "word": "na",
+     "start": 11.9,
+     "end": 12.0
+    },
+    {
+     "word": "Lucia,",
+     "start": 12.0,
+     "end": 12.44
+    },
+    {
+     "word": "mano",
+     "start": 12.62,
+     "end": 12.95
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 13.9,
+   "end": 15.22,
+   "text": "beleza, treinamos",
+   "words": [
+    {
+     "word": "beleza,",
+     "start": 13.9,
+     "end": 14.12
+    },
+    {
+     "word": "treinamos",
+     "start": 14.3,
+     "end": 15.22
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 15.26,
+   "end": 15.86,
+   "text": "né",
+   "words": [
+    {
+     "word": "né",
+     "start": 15.26,
+     "end": 15.86
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 16.03,
+   "end": 16.91,
+   "text": "ah, tinha um saco",
+   "words": [
+    {
+     "word": "ah,",
+     "start": 16.03,
+     "end": 16.21
+    },
+    {
+     "word": "tinha",
+     "start": 16.33,
+     "end": 16.43
+    },
+    {
+     "word": "um",
+     "start": 16.43,
+     "end": 16.59
+    },
+    {
+     "word": "saco",
+     "start": 16.59,
+     "end": 16.91
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 16.95,
+   "end": 17.81,
+   "text": "aqui pra eu socar",
+   "words": [
+    {
+     "word": "aqui",
+     "start": 16.95,
+     "end": 17.09
+    },
+    {
+     "word": "pra",
+     "start": 17.09,
+     "end": 17.21
+    },
+    {
+     "word": "eu",
+     "start": 17.21,
+     "end": 17.35
+    },
+    {
+     "word": "socar",
+     "start": 17.35,
+     "end": 17.81
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 17.85,
+   "end": 18.6,
+   "text": "mano, ó",
+   "words": [
+    {
+     "word": "mano,",
+     "start": 17.85,
+     "end": 18.07
+    },
+    {
+     "word": "ó",
+     "start": 18.21,
+     "end": 18.6
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 19.17,
+   "end": 19.89,
+   "text": "não vi a porra",
+   "words": [
+    {
+     "word": "não",
+     "start": 19.17,
+     "end": 19.33
+    },
+    {
+     "word": "vi",
+     "start": 19.33,
+     "end": 19.57
+    },
+    {
+     "word": "a",
+     "start": 19.57,
+     "end": 19.69
+    },
+    {
+     "word": "porra",
+     "start": 19.69,
+     "end": 19.89
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 19.93,
+   "end": 20.76,
+   "text": "do saco",
+   "words": [
+    {
+     "word": "do",
+     "start": 19.93,
+     "end": 20.03
+    },
+    {
+     "word": "saco",
+     "start": 20.03,
+     "end": 20.76
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 23.77,
+   "end": 24.23,
+   "text": "já foi o",
+   "words": [
+    {
+     "word": "já",
+     "start": 23.77,
+     "end": 23.95
+    },
+    {
+     "word": "foi",
+     "start": 23.95,
+     "end": 24.15
+    },
+    {
+     "word": "o",
+     "start": 24.15,
+     "end": 24.23
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 24.27,
+   "end": 24.99,
+   "text": "meu ganho de saco",
+   "words": [
+    {
+     "word": "meu",
+     "start": 24.27,
+     "end": 24.35
+    },
+    {
+     "word": "ganho",
+     "start": 24.35,
+     "end": 24.59
+    },
+    {
+     "word": "de",
+     "start": 24.59,
+     "end": 24.73
+    },
+    {
+     "word": "saco",
+     "start": 24.73,
+     "end": 24.99
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 25.03,
+   "end": 25.63,
+   "text": "já",
+   "words": [
+    {
+     "word": "já",
+     "start": 25.03,
+     "end": 25.63
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 25.78,
+   "end": 26.44,
+   "text": "legal, aqui o único",
+   "words": [
+    {
+     "word": "legal,",
+     "start": 25.78,
+     "end": 26.02
+    },
+    {
+     "word": "aqui",
+     "start": 26.16,
+     "end": 26.24
+    },
+    {
+     "word": "o",
+     "start": 26.24,
+     "end": 26.34
+    },
+    {
+     "word": "único",
+     "start": 26.34,
+     "end": 26.44
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 26.48,
+   "end": 26.97,
+   "text": "exercício que tem",
+   "words": [
+    {
+     "word": "exercício",
+     "start": 26.48,
+     "end": 26.82
+    },
+    {
+     "word": "que",
+     "start": 26.82,
+     "end": 26.92
+    },
+    {
+     "word": "tem",
+     "start": 26.92,
+     "end": 26.97
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 27.0,
+   "end": 27.5,
+   "text": "diferente é esse",
+   "words": [
+    {
+     "word": "diferente",
+     "start": 27.0,
+     "end": 27.28
+    },
+    {
+     "word": "é",
+     "start": 27.28,
+     "end": 27.44
+    },
+    {
+     "word": "esse",
+     "start": 27.44,
+     "end": 27.5
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 27.54,
+   "end": 28.46,
+   "text": "pneu aí, mas não",
+   "words": [
+    {
+     "word": "pneu",
+     "start": 27.54,
+     "end": 27.98
+    },
+    {
+     "word": "aí,",
+     "start": 27.98,
+     "end": 28.1
+    },
+    {
+     "word": "mas",
+     "start": 28.18,
+     "end": 28.32
+    },
+    {
+     "word": "não",
+     "start": 28.32,
+     "end": 28.46
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 28.5,
+   "end": 29.28,
+   "text": "compensa fazer ele",
+   "words": [
+    {
+     "word": "compensa",
+     "start": 28.5,
+     "end": 28.96
+    },
+    {
+     "word": "fazer",
+     "start": 28.96,
+     "end": 29.18
+    },
+    {
+     "word": "ele",
+     "start": 29.18,
+     "end": 29.28
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 29.32,
+   "end": 30.58,
+   "text": "não, deixa eu salvar",
+   "words": [
+    {
+     "word": "não,",
+     "start": 29.32,
+     "end": 29.46
+    },
+    {
+     "word": "deixa",
+     "start": 30.14,
+     "end": 30.28
+    },
+    {
+     "word": "eu",
+     "start": 30.28,
+     "end": 30.34
+    },
+    {
+     "word": "salvar",
+     "start": 30.34,
+     "end": 30.58
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 30.62,
+   "end": 33.73,
+   "text": "o jogo, não tô entendendo",
+   "words": [
+    {
+     "word": "o",
+     "start": 30.62,
+     "end": 30.76
+    },
+    {
+     "word": "jogo,",
+     "start": 30.76,
+     "end": 31.04
+    },
+    {
+     "word": "não",
+     "start": 33.29,
+     "end": 33.39
+    },
+    {
+     "word": "tô",
+     "start": 33.39,
+     "end": 33.47
+    },
+    {
+     "word": "entendendo",
+     "start": 33.47,
+     "end": 33.73
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 33.77,
+   "end": 34.71,
+   "text": "— que⁠ vocês⁠ tão⁠ mandando⁠ wish⁠",
+   "words": [
+    {
+     "word": "— que⁠",
+     "start": 33.77,
+     "end": 33.85
+    },
+    {
+     "word": "vocês⁠",
+     "start": 33.85,
+     "end": 33.95
+    },
+    {
+     "word": "tão⁠",
+     "start": 33.95,
+     "end": 34.07
+    },
+    {
+     "word": "mandando⁠",
+     "start": 34.07,
+     "end": 34.35
+    },
+    {
+     "word": "wish⁠",
+     "start": 34.35,
+     "end": 34.71
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 34.75,
+   "end": 35.35,
+   "text": "mano⁠",
+   "words": [
+    {
+     "word": "mano⁠",
+     "start": 34.75,
+     "end": 35.35
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 36.38,
+   "end": 37.1,
+   "text": "não⁠ tô⁠ entendendo⁠",
+   "words": [
+    {
+     "word": "não⁠",
+     "start": 36.38,
+     "end": 36.46
+    },
+    {
+     "word": "tô⁠",
+     "start": 36.46,
+     "end": 36.6
+    },
+    {
+     "word": "entendendo⁠",
+     "start": 36.6,
+     "end": 37.1
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 37.14,
+   "end": 38.0,
+   "text": "não⁠ tô⁠ entendendo⁠ que⁠ vocês⁠ tão⁠",
+   "words": [
+    {
+     "word": "não⁠",
+     "start": 37.14,
+     "end": 37.36
+    },
+    {
+     "word": "tô⁠",
+     "start": 37.36,
+     "end": 37.48
+    },
+    {
+     "word": "entendendo⁠",
+     "start": 37.48,
+     "end": 37.74
+    },
+    {
+     "word": "que⁠",
+     "start": 37.74,
+     "end": 37.82
+    },
+    {
+     "word": "vocês⁠",
+     "start": 37.82,
+     "end": 37.92
+    },
+    {
+     "word": "tão⁠",
+     "start": 37.92,
+     "end": 38.0
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 38.04,
+   "end": 39.03,
+   "text": "mandando⁠ wish,⁠ mano⁠",
+   "words": [
+    {
+     "word": "mandando⁠",
+     "start": 38.04,
+     "end": 38.32
+    },
+    {
+     "word": "wish,⁠",
+     "start": 38.32,
+     "end": 38.6
+    },
+    {
+     "word": "mano⁠",
+     "start": 38.7,
+     "end": 39.03
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 39.6,
+   "end": 40.43,
+   "text": "papo⁠ reto⁠",
+   "words": [
+    {
+     "word": "papo⁠",
+     "start": 39.6,
+     "end": 39.9
+    },
+    {
+     "word": "reto⁠",
+     "start": 39.9,
+     "end": 40.43
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 41.89,
+   "end": 42.69,
+   "text": "não⁠ tô⁠ entendendo⁠ que⁠ vocês⁠ tão⁠",
+   "words": [
+    {
+     "word": "não⁠",
+     "start": 41.89,
+     "end": 41.99
+    },
+    {
+     "word": "tô⁠",
+     "start": 41.99,
+     "end": 42.13
+    },
+    {
+     "word": "entendendo⁠",
+     "start": 42.13,
+     "end": 42.41
+    },
+    {
+     "word": "que⁠",
+     "start": 42.41,
+     "end": 42.51
+    },
+    {
+     "word": "vocês⁠",
+     "start": 42.51,
+     "end": 42.61
+    },
+    {
+     "word": "tão⁠",
+     "start": 42.61,
+     "end": 42.69
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 42.73,
+   "end": 43.49,
+   "text": "mandando⁠ wish,⁠ não⁠",
+   "words": [
+    {
+     "word": "mandando⁠",
+     "start": 42.73,
+     "end": 42.99
+    },
+    {
+     "word": "wish,⁠",
+     "start": 42.99,
+     "end": 43.25
+    },
+    {
+     "word": "não⁠",
+     "start": 43.33,
+     "end": 43.49
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 43.53,
+   "end": 44.13,
+   "text": "mano⁠",
+   "words": [
+    {
+     "word": "mano⁠",
+     "start": 43.53,
+     "end": 44.13
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 51.38,
+   "end": 52.28,
+   "text": "eu não sei",
+   "words": [
+    {
+     "word": "eu",
+     "start": 51.38,
+     "end": 51.78
+    },
+    {
+     "word": "não",
+     "start": 51.78,
+     "end": 52.08
+    },
+    {
+     "word": "sei",
+     "start": 52.08,
+     "end": 52.28
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 52.32,
+   "end": 53.1,
+   "text": "Que porra tá",
+   "words": [
+    {
+     "word": "Que",
+     "start": 52.32,
+     "end": 52.72
+    },
+    {
+     "word": "porra",
+     "start": 52.72,
+     "end": 53.04
+    },
+    {
+     "word": "tá",
+     "start": 53.04,
+     "end": 53.1
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 53.14,
+   "end": 53.76,
+   "text": "acontecendo comigo",
+   "words": [
+    {
+     "word": "acontecendo",
+     "start": 53.14,
+     "end": 53.48
+    },
+    {
+     "word": "comigo",
+     "start": 53.48,
+     "end": 53.76
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 53.8,
+   "end": 54.78,
+   "text": "Eu tô meio preso",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 53.8,
+     "end": 54.0
+    },
+    {
+     "word": "tô",
+     "start": 54.0,
+     "end": 54.08
+    },
+    {
+     "word": "meio",
+     "start": 54.08,
+     "end": 54.26
+    },
+    {
+     "word": "preso",
+     "start": 54.26,
+     "end": 54.78
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 54.82,
+   "end": 55.91,
+   "text": "aqui, é isso Só",
+   "words": [
+    {
+     "word": "aqui,",
+     "start": 54.82,
+     "end": 54.98
+    },
+    {
+     "word": "é",
+     "start": 55.0,
+     "end": 55.14
+    },
+    {
+     "word": "isso",
+     "start": 55.14,
+     "end": 55.36
+    },
+    {
+     "word": "Só",
+     "start": 55.36,
+     "end": 55.91
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 55.95,
+   "end": 56.51,
+   "text": "pra vocês entenderem",
+   "words": [
+    {
+     "word": "pra",
+     "start": 55.95,
+     "end": 56.07
+    },
+    {
+     "word": "vocês",
+     "start": 56.07,
+     "end": 56.21
+    },
+    {
+     "word": "entenderem",
+     "start": 56.21,
+     "end": 56.51
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 56.55,
+   "end": 57.27,
+   "text": "e contextualizar",
+   "words": [
+    {
+     "word": "e",
+     "start": 56.55,
+     "end": 56.71
+    },
+    {
+     "word": "contextualizar",
+     "start": 56.71,
+     "end": 57.27
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 57.31,
+   "end": 57.87,
+   "text": "A gente tá sendo",
+   "words": [
+    {
+     "word": "A",
+     "start": 57.31,
+     "end": 57.49
+    },
+    {
+     "word": "gente",
+     "start": 57.49,
+     "end": 57.59
+    },
+    {
+     "word": "tá",
+     "start": 57.59,
+     "end": 57.71
+    },
+    {
+     "word": "sendo",
+     "start": 57.71,
+     "end": 57.87
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 57.91,
+   "end": 59.43,
+   "text": "procurado em todo",
+   "words": [
+    {
+     "word": "procurado",
+     "start": 57.91,
+     "end": 58.63
+    },
+    {
+     "word": "em",
+     "start": 58.63,
+     "end": 59.25
+    },
+    {
+     "word": "todo",
+     "start": 59.25,
+     "end": 59.43
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 59.47,
+   "end": 60.12,
+   "text": "lugar Como é",
+   "words": [
+    {
+     "word": "lugar",
+     "start": 59.47,
+     "end": 59.75
+    },
+    {
+     "word": "Como",
+     "start": 59.75,
+     "end": 60.07
+    },
+    {
+     "word": "é",
+     "start": 60.07,
+     "end": 60.12
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 60.15,
+   "end": 60.77,
+   "text": "que eu vou explorar",
+   "words": [
+    {
+     "word": "que",
+     "start": 60.15,
+     "end": 60.23
+    },
+    {
+     "word": "eu",
+     "start": 60.23,
+     "end": 60.31
+    },
+    {
+     "word": "vou",
+     "start": 60.31,
+     "end": 60.45
+    },
+    {
+     "word": "explorar",
+     "start": 60.45,
+     "end": 60.77
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 60.81,
+   "end": 62.43,
+   "text": "o jogo sendo procurado assim Eu",
+   "words": [
+    {
+     "word": "o",
+     "start": 60.81,
+     "end": 60.89
+    },
+    {
+     "word": "jogo",
+     "start": 60.89,
+     "end": 61.05
+    },
+    {
+     "word": "sendo",
+     "start": 61.05,
+     "end": 61.27
+    },
+    {
+     "word": "procurado",
+     "start": 61.27,
+     "end": 61.87
+    },
+    {
+     "word": "assim",
+     "start": 61.87,
+     "end": 62.15
+    },
+    {
+     "word": "Eu",
+     "start": 62.15,
+     "end": 62.43
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 62.47,
+   "end": 63.3,
+   "text": "não sei",
+   "words": [
+    {
+     "word": "não",
+     "start": 62.47,
+     "end": 62.69
+    },
+    {
+     "word": "sei",
+     "start": 62.69,
+     "end": 63.3
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 64.13,
+   "end": 65.43,
+   "text": "Deve sair isso agora",
+   "words": [
+    {
+     "word": "Deve",
+     "start": 64.13,
+     "end": 64.75
+    },
+    {
+     "word": "sair",
+     "start": 64.75,
+     "end": 65.03
+    },
+    {
+     "word": "isso",
+     "start": 65.03,
+     "end": 65.25
+    },
+    {
+     "word": "agora",
+     "start": 65.25,
+     "end": 65.43
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 65.47,
+   "end": 66.29,
+   "text": "na próxima missão",
+   "words": [
+    {
+     "word": "na",
+     "start": 65.47,
+     "end": 65.61
+    },
+    {
+     "word": "próxima",
+     "start": 65.61,
+     "end": 65.93
+    },
+    {
+     "word": "missão",
+     "start": 65.93,
+     "end": 66.29
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 66.33,
+   "end": 66.83,
+   "text": "Não é possível",
+   "words": [
+    {
+     "word": "Não",
+     "start": 66.33,
+     "end": 66.45
+    },
+    {
+     "word": "é",
+     "start": 66.45,
+     "end": 66.51
+    },
+    {
+     "word": "possível",
+     "start": 66.51,
+     "end": 66.83
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 66.87,
+   "end": 67.98,
+   "text": "que eu",
+   "words": [
+    {
+     "word": "que",
+     "start": 66.87,
+     "end": 67.13
+    },
+    {
+     "word": "eu",
+     "start": 67.13,
+     "end": 67.98
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 68.26,
+   "end": 68.98,
+   "text": "vou ficar procurado",
+   "words": [
+    {
+     "word": "vou",
+     "start": 68.26,
+     "end": 68.34
+    },
+    {
+     "word": "ficar",
+     "start": 68.34,
+     "end": 68.5
+    },
+    {
+     "word": "procurado",
+     "start": 68.5,
+     "end": 68.98
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 69.02,
+   "end": 69.56,
+   "text": "o resto do jogo",
+   "words": [
+    {
+     "word": "o",
+     "start": 69.02,
+     "end": 69.14
+    },
+    {
+     "word": "resto",
+     "start": 69.14,
+     "end": 69.28
+    },
+    {
+     "word": "do",
+     "start": 69.28,
+     "end": 69.42
+    },
+    {
+     "word": "jogo",
+     "start": 69.42,
+     "end": 69.56
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 69.6,
+   "end": 70.12,
+   "text": "inteiro Não vou",
+   "words": [
+    {
+     "word": "inteiro",
+     "start": 69.6,
+     "end": 69.88
+    },
+    {
+     "word": "Não",
+     "start": 69.88,
+     "end": 70.06
+    },
+    {
+     "word": "vou",
+     "start": 70.06,
+     "end": 70.12
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 70.16,
+   "end": 70.72,
+   "text": "conseguir fazer mais",
+   "words": [
+    {
+     "word": "conseguir",
+     "start": 70.16,
+     "end": 70.36
+    },
+    {
+     "word": "fazer",
+     "start": 70.36,
+     "end": 70.54
+    },
+    {
+     "word": "mais",
+     "start": 70.54,
+     "end": 70.72
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 70.76,
+   "end": 71.36,
+   "text": "nada",
+   "words": [
+    {
+     "word": "nada",
+     "start": 70.76,
+     "end": 71.36
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}

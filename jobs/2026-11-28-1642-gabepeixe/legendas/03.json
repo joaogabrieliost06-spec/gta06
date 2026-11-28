@@ -1,0 +1,874 @@
+{
+ "segments": [
+  {
+   "start": 0.39,
+   "end": 1.51,
+   "text": "— Embarque⁠ no⁠ navio⁠",
+   "words": [
+    {
+     "word": "— Embarque⁠",
+     "start": 0.39,
+     "end": 0.93
+    },
+    {
+     "word": "no⁠",
+     "start": 0.93,
+     "end": 1.03
+    },
+    {
+     "word": "navio⁠",
+     "start": 1.03,
+     "end": 1.51
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 1.55,
+   "end": 2.32,
+   "text": "Pô⁠",
+   "words": [
+    {
+     "word": "Pô⁠",
+     "start": 1.55,
+     "end": 2.32
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 3.33,
+   "end": 4.01,
+   "text": "essa⁠ roupa⁠ tá⁠ muito⁠",
+   "words": [
+    {
+     "word": "essa⁠",
+     "start": 3.33,
+     "end": 3.45
+    },
+    {
+     "word": "roupa⁠",
+     "start": 3.45,
+     "end": 3.79
+    },
+    {
+     "word": "tá⁠",
+     "start": 3.79,
+     "end": 3.84
+    },
+    {
+     "word": "muito⁠",
+     "start": 3.84,
+     "end": 4.01
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 4.05,
+   "end": 5.7,
+   "text": "suspeita,⁠ Lucia⁠ Eu⁠",
+   "words": [
+    {
+     "word": "suspeita,⁠",
+     "start": 4.05,
+     "end": 4.53
+    },
+    {
+     "word": "Lucia⁠",
+     "start": 4.67,
+     "end": 5.01
+    },
+    {
+     "word": "Eu⁠",
+     "start": 5.01,
+     "end": 5.7
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.33,
+   "end": 6.93,
+   "text": "parece⁠ que⁠ você⁠ vai⁠",
+   "words": [
+    {
+     "word": "parece⁠",
+     "start": 6.33,
+     "end": 6.59
+    },
+    {
+     "word": "que⁠",
+     "start": 6.59,
+     "end": 6.75
+    },
+    {
+     "word": "você⁠",
+     "start": 6.75,
+     "end": 6.85
+    },
+    {
+     "word": "vai⁠",
+     "start": 6.85,
+     "end": 6.93
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.97,
+   "end": 8.1,
+   "text": "roubar⁠ alguma⁠ coisa⁠",
+   "words": [
+    {
+     "word": "roubar⁠",
+     "start": 6.97,
+     "end": 7.11
+    },
+    {
+     "word": "alguma⁠",
+     "start": 7.11,
+     "end": 7.47
+    },
+    {
+     "word": "coisa⁠",
+     "start": 7.47,
+     "end": 8.1
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 24.6,
+   "end": 25.37,
+   "text": "— Ué⁠",
+   "words": [
+    {
+     "word": "— Ué⁠",
+     "start": 24.6,
+     "end": 25.37
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 26.95,
+   "end": 27.75,
+   "text": "— não⁠ entendi⁠ nada⁠",
+   "words": [
+    {
+     "word": "— não⁠",
+     "start": 26.95,
+     "end": 27.07
+    },
+    {
+     "word": "entendi⁠",
+     "start": 27.07,
+     "end": 27.37
+    },
+    {
+     "word": "nada⁠",
+     "start": 27.37,
+     "end": 27.75
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 27.79,
+   "end": 28.46,
+   "text": "calma⁠ eu⁠",
+   "words": [
+    {
+     "word": "calma⁠",
+     "start": 27.79,
+     "end": 28.05
+    },
+    {
+     "word": "eu⁠",
+     "start": 28.41,
+     "end": 28.46
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.45,
+   "end": 29.34,
+   "text": "tô⁠ procurado,⁠ eu⁠",
+   "words": [
+    {
+     "word": "tô⁠",
+     "start": 28.45,
+     "end": 28.57
+    },
+    {
+     "word": "procurado,⁠",
+     "start": 28.57,
+     "end": 29.21
+    },
+    {
+     "word": "eu⁠",
+     "start": 29.29,
+     "end": 29.34
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 29.33,
+   "end": 30.06,
+   "text": "esqueci⁠",
+   "words": [
+    {
+     "word": "esqueci⁠",
+     "start": 29.33,
+     "end": 30.06
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 31.02,
+   "end": 32.47,
+   "text": "Porra,⁠ trolei,⁠ viado⁠",
+   "words": [
+    {
+     "word": "Porra,⁠",
+     "start": 31.02,
+     "end": 31.54
+    },
+    {
+     "word": "trolei,⁠",
+     "start": 31.6,
+     "end": 31.92
+    },
+    {
+     "word": "viado⁠",
+     "start": 32.06,
+     "end": 32.47
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 32.51,
+   "end": 35.97,
+   "text": "Trolei⁠ Vai⁠ tirar⁠",
+   "words": [
+    {
+     "word": "Trolei⁠",
+     "start": 32.51,
+     "end": 33.33
+    },
+    {
+     "word": "Vai⁠",
+     "start": 35.55,
+     "end": 35.87
+    },
+    {
+     "word": "tirar⁠",
+     "start": 35.87,
+     "end": 35.97
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 36.01,
+   "end": 37.12,
+   "text": "o⁠ pedestre,⁠ se⁠ viu?⁠",
+   "words": [
+    {
+     "word": "o⁠",
+     "start": 36.01,
+     "end": 36.09
+    },
+    {
+     "word": "pedestre,⁠",
+     "start": 36.09,
+     "end": 36.55
+    },
+    {
+     "word": "se⁠",
+     "start": 36.57,
+     "end": 36.71
+    },
+    {
+     "word": "viu?⁠",
+     "start": 36.71,
+     "end": 37.12
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 40.56,
+   "end": 41.44,
+   "text": "Não, não, não",
+   "words": [
+    {
+     "word": "Não,",
+     "start": 40.56,
+     "end": 40.88
+    },
+    {
+     "word": "não,",
+     "start": 41.0,
+     "end": 41.1
+    },
+    {
+     "word": "não",
+     "start": 41.18,
+     "end": 41.44
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 41.48,
+   "end": 42.26,
+   "text": "Eu tinha que fazer",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 41.48,
+     "end": 41.56
+    },
+    {
+     "word": "tinha",
+     "start": 41.56,
+     "end": 42.0
+    },
+    {
+     "word": "que",
+     "start": 42.0,
+     "end": 42.1
+    },
+    {
+     "word": "fazer",
+     "start": 42.1,
+     "end": 42.26
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 42.3,
+   "end": 43.17,
+   "text": "safe, não",
+   "words": [
+    {
+     "word": "safe,",
+     "start": 42.3,
+     "end": 42.62
+    },
+    {
+     "word": "não",
+     "start": 42.82,
+     "end": 43.17
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 43.84,
+   "end": 44.44,
+   "text": "Zoado",
+   "words": [
+    {
+     "word": "Zoado",
+     "start": 43.84,
+     "end": 44.44
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 46.76,
+   "end": 47.36,
+   "text": "Prefiro recomeçar",
+   "words": [
+    {
+     "word": "Prefiro",
+     "start": 46.76,
+     "end": 47.08
+    },
+    {
+     "word": "recomeçar",
+     "start": 47.08,
+     "end": 47.36
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 47.4,
+   "end": 48.01,
+   "text": "a missão",
+   "words": [
+    {
+     "word": "a",
+     "start": 47.4,
+     "end": 47.56
+    },
+    {
+     "word": "missão",
+     "start": 47.56,
+     "end": 48.01
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 48.78,
+   "end": 50.09,
+   "text": "Eu não vi, mano",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 48.78,
+     "end": 49.1
+    },
+    {
+     "word": "não",
+     "start": 49.1,
+     "end": 49.26
+    },
+    {
+     "word": "vi,",
+     "start": 49.26,
+     "end": 49.54
+    },
+    {
+     "word": "mano",
+     "start": 49.7,
+     "end": 50.09
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 50.26,
+   "end": 50.86,
+   "text": "Não",
+   "words": [
+    {
+     "word": "Não",
+     "start": 50.26,
+     "end": 50.86
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 53.83,
+   "end": 54.8,
+   "text": "essa aqui eu vou",
+   "words": [
+    {
+     "word": "essa",
+     "start": 53.83,
+     "end": 54.45
+    },
+    {
+     "word": "aqui",
+     "start": 54.45,
+     "end": 54.69
+    },
+    {
+     "word": "eu",
+     "start": 54.69,
+     "end": 54.75
+    },
+    {
+     "word": "vou",
+     "start": 54.75,
+     "end": 54.8
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 54.81,
+   "end": 55.51,
+   "text": "recomeçar",
+   "words": [
+    {
+     "word": "recomeçar",
+     "start": 54.81,
+     "end": 55.51
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 55.55,
+   "end": 56.05,
+   "text": "Desculpa",
+   "words": [
+    {
+     "word": "Desculpa",
+     "start": 55.55,
+     "end": 56.05
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 56.09,
+   "end": 56.61,
+   "text": "Eu não gosto",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 56.09,
+     "end": 56.39
+    },
+    {
+     "word": "não",
+     "start": 56.39,
+     "end": 56.47
+    },
+    {
+     "word": "gosto",
+     "start": 56.47,
+     "end": 56.61
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 56.65,
+   "end": 57.17,
+   "text": "de fazer isso, não",
+   "words": [
+    {
+     "word": "de",
+     "start": 56.65,
+     "end": 56.75
+    },
+    {
+     "word": "fazer",
+     "start": 56.75,
+     "end": 56.89
+    },
+    {
+     "word": "isso,",
+     "start": 56.89,
+     "end": 57.05
+    },
+    {
+     "word": "não",
+     "start": 57.09,
+     "end": 57.17
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 57.21,
+   "end": 57.75,
+   "text": "Eu gosto de aceitar",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 57.21,
+     "end": 57.31
+    },
+    {
+     "word": "gosto",
+     "start": 57.31,
+     "end": 57.39
+    },
+    {
+     "word": "de",
+     "start": 57.39,
+     "end": 57.44
+    },
+    {
+     "word": "aceitar",
+     "start": 57.44,
+     "end": 57.75
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 57.79,
+   "end": 58.82,
+   "text": "o jogo do jeito que é",
+   "words": [
+    {
+     "word": "o",
+     "start": 57.79,
+     "end": 57.91
+    },
+    {
+     "word": "jogo",
+     "start": 57.91,
+     "end": 58.07
+    },
+    {
+     "word": "do",
+     "start": 58.07,
+     "end": 58.15
+    },
+    {
+     "word": "jeito",
+     "start": 58.15,
+     "end": 58.27
+    },
+    {
+     "word": "que",
+     "start": 58.27,
+     "end": 58.43
+    },
+    {
+     "word": "é",
+     "start": 58.43,
+     "end": 58.82
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 58.94,
+   "end": 60.17,
+   "text": "Mas foi mal",
+   "words": [
+    {
+     "word": "Mas",
+     "start": 58.94,
+     "end": 59.26
+    },
+    {
+     "word": "foi",
+     "start": 59.26,
+     "end": 59.7
+    },
+    {
+     "word": "mal",
+     "start": 59.7,
+     "end": 60.17
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 60.42,
+   "end": 60.88,
+   "text": "Desculpa",
+   "words": [
+    {
+     "word": "Desculpa",
+     "start": 60.42,
+     "end": 60.88
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 60.92,
+   "end": 61.52,
+   "text": "Não",
+   "words": [
+    {
+     "word": "Não",
+     "start": 60.92,
+     "end": 61.52
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 63.61,
+   "end": 64.52,
+   "text": "tem perigo",
+   "words": [
+    {
+     "word": "tem",
+     "start": 63.61,
+     "end": 63.77
+    },
+    {
+     "word": "perigo",
+     "start": 63.77,
+     "end": 64.52
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 64.67,
+   "end": 65.39,
+   "text": "Pô, não faz sentido",
+   "words": [
+    {
+     "word": "Pô,",
+     "start": 64.67,
+     "end": 64.99
+    },
+    {
+     "word": "não",
+     "start": 65.03,
+     "end": 65.08
+    },
+    {
+     "word": "faz",
+     "start": 65.08,
+     "end": 65.23
+    },
+    {
+     "word": "sentido",
+     "start": 65.23,
+     "end": 65.39
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 65.43,
+   "end": 65.95,
+   "text": "nenhum eu jogar",
+   "words": [
+    {
+     "word": "nenhum",
+     "start": 65.43,
+     "end": 65.65
+    },
+    {
+     "word": "eu",
+     "start": 65.65,
+     "end": 65.81
+    },
+    {
+     "word": "jogar",
+     "start": 65.81,
+     "end": 65.95
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 65.99,
+   "end": 66.53,
+   "text": "o jogo tentando",
+   "words": [
+    {
+     "word": "o",
+     "start": 65.99,
+     "end": 66.09
+    },
+    {
+     "word": "jogo",
+     "start": 66.09,
+     "end": 66.25
+    },
+    {
+     "word": "tentando",
+     "start": 66.25,
+     "end": 66.53
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 66.57,
+   "end": 67.35,
+   "text": "matar os caras",
+   "words": [
+    {
+     "word": "matar",
+     "start": 66.57,
+     "end": 66.85
+    },
+    {
+     "word": "os",
+     "start": 66.85,
+     "end": 67.07
+    },
+    {
+     "word": "caras",
+     "start": 67.07,
+     "end": 67.35
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 67.39,
+   "end": 68.55,
+   "text": "sendo que eu tô procurado",
+   "words": [
+    {
+     "word": "sendo",
+     "start": 67.39,
+     "end": 67.49
+    },
+    {
+     "word": "que",
+     "start": 67.49,
+     "end": 67.59
+    },
+    {
+     "word": "eu",
+     "start": 67.59,
+     "end": 67.65
+    },
+    {
+     "word": "tô",
+     "start": 67.65,
+     "end": 67.71
+    },
+    {
+     "word": "procurado",
+     "start": 67.71,
+     "end": 68.55
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 68.59,
+   "end": 69.71,
+   "text": "Tipo, eu até posso",
+   "words": [
+    {
+     "word": "Tipo,",
+     "start": 68.59,
+     "end": 68.91
+    },
+    {
+     "word": "eu",
+     "start": 68.95,
+     "end": 69.0
+    },
+    {
+     "word": "até",
+     "start": 69.0,
+     "end": 69.15
+    },
+    {
+     "word": "posso",
+     "start": 69.15,
+     "end": 69.71
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 69.75,
+   "end": 70.35,
+   "text": "né?",
+   "words": [
+    {
+     "word": "né?",
+     "start": 69.75,
+     "end": 70.35
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}

@@ -1,0 +1,1015 @@
+{
+ "segments": [
+  {
+   "start": 1.43,
+   "end": 1.99,
+   "text": "Vou falar, eu tenho",
+   "words": [
+    {
+     "word": "Vou",
+     "start": 1.43,
+     "end": 1.51
+    },
+    {
+     "word": "falar,",
+     "start": 1.51,
+     "end": 1.73
+    },
+    {
+     "word": "eu",
+     "start": 1.83,
+     "end": 1.91
+    },
+    {
+     "word": "tenho",
+     "start": 1.91,
+     "end": 1.99
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 2.03,
+   "end": 2.79,
+   "text": "uma observação muito",
+   "words": [
+    {
+     "word": "uma",
+     "start": 2.03,
+     "end": 2.13
+    },
+    {
+     "word": "observação",
+     "start": 2.13,
+     "end": 2.59
+    },
+    {
+     "word": "muito",
+     "start": 2.59,
+     "end": 2.79
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 2.83,
+   "end": 3.94,
+   "text": "importante pra fazer",
+   "words": [
+    {
+     "word": "importante",
+     "start": 2.83,
+     "end": 3.25
+    },
+    {
+     "word": "pra",
+     "start": 3.25,
+     "end": 3.39
+    },
+    {
+     "word": "fazer",
+     "start": 3.39,
+     "end": 3.94
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 4.63,
+   "end": 5.31,
+   "text": "Todo lugar que",
+   "words": [
+    {
+     "word": "Todo",
+     "start": 4.63,
+     "end": 4.85
+    },
+    {
+     "word": "lugar",
+     "start": 4.85,
+     "end": 5.19
+    },
+    {
+     "word": "que",
+     "start": 5.19,
+     "end": 5.31
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 5.35,
+   "end": 6.63,
+   "text": "a gente fica, sempre",
+   "words": [
+    {
+     "word": "a",
+     "start": 5.35,
+     "end": 5.49
+    },
+    {
+     "word": "gente",
+     "start": 5.49,
+     "end": 5.55
+    },
+    {
+     "word": "fica,",
+     "start": 5.55,
+     "end": 6.09
+    },
+    {
+     "word": "sempre",
+     "start": 6.25,
+     "end": 6.63
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.67,
+   "end": 7.25,
+   "text": "tem uma obra",
+   "words": [
+    {
+     "word": "tem",
+     "start": 6.67,
+     "end": 6.87
+    },
+    {
+     "word": "uma",
+     "start": 6.87,
+     "end": 7.03
+    },
+    {
+     "word": "obra",
+     "start": 7.03,
+     "end": 7.25
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.29,
+   "end": 7.95,
+   "text": "do nosso lado",
+   "words": [
+    {
+     "word": "do",
+     "start": 7.29,
+     "end": 7.41
+    },
+    {
+     "word": "nosso",
+     "start": 7.41,
+     "end": 7.65
+    },
+    {
+     "word": "lado",
+     "start": 7.65,
+     "end": 7.95
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.99,
+   "end": 9.06,
+   "text": "viado. Sempre",
+   "words": [
+    {
+     "word": "viado.",
+     "start": 7.99,
+     "end": 8.27
+    },
+    {
+     "word": "Sempre",
+     "start": 8.41,
+     "end": 9.06
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 9.53,
+   "end": 11.89,
+   "text": "Repararam isso? Com exceção",
+   "words": [
+    {
+     "word": "Repararam",
+     "start": 9.53,
+     "end": 9.93
+    },
+    {
+     "word": "isso?",
+     "start": 9.93,
+     "end": 10.23
+    },
+    {
+     "word": "Com",
+     "start": 11.45,
+     "end": 11.65
+    },
+    {
+     "word": "exceção",
+     "start": 11.65,
+     "end": 11.89
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 11.93,
+   "end": 13.42,
+   "text": "do capítulo 1 lá",
+   "words": [
+    {
+     "word": "do",
+     "start": 11.93,
+     "end": 12.11
+    },
+    {
+     "word": "capítulo",
+     "start": 12.11,
+     "end": 12.73
+    },
+    {
+     "word": "1",
+     "start": 12.73,
+     "end": 12.95
+    },
+    {
+     "word": "lá",
+     "start": 12.95,
+     "end": 13.42
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 13.67,
+   "end": 14.71,
+   "text": "mas tipo assim, todo",
+   "words": [
+    {
+     "word": "mas",
+     "start": 13.67,
+     "end": 13.87
+    },
+    {
+     "word": "tipo",
+     "start": 13.87,
+     "end": 14.03
+    },
+    {
+     "word": "assim,",
+     "start": 14.03,
+     "end": 14.23
+    },
+    {
+     "word": "todo",
+     "start": 14.51,
+     "end": 14.71
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 14.75,
+   "end": 16.03,
+   "text": "lugar tem uma obra",
+   "words": [
+    {
+     "word": "lugar",
+     "start": 14.75,
+     "end": 15.11
+    },
+    {
+     "word": "tem",
+     "start": 15.11,
+     "end": 15.47
+    },
+    {
+     "word": "uma",
+     "start": 15.47,
+     "end": 15.65
+    },
+    {
+     "word": "obra",
+     "start": 15.65,
+     "end": 16.03
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 16.07,
+   "end": 17.25,
+   "text": "viado. Todo lugar",
+   "words": [
+    {
+     "word": "viado.",
+     "start": 16.07,
+     "end": 16.35
+    },
+    {
+     "word": "Todo",
+     "start": 16.55,
+     "end": 16.79
+    },
+    {
+     "word": "lugar",
+     "start": 16.79,
+     "end": 17.25
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 17.29,
+   "end": 18.19,
+   "text": "O jogo trouxe",
+   "words": [
+    {
+     "word": "O",
+     "start": 17.29,
+     "end": 17.43
+    },
+    {
+     "word": "jogo",
+     "start": 17.43,
+     "end": 17.69
+    },
+    {
+     "word": "trouxe",
+     "start": 17.69,
+     "end": 18.19
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 18.23,
+   "end": 18.79,
+   "text": "a gente, nunca",
+   "words": [
+    {
+     "word": "a",
+     "start": 18.23,
+     "end": 18.31
+    },
+    {
+     "word": "gente,",
+     "start": 18.31,
+     "end": 18.47
+    },
+    {
+     "word": "nunca",
+     "start": 18.57,
+     "end": 18.79
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 18.83,
+   "end": 19.53,
+   "text": "a gente tá na",
+   "words": [
+    {
+     "word": "a",
+     "start": 18.83,
+     "end": 18.97
+    },
+    {
+     "word": "gente",
+     "start": 18.97,
+     "end": 19.09
+    },
+    {
+     "word": "tá",
+     "start": 19.09,
+     "end": 19.25
+    },
+    {
+     "word": "na",
+     "start": 19.25,
+     "end": 19.53
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 19.57,
+   "end": 20.11,
+   "text": "Tipo, não vou",
+   "words": [
+    {
+     "word": "Tipo,",
+     "start": 19.57,
+     "end": 19.85
+    },
+    {
+     "word": "não",
+     "start": 19.89,
+     "end": 20.03
+    },
+    {
+     "word": "vou",
+     "start": 20.03,
+     "end": 20.11
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 20.15,
+   "end": 21.64,
+   "text": "reclamar, né? Se bem que",
+   "words": [
+    {
+     "word": "reclamar,",
+     "start": 20.15,
+     "end": 20.59
+    },
+    {
+     "word": "né?",
+     "start": 20.59,
+     "end": 20.69
+    },
+    {
+     "word": "Se",
+     "start": 21.34,
+     "end": 21.5
+    },
+    {
+     "word": "bem",
+     "start": 21.5,
+     "end": 21.58
+    },
+    {
+     "word": "que",
+     "start": 21.58,
+     "end": 21.64
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 21.68,
+   "end": 22.32,
+   "text": "a gente tá preso",
+   "words": [
+    {
+     "word": "a",
+     "start": 21.68,
+     "end": 21.76
+    },
+    {
+     "word": "gente",
+     "start": 21.76,
+     "end": 21.84
+    },
+    {
+     "word": "tá",
+     "start": 21.84,
+     "end": 22.0
+    },
+    {
+     "word": "preso",
+     "start": 22.0,
+     "end": 22.32
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 22.36,
+   "end": 23.16,
+   "text": "aqui, não é tão legal",
+   "words": [
+    {
+     "word": "aqui,",
+     "start": 22.36,
+     "end": 22.48
+    },
+    {
+     "word": "não",
+     "start": 22.54,
+     "end": 22.62
+    },
+    {
+     "word": "é",
+     "start": 22.62,
+     "end": 22.7
+    },
+    {
+     "word": "tão",
+     "start": 22.7,
+     "end": 22.82
+    },
+    {
+     "word": "legal",
+     "start": 22.82,
+     "end": 23.16
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 23.2,
+   "end": 24.1,
+   "text": "Eu preferia ficar lá na puta",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 23.2,
+     "end": 23.24
+    },
+    {
+     "word": "preferia",
+     "start": 23.24,
+     "end": 23.46
+    },
+    {
+     "word": "ficar",
+     "start": 23.46,
+     "end": 23.66
+    },
+    {
+     "word": "lá",
+     "start": 23.66,
+     "end": 23.78
+    },
+    {
+     "word": "na",
+     "start": 23.78,
+     "end": 23.96
+    },
+    {
+     "word": "puta",
+     "start": 23.96,
+     "end": 24.1
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 24.14,
+   "end": 25.52,
+   "text": "que eu parei do que tá aqui",
+   "words": [
+    {
+     "word": "que",
+     "start": 24.14,
+     "end": 24.26
+    },
+    {
+     "word": "eu",
+     "start": 24.26,
+     "end": 24.32
+    },
+    {
+     "word": "parei",
+     "start": 24.32,
+     "end": 24.54
+    },
+    {
+     "word": "do",
+     "start": 24.54,
+     "end": 24.66
+    },
+    {
+     "word": "que",
+     "start": 24.66,
+     "end": 25.08
+    },
+    {
+     "word": "tá",
+     "start": 25.08,
+     "end": 25.22
+    },
+    {
+     "word": "aqui",
+     "start": 25.22,
+     "end": 25.52
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 25.56,
+   "end": 27.32,
+   "text": "assim. Mas todo lugar tem",
+   "words": [
+    {
+     "word": "assim.",
+     "start": 25.56,
+     "end": 25.64
+    },
+    {
+     "word": "Mas",
+     "start": 26.0,
+     "end": 26.2
+    },
+    {
+     "word": "todo",
+     "start": 26.2,
+     "end": 26.58
+    },
+    {
+     "word": "lugar",
+     "start": 26.58,
+     "end": 26.94
+    },
+    {
+     "word": "tem",
+     "start": 26.94,
+     "end": 27.32
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 27.36,
+   "end": 28.18,
+   "text": "um pedreiro pra ficar",
+   "words": [
+    {
+     "word": "um",
+     "start": 27.36,
+     "end": 27.5
+    },
+    {
+     "word": "pedreiro",
+     "start": 27.5,
+     "end": 27.9
+    },
+    {
+     "word": "pra",
+     "start": 27.9,
+     "end": 28.04
+    },
+    {
+     "word": "ficar",
+     "start": 28.04,
+     "end": 28.18
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.22,
+   "end": 29.24,
+   "text": "vendo a gente",
+   "words": [
+    {
+     "word": "vendo",
+     "start": 28.22,
+     "end": 28.46
+    },
+    {
+     "word": "a",
+     "start": 28.46,
+     "end": 29.08
+    },
+    {
+     "word": "gente",
+     "start": 29.08,
+     "end": 29.24
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 29.28,
+   "end": 30.47,
+   "text": "peladão aqui, pô",
+   "words": [
+    {
+     "word": "peladão",
+     "start": 29.28,
+     "end": 29.78
+    },
+    {
+     "word": "aqui,",
+     "start": 29.78,
+     "end": 29.98
+    },
+    {
+     "word": "pô",
+     "start": 30.1,
+     "end": 30.47
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 31.69,
+   "end": 32.53,
+   "text": "Inacreditável. A gente não pode",
+   "words": [
+    {
+     "word": "Inacreditável.",
+     "start": 31.69,
+     "end": 32.09
+    },
+    {
+     "word": "A",
+     "start": 32.13,
+     "end": 32.21
+    },
+    {
+     "word": "gente",
+     "start": 32.21,
+     "end": 32.27
+    },
+    {
+     "word": "não",
+     "start": 32.27,
+     "end": 32.41
+    },
+    {
+     "word": "pode",
+     "start": 32.41,
+     "end": 32.53
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 32.57,
+   "end": 33.09,
+   "text": "ficar com a piroca",
+   "words": [
+    {
+     "word": "ficar",
+     "start": 32.57,
+     "end": 32.69
+    },
+    {
+     "word": "com",
+     "start": 32.69,
+     "end": 32.79
+    },
+    {
+     "word": "a",
+     "start": 32.79,
+     "end": 32.85
+    },
+    {
+     "word": "piroca",
+     "start": 32.85,
+     "end": 33.09
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 33.13,
+   "end": 34.11,
+   "text": "de fora, transado",
+   "words": [
+    {
+     "word": "de",
+     "start": 33.13,
+     "end": 33.31
+    },
+    {
+     "word": "fora,",
+     "start": 33.31,
+     "end": 33.63
+    },
+    {
+     "word": "transado",
+     "start": 33.63,
+     "end": 34.11
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 34.15,
+   "end": 34.62,
+   "text": "lá de fora, não",
+   "words": [
+    {
+     "word": "lá",
+     "start": 34.15,
+     "end": 34.27
+    },
+    {
+     "word": "de",
+     "start": 34.27,
+     "end": 34.37
+    },
+    {
+     "word": "fora,",
+     "start": 34.37,
+     "end": 34.55
+    },
+    {
+     "word": "não",
+     "start": 34.57,
+     "end": 34.62
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 34.65,
+   "end": 36.19,
+   "text": "pode fazer nada. Porque sempre tem",
+   "words": [
+    {
+     "word": "pode",
+     "start": 34.65,
+     "end": 34.73
+    },
+    {
+     "word": "fazer",
+     "start": 34.73,
+     "end": 34.89
+    },
+    {
+     "word": "nada.",
+     "start": 34.89,
+     "end": 35.19
+    },
+    {
+     "word": "Porque",
+     "start": 35.79,
+     "end": 35.87
+    },
+    {
+     "word": "sempre",
+     "start": 35.87,
+     "end": 36.09
+    },
+    {
+     "word": "tem",
+     "start": 36.09,
+     "end": 36.19
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 36.23,
+   "end": 36.71,
+   "text": "alguém pra ficar te",
+   "words": [
+    {
+     "word": "alguém",
+     "start": 36.23,
+     "end": 36.39
+    },
+    {
+     "word": "pra",
+     "start": 36.39,
+     "end": 36.51
+    },
+    {
+     "word": "ficar",
+     "start": 36.51,
+     "end": 36.65
+    },
+    {
+     "word": "te",
+     "start": 36.65,
+     "end": 36.71
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 36.75,
+   "end": 38.33,
+   "text": "olhando. Vamos lá falar",
+   "words": [
+    {
+     "word": "olhando.",
+     "start": 36.75,
+     "end": 37.05
+    },
+    {
+     "word": "Vamos",
+     "start": 37.89,
+     "end": 38.03
+    },
+    {
+     "word": "lá",
+     "start": 38.03,
+     "end": 38.15
+    },
+    {
+     "word": "falar",
+     "start": 38.15,
+     "end": 38.33
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 38.37,
+   "end": 39.25,
+   "text": "com o V aqui",
+   "words": [
+    {
+     "word": "com",
+     "start": 38.37,
+     "end": 38.63
+    },
+    {
+     "word": "o",
+     "start": 38.63,
+     "end": 38.89
+    },
+    {
+     "word": "V",
+     "start": 38.89,
+     "end": 38.99
+    },
+    {
+     "word": "aqui",
+     "start": 38.99,
+     "end": 39.25
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 39.29,
+   "end": 39.89,
+   "text": "mano",
+   "words": [
+    {
+     "word": "mano",
+     "start": 39.29,
+     "end": 39.89
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 42.58,
+   "end": 43.42,
+   "text": "E olha como é que o cara",
+   "words": [
+    {
+     "word": "E",
+     "start": 42.58,
+     "end": 42.86
+    },
+    {
+     "word": "olha",
+     "start": 42.86,
+     "end": 43.06
+    },
+    {
+     "word": "como",
+     "start": 43.06,
+     "end": 43.2
+    },
+    {
+     "word": "é",
+     "start": 43.2,
+     "end": 43.26
+    },
+    {
+     "word": "que",
+     "start": 43.26,
+     "end": 43.32
+    },
+    {
+     "word": "o",
+     "start": 43.32,
+     "end": 43.37
+    },
+    {
+     "word": "cara",
+     "start": 43.37,
+     "end": 43.42
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 43.44,
+   "end": 44.13,
+   "text": "tá malhando",
+   "words": [
+    {
+     "word": "tá",
+     "start": 43.44,
+     "end": 43.56
+    },
+    {
+     "word": "malhando",
+     "start": 43.56,
+     "end": 44.13
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
