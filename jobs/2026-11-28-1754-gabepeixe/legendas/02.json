@@ -1,0 +1,661 @@
+{
+ "segments": [
+  {
+   "start": 3.4,
+   "end": 4.34,
+   "text": "Nossa, não existe",
+   "words": [
+    {
+     "word": "Nossa,",
+     "start": 3.4,
+     "end": 3.7
+    },
+    {
+     "word": "não",
+     "start": 3.94,
+     "end": 4.12
+    },
+    {
+     "word": "existe",
+     "start": 4.12,
+     "end": 4.34
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 4.38,
+   "end": 5.26,
+   "text": "um mundo que isso aí não estaria",
+   "words": [
+    {
+     "word": "um",
+     "start": 4.38,
+     "end": 4.56
+    },
+    {
+     "word": "mundo",
+     "start": 4.56,
+     "end": 4.7
+    },
+    {
+     "word": "que",
+     "start": 4.7,
+     "end": 4.8
+    },
+    {
+     "word": "isso",
+     "start": 4.8,
+     "end": 4.88
+    },
+    {
+     "word": "aí",
+     "start": 4.88,
+     "end": 4.94
+    },
+    {
+     "word": "não",
+     "start": 4.94,
+     "end": 5.1
+    },
+    {
+     "word": "estaria",
+     "start": 5.1,
+     "end": 5.26
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 5.3,
+   "end": 6.55,
+   "text": "zoado, teria",
+   "words": [
+    {
+     "word": "zoado,",
+     "start": 5.3,
+     "end": 6.06
+    },
+    {
+     "word": "teria",
+     "start": 6.21,
+     "end": 6.55
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 6.59,
+   "end": 7.57,
+   "text": "que usar um WD",
+   "words": [
+    {
+     "word": "que",
+     "start": 6.59,
+     "end": 6.69
+    },
+    {
+     "word": "usar",
+     "start": 6.69,
+     "end": 6.77
+    },
+    {
+     "word": "um",
+     "start": 6.77,
+     "end": 6.93
+    },
+    {
+     "word": "WD",
+     "start": 6.93,
+     "end": 7.57
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 7.61,
+   "end": 8.13,
+   "text": "um sei lá",
+   "words": [
+    {
+     "word": "um",
+     "start": 7.61,
+     "end": 7.71
+    },
+    {
+     "word": "sei",
+     "start": 7.71,
+     "end": 8.05
+    },
+    {
+     "word": "lá",
+     "start": 8.05,
+     "end": 8.13
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 8.17,
+   "end": 8.89,
+   "text": "que porra eu ia",
+   "words": [
+    {
+     "word": "que",
+     "start": 8.17,
+     "end": 8.33
+    },
+    {
+     "word": "porra",
+     "start": 8.33,
+     "end": 8.69
+    },
+    {
+     "word": "eu",
+     "start": 8.69,
+     "end": 8.83
+    },
+    {
+     "word": "ia",
+     "start": 8.83,
+     "end": 8.89
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 8.93,
+   "end": 9.53,
+   "text": "usar aí",
+   "words": [
+    {
+     "word": "usar",
+     "start": 8.93,
+     "end": 9.05
+    },
+    {
+     "word": "aí",
+     "start": 9.05,
+     "end": 9.53
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 11.26,
+   "end": 12.25,
+   "text": "Diga aí",
+   "words": [
+    {
+     "word": "Diga",
+     "start": 11.26,
+     "end": 11.84
+    },
+    {
+     "word": "aí",
+     "start": 11.84,
+     "end": 12.25
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 12.89,
+   "end": 13.65,
+   "text": "até parafuso a gente",
+   "words": [
+    {
+     "word": "até",
+     "start": 12.89,
+     "end": 13.01
+    },
+    {
+     "word": "parafuso",
+     "start": 13.01,
+     "end": 13.47
+    },
+    {
+     "word": "a",
+     "start": 13.47,
+     "end": 13.57
+    },
+    {
+     "word": "gente",
+     "start": 13.57,
+     "end": 13.65
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 13.69,
+   "end": 15.1,
+   "text": "tira, pai, até",
+   "words": [
+    {
+     "word": "tira,",
+     "start": 13.69,
+     "end": 14.07
+    },
+    {
+     "word": "pai,",
+     "start": 14.19,
+     "end": 14.33
+    },
+    {
+     "word": "até",
+     "start": 14.33,
+     "end": 15.1
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 16.83,
+   "end": 17.53,
+   "text": "parafuso a gente",
+   "words": [
+    {
+     "word": "parafuso",
+     "start": 16.83,
+     "end": 17.37
+    },
+    {
+     "word": "a",
+     "start": 17.37,
+     "end": 17.47
+    },
+    {
+     "word": "gente",
+     "start": 17.47,
+     "end": 17.53
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 17.57,
+   "end": 18.76,
+   "text": "tira. Sou",
+   "words": [
+    {
+     "word": "tira.",
+     "start": 17.57,
+     "end": 18.03
+    },
+    {
+     "word": "Sou",
+     "start": 18.03,
+     "end": 18.76
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 29.97,
+   "end": 31.33,
+   "text": "tirador de parafuso",
+   "words": [
+    {
+     "word": "tirador",
+     "start": 29.97,
+     "end": 30.75
+    },
+    {
+     "word": "de",
+     "start": 30.75,
+     "end": 30.91
+    },
+    {
+     "word": "parafuso",
+     "start": 30.91,
+     "end": 31.33
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 31.37,
+   "end": 32.73,
+   "text": "profissional, rapaz, tu não conhece",
+   "words": [
+    {
+     "word": "profissional,",
+     "start": 31.37,
+     "end": 31.97
+    },
+    {
+     "word": "rapaz,",
+     "start": 32.09,
+     "end": 32.31
+    },
+    {
+     "word": "tu",
+     "start": 32.37,
+     "end": 32.43
+    },
+    {
+     "word": "não",
+     "start": 32.43,
+     "end": 32.49
+    },
+    {
+     "word": "conhece",
+     "start": 32.49,
+     "end": 32.73
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 32.77,
+   "end": 33.29,
+   "text": "ninguém que faz isso",
+   "words": [
+    {
+     "word": "ninguém",
+     "start": 32.77,
+     "end": 32.93
+    },
+    {
+     "word": "que",
+     "start": 32.93,
+     "end": 33.07
+    },
+    {
+     "word": "faz",
+     "start": 33.07,
+     "end": 33.19
+    },
+    {
+     "word": "isso",
+     "start": 33.19,
+     "end": 33.29
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 33.33,
+   "end": 33.93,
+   "text": "não",
+   "words": [
+    {
+     "word": "não",
+     "start": 33.33,
+     "end": 33.93
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 34.33,
+   "end": 35.29,
+   "text": "Tirador de parafuso",
+   "words": [
+    {
+     "word": "Tirador",
+     "start": 34.33,
+     "end": 34.73
+    },
+    {
+     "word": "de",
+     "start": 34.73,
+     "end": 34.91
+    },
+    {
+     "word": "parafuso",
+     "start": 34.91,
+     "end": 35.29
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 35.33,
+   "end": 36.14,
+   "text": "profissional?",
+   "words": [
+    {
+     "word": "profissional?",
+     "start": 35.33,
+     "end": 36.14
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 36.43,
+   "end": 37.03,
+   "text": "Não",
+   "words": [
+    {
+     "word": "Não",
+     "start": 36.43,
+     "end": 37.03
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 37.84,
+   "end": 38.91,
+   "text": "conhece não",
+   "words": [
+    {
+     "word": "conhece",
+     "start": 37.84,
+     "end": 38.52
+    },
+    {
+     "word": "não",
+     "start": 38.52,
+     "end": 38.91
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 54.59,
+   "end": 55.43,
+   "text": "WD debaixo d'água",
+   "words": [
+    {
+     "word": "WD",
+     "start": 54.59,
+     "end": 54.93
+    },
+    {
+     "word": "debaixo",
+     "start": 54.93,
+     "end": 55.27
+    },
+    {
+     "word": "d'água",
+     "start": 55.27,
+     "end": 55.43
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 55.47,
+   "end": 56.78,
+   "text": "não funciona. É",
+   "words": [
+    {
+     "word": "não",
+     "start": 55.47,
+     "end": 55.59
+    },
+    {
+     "word": "funciona.",
+     "start": 55.59,
+     "end": 56.07
+    },
+    {
+     "word": "É",
+     "start": 56.07,
+     "end": 56.78
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 57.39,
+   "end": 58.64,
+   "text": "só tirar água dali",
+   "words": [
+    {
+     "word": "só",
+     "start": 57.39,
+     "end": 57.57
+    },
+    {
+     "word": "tirar",
+     "start": 57.57,
+     "end": 57.85
+    },
+    {
+     "word": "água",
+     "start": 57.85,
+     "end": 58.09
+    },
+    {
+     "word": "dali",
+     "start": 58.09,
+     "end": 58.64
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 60.15,
+   "end": 61.31,
+   "text": "molinho, molinho",
+   "words": [
+    {
+     "word": "molinho,",
+     "start": 60.15,
+     "end": 60.91
+    },
+    {
+     "word": "molinho",
+     "start": 60.95,
+     "end": 61.31
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 61.35,
+   "end": 61.95,
+   "text": "pouquinho água para",
+   "words": [
+    {
+     "word": "pouquinho",
+     "start": 61.35,
+     "end": 61.63
+    },
+    {
+     "word": "água",
+     "start": 61.63,
+     "end": 61.87
+    },
+    {
+     "word": "para",
+     "start": 61.87,
+     "end": 61.95
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 61.99,
+   "end": 62.94,
+   "text": "tirar. Faz",
+   "words": [
+    {
+     "word": "tirar.",
+     "start": 61.99,
+     "end": 62.19
+    },
+    {
+     "word": "Faz",
+     "start": 62.19,
+     "end": 62.94
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 63.86,
+   "end": 64.56,
+   "text": "igual Minecraft",
+   "words": [
+    {
+     "word": "igual",
+     "start": 63.86,
+     "end": 64.02
+    },
+    {
+     "word": "Minecraft",
+     "start": 64.02,
+     "end": 64.56
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 64.6,
+   "end": 66.16,
+   "text": "joga terra de cima",
+   "words": [
+    {
+     "word": "joga",
+     "start": 64.6,
+     "end": 64.9
+    },
+    {
+     "word": "terra",
+     "start": 64.9,
+     "end": 65.54
+    },
+    {
+     "word": "de",
+     "start": 65.66,
+     "end": 65.92
+    },
+    {
+     "word": "cima",
+     "start": 65.92,
+     "end": 66.16
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 66.2,
+   "end": 68.28,
+   "text": "ou esponja, esponja",
+   "words": [
+    {
+     "word": "ou",
+     "start": 66.2,
+     "end": 66.78
+    },
+    {
+     "word": "esponja,",
+     "start": 66.93,
+     "end": 67.47
+    },
+    {
+     "word": "esponja",
+     "start": 67.53,
+     "end": 68.28
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}

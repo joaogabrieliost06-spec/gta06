@@ -1,0 +1,610 @@
+{
+ "segments": [
+  {
+   "start": 4.01,
+   "end": 5.99,
+   "text": "que",
+   "words": [
+    {
+     "word": "que",
+     "start": 4.01,
+     "end": 5.99
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.03,
+   "end": 6.75,
+   "text": "eu tô tomando tiro?",
+   "words": [
+    {
+     "word": "eu",
+     "start": 6.03,
+     "end": 6.09
+    },
+    {
+     "word": "tô",
+     "start": 6.09,
+     "end": 6.15
+    },
+    {
+     "word": "tomando",
+     "start": 6.15,
+     "end": 6.43
+    },
+    {
+     "word": "tiro?",
+     "start": 6.43,
+     "end": 6.75
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.79,
+   "end": 7.87,
+   "text": "Mano, tu ta andando",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 6.79,
+     "end": 7.19
+    },
+    {
+     "word": "tu",
+     "start": 7.31,
+     "end": 7.43
+    },
+    {
+     "word": "ta",
+     "start": 7.43,
+     "end": 7.55
+    },
+    {
+     "word": "andando",
+     "start": 7.55,
+     "end": 7.87
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.91,
+   "end": 8.74,
+   "text": "e tá tomando",
+   "words": [
+    {
+     "word": "e",
+     "start": 7.91,
+     "end": 8.01
+    },
+    {
+     "word": "tá",
+     "start": 8.01,
+     "end": 8.06
+    },
+    {
+     "word": "tomando",
+     "start": 8.06,
+     "end": 8.74
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 11.71,
+   "end": 12.72,
+   "text": "Tava",
+   "words": [
+    {
+     "word": "Tava",
+     "start": 11.71,
+     "end": 12.72
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 17.67,
+   "end": 18.33,
+   "text": "dentro do banheiro",
+   "words": [
+    {
+     "word": "dentro",
+     "start": 17.67,
+     "end": 17.97
+    },
+    {
+     "word": "do",
+     "start": 17.97,
+     "end": 18.09
+    },
+    {
+     "word": "banheiro",
+     "start": 18.09,
+     "end": 18.33
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 18.37,
+   "end": 18.95,
+   "text": "e já sai com o fuzil",
+   "words": [
+    {
+     "word": "e",
+     "start": 18.37,
+     "end": 18.43
+    },
+    {
+     "word": "já",
+     "start": 18.43,
+     "end": 18.51
+    },
+    {
+     "word": "sai",
+     "start": 18.51,
+     "end": 18.69
+    },
+    {
+     "word": "com",
+     "start": 18.69,
+     "end": 18.77
+    },
+    {
+     "word": "o",
+     "start": 18.77,
+     "end": 18.83
+    },
+    {
+     "word": "fuzil",
+     "start": 18.83,
+     "end": 18.95
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 18.99,
+   "end": 19.47,
+   "text": "na mão",
+   "words": [
+    {
+     "word": "na",
+     "start": 18.99,
+     "end": 19.11
+    },
+    {
+     "word": "mão",
+     "start": 19.11,
+     "end": 19.47
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 19.51,
+   "end": 20.85,
+   "text": "Bota o fuzil",
+   "words": [
+    {
+     "word": "Bota",
+     "start": 19.51,
+     "end": 20.29
+    },
+    {
+     "word": "o",
+     "start": 20.29,
+     "end": 20.43
+    },
+    {
+     "word": "fuzil",
+     "start": 20.43,
+     "end": 20.85
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 20.89,
+   "end": 22.28,
+   "text": "pra cá, tá pá pum",
+   "words": [
+    {
+     "word": "pra",
+     "start": 20.89,
+     "end": 21.21
+    },
+    {
+     "word": "cá,",
+     "start": 21.21,
+     "end": 21.31
+    },
+    {
+     "word": "tá",
+     "start": 21.49,
+     "end": 21.57
+    },
+    {
+     "word": "pá",
+     "start": 21.57,
+     "end": 21.87
+    },
+    {
+     "word": "pum",
+     "start": 21.87,
+     "end": 22.28
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 22.32,
+   "end": 23.48,
+   "text": "Ó, aqui é depósito",
+   "words": [
+    {
+     "word": "Ó,",
+     "start": 22.32,
+     "end": 22.72
+    },
+    {
+     "word": "aqui",
+     "start": 22.82,
+     "end": 22.9
+    },
+    {
+     "word": "é",
+     "start": 22.9,
+     "end": 22.98
+    },
+    {
+     "word": "depósito",
+     "start": 22.98,
+     "end": 23.48
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 23.52,
+   "end": 24.12,
+   "text": "que",
+   "words": [
+    {
+     "word": "que",
+     "start": 23.52,
+     "end": 24.12
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 26.19,
+   "end": 27.06,
+   "text": "isso mano?",
+   "words": [
+    {
+     "word": "isso",
+     "start": 26.19,
+     "end": 26.53
+    },
+    {
+     "word": "mano?",
+     "start": 26.53,
+     "end": 27.06
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 27.55,
+   "end": 28.21,
+   "text": "Batendo punhento",
+   "words": [
+    {
+     "word": "Batendo",
+     "start": 27.55,
+     "end": 27.93
+    },
+    {
+     "word": "punhento",
+     "start": 27.93,
+     "end": 28.21
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.25,
+   "end": 29.31,
+   "text": "no depósito? Você tava fazendo",
+   "words": [
+    {
+     "word": "no",
+     "start": 28.25,
+     "end": 28.37
+    },
+    {
+     "word": "depósito?",
+     "start": 28.37,
+     "end": 28.81
+    },
+    {
+     "word": "Você",
+     "start": 28.89,
+     "end": 29.11
+    },
+    {
+     "word": "tava",
+     "start": 29.11,
+     "end": 29.17
+    },
+    {
+     "word": "fazendo",
+     "start": 29.17,
+     "end": 29.31
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 29.35,
+   "end": 29.97,
+   "text": "depósito desse aqui",
+   "words": [
+    {
+     "word": "depósito",
+     "start": 29.35,
+     "end": 29.75
+    },
+    {
+     "word": "desse",
+     "start": 29.75,
+     "end": 29.91
+    },
+    {
+     "word": "aqui",
+     "start": 29.91,
+     "end": 29.97
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 30.01,
+   "end": 30.61,
+   "text": "sozinho?",
+   "words": [
+    {
+     "word": "sozinho?",
+     "start": 30.01,
+     "end": 30.61
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 44.88,
+   "end": 45.91,
+   "text": "Não teve jeito. O",
+   "words": [
+    {
+     "word": "Não",
+     "start": 44.88,
+     "end": 44.96
+    },
+    {
+     "word": "teve",
+     "start": 44.96,
+     "end": 45.12
+    },
+    {
+     "word": "jeito.",
+     "start": 45.12,
+     "end": 45.42
+    },
+    {
+     "word": "O",
+     "start": 45.42,
+     "end": 45.91
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 46.61,
+   "end": 47.27,
+   "text": "cara botou a cabeça",
+   "words": [
+    {
+     "word": "cara",
+     "start": 46.61,
+     "end": 46.69
+    },
+    {
+     "word": "botou",
+     "start": 46.69,
+     "end": 46.97
+    },
+    {
+     "word": "a",
+     "start": 46.97,
+     "end": 47.05
+    },
+    {
+     "word": "cabeça",
+     "start": 47.05,
+     "end": 47.27
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 47.31,
+   "end": 48.03,
+   "text": "na frente do ponto",
+   "words": [
+    {
+     "word": "na",
+     "start": 47.31,
+     "end": 47.47
+    },
+    {
+     "word": "frente",
+     "start": 47.47,
+     "end": 47.71
+    },
+    {
+     "word": "do",
+     "start": 47.71,
+     "end": 47.85
+    },
+    {
+     "word": "ponto",
+     "start": 47.85,
+     "end": 48.03
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 48.07,
+   "end": 48.67,
+   "text": "certo",
+   "words": [
+    {
+     "word": "certo",
+     "start": 48.07,
+     "end": 48.67
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 53.95,
+   "end": 54.69,
+   "text": "Isso aqui é isso",
+   "words": [
+    {
+     "word": "Isso",
+     "start": 53.95,
+     "end": 54.35
+    },
+    {
+     "word": "aqui",
+     "start": 54.35,
+     "end": 54.49
+    },
+    {
+     "word": "é",
+     "start": 54.49,
+     "end": 54.54
+    },
+    {
+     "word": "isso",
+     "start": 54.54,
+     "end": 54.69
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 54.73,
+   "end": 55.33,
+   "text": "aqui, né?",
+   "words": [
+    {
+     "word": "aqui,",
+     "start": 54.73,
+     "end": 54.89
+    },
+    {
+     "word": "né?",
+     "start": 54.89,
+     "end": 55.33
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 55.49,
+   "end": 56.42,
+   "text": "é isso aqui",
+   "words": [
+    {
+     "word": "é",
+     "start": 55.49,
+     "end": 55.81
+    },
+    {
+     "word": "isso",
+     "start": 55.81,
+     "end": 55.99
+    },
+    {
+     "word": "aqui",
+     "start": 55.99,
+     "end": 56.42
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 62.95,
+   "end": 65.58,
+   "text": "queria",
+   "words": [
+    {
+     "word": "queria",
+     "start": 62.95,
+     "end": 65.58
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 75.56,
+   "end": 76.82,
+   "text": "muito pegar a vista",
+   "words": [
+    {
+     "word": "muito",
+     "start": 75.56,
+     "end": 75.86
+    },
+    {
+     "word": "pegar",
+     "start": 75.86,
+     "end": 76.22
+    },
+    {
+     "word": "a",
+     "start": 76.22,
+     "end": 76.42
+    },
+    {
+     "word": "vista",
+     "start": 76.42,
+     "end": 76.82
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 76.86,
+   "end": 77.46,
+   "text": "bom",
+   "words": [
+    {
+     "word": "bom",
+     "start": 76.86,
+     "end": 77.46
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}

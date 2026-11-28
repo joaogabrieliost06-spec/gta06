@@ -1,0 +1,344 @@
+{
+ "segments": [
+  {
+   "start": 3.89,
+   "end": 4.96,
+   "text": "Vai fazer o que?",
+   "words": [
+    {
+     "word": "Vai",
+     "start": 3.89,
+     "end": 4.25
+    },
+    {
+     "word": "fazer",
+     "start": 4.25,
+     "end": 4.49
+    },
+    {
+     "word": "o",
+     "start": 4.49,
+     "end": 4.63
+    },
+    {
+     "word": "que?",
+     "start": 4.63,
+     "end": 4.96
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.31,
+   "end": 7.29,
+   "text": "Ah, foi a ponte",
+   "words": [
+    {
+     "word": "Ah,",
+     "start": 6.31,
+     "end": 6.67
+    },
+    {
+     "word": "foi",
+     "start": 6.85,
+     "end": 6.9
+    },
+    {
+     "word": "a",
+     "start": 6.9,
+     "end": 7.01
+    },
+    {
+     "word": "ponte",
+     "start": 7.01,
+     "end": 7.29
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.33,
+   "end": 8.32,
+   "text": "realmente foi a ponte que eu",
+   "words": [
+    {
+     "word": "realmente",
+     "start": 7.33,
+     "end": 7.59
+    },
+    {
+     "word": "foi",
+     "start": 7.59,
+     "end": 7.79
+    },
+    {
+     "word": "a",
+     "start": 7.79,
+     "end": 7.93
+    },
+    {
+     "word": "ponte",
+     "start": 7.93,
+     "end": 8.15
+    },
+    {
+     "word": "que",
+     "start": 8.15,
+     "end": 8.27
+    },
+    {
+     "word": "eu",
+     "start": 8.27,
+     "end": 8.32
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 8.35,
+   "end": 9.24,
+   "text": "mexi, eu acho",
+   "words": [
+    {
+     "word": "mexi,",
+     "start": 8.35,
+     "end": 8.65
+    },
+    {
+     "word": "eu",
+     "start": 8.79,
+     "end": 8.84
+    },
+    {
+     "word": "acho",
+     "start": 8.84,
+     "end": 9.24
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 12.18,
+   "end": 12.79,
+   "text": "Meu",
+   "words": [
+    {
+     "word": "Meu",
+     "start": 12.18,
+     "end": 12.79
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 19.85,
+   "end": 20.45,
+   "text": "Deus",
+   "words": [
+    {
+     "word": "Deus",
+     "start": 19.85,
+     "end": 20.45
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 24.25,
+   "end": 27.09,
+   "text": "arranquei a",
+   "words": [
+    {
+     "word": "arranquei",
+     "start": 24.25,
+     "end": 24.95
+    },
+    {
+     "word": "a",
+     "start": 25.21,
+     "end": 27.09
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 27.13,
+   "end": 28.0,
+   "text": "perna do cara",
+   "words": [
+    {
+     "word": "perna",
+     "start": 27.13,
+     "end": 27.31
+    },
+    {
+     "word": "do",
+     "start": 27.31,
+     "end": 27.43
+    },
+    {
+     "word": "cara",
+     "start": 27.43,
+     "end": 28.0
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 30.15,
+   "end": 30.75,
+   "text": "gente",
+   "words": [
+    {
+     "word": "gente",
+     "start": 30.15,
+     "end": 30.75
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 31.13,
+   "end": 31.73,
+   "text": "o",
+   "words": [
+    {
+     "word": "o",
+     "start": 31.13,
+     "end": 31.73
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 34.84,
+   "end": 35.82,
+   "text": "carro foi pro caralho, cada",
+   "words": [
+    {
+     "word": "carro",
+     "start": 34.84,
+     "end": 35.02
+    },
+    {
+     "word": "foi",
+     "start": 35.02,
+     "end": 35.18
+    },
+    {
+     "word": "pro",
+     "start": 35.18,
+     "end": 35.28
+    },
+    {
+     "word": "caralho,",
+     "start": 35.28,
+     "end": 35.64
+    },
+    {
+     "word": "cada",
+     "start": 35.72,
+     "end": 35.82
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 35.86,
+   "end": 36.77,
+   "text": "um, só cada um",
+   "words": [
+    {
+     "word": "um,",
+     "start": 35.86,
+     "end": 35.96
+    },
+    {
+     "word": "só",
+     "start": 36.06,
+     "end": 36.11
+    },
+    {
+     "word": "cada",
+     "start": 36.11,
+     "end": 36.34
+    },
+    {
+     "word": "um",
+     "start": 36.34,
+     "end": 36.77
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 46.37,
+   "end": 47.32,
+   "text": "Caralho, viado",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 46.37,
+     "end": 46.69
+    },
+    {
+     "word": "viado",
+     "start": 46.83,
+     "end": 47.32
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 47.97,
+   "end": 48.49,
+   "text": "Moleque, tu viu",
+   "words": [
+    {
+     "word": "Moleque,",
+     "start": 47.97,
+     "end": 48.29
+    },
+    {
+     "word": "tu",
+     "start": 48.35,
+     "end": 48.4
+    },
+    {
+     "word": "viu",
+     "start": 48.4,
+     "end": 48.49
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 48.53,
+   "end": 49.44,
+   "text": "a perna do cara",
+   "words": [
+    {
+     "word": "a",
+     "start": 48.53,
+     "end": 48.69
+    },
+    {
+     "word": "perna",
+     "start": 48.69,
+     "end": 48.83
+    },
+    {
+     "word": "do",
+     "start": 48.83,
+     "end": 48.97
+    },
+    {
+     "word": "cara",
+     "start": 48.97,
+     "end": 49.44
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}

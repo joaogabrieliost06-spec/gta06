@@ -1,0 +1,319 @@
+{
+ "segments": [
+  {
+   "start": 2.63,
+   "end": 3.34,
+   "text": "Claro que eu não",
+   "words": [
+    {
+     "word": "Claro",
+     "start": 2.63,
+     "end": 3.07
+    },
+    {
+     "word": "que",
+     "start": 3.07,
+     "end": 3.21
+    },
+    {
+     "word": "eu",
+     "start": 3.21,
+     "end": 3.29
+    },
+    {
+     "word": "não",
+     "start": 3.29,
+     "end": 3.34
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 3.31,
+   "end": 3.83,
+   "text": "senti um porra",
+   "words": [
+    {
+     "word": "senti",
+     "start": 3.31,
+     "end": 3.53
+    },
+    {
+     "word": "um",
+     "start": 3.53,
+     "end": 3.63
+    },
+    {
+     "word": "porra",
+     "start": 3.63,
+     "end": 3.83
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 3.87,
+   "end": 5.0,
+   "text": "nenhuma, claro",
+   "words": [
+    {
+     "word": "nenhuma,",
+     "start": 3.87,
+     "end": 4.01
+    },
+    {
+     "word": "claro",
+     "start": 4.03,
+     "end": 5.0
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 6.11,
+   "end": 6.57,
+   "text": "que eu não senti",
+   "words": [
+    {
+     "word": "que",
+     "start": 6.11,
+     "end": 6.33
+    },
+    {
+     "word": "eu",
+     "start": 6.33,
+     "end": 6.39
+    },
+    {
+     "word": "não",
+     "start": 6.39,
+     "end": 6.45
+    },
+    {
+     "word": "senti",
+     "start": 6.45,
+     "end": 6.57
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 6.61,
+   "end": 7.1,
+   "text": "um porra nenhuma, tá",
+   "words": [
+    {
+     "word": "um",
+     "start": 6.61,
+     "end": 6.65
+    },
+    {
+     "word": "porra",
+     "start": 6.65,
+     "end": 6.87
+    },
+    {
+     "word": "nenhuma,",
+     "start": 6.87,
+     "end": 6.99
+    },
+    {
+     "word": "tá",
+     "start": 7.05,
+     "end": 7.1
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 7.13,
+   "end": 8.19,
+   "text": "só cheirado, viado",
+   "words": [
+    {
+     "word": "só",
+     "start": 7.13,
+     "end": 7.31
+    },
+    {
+     "word": "cheirado,",
+     "start": 7.31,
+     "end": 7.85
+    },
+    {
+     "word": "viado",
+     "start": 7.99,
+     "end": 8.19
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 8.23,
+   "end": 8.9,
+   "text": "Que",
+   "words": [
+    {
+     "word": "Que",
+     "start": 8.23,
+     "end": 8.9
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 19.01,
+   "end": 20.68,
+   "text": "isso, mano, que",
+   "words": [
+    {
+     "word": "isso,",
+     "start": 19.01,
+     "end": 19.63
+    },
+    {
+     "word": "mano,",
+     "start": 19.83,
+     "end": 20.07
+    },
+    {
+     "word": "que",
+     "start": 20.29,
+     "end": 20.68
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 26.65,
+   "end": 27.86,
+   "text": "loucura, viado",
+   "words": [
+    {
+     "word": "loucura,",
+     "start": 26.65,
+     "end": 27.17
+    },
+    {
+     "word": "viado",
+     "start": 27.29,
+     "end": 27.86
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 35.92,
+   "end": 37.05,
+   "text": "Que",
+   "words": [
+    {
+     "word": "Que",
+     "start": 35.92,
+     "end": 37.05
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 39.19,
+   "end": 40.68,
+   "text": "isso, mano",
+   "words": [
+    {
+     "word": "isso,",
+     "start": 39.19,
+     "end": 39.95
+    },
+    {
+     "word": "mano",
+     "start": 40.19,
+     "end": 40.68
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 41.04,
+   "end": 42.95,
+   "text": "cara piroca, mano",
+   "words": [
+    {
+     "word": "cara",
+     "start": 41.04,
+     "end": 41.38
+    },
+    {
+     "word": "piroca,",
+     "start": 41.38,
+     "end": 42.24
+    },
+    {
+     "word": "mano",
+     "start": 42.34,
+     "end": 42.95
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 50.75,
+   "end": 52.4,
+   "text": "puta que pariu",
+   "words": [
+    {
+     "word": "puta",
+     "start": 50.75,
+     "end": 51.15
+    },
+    {
+     "word": "que",
+     "start": 51.15,
+     "end": 51.51
+    },
+    {
+     "word": "pariu",
+     "start": 51.51,
+     "end": 52.4
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 52.72,
+   "end": 53.84,
+   "text": "morreu igual bosta",
+   "words": [
+    {
+     "word": "morreu",
+     "start": 52.72,
+     "end": 53.06
+    },
+    {
+     "word": "igual",
+     "start": 53.06,
+     "end": 53.22
+    },
+    {
+     "word": "bosta",
+     "start": 53.22,
+     "end": 53.84
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 53.88,
+   "end": 54.48,
+   "text": "mano",
+   "words": [
+    {
+     "word": "mano",
+     "start": 53.88,
+     "end": 54.48
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
