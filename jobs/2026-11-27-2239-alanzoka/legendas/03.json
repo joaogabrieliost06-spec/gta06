@@ -1,0 +1,896 @@
+{
+ "segments": [
+  {
+   "start": 5.03,
+   "end": 5.69,
+   "text": "Vamos ver qual vai",
+   "words": [
+    {
+     "word": "Vamos",
+     "start": 5.03,
+     "end": 5.31
+    },
+    {
+     "word": "ver",
+     "start": 5.31,
+     "end": 5.43
+    },
+    {
+     "word": "qual",
+     "start": 5.43,
+     "end": 5.59
+    },
+    {
+     "word": "vai",
+     "start": 5.59,
+     "end": 5.69
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 5.73,
+   "end": 6.15,
+   "text": "ser o peixe",
+   "words": [
+    {
+     "word": "ser",
+     "start": 5.73,
+     "end": 5.87
+    },
+    {
+     "word": "o",
+     "start": 5.87,
+     "end": 5.99
+    },
+    {
+     "word": "peixe",
+     "start": 5.99,
+     "end": 6.15
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.19,
+   "end": 6.81,
+   "text": "que nós vamos pegar",
+   "words": [
+    {
+     "word": "que",
+     "start": 6.19,
+     "end": 6.33
+    },
+    {
+     "word": "nós",
+     "start": 6.33,
+     "end": 6.43
+    },
+    {
+     "word": "vamos",
+     "start": 6.43,
+     "end": 6.55
+    },
+    {
+     "word": "pegar",
+     "start": 6.55,
+     "end": 6.81
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.85,
+   "end": 7.45,
+   "text": "aqui",
+   "words": [
+    {
+     "word": "aqui",
+     "start": 6.85,
+     "end": 7.45
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 15.27,
+   "end": 15.95,
+   "text": "Cara, é grande",
+   "words": [
+    {
+     "word": "Cara,",
+     "start": 15.27,
+     "end": 15.53
+    },
+    {
+     "word": "é",
+     "start": 15.55,
+     "end": 15.65
+    },
+    {
+     "word": "grande",
+     "start": 15.65,
+     "end": 15.95
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 15.99,
+   "end": 16.59,
+   "text": "hein?",
+   "words": [
+    {
+     "word": "hein?",
+     "start": 15.99,
+     "end": 16.59
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 21.9,
+   "end": 22.42,
+   "text": "Nossa, é o maior",
+   "words": [
+    {
+     "word": "Nossa,",
+     "start": 21.9,
+     "end": 22.12
+    },
+    {
+     "word": "é",
+     "start": 22.2,
+     "end": 22.3
+    },
+    {
+     "word": "o",
+     "start": 22.3,
+     "end": 22.35
+    },
+    {
+     "word": "maior",
+     "start": 22.35,
+     "end": 22.42
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 22.46,
+   "end": 22.86,
+   "text": "peixe que eu já",
+   "words": [
+    {
+     "word": "peixe",
+     "start": 22.46,
+     "end": 22.68
+    },
+    {
+     "word": "que",
+     "start": 22.68,
+     "end": 22.76
+    },
+    {
+     "word": "eu",
+     "start": 22.76,
+     "end": 22.81
+    },
+    {
+     "word": "já",
+     "start": 22.81,
+     "end": 22.86
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 22.86,
+   "end": 24.91,
+   "text": "peguei na minha vida",
+   "words": [
+    {
+     "word": "peguei",
+     "start": 22.86,
+     "end": 23.06
+    },
+    {
+     "word": "na",
+     "start": 23.06,
+     "end": 23.11
+    },
+    {
+     "word": "minha",
+     "start": 23.11,
+     "end": 23.24
+    },
+    {
+     "word": "vida",
+     "start": 23.24,
+     "end": 24.91
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 31.03,
+   "end": 32.15,
+   "text": "Robalo das rochas",
+   "words": [
+    {
+     "word": "Robalo",
+     "start": 31.03,
+     "end": 31.31
+    },
+    {
+     "word": "das",
+     "start": 31.31,
+     "end": 31.51
+    },
+    {
+     "word": "rochas",
+     "start": 31.51,
+     "end": 32.15
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 32.19,
+   "end": 32.79,
+   "text": "cara",
+   "words": [
+    {
+     "word": "cara",
+     "start": 32.19,
+     "end": 32.79
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 37.14,
+   "end": 37.74,
+   "text": "não era tão grande",
+   "words": [
+    {
+     "word": "não",
+     "start": 37.14,
+     "end": 37.24
+    },
+    {
+     "word": "era",
+     "start": 37.24,
+     "end": 37.34
+    },
+    {
+     "word": "tão",
+     "start": 37.34,
+     "end": 37.54
+    },
+    {
+     "word": "grande",
+     "start": 37.54,
+     "end": 37.74
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 37.78,
+   "end": 38.54,
+   "text": "quanto eu esperava",
+   "words": [
+    {
+     "word": "quanto",
+     "start": 37.78,
+     "end": 37.94
+    },
+    {
+     "word": "eu",
+     "start": 37.94,
+     "end": 38.02
+    },
+    {
+     "word": "esperava",
+     "start": 38.02,
+     "end": 38.54
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 38.58,
+   "end": 39.66,
+   "text": "ó, meu foco aumentou",
+   "words": [
+    {
+     "word": "ó,",
+     "start": 38.58,
+     "end": 38.96
+    },
+    {
+     "word": "meu",
+     "start": 38.98,
+     "end": 39.1
+    },
+    {
+     "word": "foco",
+     "start": 39.1,
+     "end": 39.34
+    },
+    {
+     "word": "aumentou",
+     "start": 39.34,
+     "end": 39.66
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 39.7,
+   "end": 40.85,
+   "text": "bem pescando, hein?",
+   "words": [
+    {
+     "word": "bem",
+     "start": 39.7,
+     "end": 39.9
+    },
+    {
+     "word": "pescando,",
+     "start": 39.9,
+     "end": 40.46
+    },
+    {
+     "word": "hein?",
+     "start": 40.48,
+     "end": 40.85
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 49.56,
+   "end": 50.06,
+   "text": "Cara, gostei desse",
+   "words": [
+    {
+     "word": "Cara,",
+     "start": 49.56,
+     "end": 49.68
+    },
+    {
+     "word": "gostei",
+     "start": 49.72,
+     "end": 49.96
+    },
+    {
+     "word": "desse",
+     "start": 49.96,
+     "end": 50.06
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 50.1,
+   "end": 50.86,
+   "text": "helicóptero, mano",
+   "words": [
+    {
+     "word": "helicóptero,",
+     "start": 50.1,
+     "end": 50.66
+    },
+    {
+     "word": "mano",
+     "start": 50.74,
+     "end": 50.86
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 50.9,
+   "end": 51.38,
+   "text": "queria dar pra poder",
+   "words": [
+    {
+     "word": "queria",
+     "start": 50.9,
+     "end": 51.06
+    },
+    {
+     "word": "dar",
+     "start": 51.06,
+     "end": 51.16
+    },
+    {
+     "word": "pra",
+     "start": 51.16,
+     "end": 51.28
+    },
+    {
+     "word": "poder",
+     "start": 51.28,
+     "end": 51.38
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 51.42,
+   "end": 52.12,
+   "text": "comprar helicóptero",
+   "words": [
+    {
+     "word": "comprar",
+     "start": 51.42,
+     "end": 51.7
+    },
+    {
+     "word": "helicóptero",
+     "start": 51.7,
+     "end": 52.12
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 52.16,
+   "end": 53.19,
+   "text": "nesse jogo, velho",
+   "words": [
+    {
+     "word": "nesse",
+     "start": 52.16,
+     "end": 52.34
+    },
+    {
+     "word": "jogo,",
+     "start": 52.34,
+     "end": 52.64
+    },
+    {
+     "word": "velho",
+     "start": 52.7,
+     "end": 53.19
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 62.09,
+   "end": 63.177,
+   "text": "Que isso, a Ju",
+   "words": [
+    {
+     "word": "Que",
+     "start": 62.09,
+     "end": 62.45
+    },
+    {
+     "word": "isso,",
+     "start": 62.45,
+     "end": 62.73
+    },
+    {
+     "word": "a",
+     "start": 62.85,
+     "end": 62.997
+    },
+    {
+     "word": "Ju",
+     "start": 62.997,
+     "end": 63.177
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 63.217,
+   "end": 64.89,
+   "text": "mandou 50 mil",
+   "words": [
+    {
+     "word": "mandou",
+     "start": 63.217,
+     "end": 63.73
+    },
+    {
+     "word": "50",
+     "start": 63.73,
+     "end": 64.47
+    },
+    {
+     "word": "mil",
+     "start": 64.47,
+     "end": 64.89
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 64.93,
+   "end": 65.56,
+   "text": "bits",
+   "words": [
+    {
+     "word": "bits",
+     "start": 64.93,
+     "end": 65.56
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 66.11,
+   "end": 66.84,
+   "text": "Caralho, a Ju",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 66.11,
+     "end": 66.43
+    },
+    {
+     "word": "a",
+     "start": 66.49,
+     "end": 66.54
+    },
+    {
+     "word": "Ju",
+     "start": 66.54,
+     "end": 66.84
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 67.03,
+   "end": 68.65,
+   "text": "voltou? Ressurgiu?",
+   "words": [
+    {
+     "word": "voltou?",
+     "start": 67.03,
+     "end": 67.29
+    },
+    {
+     "word": "Ressurgiu?",
+     "start": 68.23,
+     "end": 68.65
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 68.69,
+   "end": 69.08,
+   "text": "Faz tempo que eu",
+   "words": [
+    {
+     "word": "Faz",
+     "start": 68.69,
+     "end": 68.81
+    },
+    {
+     "word": "tempo",
+     "start": 68.81,
+     "end": 68.95
+    },
+    {
+     "word": "que",
+     "start": 68.95,
+     "end": 69.03
+    },
+    {
+     "word": "eu",
+     "start": 69.03,
+     "end": 69.08
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 69.09,
+   "end": 69.69,
+   "text": "não te vejo aí",
+   "words": [
+    {
+     "word": "não",
+     "start": 69.09,
+     "end": 69.15
+    },
+    {
+     "word": "te",
+     "start": 69.15,
+     "end": 69.23
+    },
+    {
+     "word": "vejo",
+     "start": 69.23,
+     "end": 69.47
+    },
+    {
+     "word": "aí",
+     "start": 69.47,
+     "end": 69.69
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 69.73,
+   "end": 70.87,
+   "text": "você volta com 50",
+   "words": [
+    {
+     "word": "você",
+     "start": 69.73,
+     "end": 69.79
+    },
+    {
+     "word": "volta",
+     "start": 69.79,
+     "end": 70.07
+    },
+    {
+     "word": "com",
+     "start": 70.07,
+     "end": 70.27
+    },
+    {
+     "word": "50",
+     "start": 70.27,
+     "end": 70.87
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 70.91,
+   "end": 72.08,
+   "text": "mil bits, mano",
+   "words": [
+    {
+     "word": "mil",
+     "start": 70.91,
+     "end": 71.13
+    },
+    {
+     "word": "bits,",
+     "start": 71.13,
+     "end": 71.53
+    },
+    {
+     "word": "mano",
+     "start": 71.63,
+     "end": 72.08
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 74.03,
+   "end": 74.8,
+   "text": "Caralho, Ju",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 74.03,
+     "end": 74.39
+    },
+    {
+     "word": "Ju",
+     "start": 74.45,
+     "end": 74.8
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 75.21,
+   "end": 75.81,
+   "text": "viu?",
+   "words": [
+    {
+     "word": "viu?",
+     "start": 75.21,
+     "end": 75.81
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 76.15,
+   "end": 77.46,
+   "text": "Que isso, mano",
+   "words": [
+    {
+     "word": "Que",
+     "start": 76.15,
+     "end": 76.31
+    },
+    {
+     "word": "isso,",
+     "start": 76.31,
+     "end": 76.85
+    },
+    {
+     "word": "mano",
+     "start": 77.03,
+     "end": 77.46
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 79.79,
+   "end": 81.72,
+   "text": "50 mil bits, mano",
+   "words": [
+    {
+     "word": "50",
+     "start": 79.79,
+     "end": 80.15
+    },
+    {
+     "word": "mil",
+     "start": 80.15,
+     "end": 80.61
+    },
+    {
+     "word": "bits,",
+     "start": 80.61,
+     "end": 81.11
+    },
+    {
+     "word": "mano",
+     "start": 81.25,
+     "end": 81.72
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 85.59,
+   "end": 86.01,
+   "text": "E aí, mano",
+   "words": [
+    {
+     "word": "E",
+     "start": 85.59,
+     "end": 85.77
+    },
+    {
+     "word": "aí,",
+     "start": 85.77,
+     "end": 85.85
+    },
+    {
+     "word": "mano",
+     "start": 85.91,
+     "end": 86.01
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 86.05,
+   "end": 86.69,
+   "text": "o cara deu spoiler",
+   "words": [
+    {
+     "word": "o",
+     "start": 86.05,
+     "end": 86.09
+    },
+    {
+     "word": "cara",
+     "start": 86.09,
+     "end": 86.19
+    },
+    {
+     "word": "deu",
+     "start": 86.19,
+     "end": 86.35
+    },
+    {
+     "word": "spoiler",
+     "start": 86.35,
+     "end": 86.69
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 86.73,
+   "end": 87.69,
+   "text": "da quest dos fantasmas",
+   "words": [
+    {
+     "word": "da",
+     "start": 86.73,
+     "end": 86.91
+    },
+    {
+     "word": "quest",
+     "start": 86.91,
+     "end": 87.17
+    },
+    {
+     "word": "dos",
+     "start": 87.17,
+     "end": 87.37
+    },
+    {
+     "word": "fantasmas",
+     "start": 87.37,
+     "end": 87.69
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 87.73,
+   "end": 88.25,
+   "text": "mas eu quero ler",
+   "words": [
+    {
+     "word": "mas",
+     "start": 87.73,
+     "end": 87.81
+    },
+    {
+     "word": "eu",
+     "start": 87.81,
+     "end": 87.89
+    },
+    {
+     "word": "quero",
+     "start": 87.89,
+     "end": 88.07
+    },
+    {
+     "word": "ler",
+     "start": 88.07,
+     "end": 88.25
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 88.29,
+   "end": 88.77,
+   "text": "fiquei curioso",
+   "words": [
+    {
+     "word": "fiquei",
+     "start": 88.29,
+     "end": 88.39
+    },
+    {
+     "word": "curioso",
+     "start": 88.39,
+     "end": 88.77
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 88.81,
+   "end": 89.41,
+   "text": "agora",
+   "words": [
+    {
+     "word": "agora",
+     "start": 88.81,
+     "end": 89.41
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
