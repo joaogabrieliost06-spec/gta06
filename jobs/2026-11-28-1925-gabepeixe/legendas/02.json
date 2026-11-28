@@ -1,0 +1,817 @@
+{
+ "segments": [
+  {
+   "start": 1.46,
+   "end": 2.02,
+   "text": "ir lá no Randy",
+   "words": [
+    {
+     "word": "ir",
+     "start": 1.46,
+     "end": 1.66
+    },
+    {
+     "word": "lá",
+     "start": 1.66,
+     "end": 1.71
+    },
+    {
+     "word": "no",
+     "start": 1.71,
+     "end": 1.82
+    },
+    {
+     "word": "Randy",
+     "start": 1.82,
+     "end": 2.02
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 2.06,
+   "end": 2.68,
+   "text": "de manhã, não",
+   "words": [
+    {
+     "word": "de",
+     "start": 2.06,
+     "end": 2.2
+    },
+    {
+     "word": "manhã,",
+     "start": 2.2,
+     "end": 2.5
+    },
+    {
+     "word": "não",
+     "start": 2.62,
+     "end": 2.68
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 2.72,
+   "end": 3.32,
+   "text": "é melhor?",
+   "words": [
+    {
+     "word": "é",
+     "start": 2.72,
+     "end": 2.74
+    },
+    {
+     "word": "melhor?",
+     "start": 2.74,
+     "end": 3.32
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 3.99,
+   "end": 4.9,
+   "text": "O que você acha?",
+   "words": [
+    {
+     "word": "O",
+     "start": 3.99,
+     "end": 4.19
+    },
+    {
+     "word": "que",
+     "start": 4.19,
+     "end": 4.25
+    },
+    {
+     "word": "você",
+     "start": 4.25,
+     "end": 4.33
+    },
+    {
+     "word": "acha?",
+     "start": 4.33,
+     "end": 4.9
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.75,
+   "end": 7.65,
+   "text": "Vamos deitar aqui",
+   "words": [
+    {
+     "word": "Vamos",
+     "start": 6.75,
+     "end": 6.97
+    },
+    {
+     "word": "deitar",
+     "start": 6.97,
+     "end": 7.45
+    },
+    {
+     "word": "aqui",
+     "start": 7.45,
+     "end": 7.65
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 7.69,
+   "end": 8.27,
+   "text": "vamos?",
+   "words": [
+    {
+     "word": "vamos?",
+     "start": 7.69,
+     "end": 8.27
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 8.31,
+   "end": 8.98,
+   "text": "Que horas são?",
+   "words": [
+    {
+     "word": "Que",
+     "start": 8.31,
+     "end": 8.39
+    },
+    {
+     "word": "horas",
+     "start": 8.39,
+     "end": 8.53
+    },
+    {
+     "word": "são?",
+     "start": 8.53,
+     "end": 8.98
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 10.94,
+   "end": 11.76,
+   "text": "Nove da noite",
+   "words": [
+    {
+     "word": "Nove",
+     "start": 10.94,
+     "end": 11.3
+    },
+    {
+     "word": "da",
+     "start": 11.3,
+     "end": 11.42
+    },
+    {
+     "word": "noite",
+     "start": 11.42,
+     "end": 11.76
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 11.8,
+   "end": 12.26,
+   "text": "Nove da noite eu",
+   "words": [
+    {
+     "word": "Nove",
+     "start": 11.8,
+     "end": 11.92
+    },
+    {
+     "word": "da",
+     "start": 11.92,
+     "end": 12.04
+    },
+    {
+     "word": "noite",
+     "start": 12.04,
+     "end": 12.2
+    },
+    {
+     "word": "eu",
+     "start": 12.2,
+     "end": 12.26
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 12.3,
+   "end": 13.21,
+   "text": "tô no horário de dormir",
+   "words": [
+    {
+     "word": "tô",
+     "start": 12.3,
+     "end": 12.38
+    },
+    {
+     "word": "no",
+     "start": 12.38,
+     "end": 12.48
+    },
+    {
+     "word": "horário",
+     "start": 12.48,
+     "end": 12.6
+    },
+    {
+     "word": "de",
+     "start": 12.6,
+     "end": 12.7
+    },
+    {
+     "word": "dormir",
+     "start": 12.7,
+     "end": 13.21
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 23.03,
+   "end": 23.91,
+   "text": "Deita na cama aí",
+   "words": [
+    {
+     "word": "Deita",
+     "start": 23.03,
+     "end": 23.39
+    },
+    {
+     "word": "na",
+     "start": 23.39,
+     "end": 23.49
+    },
+    {
+     "word": "cama",
+     "start": 23.49,
+     "end": 23.77
+    },
+    {
+     "word": "aí",
+     "start": 23.77,
+     "end": 23.91
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 23.95,
+   "end": 24.43,
+   "text": "moça",
+   "words": [
+    {
+     "word": "moça",
+     "start": 23.95,
+     "end": 24.43
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 24.47,
+   "end": 25.17,
+   "text": "Deita na cama aí",
+   "words": [
+    {
+     "word": "Deita",
+     "start": 24.47,
+     "end": 24.65
+    },
+    {
+     "word": "na",
+     "start": 24.65,
+     "end": 24.75
+    },
+    {
+     "word": "cama",
+     "start": 24.75,
+     "end": 25.01
+    },
+    {
+     "word": "aí",
+     "start": 25.01,
+     "end": 25.17
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 25.21,
+   "end": 25.81,
+   "text": "moça",
+   "words": [
+    {
+     "word": "moça",
+     "start": 25.21,
+     "end": 25.81
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.43,
+   "end": 29.1,
+   "text": "nada, né?",
+   "words": [
+    {
+     "word": "nada,",
+     "start": 28.43,
+     "end": 28.61
+    },
+    {
+     "word": "né?",
+     "start": 28.79,
+     "end": 29.1
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 30.09,
+   "end": 30.71,
+   "text": "Vambora, vamos sair",
+   "words": [
+    {
+     "word": "Vambora,",
+     "start": 30.09,
+     "end": 30.41
+    },
+    {
+     "word": "vamos",
+     "start": 30.45,
+     "end": 30.55
+    },
+    {
+     "word": "sair",
+     "start": 30.55,
+     "end": 30.71
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 30.75,
+   "end": 31.42,
+   "text": "daqui sim",
+   "words": [
+    {
+     "word": "daqui",
+     "start": 30.75,
+     "end": 30.97
+    },
+    {
+     "word": "sim",
+     "start": 30.97,
+     "end": 31.42
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 43.41,
+   "end": 44.02,
+   "text": "Beleza",
+   "words": [
+    {
+     "word": "Beleza",
+     "start": 43.41,
+     "end": 44.02
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 48.58,
+   "end": 49.19,
+   "text": "Impossível",
+   "words": [
+    {
+     "word": "Impossível",
+     "start": 48.58,
+     "end": 49.19
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 66.14,
+   "end": 66.78,
+   "text": "Tá, já ia falar",
+   "words": [
+    {
+     "word": "Tá,",
+     "start": 66.14,
+     "end": 66.26
+    },
+    {
+     "word": "já",
+     "start": 66.34,
+     "end": 66.42
+    },
+    {
+     "word": "ia",
+     "start": 66.42,
+     "end": 66.5
+    },
+    {
+     "word": "falar",
+     "start": 66.5,
+     "end": 66.78
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 66.82,
+   "end": 67.42,
+   "text": "mano",
+   "words": [
+    {
+     "word": "mano",
+     "start": 66.82,
+     "end": 67.42
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 68.17,
+   "end": 68.73,
+   "text": "Pô, como que essa",
+   "words": [
+    {
+     "word": "Pô,",
+     "start": 68.17,
+     "end": 68.27
+    },
+    {
+     "word": "como",
+     "start": 68.33,
+     "end": 68.53
+    },
+    {
+     "word": "que",
+     "start": 68.53,
+     "end": 68.63
+    },
+    {
+     "word": "essa",
+     "start": 68.63,
+     "end": 68.73
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 68.77,
+   "end": 69.7,
+   "text": "mulher tá ligado?",
+   "words": [
+    {
+     "word": "mulher",
+     "start": 68.77,
+     "end": 69.01
+    },
+    {
+     "word": "tá",
+     "start": 69.01,
+     "end": 69.19
+    },
+    {
+     "word": "ligado?",
+     "start": 69.19,
+     "end": 69.7
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 71.03,
+   "end": 71.94,
+   "text": "Ela não dormiu, ela",
+   "words": [
+    {
+     "word": "Ela",
+     "start": 71.03,
+     "end": 71.23
+    },
+    {
+     "word": "não",
+     "start": 71.23,
+     "end": 71.37
+    },
+    {
+     "word": "dormiu,",
+     "start": 71.37,
+     "end": 71.77
+    },
+    {
+     "word": "ela",
+     "start": 71.89,
+     "end": 71.94
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 71.93,
+   "end": 73.07,
+   "text": "saiu a noite, ficou",
+   "words": [
+    {
+     "word": "saiu",
+     "start": 71.93,
+     "end": 72.53
+    },
+    {
+     "word": "a",
+     "start": 72.53,
+     "end": 72.63
+    },
+    {
+     "word": "noite,",
+     "start": 72.63,
+     "end": 72.85
+    },
+    {
+     "word": "ficou",
+     "start": 72.93,
+     "end": 73.07
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 73.11,
+   "end": 73.75,
+   "text": "puta porque eu fui",
+   "words": [
+    {
+     "word": "puta",
+     "start": 73.11,
+     "end": 73.41
+    },
+    {
+     "word": "porque",
+     "start": 73.41,
+     "end": 73.59
+    },
+    {
+     "word": "eu",
+     "start": 73.59,
+     "end": 73.69
+    },
+    {
+     "word": "fui",
+     "start": 73.69,
+     "end": 73.75
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 73.79,
+   "end": 74.47,
+   "text": "dormir e saiu",
+   "words": [
+    {
+     "word": "dormir",
+     "start": 73.79,
+     "end": 74.07
+    },
+    {
+     "word": "e",
+     "start": 74.07,
+     "end": 74.25
+    },
+    {
+     "word": "saiu",
+     "start": 74.25,
+     "end": 74.47
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 74.51,
+   "end": 75.34,
+   "text": "a noite, pô",
+   "words": [
+    {
+     "word": "a",
+     "start": 74.51,
+     "end": 74.61
+    },
+    {
+     "word": "noite,",
+     "start": 74.61,
+     "end": 74.85
+    },
+    {
+     "word": "pô",
+     "start": 74.99,
+     "end": 75.34
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 75.76,
+   "end": 76.52,
+   "text": "Foi lá no baixo",
+   "words": [
+    {
+     "word": "Foi",
+     "start": 75.76,
+     "end": 76.034
+    },
+    {
+     "word": "lá",
+     "start": 76.034,
+     "end": 76.24
+    },
+    {
+     "word": "no",
+     "start": 76.24,
+     "end": 76.36
+    },
+    {
+     "word": "baixo",
+     "start": 76.36,
+     "end": 76.52
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 76.56,
+   "end": 77.18,
+   "text": "do bagulho do Nate",
+   "words": [
+    {
+     "word": "do",
+     "start": 76.56,
+     "end": 76.68
+    },
+    {
+     "word": "bagulho",
+     "start": 76.68,
+     "end": 76.88
+    },
+    {
+     "word": "do",
+     "start": 76.88,
+     "end": 77.0
+    },
+    {
+     "word": "Nate",
+     "start": 77.0,
+     "end": 77.18
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 77.22,
+   "end": 77.99,
+   "text": "lá, pô",
+   "words": [
+    {
+     "word": "lá,",
+     "start": 77.22,
+     "end": 77.46
+    },
+    {
+     "word": "pô",
+     "start": 77.64,
+     "end": 77.99
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 78.17,
+   "end": 79.06,
+   "text": "Aí é loucura",
+   "words": [
+    {
+     "word": "Aí",
+     "start": 78.17,
+     "end": 78.29
+    },
+    {
+     "word": "é",
+     "start": 78.29,
+     "end": 78.37
+    },
+    {
+     "word": "loucura",
+     "start": 78.37,
+     "end": 79.06
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 81.08,
+   "end": 81.84,
+   "text": "Aí é loucura",
+   "words": [
+    {
+     "word": "Aí",
+     "start": 81.08,
+     "end": 81.4
+    },
+    {
+     "word": "é",
+     "start": 81.4,
+     "end": 81.46
+    },
+    {
+     "word": "loucura",
+     "start": 81.46,
+     "end": 81.84
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 81.88,
+   "end": 82.83,
+   "text": "na realidade",
+   "words": [
+    {
+     "word": "na",
+     "start": 81.88,
+     "end": 82.3
+    },
+    {
+     "word": "realidade",
+     "start": 82.3,
+     "end": 82.83
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 83.14,
+   "end": 84.38,
+   "text": "eu tenho calma aí",
+   "words": [
+    {
+     "word": "eu",
+     "start": 83.14,
+     "end": 83.46
+    },
+    {
+     "word": "tenho",
+     "start": 83.46,
+     "end": 83.7
+    },
+    {
+     "word": "calma",
+     "start": 83.7,
+     "end": 84.18
+    },
+    {
+     "word": "aí",
+     "start": 84.18,
+     "end": 84.38
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 84.42,
+   "end": 85.02,
+   "text": "já vou",
+   "words": [
+    {
+     "word": "já",
+     "start": 84.42,
+     "end": 84.56
+    },
+    {
+     "word": "vou",
+     "start": 84.56,
+     "end": 85.02
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
