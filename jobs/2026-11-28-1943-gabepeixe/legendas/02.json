@@ -1,0 +1,119 @@
+{
+ "segments": [
+  {
+   "start": 60.07,
+   "end": 61.01,
+   "text": "Aproveitar que eu tô aqui, né?",
+   "words": [
+    {
+     "word": "Aproveitar",
+     "start": 60.07,
+     "end": 60.43
+    },
+    {
+     "word": "que",
+     "start": 60.43,
+     "end": 60.57
+    },
+    {
+     "word": "eu",
+     "start": 60.57,
+     "end": 60.63
+    },
+    {
+     "word": "tô",
+     "start": 60.63,
+     "end": 60.69
+    },
+    {
+     "word": "aqui,",
+     "start": 60.69,
+     "end": 60.87
+    },
+    {
+     "word": "né?",
+     "start": 60.95,
+     "end": 61.01
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 61.05,
+   "end": 61.63,
+   "text": "Vamos passar na casa",
+   "words": [
+    {
+     "word": "Vamos",
+     "start": 61.05,
+     "end": 61.13
+    },
+    {
+     "word": "passar",
+     "start": 61.13,
+     "end": 61.37
+    },
+    {
+     "word": "na",
+     "start": 61.37,
+     "end": 61.47
+    },
+    {
+     "word": "casa",
+     "start": 61.47,
+     "end": 61.63
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 61.67,
+   "end": 62.27,
+   "text": "da Mandy?",
+   "words": [
+    {
+     "word": "da",
+     "start": 61.67,
+     "end": 61.81
+    },
+    {
+     "word": "Mandy?",
+     "start": 61.81,
+     "end": 62.27
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 62.43,
+   "end": 63.03,
+   "text": "Hum",
+   "words": [
+    {
+     "word": "Hum",
+     "start": 62.43,
+     "end": 63.03
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 70.67,
+   "end": 71.78,
+   "text": "Doideira, bicho!",
+   "words": [
+    {
+     "word": "Doideira,",
+     "start": 70.67,
+     "end": 71.03
+    },
+    {
+     "word": "bicho!",
+     "start": 71.21,
+     "end": 71.78
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
