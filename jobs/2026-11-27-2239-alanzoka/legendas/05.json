@@ -1,0 +1,1287 @@
+{
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 0.7,
+   "text": "Ah, vou achar baú",
+   "words": [
+    {
+     "word": "Ah,",
+     "start": 0.0,
+     "end": 0.1
+    },
+    {
+     "word": "vou",
+     "start": 0.12,
+     "end": 0.26
+    },
+    {
+     "word": "achar",
+     "start": 0.26,
+     "end": 0.5
+    },
+    {
+     "word": "baú",
+     "start": 0.5,
+     "end": 0.7
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 0.74,
+   "end": 1.87,
+   "text": "sim, pode parar, mano",
+   "words": [
+    {
+     "word": "sim,",
+     "start": 0.74,
+     "end": 0.9
+    },
+    {
+     "word": "pode",
+     "start": 1.0,
+     "end": 1.18
+    },
+    {
+     "word": "parar,",
+     "start": 1.18,
+     "end": 1.36
+    },
+    {
+     "word": "mano",
+     "start": 1.5,
+     "end": 1.87
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 10.92,
+   "end": 11.55,
+   "text": "Pode parar que eu vou",
+   "words": [
+    {
+     "word": "Pode",
+     "start": 10.92,
+     "end": 11.065
+    },
+    {
+     "word": "parar",
+     "start": 11.065,
+     "end": 11.24
+    },
+    {
+     "word": "que",
+     "start": 11.24,
+     "end": 11.4
+    },
+    {
+     "word": "eu",
+     "start": 11.4,
+     "end": 11.5
+    },
+    {
+     "word": "vou",
+     "start": 11.5,
+     "end": 11.55
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 11.58,
+   "end": 12.63,
+   "text": "achar baú sim",
+   "words": [
+    {
+     "word": "achar",
+     "start": 11.58,
+     "end": 11.82
+    },
+    {
+     "word": "baú",
+     "start": 11.82,
+     "end": 12.12
+    },
+    {
+     "word": "sim",
+     "start": 12.12,
+     "end": 12.63
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 22.88,
+   "end": 23.82,
+   "text": "não acha de dia",
+   "words": [
+    {
+     "word": "não",
+     "start": 22.88,
+     "end": 23.04
+    },
+    {
+     "word": "acha",
+     "start": 23.04,
+     "end": 23.26
+    },
+    {
+     "word": "de",
+     "start": 23.26,
+     "end": 23.46
+    },
+    {
+     "word": "dia",
+     "start": 23.46,
+     "end": 23.82
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 23.86,
+   "end": 24.7,
+   "text": "quem dirá de noite",
+   "words": [
+    {
+     "word": "quem",
+     "start": 23.86,
+     "end": 24.0
+    },
+    {
+     "word": "dirá",
+     "start": 24.0,
+     "end": 24.3
+    },
+    {
+     "word": "de",
+     "start": 24.3,
+     "end": 24.44
+    },
+    {
+     "word": "noite",
+     "start": 24.44,
+     "end": 24.7
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 24.74,
+   "end": 25.8,
+   "text": "Mano, o jogo tem",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 24.74,
+     "end": 25.16
+    },
+    {
+     "word": "o",
+     "start": 25.52,
+     "end": 25.6
+    },
+    {
+     "word": "jogo",
+     "start": 25.6,
+     "end": 25.68
+    },
+    {
+     "word": "tem",
+     "start": 25.68,
+     "end": 25.8
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 25.84,
+   "end": 26.7,
+   "text": "um defeito, cara",
+   "words": [
+    {
+     "word": "um",
+     "start": 25.84,
+     "end": 25.96
+    },
+    {
+     "word": "defeito,",
+     "start": 25.96,
+     "end": 26.42
+    },
+    {
+     "word": "cara",
+     "start": 26.5,
+     "end": 26.7
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 26.74,
+   "end": 28.12,
+   "text": "Pra você dormir",
+   "words": [
+    {
+     "word": "Pra",
+     "start": 26.74,
+     "end": 27.22
+    },
+    {
+     "word": "você",
+     "start": 27.52,
+     "end": 27.74
+    },
+    {
+     "word": "dormir",
+     "start": 27.74,
+     "end": 28.12
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.16,
+   "end": 29.14,
+   "text": "pra passar o tempo",
+   "words": [
+    {
+     "word": "pra",
+     "start": 28.16,
+     "end": 28.34
+    },
+    {
+     "word": "passar",
+     "start": 28.34,
+     "end": 28.62
+    },
+    {
+     "word": "o",
+     "start": 28.62,
+     "end": 28.8
+    },
+    {
+     "word": "tempo",
+     "start": 28.8,
+     "end": 29.14
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 29.18,
+   "end": 30.91,
+   "text": "Você tem que voltar",
+   "words": [
+    {
+     "word": "Você",
+     "start": 29.18,
+     "end": 29.64
+    },
+    {
+     "word": "tem",
+     "start": 30.59,
+     "end": 30.67
+    },
+    {
+     "word": "que",
+     "start": 30.67,
+     "end": 30.75
+    },
+    {
+     "word": "voltar",
+     "start": 30.75,
+     "end": 30.91
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 30.95,
+   "end": 31.73,
+   "text": "na porra do hotel",
+   "words": [
+    {
+     "word": "na",
+     "start": 30.95,
+     "end": 31.11
+    },
+    {
+     "word": "porra",
+     "start": 31.11,
+     "end": 31.31
+    },
+    {
+     "word": "do",
+     "start": 31.31,
+     "end": 31.43
+    },
+    {
+     "word": "hotel",
+     "start": 31.43,
+     "end": 31.73
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 31.77,
+   "end": 32.39,
+   "text": "que você tá, mano",
+   "words": [
+    {
+     "word": "que",
+     "start": 31.77,
+     "end": 31.93
+    },
+    {
+     "word": "você",
+     "start": 31.93,
+     "end": 32.05
+    },
+    {
+     "word": "tá,",
+     "start": 32.05,
+     "end": 32.23
+    },
+    {
+     "word": "mano",
+     "start": 32.31,
+     "end": 32.39
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 32.43,
+   "end": 33.21,
+   "text": "É uma merda isso",
+   "words": [
+    {
+     "word": "É",
+     "start": 32.43,
+     "end": 32.53
+    },
+    {
+     "word": "uma",
+     "start": 32.53,
+     "end": 32.65
+    },
+    {
+     "word": "merda",
+     "start": 32.65,
+     "end": 32.99
+    },
+    {
+     "word": "isso",
+     "start": 32.99,
+     "end": 33.21
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 33.25,
+   "end": 33.97,
+   "text": "Tem que ter outra",
+   "words": [
+    {
+     "word": "Tem",
+     "start": 33.25,
+     "end": 33.65
+    },
+    {
+     "word": "que",
+     "start": 33.65,
+     "end": 33.73
+    },
+    {
+     "word": "ter",
+     "start": 33.73,
+     "end": 33.83
+    },
+    {
+     "word": "outra",
+     "start": 33.83,
+     "end": 33.97
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 34.01,
+   "end": 34.65,
+   "text": "forma de você passar",
+   "words": [
+    {
+     "word": "forma",
+     "start": 34.01,
+     "end": 34.27
+    },
+    {
+     "word": "de",
+     "start": 34.27,
+     "end": 34.37
+    },
+    {
+     "word": "você",
+     "start": 34.37,
+     "end": 34.45
+    },
+    {
+     "word": "passar",
+     "start": 34.45,
+     "end": 34.65
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 34.69,
+   "end": 35.58,
+   "text": "o tempo, mano",
+   "words": [
+    {
+     "word": "o",
+     "start": 34.69,
+     "end": 34.83
+    },
+    {
+     "word": "tempo,",
+     "start": 34.83,
+     "end": 35.11
+    },
+    {
+     "word": "mano",
+     "start": 35.13,
+     "end": 35.58
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 37.32,
+   "end": 38.42,
+   "text": "seja no seu carro",
+   "words": [
+    {
+     "word": "seja",
+     "start": 37.32,
+     "end": 37.62
+    },
+    {
+     "word": "no",
+     "start": 37.62,
+     "end": 37.8
+    },
+    {
+     "word": "seu",
+     "start": 37.8,
+     "end": 38.0
+    },
+    {
+     "word": "carro",
+     "start": 38.0,
+     "end": 38.42
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 38.46,
+   "end": 39.39,
+   "text": "dormir no carro, tá",
+   "words": [
+    {
+     "word": "dormir",
+     "start": 38.46,
+     "end": 38.68
+    },
+    {
+     "word": "no",
+     "start": 38.68,
+     "end": 38.88
+    },
+    {
+     "word": "carro,",
+     "start": 38.88,
+     "end": 39.22
+    },
+    {
+     "word": "tá",
+     "start": 39.34,
+     "end": 39.39
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 39.38,
+   "end": 40.55,
+   "text": "ligado? Sei lá, mano",
+   "words": [
+    {
+     "word": "ligado?",
+     "start": 39.38,
+     "end": 39.66
+    },
+    {
+     "word": "Sei",
+     "start": 39.76,
+     "end": 39.9
+    },
+    {
+     "word": "lá,",
+     "start": 39.9,
+     "end": 40.06
+    },
+    {
+     "word": "mano",
+     "start": 40.14,
+     "end": 40.55
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 41.4,
+   "end": 41.94,
+   "text": "Realismo?",
+   "words": [
+    {
+     "word": "Realismo?",
+     "start": 41.4,
+     "end": 41.94
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 41.98,
+   "end": 42.66,
+   "text": "Ah, você só dorme",
+   "words": [
+    {
+     "word": "Ah,",
+     "start": 41.98,
+     "end": 42.18
+    },
+    {
+     "word": "você",
+     "start": 42.24,
+     "end": 42.3
+    },
+    {
+     "word": "só",
+     "start": 42.3,
+     "end": 42.46
+    },
+    {
+     "word": "dorme",
+     "start": 42.46,
+     "end": 42.66
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 42.7,
+   "end": 43.3,
+   "text": "no hotel, então não?",
+   "words": [
+    {
+     "word": "no",
+     "start": 42.7,
+     "end": 42.78
+    },
+    {
+     "word": "hotel,",
+     "start": 42.78,
+     "end": 42.98
+    },
+    {
+     "word": "então",
+     "start": 43.0,
+     "end": 43.18
+    },
+    {
+     "word": "não?",
+     "start": 43.18,
+     "end": 43.3
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 43.34,
+   "end": 44.22,
+   "text": "É isso, você só",
+   "words": [
+    {
+     "word": "É",
+     "start": 43.34,
+     "end": 43.68
+    },
+    {
+     "word": "isso,",
+     "start": 43.68,
+     "end": 43.9
+    },
+    {
+     "word": "você",
+     "start": 44.02,
+     "end": 44.12
+    },
+    {
+     "word": "só",
+     "start": 44.12,
+     "end": 44.22
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 44.26,
+   "end": 44.94,
+   "text": "dorme no hotel também",
+   "words": [
+    {
+     "word": "dorme",
+     "start": 44.26,
+     "end": 44.46
+    },
+    {
+     "word": "no",
+     "start": 44.46,
+     "end": 44.54
+    },
+    {
+     "word": "hotel",
+     "start": 44.54,
+     "end": 44.72
+    },
+    {
+     "word": "também",
+     "start": 44.72,
+     "end": 44.94
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 44.98,
+   "end": 45.64,
+   "text": "Você não consegue dormir",
+   "words": [
+    {
+     "word": "Você",
+     "start": 44.98,
+     "end": 45.14
+    },
+    {
+     "word": "não",
+     "start": 45.14,
+     "end": 45.22
+    },
+    {
+     "word": "consegue",
+     "start": 45.22,
+     "end": 45.5
+    },
+    {
+     "word": "dormir",
+     "start": 45.5,
+     "end": 45.64
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 45.68,
+   "end": 46.77,
+   "text": "no teu carro, mano",
+   "words": [
+    {
+     "word": "no",
+     "start": 45.68,
+     "end": 45.82
+    },
+    {
+     "word": "teu",
+     "start": 45.82,
+     "end": 45.94
+    },
+    {
+     "word": "carro,",
+     "start": 45.94,
+     "end": 46.24
+    },
+    {
+     "word": "mano",
+     "start": 46.26,
+     "end": 46.77
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 46.96,
+   "end": 48.35,
+   "text": "Pipou, pipou",
+   "words": [
+    {
+     "word": "Pipou,",
+     "start": 46.96,
+     "end": 47.6
+    },
+    {
+     "word": "pipou",
+     "start": 47.66,
+     "end": 48.35
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 48.77,
+   "end": 49.55,
+   "text": "que dá pra descansar",
+   "words": [
+    {
+     "word": "que",
+     "start": 48.77,
+     "end": 48.83
+    },
+    {
+     "word": "dá",
+     "start": 48.83,
+     "end": 48.91
+    },
+    {
+     "word": "pra",
+     "start": 48.91,
+     "end": 49.05
+    },
+    {
+     "word": "descansar",
+     "start": 49.05,
+     "end": 49.55
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 49.59,
+   "end": 50.37,
+   "text": "no carro pra passar",
+   "words": [
+    {
+     "word": "no",
+     "start": 49.59,
+     "end": 49.75
+    },
+    {
+     "word": "carro",
+     "start": 49.75,
+     "end": 49.99
+    },
+    {
+     "word": "pra",
+     "start": 49.99,
+     "end": 50.15
+    },
+    {
+     "word": "passar",
+     "start": 50.15,
+     "end": 50.37
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 50.41,
+   "end": 50.77,
+   "text": "o tempo",
+   "words": [
+    {
+     "word": "o",
+     "start": 50.41,
+     "end": 50.55
+    },
+    {
+     "word": "tempo",
+     "start": 50.55,
+     "end": 50.77
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 50.81,
+   "end": 51.25,
+   "text": "Descansar",
+   "words": [
+    {
+     "word": "Descansar",
+     "start": 50.81,
+     "end": 51.25
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 51.29,
+   "end": 52.11,
+   "text": "no helicóptero, sei",
+   "words": [
+    {
+     "word": "no",
+     "start": 51.29,
+     "end": 51.37
+    },
+    {
+     "word": "helicóptero,",
+     "start": 51.37,
+     "end": 51.95
+    },
+    {
+     "word": "sei",
+     "start": 51.99,
+     "end": 52.11
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 52.15,
+   "end": 52.75,
+   "text": "lá, mano",
+   "words": [
+    {
+     "word": "lá,",
+     "start": 52.15,
+     "end": 52.33
+    },
+    {
+     "word": "mano",
+     "start": 52.39,
+     "end": 52.75
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 57.11,
+   "end": 58.34,
+   "text": "Durmo na rua, pô",
+   "words": [
+    {
+     "word": "Durmo",
+     "start": 57.11,
+     "end": 57.39
+    },
+    {
+     "word": "na",
+     "start": 57.39,
+     "end": 57.49
+    },
+    {
+     "word": "rua,",
+     "start": 57.49,
+     "end": 57.75
+    },
+    {
+     "word": "pô",
+     "start": 57.87,
+     "end": 58.34
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 61.79,
+   "end": 62.92,
+   "text": "Às vezes eu durmo",
+   "words": [
+    {
+     "word": "Às",
+     "start": 61.79,
+     "end": 62.07
+    },
+    {
+     "word": "vezes",
+     "start": 62.07,
+     "end": 62.27
+    },
+    {
+     "word": "eu",
+     "start": 62.27,
+     "end": 62.45
+    },
+    {
+     "word": "durmo",
+     "start": 62.45,
+     "end": 62.92
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 65.14,
+   "end": 65.9,
+   "text": "Eu nunca vou achar",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 65.14,
+     "end": 65.3
+    },
+    {
+     "word": "nunca",
+     "start": 65.3,
+     "end": 65.56
+    },
+    {
+     "word": "vou",
+     "start": 65.56,
+     "end": 65.72
+    },
+    {
+     "word": "achar",
+     "start": 65.72,
+     "end": 65.9
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 65.94,
+   "end": 66.44,
+   "text": "esse baú se ele",
+   "words": [
+    {
+     "word": "esse",
+     "start": 65.94,
+     "end": 66.06
+    },
+    {
+     "word": "baú",
+     "start": 66.06,
+     "end": 66.26
+    },
+    {
+     "word": "se",
+     "start": 66.26,
+     "end": 66.38
+    },
+    {
+     "word": "ele",
+     "start": 66.38,
+     "end": 66.44
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 66.48,
+   "end": 67.22,
+   "text": "estiver na água, tá?",
+   "words": [
+    {
+     "word": "estiver",
+     "start": 66.48,
+     "end": 66.62
+    },
+    {
+     "word": "na",
+     "start": 66.62,
+     "end": 66.76
+    },
+    {
+     "word": "água,",
+     "start": 66.76,
+     "end": 67.0
+    },
+    {
+     "word": "tá?",
+     "start": 67.1,
+     "end": 67.22
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 67.26,
+   "end": 68.17,
+   "text": "Com todo respeito",
+   "words": [
+    {
+     "word": "Com",
+     "start": 67.26,
+     "end": 67.32
+    },
+    {
+     "word": "todo",
+     "start": 67.32,
+     "end": 67.4
+    },
+    {
+     "word": "respeito",
+     "start": 67.4,
+     "end": 68.17
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 73.92,
+   "end": 74.44,
+   "text": "O mar é muito",
+   "words": [
+    {
+     "word": "O",
+     "start": 73.92,
+     "end": 74.06
+    },
+    {
+     "word": "mar",
+     "start": 74.06,
+     "end": 74.18
+    },
+    {
+     "word": "é",
+     "start": 74.18,
+     "end": 74.28
+    },
+    {
+     "word": "muito",
+     "start": 74.28,
+     "end": 74.44
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 74.48,
+   "end": 75.39,
+   "text": "grande, cara",
+   "words": [
+    {
+     "word": "grande,",
+     "start": 74.48,
+     "end": 74.8
+    },
+    {
+     "word": "cara",
+     "start": 74.96,
+     "end": 75.39
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 75.5,
+   "end": 76.1,
+   "text": "Já viram o tamanho",
+   "words": [
+    {
+     "word": "Já",
+     "start": 75.5,
+     "end": 75.66
+    },
+    {
+     "word": "viram",
+     "start": 75.66,
+     "end": 75.88
+    },
+    {
+     "word": "o",
+     "start": 75.88,
+     "end": 75.94
+    },
+    {
+     "word": "tamanho",
+     "start": 75.94,
+     "end": 76.1
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 76.14,
+   "end": 76.77,
+   "text": "do mar?",
+   "words": [
+    {
+     "word": "do",
+     "start": 76.14,
+     "end": 76.26
+    },
+    {
+     "word": "mar?",
+     "start": 76.26,
+     "end": 76.77
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 80.34,
+   "end": 81.1,
+   "text": "É igual no Red",
+   "words": [
+    {
+     "word": "É",
+     "start": 80.34,
+     "end": 80.5
+    },
+    {
+     "word": "igual",
+     "start": 80.5,
+     "end": 80.8
+    },
+    {
+     "word": "no",
+     "start": 80.8,
+     "end": 80.98
+    },
+    {
+     "word": "Red",
+     "start": 80.98,
+     "end": 81.1
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 81.14,
+   "end": 81.9,
+   "text": "Dead Redemption, mano",
+   "words": [
+    {
+     "word": "Dead",
+     "start": 81.14,
+     "end": 81.24
+    },
+    {
+     "word": "Redemption,",
+     "start": 81.24,
+     "end": 81.62
+    },
+    {
+     "word": "mano",
+     "start": 81.7,
+     "end": 81.9
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 81.94,
+   "end": 82.48,
+   "text": "No Red Dead Redemption",
+   "words": [
+    {
+     "word": "No",
+     "start": 81.94,
+     "end": 81.96
+    },
+    {
+     "word": "Red",
+     "start": 81.96,
+     "end": 82.08
+    },
+    {
+     "word": "Dead",
+     "start": 82.08,
+     "end": 82.2
+    },
+    {
+     "word": "Redemption",
+     "start": 82.2,
+     "end": 82.48
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 82.52,
+   "end": 83.18,
+   "text": "você vai armar",
+   "words": [
+    {
+     "word": "você",
+     "start": 82.52,
+     "end": 82.66
+    },
+    {
+     "word": "vai",
+     "start": 82.66,
+     "end": 82.76
+    },
+    {
+     "word": "armar",
+     "start": 82.76,
+     "end": 83.18
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 83.22,
+   "end": 84.18,
+   "text": "seu acampamento",
+   "words": [
+    {
+     "word": "seu",
+     "start": 83.22,
+     "end": 83.34
+    },
+    {
+     "word": "acampamento",
+     "start": 83.34,
+     "end": 84.18
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 84.22,
+   "end": 84.91,
+   "text": "dorme",
+   "words": [
+    {
+     "word": "dorme",
+     "start": 84.22,
+     "end": 84.91
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 86.36,
+   "end": 87.45,
+   "text": "Já era, velho",
+   "words": [
+    {
+     "word": "Já",
+     "start": 86.36,
+     "end": 86.58
+    },
+    {
+     "word": "era,",
+     "start": 86.58,
+     "end": 86.88
+    },
+    {
+     "word": "velho",
+     "start": 86.98,
+     "end": 87.45
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
