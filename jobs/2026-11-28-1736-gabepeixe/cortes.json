@@ -1,0 +1,11 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Jason, Lucia, Matias, Rocco, cachorro, viado, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:07:45", "fim": "0:08:25", "titulo": "O CACHORRO DO PERFIL BAIXO"},
+  {"id": "02", "inicio": "0:09:30", "fim": "0:10:00", "titulo": "SEM VIDA NENHUMA"},
+  {"id": "03", "inicio": "0:13:05", "fim": "0:14:20", "titulo": "DA ONDE QUE EU MORRI?"},
+  {"id": "04", "inicio": "0:17:18", "fim": "0:18:40", "titulo": "ESSA MISSÃO É EMBAÇADA"}
+ ]
+}
