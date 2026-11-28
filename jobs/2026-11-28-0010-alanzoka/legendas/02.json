@@ -1,0 +1,611 @@
+{
+ "segments": [
+  {
+   "start": 5.83,
+   "end": 7.05,
+   "text": "Eu botei ela na live",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 5.83,
+     "end": 6.27
+    },
+    {
+     "word": "botei",
+     "start": 6.27,
+     "end": 6.71
+    },
+    {
+     "word": "ela",
+     "start": 6.71,
+     "end": 6.76
+    },
+    {
+     "word": "na",
+     "start": 6.76,
+     "end": 6.83
+    },
+    {
+     "word": "live",
+     "start": 6.83,
+     "end": 7.05
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 7.09,
+   "end": 8.08,
+   "text": "um dia, chat",
+   "words": [
+    {
+     "word": "um",
+     "start": 7.09,
+     "end": 7.25
+    },
+    {
+     "word": "dia,",
+     "start": 7.25,
+     "end": 7.49
+    },
+    {
+     "word": "chat",
+     "start": 7.65,
+     "end": 8.08
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 8.23,
+   "end": 10.34,
+   "text": "no começo da live",
+   "words": [
+    {
+     "word": "no",
+     "start": 8.23,
+     "end": 8.97
+    },
+    {
+     "word": "começo",
+     "start": 9.09,
+     "end": 9.47
+    },
+    {
+     "word": "da",
+     "start": 9.47,
+     "end": 9.69
+    },
+    {
+     "word": "live",
+     "start": 9.69,
+     "end": 10.34
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 11.05,
+   "end": 12.02,
+   "text": "Lembrei agora",
+   "words": [
+    {
+     "word": "Lembrei",
+     "start": 11.05,
+     "end": 11.49
+    },
+    {
+     "word": "agora",
+     "start": 11.49,
+     "end": 12.02
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 14.68,
+   "end": 15.62,
+   "text": "Qual que era?",
+   "words": [
+    {
+     "word": "Qual",
+     "start": 14.68,
+     "end": 15.12
+    },
+    {
+     "word": "que",
+     "start": 15.12,
+     "end": 15.3
+    },
+    {
+     "word": "era?",
+     "start": 15.3,
+     "end": 15.62
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 15.66,
+   "end": 16.95,
+   "text": "Alguém lembra o nome?",
+   "words": [
+    {
+     "word": "Alguém",
+     "start": 15.66,
+     "end": 16.1
+    },
+    {
+     "word": "lembra",
+     "start": 16.1,
+     "end": 16.4
+    },
+    {
+     "word": "o",
+     "start": 16.4,
+     "end": 16.5
+    },
+    {
+     "word": "nome?",
+     "start": 16.5,
+     "end": 16.95
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 17.8,
+   "end": 18.42,
+   "text": "Dreamgirls?",
+   "words": [
+    {
+     "word": "Dreamgirls?",
+     "start": 17.8,
+     "end": 18.42
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 18.46,
+   "end": 19.13,
+   "text": "Cara, acho que",
+   "words": [
+    {
+     "word": "Cara,",
+     "start": 18.46,
+     "end": 18.9
+    },
+    {
+     "word": "acho",
+     "start": 18.98,
+     "end": 19.08
+    },
+    {
+     "word": "que",
+     "start": 19.08,
+     "end": 19.13
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 19.12,
+   "end": 19.83,
+   "text": "é essa aí mesmo",
+   "words": [
+    {
+     "word": "é",
+     "start": 19.12,
+     "end": 19.18
+    },
+    {
+     "word": "essa",
+     "start": 19.18,
+     "end": 19.32
+    },
+    {
+     "word": "aí",
+     "start": 19.32,
+     "end": 19.44
+    },
+    {
+     "word": "mesmo",
+     "start": 19.44,
+     "end": 19.83
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 55.11,
+   "end": 55.89,
+   "text": "Acho que é Dreamgirls",
+   "words": [
+    {
+     "word": "Acho",
+     "start": 55.11,
+     "end": 55.17
+    },
+    {
+     "word": "que",
+     "start": 55.17,
+     "end": 55.27
+    },
+    {
+     "word": "é",
+     "start": 55.27,
+     "end": 55.33
+    },
+    {
+     "word": "Dreamgirls",
+     "start": 55.33,
+     "end": 55.89
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 55.93,
+   "end": 56.8,
+   "text": "mesmo, mano",
+   "words": [
+    {
+     "word": "mesmo,",
+     "start": 55.93,
+     "end": 56.25
+    },
+    {
+     "word": "mano",
+     "start": 56.43,
+     "end": 56.8
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 59.51,
+   "end": 60.39,
+   "text": "Eu esqueci a letra",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 59.51,
+     "end": 59.71
+    },
+    {
+     "word": "esqueci",
+     "start": 59.71,
+     "end": 60.07
+    },
+    {
+     "word": "a",
+     "start": 60.07,
+     "end": 60.19
+    },
+    {
+     "word": "letra",
+     "start": 60.19,
+     "end": 60.39
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 60.43,
+   "end": 61.06,
+   "text": "da música",
+   "words": [
+    {
+     "word": "da",
+     "start": 60.43,
+     "end": 60.55
+    },
+    {
+     "word": "música",
+     "start": 60.55,
+     "end": 61.06
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 65.16,
+   "end": 66.69,
+   "text": "Caralho, é foda, mano",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 65.16,
+     "end": 65.64
+    },
+    {
+     "word": "é",
+     "start": 65.86,
+     "end": 65.91
+    },
+    {
+     "word": "foda,",
+     "start": 65.91,
+     "end": 66.2
+    },
+    {
+     "word": "mano",
+     "start": 66.36,
+     "end": 66.69
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 70.84,
+   "end": 74.09,
+   "text": "Puta que pariu, mano",
+   "words": [
+    {
+     "word": "Puta",
+     "start": 70.84,
+     "end": 71.52
+    },
+    {
+     "word": "que",
+     "start": 73.27,
+     "end": 73.39
+    },
+    {
+     "word": "pariu,",
+     "start": 73.39,
+     "end": 73.91
+    },
+    {
+     "word": "mano",
+     "start": 73.95,
+     "end": 74.09
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 74.13,
+   "end": 75.91,
+   "text": "O cara sai voando",
+   "words": [
+    {
+     "word": "O",
+     "start": 74.13,
+     "end": 74.73
+    },
+    {
+     "word": "cara",
+     "start": 74.73,
+     "end": 74.99
+    },
+    {
+     "word": "sai",
+     "start": 74.99,
+     "end": 75.57
+    },
+    {
+     "word": "voando",
+     "start": 75.57,
+     "end": 75.91
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 75.95,
+   "end": 77.27,
+   "text": "e cai da ponte, velho",
+   "words": [
+    {
+     "word": "e",
+     "start": 75.95,
+     "end": 76.09
+    },
+    {
+     "word": "cai",
+     "start": 76.09,
+     "end": 76.23
+    },
+    {
+     "word": "da",
+     "start": 76.23,
+     "end": 76.35
+    },
+    {
+     "word": "ponte,",
+     "start": 76.35,
+     "end": 76.91
+    },
+    {
+     "word": "velho",
+     "start": 76.97,
+     "end": 77.27
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 77.31,
+   "end": 79.79,
+   "text": "Fala sério, fala sério",
+   "words": [
+    {
+     "word": "Fala",
+     "start": 77.31,
+     "end": 77.53
+    },
+    {
+     "word": "sério,",
+     "start": 77.53,
+     "end": 78.13
+    },
+    {
+     "word": "fala",
+     "start": 78.44,
+     "end": 78.98
+    },
+    {
+     "word": "sério",
+     "start": 78.98,
+     "end": 79.79
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 81.51,
+   "end": 82.82,
+   "text": "Mano",
+   "words": [
+    {
+     "word": "Mano",
+     "start": 81.51,
+     "end": 82.82
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 84.49,
+   "end": 85.75,
+   "text": "porra, velho",
+   "words": [
+    {
+     "word": "porra,",
+     "start": 84.49,
+     "end": 84.87
+    },
+    {
+     "word": "velho",
+     "start": 84.93,
+     "end": 85.75
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 85.79,
+   "end": 86.85,
+   "text": "Mano, eu fui sem bater",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 85.79,
+     "end": 86.19
+    },
+    {
+     "word": "eu",
+     "start": 86.19,
+     "end": 86.27
+    },
+    {
+     "word": "fui",
+     "start": 86.27,
+     "end": 86.43
+    },
+    {
+     "word": "sem",
+     "start": 86.43,
+     "end": 86.61
+    },
+    {
+     "word": "bater",
+     "start": 86.61,
+     "end": 86.85
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 86.89,
+   "end": 87.53,
+   "text": "o caminho inteiro",
+   "words": [
+    {
+     "word": "o",
+     "start": 86.89,
+     "end": 87.03
+    },
+    {
+     "word": "caminho",
+     "start": 87.03,
+     "end": 87.27
+    },
+    {
+     "word": "inteiro",
+     "start": 87.27,
+     "end": 87.53
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 87.57,
+   "end": 88.51,
+   "text": "Quando eu tô no fim",
+   "words": [
+    {
+     "word": "Quando",
+     "start": 87.57,
+     "end": 87.77
+    },
+    {
+     "word": "eu",
+     "start": 87.77,
+     "end": 87.87
+    },
+    {
+     "word": "tô",
+     "start": 87.87,
+     "end": 87.95
+    },
+    {
+     "word": "no",
+     "start": 87.95,
+     "end": 88.15
+    },
+    {
+     "word": "fim",
+     "start": 88.15,
+     "end": 88.51
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 88.55,
+   "end": 90.08,
+   "text": "o filho da puta capota",
+   "words": [
+    {
+     "word": "o",
+     "start": 88.55,
+     "end": 88.69
+    },
+    {
+     "word": "filho",
+     "start": 88.69,
+     "end": 88.85
+    },
+    {
+     "word": "da",
+     "start": 88.85,
+     "end": 88.99
+    },
+    {
+     "word": "puta",
+     "start": 88.99,
+     "end": 89.33
+    },
+    {
+     "word": "capota",
+     "start": 89.33,
+     "end": 90.08
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}

@@ -1,0 +1,867 @@
+{
+ "segments": [
+  {
+   "start": 1.8,
+   "end": 2.58,
+   "text": "Mano, eu quero lembrar",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 1.8,
+     "end": 2.1
+    },
+    {
+     "word": "eu",
+     "start": 2.14,
+     "end": 2.2
+    },
+    {
+     "word": "quero",
+     "start": 2.2,
+     "end": 2.28
+    },
+    {
+     "word": "lembrar",
+     "start": 2.28,
+     "end": 2.58
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 2.62,
+   "end": 4.23,
+   "text": "o ritmo da música, cara",
+   "words": [
+    {
+     "word": "o",
+     "start": 2.62,
+     "end": 2.9
+    },
+    {
+     "word": "ritmo",
+     "start": 2.9,
+     "end": 3.2
+    },
+    {
+     "word": "da",
+     "start": 3.2,
+     "end": 3.32
+    },
+    {
+     "word": "música,",
+     "start": 3.32,
+     "end": 3.6
+    },
+    {
+     "word": "cara",
+     "start": 3.78,
+     "end": 4.23
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 5.03,
+   "end": 5.81,
+   "text": "Mano, eu não lembro",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 5.03,
+     "end": 5.65
+    },
+    {
+     "word": "eu",
+     "start": 5.65,
+     "end": 5.71
+    },
+    {
+     "word": "não",
+     "start": 5.71,
+     "end": 5.76
+    },
+    {
+     "word": "lembro",
+     "start": 5.76,
+     "end": 5.81
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 5.85,
+   "end": 6.75,
+   "text": "nem o ritmo da música",
+   "words": [
+    {
+     "word": "nem",
+     "start": 5.85,
+     "end": 5.95
+    },
+    {
+     "word": "o",
+     "start": 5.95,
+     "end": 6.03
+    },
+    {
+     "word": "ritmo",
+     "start": 6.03,
+     "end": 6.25
+    },
+    {
+     "word": "da",
+     "start": 6.25,
+     "end": 6.37
+    },
+    {
+     "word": "música",
+     "start": 6.37,
+     "end": 6.75
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 6.79,
+   "end": 7.84,
+   "text": "cara, nem a letra",
+   "words": [
+    {
+     "word": "cara,",
+     "start": 6.79,
+     "end": 6.89
+    },
+    {
+     "word": "nem",
+     "start": 6.89,
+     "end": 7.07
+    },
+    {
+     "word": "a",
+     "start": 7.07,
+     "end": 7.21
+    },
+    {
+     "word": "letra",
+     "start": 7.21,
+     "end": 7.84
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 11.09,
+   "end": 12.33,
+   "text": "E ouvindo música",
+   "words": [
+    {
+     "word": "E",
+     "start": 11.09,
+     "end": 11.69
+    },
+    {
+     "word": "ouvindo",
+     "start": 11.69,
+     "end": 12.05
+    },
+    {
+     "word": "música",
+     "start": 12.05,
+     "end": 12.33
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 12.37,
+   "end": 13.44,
+   "text": "você nunca lembra o ritmo, né",
+   "words": [
+    {
+     "word": "você",
+     "start": 12.37,
+     "end": 12.53
+    },
+    {
+     "word": "nunca",
+     "start": 12.53,
+     "end": 12.73
+    },
+    {
+     "word": "lembra",
+     "start": 12.73,
+     "end": 13.03
+    },
+    {
+     "word": "o",
+     "start": 13.03,
+     "end": 13.11
+    },
+    {
+     "word": "ritmo,",
+     "start": 13.11,
+     "end": 13.35
+    },
+    {
+     "word": "né",
+     "start": 13.39,
+     "end": 13.44
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 13.47,
+   "end": 14.37,
+   "text": "Deixa eu tirar aqui",
+   "words": [
+    {
+     "word": "Deixa",
+     "start": 13.47,
+     "end": 13.65
+    },
+    {
+     "word": "eu",
+     "start": 13.65,
+     "end": 13.83
+    },
+    {
+     "word": "tirar",
+     "start": 13.83,
+     "end": 14.21
+    },
+    {
+     "word": "aqui",
+     "start": 14.21,
+     "end": 14.37
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 14.41,
+   "end": 16.02,
+   "text": "pra eu lembrar",
+   "words": [
+    {
+     "word": "pra",
+     "start": 14.41,
+     "end": 14.57
+    },
+    {
+     "word": "eu",
+     "start": 14.57,
+     "end": 14.81
+    },
+    {
+     "word": "lembrar",
+     "start": 15.22,
+     "end": 16.02
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 16.06,
+   "end": 17.43,
+   "text": "na minha cabeça o ritmo",
+   "words": [
+    {
+     "word": "na",
+     "start": 16.06,
+     "end": 16.16
+    },
+    {
+     "word": "minha",
+     "start": 16.16,
+     "end": 16.26
+    },
+    {
+     "word": "cabeça",
+     "start": 16.26,
+     "end": 16.66
+    },
+    {
+     "word": "o",
+     "start": 16.66,
+     "end": 16.86
+    },
+    {
+     "word": "ritmo",
+     "start": 16.86,
+     "end": 17.43
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 19.88,
+   "end": 21.81,
+   "text": "Mano, na moral, né",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 19.88,
+     "end": 20.24
+    },
+    {
+     "word": "na",
+     "start": 20.92,
+     "end": 21.04
+    },
+    {
+     "word": "moral,",
+     "start": 21.04,
+     "end": 21.32
+    },
+    {
+     "word": "né",
+     "start": 21.36,
+     "end": 21.81
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 24.43,
+   "end": 25.7,
+   "text": "Calma, irmão, calma",
+   "words": [
+    {
+     "word": "Calma,",
+     "start": 24.43,
+     "end": 24.79
+    },
+    {
+     "word": "irmão,",
+     "start": 24.91,
+     "end": 25.01
+    },
+    {
+     "word": "calma",
+     "start": 25.09,
+     "end": 25.7
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 26.35,
+   "end": 27.55,
+   "text": "Calma, irmão, calma",
+   "words": [
+    {
+     "word": "Calma,",
+     "start": 26.35,
+     "end": 26.71
+    },
+    {
+     "word": "irmão,",
+     "start": 26.71,
+     "end": 26.93
+    },
+    {
+     "word": "calma",
+     "start": 26.93,
+     "end": 27.55
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 27.59,
+   "end": 28.09,
+   "text": "Você não vai me",
+   "words": [
+    {
+     "word": "Você",
+     "start": 27.59,
+     "end": 27.83
+    },
+    {
+     "word": "não",
+     "start": 27.83,
+     "end": 27.91
+    },
+    {
+     "word": "vai",
+     "start": 27.91,
+     "end": 28.01
+    },
+    {
+     "word": "me",
+     "start": 28.01,
+     "end": 28.09
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 28.13,
+   "end": 28.71,
+   "text": "tirar da moto, não",
+   "words": [
+    {
+     "word": "tirar",
+     "start": 28.13,
+     "end": 28.25
+    },
+    {
+     "word": "da",
+     "start": 28.25,
+     "end": 28.37
+    },
+    {
+     "word": "moto,",
+     "start": 28.37,
+     "end": 28.57
+    },
+    {
+     "word": "não",
+     "start": 28.65,
+     "end": 28.71
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 28.75,
+   "end": 30.81,
+   "text": "Cara, deixa eu parar",
+   "words": [
+    {
+     "word": "Cara,",
+     "start": 28.75,
+     "end": 29.25
+    },
+    {
+     "word": "deixa",
+     "start": 30.49,
+     "end": 30.61
+    },
+    {
+     "word": "eu",
+     "start": 30.61,
+     "end": 30.69
+    },
+    {
+     "word": "parar",
+     "start": 30.69,
+     "end": 30.81
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 30.85,
+   "end": 31.59,
+   "text": "de pensar nessa música",
+   "words": [
+    {
+     "word": "de",
+     "start": 30.85,
+     "end": 30.95
+    },
+    {
+     "word": "pensar",
+     "start": 30.95,
+     "end": 31.15
+    },
+    {
+     "word": "nessa",
+     "start": 31.15,
+     "end": 31.33
+    },
+    {
+     "word": "música",
+     "start": 31.33,
+     "end": 31.59
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 31.63,
+   "end": 32.45,
+   "text": "Essa música tá atrapalhando",
+   "words": [
+    {
+     "word": "Essa",
+     "start": 31.63,
+     "end": 31.79
+    },
+    {
+     "word": "música",
+     "start": 31.79,
+     "end": 32.01
+    },
+    {
+     "word": "tá",
+     "start": 32.01,
+     "end": 32.15
+    },
+    {
+     "word": "atrapalhando",
+     "start": 32.15,
+     "end": 32.45
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 32.49,
+   "end": 33.21,
+   "text": "a minha gameplay, mano",
+   "words": [
+    {
+     "word": "a",
+     "start": 32.49,
+     "end": 32.59
+    },
+    {
+     "word": "minha",
+     "start": 32.59,
+     "end": 32.64
+    },
+    {
+     "word": "gameplay,",
+     "start": 32.64,
+     "end": 33.03
+    },
+    {
+     "word": "mano",
+     "start": 33.13,
+     "end": 33.21
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 33.25,
+   "end": 33.81,
+   "text": "Eu fico pensando",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 33.25,
+     "end": 33.33
+    },
+    {
+     "word": "fico",
+     "start": 33.33,
+     "end": 33.47
+    },
+    {
+     "word": "pensando",
+     "start": 33.47,
+     "end": 33.81
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 33.85,
+   "end": 34.68,
+   "text": "nessa porra",
+   "words": [
+    {
+     "word": "nessa",
+     "start": 33.85,
+     "end": 34.03
+    },
+    {
+     "word": "porra",
+     "start": 34.03,
+     "end": 34.68
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 34.8,
+   "end": 35.82,
+   "text": "Deixa quieto, mano",
+   "words": [
+    {
+     "word": "Deixa",
+     "start": 34.8,
+     "end": 35.24
+    },
+    {
+     "word": "quieto,",
+     "start": 35.24,
+     "end": 35.72
+    },
+    {
+     "word": "mano",
+     "start": 35.72,
+     "end": 35.82
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 35.86,
+   "end": 39.13,
+   "text": "Fico olhando o chat",
+   "words": [
+    {
+     "word": "Fico",
+     "start": 35.86,
+     "end": 36.22
+    },
+    {
+     "word": "olhando",
+     "start": 38.07,
+     "end": 38.33
+    },
+    {
+     "word": "o",
+     "start": 38.33,
+     "end": 38.53
+    },
+    {
+     "word": "chat",
+     "start": 38.53,
+     "end": 39.13
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 39.17,
+   "end": 40.31,
+   "text": "fico lendo o chat",
+   "words": [
+    {
+     "word": "fico",
+     "start": 39.17,
+     "end": 39.37
+    },
+    {
+     "word": "lendo",
+     "start": 39.37,
+     "end": 39.71
+    },
+    {
+     "word": "o",
+     "start": 39.71,
+     "end": 39.93
+    },
+    {
+     "word": "chat",
+     "start": 39.93,
+     "end": 40.31
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 40.35,
+   "end": 41.28,
+   "text": "Daí acaba que eu não",
+   "words": [
+    {
+     "word": "Daí",
+     "start": 40.35,
+     "end": 40.69
+    },
+    {
+     "word": "acaba",
+     "start": 40.69,
+     "end": 40.99
+    },
+    {
+     "word": "que",
+     "start": 40.99,
+     "end": 41.15
+    },
+    {
+     "word": "eu",
+     "start": 41.15,
+     "end": 41.23
+    },
+    {
+     "word": "não",
+     "start": 41.23,
+     "end": 41.28
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 41.31,
+   "end": 42.42,
+   "text": "presto atenção no jogo",
+   "words": [
+    {
+     "word": "presto",
+     "start": 41.31,
+     "end": 41.55
+    },
+    {
+     "word": "atenção",
+     "start": 41.55,
+     "end": 41.75
+    },
+    {
+     "word": "no",
+     "start": 41.75,
+     "end": 41.91
+    },
+    {
+     "word": "jogo",
+     "start": 41.91,
+     "end": 42.42
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 43.97,
+   "end": 44.71,
+   "text": "Óbvio, eu tô lendo",
+   "words": [
+    {
+     "word": "Óbvio,",
+     "start": 43.97,
+     "end": 44.31
+    },
+    {
+     "word": "eu",
+     "start": 44.33,
+     "end": 44.45
+    },
+    {
+     "word": "tô",
+     "start": 44.45,
+     "end": 44.55
+    },
+    {
+     "word": "lendo",
+     "start": 44.55,
+     "end": 44.71
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 44.75,
+   "end": 45.7,
+   "text": "a porra do chat",
+   "words": [
+    {
+     "word": "a",
+     "start": 44.75,
+     "end": 44.87
+    },
+    {
+     "word": "porra",
+     "start": 44.87,
+     "end": 45.03
+    },
+    {
+     "word": "do",
+     "start": 45.03,
+     "end": 45.11
+    },
+    {
+     "word": "chat",
+     "start": 45.11,
+     "end": 45.7
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 46.79,
+   "end": 47.87,
+   "text": "Eu não tô nem prestando",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 46.79,
+     "end": 47.01
+    },
+    {
+     "word": "não",
+     "start": 47.01,
+     "end": 47.09
+    },
+    {
+     "word": "tô",
+     "start": 47.09,
+     "end": 47.19
+    },
+    {
+     "word": "nem",
+     "start": 47.19,
+     "end": 47.29
+    },
+    {
+     "word": "prestando",
+     "start": 47.29,
+     "end": 47.87
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 47.91,
+   "end": 48.56,
+   "text": "no jogo, óbvio que",
+   "words": [
+    {
+     "word": "no",
+     "start": 47.91,
+     "end": 48.03
+    },
+    {
+     "word": "jogo,",
+     "start": 48.03,
+     "end": 48.29
+    },
+    {
+     "word": "óbvio",
+     "start": 48.35,
+     "end": 48.51
+    },
+    {
+     "word": "que",
+     "start": 48.51,
+     "end": 48.56
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 48.59,
+   "end": 49.46,
+   "text": "eu vou bater, né",
+   "words": [
+    {
+     "word": "eu",
+     "start": 48.59,
+     "end": 48.67
+    },
+    {
+     "word": "vou",
+     "start": 48.67,
+     "end": 48.77
+    },
+    {
+     "word": "bater,",
+     "start": 48.77,
+     "end": 49.05
+    },
+    {
+     "word": "né",
+     "start": 49.15,
+     "end": 49.46
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}

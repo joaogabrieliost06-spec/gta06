@@ -1,0 +1,384 @@
+{
+ "segments": [
+  {
+   "start": 1.74,
+   "end": 2.46,
+   "text": "Ué, como é que eu",
+   "words": [
+    {
+     "word": "Ué,",
+     "start": 1.74,
+     "end": 1.96
+    },
+    {
+     "word": "como",
+     "start": 2.06,
+     "end": 2.16
+    },
+    {
+     "word": "é",
+     "start": 2.16,
+     "end": 2.26
+    },
+    {
+     "word": "que",
+     "start": 2.26,
+     "end": 2.41
+    },
+    {
+     "word": "eu",
+     "start": 2.41,
+     "end": 2.46
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 2.3,
+   "end": 2.76,
+   "text": "vou passar nessa",
+   "words": [
+    {
+     "word": "vou",
+     "start": 2.3,
+     "end": 2.4
+    },
+    {
+     "word": "passar",
+     "start": 2.4,
+     "end": 2.64
+    },
+    {
+     "word": "nessa",
+     "start": 2.64,
+     "end": 2.76
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 2.8,
+   "end": 3.89,
+   "text": "pomba aqui, meu?",
+   "words": [
+    {
+     "word": "pomba",
+     "start": 2.8,
+     "end": 3.28
+    },
+    {
+     "word": "aqui,",
+     "start": 3.28,
+     "end": 3.4
+    },
+    {
+     "word": "meu?",
+     "start": 3.52,
+     "end": 3.89
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 11.12,
+   "end": 12.15,
+   "text": "Tinha que ir por baixo",
+   "words": [
+    {
+     "word": "Tinha",
+     "start": 11.12,
+     "end": 11.22
+    },
+    {
+     "word": "que",
+     "start": 11.22,
+     "end": 11.34
+    },
+    {
+     "word": "ir",
+     "start": 11.34,
+     "end": 11.42
+    },
+    {
+     "word": "por",
+     "start": 11.42,
+     "end": 11.56
+    },
+    {
+     "word": "baixo",
+     "start": 11.56,
+     "end": 12.15
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 33.69,
+   "end": 34.41,
+   "text": "Será que ele",
+   "words": [
+    {
+     "word": "Será",
+     "start": 33.69,
+     "end": 34.01
+    },
+    {
+     "word": "que",
+     "start": 34.01,
+     "end": 34.33
+    },
+    {
+     "word": "ele",
+     "start": 34.33,
+     "end": 34.41
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 34.45,
+   "end": 35.25,
+   "text": "se distrai, chat",
+   "words": [
+    {
+     "word": "se",
+     "start": 34.45,
+     "end": 34.59
+    },
+    {
+     "word": "distrai,",
+     "start": 34.59,
+     "end": 34.95
+    },
+    {
+     "word": "chat",
+     "start": 35.19,
+     "end": 35.25
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 35.29,
+   "end": 35.82,
+   "text": "quando eu toco",
+   "words": [
+    {
+     "word": "quando",
+     "start": 35.29,
+     "end": 35.55
+    },
+    {
+     "word": "eu",
+     "start": 35.55,
+     "end": 35.77
+    },
+    {
+     "word": "toco",
+     "start": 35.77,
+     "end": 35.82
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 35.83,
+   "end": 36.76,
+   "text": "a garrafa?",
+   "words": [
+    {
+     "word": "a",
+     "start": 35.83,
+     "end": 35.95
+    },
+    {
+     "word": "garrafa?",
+     "start": 35.95,
+     "end": 36.76
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 39.73,
+   "end": 40.51,
+   "text": "Puta merda, mano",
+   "words": [
+    {
+     "word": "Puta",
+     "start": 39.73,
+     "end": 40.05
+    },
+    {
+     "word": "merda,",
+     "start": 40.05,
+     "end": 40.35
+    },
+    {
+     "word": "mano",
+     "start": 40.39,
+     "end": 40.51
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 40.55,
+   "end": 41.19,
+   "text": "toquei a garrafa",
+   "words": [
+    {
+     "word": "toquei",
+     "start": 40.55,
+     "end": 40.87
+    },
+    {
+     "word": "a",
+     "start": 40.87,
+     "end": 40.92
+    },
+    {
+     "word": "garrafa",
+     "start": 40.92,
+     "end": 41.19
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 41.23,
+   "end": 41.85,
+   "text": "na porra do teto",
+   "words": [
+    {
+     "word": "na",
+     "start": 41.23,
+     "end": 41.33
+    },
+    {
+     "word": "porra",
+     "start": 41.33,
+     "end": 41.53
+    },
+    {
+     "word": "do",
+     "start": 41.53,
+     "end": 41.63
+    },
+    {
+     "word": "teto",
+     "start": 41.63,
+     "end": 41.85
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 41.89,
+   "end": 43.18,
+   "text": "aí é foda também, né?",
+   "words": [
+    {
+     "word": "aí",
+     "start": 41.89,
+     "end": 42.03
+    },
+    {
+     "word": "é",
+     "start": 42.03,
+     "end": 42.17
+    },
+    {
+     "word": "foda",
+     "start": 42.17,
+     "end": 42.47
+    },
+    {
+     "word": "também,",
+     "start": 42.47,
+     "end": 42.77
+    },
+    {
+     "word": "né?",
+     "start": 42.85,
+     "end": 43.18
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 71.55,
+   "end": 73.56,
+   "text": "Tudo sob controle, mano",
+   "words": [
+    {
+     "word": "Tudo",
+     "start": 71.55,
+     "end": 72.09
+    },
+    {
+     "word": "sob",
+     "start": 72.09,
+     "end": 72.43
+    },
+    {
+     "word": "controle,",
+     "start": 72.43,
+     "end": 72.95
+    },
+    {
+     "word": "mano",
+     "start": 72.97,
+     "end": 73.56
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 74.27,
+   "end": 75.05,
+   "text": "Ah, essa porra desse",
+   "words": [
+    {
+     "word": "Ah,",
+     "start": 74.27,
+     "end": 74.35
+    },
+    {
+     "word": "essa",
+     "start": 74.47,
+     "end": 74.55
+    },
+    {
+     "word": "porra",
+     "start": 74.55,
+     "end": 74.89
+    },
+    {
+     "word": "desse",
+     "start": 74.89,
+     "end": 75.05
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 75.09,
+   "end": 76.12,
+   "text": "tigre, velho",
+   "words": [
+    {
+     "word": "tigre,",
+     "start": 75.09,
+     "end": 75.57
+    },
+    {
+     "word": "velho",
+     "start": 75.67,
+     "end": 76.12
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
