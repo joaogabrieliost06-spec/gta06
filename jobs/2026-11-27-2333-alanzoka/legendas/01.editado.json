@@ -1,0 +1,49 @@
+{
+"blocos": [
+{
+"f": 1,
+"texto": "Opa! Tá descendo.",
+"pos": 0.6
+},
+{
+"f": 1,
+"texto": "O que é isso?",
+"pos": 0.6
+},
+{
+"f": 1,
+"texto": "Pega a nós!",
+"pos": 0.6
+},
+{
+"f": 1,
+"texto": "Entendeu nada,",
+"pos": 0.6
+},
+{
+"f": 1,
+"texto": "entendeu nada!",
+"pos": 0.6
+},
+{
+"f": 1,
+"texto": "Você não entendeu nada!",
+"pos": 0.6
+},
+{
+"f": 1,
+"texto": "Nunca que elas vão",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "buscar a nós, mano.",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "Oxi!",
+"pos": 0.6
+}
+]
+}

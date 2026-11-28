@@ -1,0 +1,211 @@
+{
+ "segments": [
+  {
+   "start": 12.6,
+   "end": 14.83,
+   "text": "Opa! Tá descendo",
+   "words": [
+    {
+     "word": "Opa!",
+     "start": 12.6,
+     "end": 13.12
+    },
+    {
+     "word": "Tá",
+     "start": 13.98,
+     "end": 14.16
+    },
+    {
+     "word": "descendo",
+     "start": 14.16,
+     "end": 14.83
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 19.73,
+   "end": 20.62,
+   "text": "O que é isso?",
+   "words": [
+    {
+     "word": "O",
+     "start": 19.73,
+     "end": 19.97
+    },
+    {
+     "word": "que",
+     "start": 19.97,
+     "end": 20.05
+    },
+    {
+     "word": "é",
+     "start": 20.05,
+     "end": 20.11
+    },
+    {
+     "word": "isso?",
+     "start": 20.11,
+     "end": 20.62
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 29.29,
+   "end": 30.29,
+   "text": "Pega a nós!",
+   "words": [
+    {
+     "word": "Pega",
+     "start": 29.29,
+     "end": 29.81
+    },
+    {
+     "word": "a",
+     "start": 29.81,
+     "end": 29.95
+    },
+    {
+     "word": "nós!",
+     "start": 29.95,
+     "end": 30.29
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 30.33,
+   "end": 30.87,
+   "text": "Entendeu nada",
+   "words": [
+    {
+     "word": "Entendeu",
+     "start": 30.33,
+     "end": 30.63
+    },
+    {
+     "word": "nada",
+     "start": 30.63,
+     "end": 30.87
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 30.91,
+   "end": 31.61,
+   "text": "entendeu nada!",
+   "words": [
+    {
+     "word": "entendeu",
+     "start": 30.91,
+     "end": 31.17
+    },
+    {
+     "word": "nada!",
+     "start": 31.17,
+     "end": 31.61
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 31.65,
+   "end": 32.88,
+   "text": "Você não entendeu nada!",
+   "words": [
+    {
+     "word": "Você",
+     "start": 31.65,
+     "end": 31.93
+    },
+    {
+     "word": "não",
+     "start": 31.93,
+     "end": 32.01
+    },
+    {
+     "word": "entendeu",
+     "start": 32.01,
+     "end": 32.23
+    },
+    {
+     "word": "nada!",
+     "start": 32.23,
+     "end": 32.88
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 37.55,
+   "end": 38.39,
+   "text": "Nunca que elas vão",
+   "words": [
+    {
+     "word": "Nunca",
+     "start": 37.55,
+     "end": 38.07
+    },
+    {
+     "word": "que",
+     "start": 38.07,
+     "end": 38.19
+    },
+    {
+     "word": "elas",
+     "start": 38.19,
+     "end": 38.29
+    },
+    {
+     "word": "vão",
+     "start": 38.29,
+     "end": 38.39
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 38.43,
+   "end": 39.5,
+   "text": "buscar a nós, mano",
+   "words": [
+    {
+     "word": "buscar",
+     "start": 38.43,
+     "end": 38.71
+    },
+    {
+     "word": "a",
+     "start": 38.71,
+     "end": 38.83
+    },
+    {
+     "word": "nós,",
+     "start": 38.83,
+     "end": 38.99
+    },
+    {
+     "word": "mano",
+     "start": 39.11,
+     "end": 39.5
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 41.68,
+   "end": 42.37,
+   "text": "Oxi!",
+   "words": [
+    {
+     "word": "Oxi!",
+     "start": 41.68,
+     "end": 42.37
+    }
+   ],
+   "pos": 0.6
+  }
+ ]
+}
