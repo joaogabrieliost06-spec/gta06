@@ -1,0 +1,755 @@
+{
+ "segments": [
+  {
+   "start": 1.97,
+   "end": 3.01,
+   "text": "Daniel, Prime Sub",
+   "words": [
+    {
+     "word": "Daniel,",
+     "start": 1.97,
+     "end": 2.33
+    },
+    {
+     "word": "Prime",
+     "start": 2.33,
+     "end": 2.69
+    },
+    {
+     "word": "Sub",
+     "start": 2.69,
+     "end": 3.01
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 3.05,
+   "end": 4.6,
+   "text": "Pastore, Prime Sub",
+   "words": [
+    {
+     "word": "Pastore,",
+     "start": 3.05,
+     "end": 3.578
+    },
+    {
+     "word": "Prime",
+     "start": 3.578,
+     "end": 3.93
+    },
+    {
+     "word": "Sub",
+     "start": 3.93,
+     "end": 4.6
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 4.85,
+   "end": 5.64,
+   "text": "Matheus Firmo, já",
+   "words": [
+    {
+     "word": "Matheus",
+     "start": 4.85,
+     "end": 5.21
+    },
+    {
+     "word": "Firmo,",
+     "start": 5.21,
+     "end": 5.53
+    },
+    {
+     "word": "já",
+     "start": 5.59,
+     "end": 5.64
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 5.67,
+   "end": 6.27,
+   "text": "li?",
+   "words": [
+    {
+     "word": "li?",
+     "start": 5.67,
+     "end": 6.27
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 8.24,
+   "end": 8.96,
+   "text": "Wagner Moura",
+   "words": [
+    {
+     "word": "Wagner",
+     "start": 8.24,
+     "end": 8.5
+    },
+    {
+     "word": "Moura",
+     "start": 8.5,
+     "end": 8.96
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 9.0,
+   "end": 9.5,
+   "text": "Prime 7",
+   "words": [
+    {
+     "word": "Prime",
+     "start": 9.0,
+     "end": 9.28
+    },
+    {
+     "word": "7",
+     "start": 9.28,
+     "end": 9.5
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 9.54,
+   "end": 10.0,
+   "text": "Será que é o Wagner",
+   "words": [
+    {
+     "word": "Será",
+     "start": 9.54,
+     "end": 9.62
+    },
+    {
+     "word": "que",
+     "start": 9.62,
+     "end": 9.7
+    },
+    {
+     "word": "é",
+     "start": 9.7,
+     "end": 9.76
+    },
+    {
+     "word": "o",
+     "start": 9.76,
+     "end": 9.81
+    },
+    {
+     "word": "Wagner",
+     "start": 9.81,
+     "end": 10.0
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 10.04,
+   "end": 11.01,
+   "text": "Moura de verdade?",
+   "words": [
+    {
+     "word": "Moura",
+     "start": 10.04,
+     "end": 10.34
+    },
+    {
+     "word": "de",
+     "start": 10.34,
+     "end": 10.48
+    },
+    {
+     "word": "verdade?",
+     "start": 10.48,
+     "end": 11.01
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 17.1,
+   "end": 17.92,
+   "text": "Ela não tá suada",
+   "words": [
+    {
+     "word": "Ela",
+     "start": 17.1,
+     "end": 17.36
+    },
+    {
+     "word": "não",
+     "start": 17.36,
+     "end": 17.5
+    },
+    {
+     "word": "tá",
+     "start": 17.5,
+     "end": 17.62
+    },
+    {
+     "word": "suada",
+     "start": 17.62,
+     "end": 17.92
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 17.96,
+   "end": 18.69,
+   "text": "arrumou o suor, ela",
+   "words": [
+    {
+     "word": "arrumou",
+     "start": 17.96,
+     "end": 18.28
+    },
+    {
+     "word": "o",
+     "start": 18.28,
+     "end": 18.35
+    },
+    {
+     "word": "suor,",
+     "start": 18.35,
+     "end": 18.56
+    },
+    {
+     "word": "ela",
+     "start": 18.64,
+     "end": 18.69
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 18.7,
+   "end": 19.4,
+   "text": "tá de biquíni, não",
+   "words": [
+    {
+     "word": "tá",
+     "start": 18.7,
+     "end": 18.82
+    },
+    {
+     "word": "de",
+     "start": 18.82,
+     "end": 18.94
+    },
+    {
+     "word": "biquíni,",
+     "start": 18.94,
+     "end": 19.28
+    },
+    {
+     "word": "não",
+     "start": 19.34,
+     "end": 19.4
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 19.44,
+   "end": 20.05,
+   "text": "sei por quê, porque",
+   "words": [
+    {
+     "word": "sei",
+     "start": 19.44,
+     "end": 19.62
+    },
+    {
+     "word": "por",
+     "start": 19.62,
+     "end": 19.744
+    },
+    {
+     "word": "quê,",
+     "start": 19.744,
+     "end": 19.9
+    },
+    {
+     "word": "porque",
+     "start": 20.0,
+     "end": 20.05
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 20.06,
+   "end": 20.88,
+   "text": "eu mergulhei e ela",
+   "words": [
+    {
+     "word": "eu",
+     "start": 20.06,
+     "end": 20.14
+    },
+    {
+     "word": "mergulhei",
+     "start": 20.14,
+     "end": 20.6
+    },
+    {
+     "word": "e",
+     "start": 20.6,
+     "end": 20.76
+    },
+    {
+     "word": "ela",
+     "start": 20.76,
+     "end": 20.88
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 20.92,
+   "end": 21.54,
+   "text": "trocou de roupa",
+   "words": [
+    {
+     "word": "trocou",
+     "start": 20.92,
+     "end": 21.14
+    },
+    {
+     "word": "de",
+     "start": 21.14,
+     "end": 21.26
+    },
+    {
+     "word": "roupa",
+     "start": 21.26,
+     "end": 21.54
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 21.58,
+   "end": 22.53,
+   "text": "sozinha e",
+   "words": [
+    {
+     "word": "sozinha",
+     "start": 21.58,
+     "end": 22.06
+    },
+    {
+     "word": "e",
+     "start": 22.06,
+     "end": 22.53
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 22.57,
+   "end": 24.06,
+   "text": "ficou",
+   "words": [
+    {
+     "word": "ficou",
+     "start": 22.57,
+     "end": 24.06
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 24.54,
+   "end": 25.26,
+   "text": "de biquíni, mano",
+   "words": [
+    {
+     "word": "de",
+     "start": 24.54,
+     "end": 24.7
+    },
+    {
+     "word": "biquíni,",
+     "start": 24.7,
+     "end": 25.06
+    },
+    {
+     "word": "mano",
+     "start": 25.18,
+     "end": 25.26
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 25.3,
+   "end": 26.91,
+   "text": "preciso voltar pra",
+   "words": [
+    {
+     "word": "preciso",
+     "start": 25.3,
+     "end": 25.46
+    },
+    {
+     "word": "voltar",
+     "start": 25.46,
+     "end": 25.94
+    },
+    {
+     "word": "pra",
+     "start": 25.94,
+     "end": 26.91
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.34,
+   "end": 28.9,
+   "text": "outra roupa",
+   "words": [
+    {
+     "word": "outra",
+     "start": 28.34,
+     "end": 28.54
+    },
+    {
+     "word": "roupa",
+     "start": 28.54,
+     "end": 28.9
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 28.94,
+   "end": 29.95,
+   "text": "Cara, cadê ele, mano?",
+   "words": [
+    {
+     "word": "Cara,",
+     "start": 28.94,
+     "end": 29.06
+    },
+    {
+     "word": "cadê",
+     "start": 29.18,
+     "end": 29.34
+    },
+    {
+     "word": "ele,",
+     "start": 29.34,
+     "end": 29.52
+    },
+    {
+     "word": "mano?",
+     "start": 29.6,
+     "end": 29.95
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 33.26,
+   "end": 33.68,
+   "text": "Cara, preciso fazer",
+   "words": [
+    {
+     "word": "Cara,",
+     "start": 33.26,
+     "end": 33.4
+    },
+    {
+     "word": "preciso",
+     "start": 33.42,
+     "end": 33.54
+    },
+    {
+     "word": "fazer",
+     "start": 33.54,
+     "end": 33.68
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 33.72,
+   "end": 34.59,
+   "text": "uma missão principal, eu",
+   "words": [
+    {
+     "word": "uma",
+     "start": 33.72,
+     "end": 33.84
+    },
+    {
+     "word": "missão",
+     "start": 33.84,
+     "end": 34.06
+    },
+    {
+     "word": "principal,",
+     "start": 34.06,
+     "end": 34.44
+    },
+    {
+     "word": "eu",
+     "start": 34.54,
+     "end": 34.59
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 34.6,
+   "end": 35.26,
+   "text": "aguento mais os dois",
+   "words": [
+    {
+     "word": "aguento",
+     "start": 34.6,
+     "end": 34.86
+    },
+    {
+     "word": "mais",
+     "start": 34.86,
+     "end": 35.04
+    },
+    {
+     "word": "os",
+     "start": 35.04,
+     "end": 35.18
+    },
+    {
+     "word": "dois",
+     "start": 35.18,
+     "end": 35.26
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 35.3,
+   "end": 35.88,
+   "text": "ficar separados",
+   "words": [
+    {
+     "word": "ficar",
+     "start": 35.3,
+     "end": 35.48
+    },
+    {
+     "word": "separados",
+     "start": 35.48,
+     "end": 35.88
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 35.92,
+   "end": 36.56,
+   "text": "nessa bosta dessa",
+   "words": [
+    {
+     "word": "nessa",
+     "start": 35.92,
+     "end": 36.12
+    },
+    {
+     "word": "bosta",
+     "start": 36.12,
+     "end": 36.44
+    },
+    {
+     "word": "dessa",
+     "start": 36.44,
+     "end": 36.56
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 36.6,
+   "end": 37.39,
+   "text": "missão, viu?",
+   "words": [
+    {
+     "word": "missão,",
+     "start": 36.6,
+     "end": 36.98
+    },
+    {
+     "word": "viu?",
+     "start": 37.02,
+     "end": 37.39
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 44.08,
+   "end": 44.74,
+   "text": "Ó, eu não consigo",
+   "words": [
+    {
+     "word": "Ó,",
+     "start": 44.08,
+     "end": 44.44
+    },
+    {
+     "word": "eu",
+     "start": 44.44,
+     "end": 44.52
+    },
+    {
+     "word": "não",
+     "start": 44.52,
+     "end": 44.57
+    },
+    {
+     "word": "consigo",
+     "start": 44.57,
+     "end": 44.74
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 44.78,
+   "end": 46.77,
+   "text": "nem dar um romance",
+   "words": [
+    {
+     "word": "nem",
+     "start": 44.78,
+     "end": 44.9
+    },
+    {
+     "word": "dar",
+     "start": 44.9,
+     "end": 45.02
+    },
+    {
+     "word": "um",
+     "start": 45.02,
+     "end": 45.34
+    },
+    {
+     "word": "romance",
+     "start": 46.16,
+     "end": 46.77
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 56.05,
+   "end": 56.45,
+   "text": "Eu tô assistindo",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 56.05,
+     "end": 56.23
+    },
+    {
+     "word": "tô",
+     "start": 56.23,
+     "end": 56.29
+    },
+    {
+     "word": "assistindo",
+     "start": 56.29,
+     "end": 56.45
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 56.49,
+   "end": 56.95,
+   "text": "o coração do",
+   "words": [
+    {
+     "word": "o",
+     "start": 56.49,
+     "end": 56.59
+    },
+    {
+     "word": "coração",
+     "start": 56.59,
+     "end": 56.83
+    },
+    {
+     "word": "do",
+     "start": 56.83,
+     "end": 56.95
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 56.99,
+   "end": 57.83,
+   "text": "meu controle bater",
+   "words": [
+    {
+     "word": "meu",
+     "start": 56.99,
+     "end": 57.09
+    },
+    {
+     "word": "controle",
+     "start": 57.09,
+     "end": 57.35
+    },
+    {
+     "word": "bater",
+     "start": 57.35,
+     "end": 57.83
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 57.87,
+   "end": 58.9,
+   "text": "velho. Tô falando sério",
+   "words": [
+    {
+     "word": "velho.",
+     "start": 57.87,
+     "end": 58.05
+    },
+    {
+     "word": "Tô",
+     "start": 58.05,
+     "end": 58.21
+    },
+    {
+     "word": "falando",
+     "start": 58.21,
+     "end": 58.31
+    },
+    {
+     "word": "sério",
+     "start": 58.31,
+     "end": 58.9
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
