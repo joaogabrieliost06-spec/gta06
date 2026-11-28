@@ -1,0 +1,10 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "alanzoka, Alan, GTA 6, Jason, Lucia, Nate, academia, piscina, barra, chat, mano",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:16:07", "fim": "0:17:20", "titulo": "OLHA A BARRA ENVERGANDO"},
+  {"id": "02", "inicio": "0:17:41", "fim": "0:18:50", "titulo": "QUERO ROUBAR UNS BANCOS"},
+  {"id": "03", "inicio": "0:18:50", "fim": "0:19:59", "titulo": "VOCÊ TEM A GENÉTICA"}
+ ]
+}
