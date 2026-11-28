@@ -1,0 +1,324 @@
+{
+"blocos": [
+{
+"f": 1,
+"texto": "Mas o que era?",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "Ué, era basicamente",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "eu mandei fazer",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "um quadro, tipo",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "assim, a minha ideia",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "foi, vou explicar",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "pra vocês, tá?",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "Eu peguei um artista",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "que a gente tava vendo em live",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "no dia, só",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "que a galera não",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "sabia muito, assim,",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "tematicamente o",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "que que tava rolando.",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "O que que era?",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "A ideia é",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "que eu pedi pra fazer",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "a representação do",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "dia do pedido",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "do casamento, que eu",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "acho que é um dos dias mais",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "importantes,",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "tá ligado?",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "Então o que",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "que eu pedi pra fazer?",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "Eu pedi pra fazer aquelas",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "miniaturazinhas como",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "se fosse uma maquete",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "em quadro, né,",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "o qual o Coringa tá",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "pedindo a Thainá,",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "coisa bem",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "legalzinha assim,",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "simbolismo tipo",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "assim, que o Coringa",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "tá pedindo a Thainá",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "em casamento. Aí",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "é meio que tipo",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "assim aquela, meio",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "com a terra,",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "com grama, algumas",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "arvorezinhas, aí tem",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "a galera que tava",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "ali no dia",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "tocando a música",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "e tal, o carrinho",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "que levou eles,",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "e o",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "tipo, o tapetezinho",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "branco, o sofazinho",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "e o Coringa pedindo a Thainá",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "em casamento, tá ligado?",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "Resumo assim,",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "miniatura, tudo como",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "se fosse uma maquete.",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "Só que é",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "em quadro, você pode",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "botar na parede",
+"pos": 0.76
+}
+]
+}

@@ -1,0 +1,1463 @@
+{
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.18,
+   "text": "Mas o que era?",
+   "words": [
+    {
+     "word": "Mas",
+     "start": 0.0,
+     "end": 0.34
+    },
+    {
+     "word": "o",
+     "start": 0.34,
+     "end": 0.64
+    },
+    {
+     "word": "que",
+     "start": 0.64,
+     "end": 0.8
+    },
+    {
+     "word": "era?",
+     "start": 0.8,
+     "end": 1.18
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 1.22,
+   "end": 2.24,
+   "text": "Ué, era basicamente",
+   "words": [
+    {
+     "word": "Ué,",
+     "start": 1.22,
+     "end": 1.4
+    },
+    {
+     "word": "era",
+     "start": 1.58,
+     "end": 1.78
+    },
+    {
+     "word": "basicamente",
+     "start": 1.78,
+     "end": 2.24
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 2.28,
+   "end": 2.86,
+   "text": "eu mandei fazer",
+   "words": [
+    {
+     "word": "eu",
+     "start": 2.28,
+     "end": 2.46
+    },
+    {
+     "word": "mandei",
+     "start": 2.46,
+     "end": 2.68
+    },
+    {
+     "word": "fazer",
+     "start": 2.68,
+     "end": 2.86
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 2.9,
+   "end": 4.31,
+   "text": "um quadro, tipo",
+   "words": [
+    {
+     "word": "um",
+     "start": 2.9,
+     "end": 3.04
+    },
+    {
+     "word": "quadro,",
+     "start": 3.04,
+     "end": 3.54
+    },
+    {
+     "word": "tipo",
+     "start": 3.95,
+     "end": 4.31
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 4.35,
+   "end": 5.05,
+   "text": "assim, a minha ideia",
+   "words": [
+    {
+     "word": "assim,",
+     "start": 4.35,
+     "end": 4.53
+    },
+    {
+     "word": "a",
+     "start": 4.61,
+     "end": 4.71
+    },
+    {
+     "word": "minha",
+     "start": 4.71,
+     "end": 4.83
+    },
+    {
+     "word": "ideia",
+     "start": 4.83,
+     "end": 5.05
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 5.09,
+   "end": 5.93,
+   "text": "foi, vou explicar",
+   "words": [
+    {
+     "word": "foi,",
+     "start": 5.09,
+     "end": 5.45
+    },
+    {
+     "word": "vou",
+     "start": 5.53,
+     "end": 5.67
+    },
+    {
+     "word": "explicar",
+     "start": 5.67,
+     "end": 5.93
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 5.97,
+   "end": 6.86,
+   "text": "pra vocês, tá?",
+   "words": [
+    {
+     "word": "pra",
+     "start": 5.97,
+     "end": 6.13
+    },
+    {
+     "word": "vocês,",
+     "start": 6.13,
+     "end": 6.43
+    },
+    {
+     "word": "tá?",
+     "start": 6.53,
+     "end": 6.86
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 6.98,
+   "end": 8.34,
+   "text": "Eu peguei um artista",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 6.98,
+     "end": 7.34
+    },
+    {
+     "word": "peguei",
+     "start": 7.34,
+     "end": 7.88
+    },
+    {
+     "word": "um",
+     "start": 7.88,
+     "end": 7.98
+    },
+    {
+     "word": "artista",
+     "start": 7.98,
+     "end": 8.34
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 8.38,
+   "end": 9.32,
+   "text": "que a gente tava vendo em live",
+   "words": [
+    {
+     "word": "que",
+     "start": 8.38,
+     "end": 8.5
+    },
+    {
+     "word": "a",
+     "start": 8.5,
+     "end": 8.58
+    },
+    {
+     "word": "gente",
+     "start": 8.58,
+     "end": 8.66
+    },
+    {
+     "word": "tava",
+     "start": 8.66,
+     "end": 8.82
+    },
+    {
+     "word": "vendo",
+     "start": 8.82,
+     "end": 9.02
+    },
+    {
+     "word": "em",
+     "start": 9.02,
+     "end": 9.12
+    },
+    {
+     "word": "live",
+     "start": 9.12,
+     "end": 9.32
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 9.36,
+   "end": 10.24,
+   "text": "no dia, só",
+   "words": [
+    {
+     "word": "no",
+     "start": 9.36,
+     "end": 9.52
+    },
+    {
+     "word": "dia,",
+     "start": 9.52,
+     "end": 9.8
+    },
+    {
+     "word": "só",
+     "start": 10.06,
+     "end": 10.24
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 10.28,
+   "end": 10.84,
+   "text": "que a galera não",
+   "words": [
+    {
+     "word": "que",
+     "start": 10.28,
+     "end": 10.38
+    },
+    {
+     "word": "a",
+     "start": 10.38,
+     "end": 10.44
+    },
+    {
+     "word": "galera",
+     "start": 10.44,
+     "end": 10.64
+    },
+    {
+     "word": "não",
+     "start": 10.64,
+     "end": 10.84
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 10.88,
+   "end": 12.13,
+   "text": "sabia muito, assim",
+   "words": [
+    {
+     "word": "sabia",
+     "start": 10.88,
+     "end": 11.3
+    },
+    {
+     "word": "muito,",
+     "start": 11.3,
+     "end": 11.58
+    },
+    {
+     "word": "assim",
+     "start": 11.58,
+     "end": 12.13
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 12.5,
+   "end": 13.22,
+   "text": "tematicamente o",
+   "words": [
+    {
+     "word": "tematicamente",
+     "start": 12.5,
+     "end": 13.12
+    },
+    {
+     "word": "o",
+     "start": 13.12,
+     "end": 13.22
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 13.26,
+   "end": 13.8,
+   "text": "que que tava rolando",
+   "words": [
+    {
+     "word": "que",
+     "start": 13.26,
+     "end": 13.28
+    },
+    {
+     "word": "que",
+     "start": 13.28,
+     "end": 13.38
+    },
+    {
+     "word": "tava",
+     "start": 13.38,
+     "end": 13.46
+    },
+    {
+     "word": "rolando",
+     "start": 13.46,
+     "end": 13.8
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 13.84,
+   "end": 14.97,
+   "text": "O que que era?",
+   "words": [
+    {
+     "word": "O",
+     "start": 13.84,
+     "end": 13.94
+    },
+    {
+     "word": "que",
+     "start": 13.94,
+     "end": 13.99
+    },
+    {
+     "word": "que",
+     "start": 13.99,
+     "end": 14.48
+    },
+    {
+     "word": "era?",
+     "start": 14.48,
+     "end": 14.97
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 15.02,
+   "end": 16.28,
+   "text": "A ideia é",
+   "words": [
+    {
+     "word": "A",
+     "start": 15.02,
+     "end": 15.36
+    },
+    {
+     "word": "ideia",
+     "start": 15.36,
+     "end": 15.72
+    },
+    {
+     "word": "é",
+     "start": 15.72,
+     "end": 16.28
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 16.32,
+   "end": 17.1,
+   "text": "que eu pedi pra fazer",
+   "words": [
+    {
+     "word": "que",
+     "start": 16.32,
+     "end": 16.44
+    },
+    {
+     "word": "eu",
+     "start": 16.44,
+     "end": 16.52
+    },
+    {
+     "word": "pedi",
+     "start": 16.52,
+     "end": 16.8
+    },
+    {
+     "word": "pra",
+     "start": 16.8,
+     "end": 16.92
+    },
+    {
+     "word": "fazer",
+     "start": 16.92,
+     "end": 17.1
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 17.14,
+   "end": 18.91,
+   "text": "a representação do",
+   "words": [
+    {
+     "word": "a",
+     "start": 17.14,
+     "end": 17.26
+    },
+    {
+     "word": "representação",
+     "start": 17.26,
+     "end": 18.04
+    },
+    {
+     "word": "do",
+     "start": 18.04,
+     "end": 18.91
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 19.29,
+   "end": 20.01,
+   "text": "dia do pedido",
+   "words": [
+    {
+     "word": "dia",
+     "start": 19.29,
+     "end": 19.55
+    },
+    {
+     "word": "do",
+     "start": 19.55,
+     "end": 19.73
+    },
+    {
+     "word": "pedido",
+     "start": 19.73,
+     "end": 20.01
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 20.05,
+   "end": 21.08,
+   "text": "do casamento, que eu",
+   "words": [
+    {
+     "word": "do",
+     "start": 20.05,
+     "end": 20.19
+    },
+    {
+     "word": "casamento,",
+     "start": 20.19,
+     "end": 20.71
+    },
+    {
+     "word": "que",
+     "start": 20.87,
+     "end": 21.03
+    },
+    {
+     "word": "eu",
+     "start": 21.03,
+     "end": 21.08
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 21.11,
+   "end": 22.07,
+   "text": "acho que é um dos dias mais",
+   "words": [
+    {
+     "word": "acho",
+     "start": 21.11,
+     "end": 21.27
+    },
+    {
+     "word": "que",
+     "start": 21.27,
+     "end": 21.37
+    },
+    {
+     "word": "é",
+     "start": 21.37,
+     "end": 21.45
+    },
+    {
+     "word": "um",
+     "start": 21.45,
+     "end": 21.55
+    },
+    {
+     "word": "dos",
+     "start": 21.55,
+     "end": 21.67
+    },
+    {
+     "word": "dias",
+     "start": 21.67,
+     "end": 21.85
+    },
+    {
+     "word": "mais",
+     "start": 21.85,
+     "end": 22.07
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 22.11,
+   "end": 22.98,
+   "text": "importantes",
+   "words": [
+    {
+     "word": "importantes",
+     "start": 22.11,
+     "end": 22.98
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 23.34,
+   "end": 23.9,
+   "text": "tá ligado?",
+   "words": [
+    {
+     "word": "tá",
+     "start": 23.34,
+     "end": 23.42
+    },
+    {
+     "word": "ligado?",
+     "start": 23.42,
+     "end": 23.9
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 23.94,
+   "end": 24.47,
+   "text": "Então o que",
+   "words": [
+    {
+     "word": "Então",
+     "start": 23.94,
+     "end": 24.28
+    },
+    {
+     "word": "o",
+     "start": 24.28,
+     "end": 24.42
+    },
+    {
+     "word": "que",
+     "start": 24.42,
+     "end": 24.47
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 24.44,
+   "end": 25.22,
+   "text": "que eu pedi pra fazer?",
+   "words": [
+    {
+     "word": "que",
+     "start": 24.44,
+     "end": 24.54
+    },
+    {
+     "word": "eu",
+     "start": 24.54,
+     "end": 24.62
+    },
+    {
+     "word": "pedi",
+     "start": 24.62,
+     "end": 24.84
+    },
+    {
+     "word": "pra",
+     "start": 24.84,
+     "end": 24.94
+    },
+    {
+     "word": "fazer?",
+     "start": 24.94,
+     "end": 25.22
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 25.26,
+   "end": 26.26,
+   "text": "Eu pedi pra fazer aquelas",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 25.26,
+     "end": 25.54
+    },
+    {
+     "word": "pedi",
+     "start": 25.54,
+     "end": 25.7
+    },
+    {
+     "word": "pra",
+     "start": 25.7,
+     "end": 25.82
+    },
+    {
+     "word": "fazer",
+     "start": 25.82,
+     "end": 25.98
+    },
+    {
+     "word": "aquelas",
+     "start": 25.98,
+     "end": 26.26
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 26.3,
+   "end": 27.06,
+   "text": "miniaturazinhas como",
+   "words": [
+    {
+     "word": "miniaturazinhas",
+     "start": 26.3,
+     "end": 26.88
+    },
+    {
+     "word": "como",
+     "start": 26.88,
+     "end": 27.06
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 27.1,
+   "end": 27.9,
+   "text": "se fosse uma maquete",
+   "words": [
+    {
+     "word": "se",
+     "start": 27.1,
+     "end": 27.2
+    },
+    {
+     "word": "fosse",
+     "start": 27.2,
+     "end": 27.28
+    },
+    {
+     "word": "uma",
+     "start": 27.28,
+     "end": 27.46
+    },
+    {
+     "word": "maquete",
+     "start": 27.46,
+     "end": 27.9
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 27.94,
+   "end": 29.26,
+   "text": "em quadro, né",
+   "words": [
+    {
+     "word": "em",
+     "start": 27.94,
+     "end": 28.14
+    },
+    {
+     "word": "quadro,",
+     "start": 28.14,
+     "end": 28.58
+    },
+    {
+     "word": "né",
+     "start": 28.9,
+     "end": 29.26
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 29.3,
+   "end": 32.23,
+   "text": "o qual o Coringa tá",
+   "words": [
+    {
+     "word": "o",
+     "start": 29.3,
+     "end": 31.19
+    },
+    {
+     "word": "qual",
+     "start": 31.19,
+     "end": 31.47
+    },
+    {
+     "word": "o",
+     "start": 31.47,
+     "end": 31.75
+    },
+    {
+     "word": "Coringa",
+     "start": 31.75,
+     "end": 32.15
+    },
+    {
+     "word": "tá",
+     "start": 32.15,
+     "end": 32.23
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 32.27,
+   "end": 32.91,
+   "text": "pedindo a Thainá",
+   "words": [
+    {
+     "word": "pedindo",
+     "start": 32.27,
+     "end": 32.55
+    },
+    {
+     "word": "a",
+     "start": 32.55,
+     "end": 32.65
+    },
+    {
+     "word": "Thainá",
+     "start": 32.65,
+     "end": 32.91
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 32.95,
+   "end": 34.16,
+   "text": "coisa bem",
+   "words": [
+    {
+     "word": "coisa",
+     "start": 32.95,
+     "end": 33.15
+    },
+    {
+     "word": "bem",
+     "start": 33.15,
+     "end": 34.16
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 34.92,
+   "end": 35.76,
+   "text": "legalzinha assim",
+   "words": [
+    {
+     "word": "legalzinha",
+     "start": 34.92,
+     "end": 35.36
+    },
+    {
+     "word": "assim",
+     "start": 35.36,
+     "end": 35.76
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 35.8,
+   "end": 36.72,
+   "text": "simbolismo tipo",
+   "words": [
+    {
+     "word": "simbolismo",
+     "start": 35.8,
+     "end": 36.54
+    },
+    {
+     "word": "tipo",
+     "start": 36.54,
+     "end": 36.72
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 36.76,
+   "end": 37.42,
+   "text": "assim, que o Coringa",
+   "words": [
+    {
+     "word": "assim,",
+     "start": 36.76,
+     "end": 36.94
+    },
+    {
+     "word": "que",
+     "start": 37.02,
+     "end": 37.1
+    },
+    {
+     "word": "o",
+     "start": 37.1,
+     "end": 37.18
+    },
+    {
+     "word": "Coringa",
+     "start": 37.18,
+     "end": 37.42
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 37.46,
+   "end": 38.08,
+   "text": "tá pedindo a Thainá",
+   "words": [
+    {
+     "word": "tá",
+     "start": 37.46,
+     "end": 37.56
+    },
+    {
+     "word": "pedindo",
+     "start": 37.56,
+     "end": 37.84
+    },
+    {
+     "word": "a",
+     "start": 37.84,
+     "end": 37.94
+    },
+    {
+     "word": "Thainá",
+     "start": 37.94,
+     "end": 38.08
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 38.12,
+   "end": 39.14,
+   "text": "em casamento. Aí",
+   "words": [
+    {
+     "word": "em",
+     "start": 38.12,
+     "end": 38.24
+    },
+    {
+     "word": "casamento.",
+     "start": 38.24,
+     "end": 38.66
+    },
+    {
+     "word": "Aí",
+     "start": 38.66,
+     "end": 39.14
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 39.18,
+   "end": 39.84,
+   "text": "é meio que tipo",
+   "words": [
+    {
+     "word": "é",
+     "start": 39.18,
+     "end": 39.32
+    },
+    {
+     "word": "meio",
+     "start": 39.32,
+     "end": 39.54
+    },
+    {
+     "word": "que",
+     "start": 39.54,
+     "end": 39.68
+    },
+    {
+     "word": "tipo",
+     "start": 39.68,
+     "end": 39.84
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 39.88,
+   "end": 40.92,
+   "text": "assim aquela, meio",
+   "words": [
+    {
+     "word": "assim",
+     "start": 39.88,
+     "end": 40.14
+    },
+    {
+     "word": "aquela,",
+     "start": 40.14,
+     "end": 40.6
+    },
+    {
+     "word": "meio",
+     "start": 40.6,
+     "end": 40.92
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 40.96,
+   "end": 41.9,
+   "text": "com a terra",
+   "words": [
+    {
+     "word": "com",
+     "start": 40.96,
+     "end": 41.44
+    },
+    {
+     "word": "a",
+     "start": 41.44,
+     "end": 41.58
+    },
+    {
+     "word": "terra",
+     "start": 41.58,
+     "end": 41.9
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 41.94,
+   "end": 43.04,
+   "text": "com grama, algumas",
+   "words": [
+    {
+     "word": "com",
+     "start": 41.94,
+     "end": 42.06
+    },
+    {
+     "word": "grama,",
+     "start": 42.06,
+     "end": 42.48
+    },
+    {
+     "word": "algumas",
+     "start": 42.48,
+     "end": 43.04
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 43.08,
+   "end": 44.56,
+   "text": "arvorezinhas, aí tem",
+   "words": [
+    {
+     "word": "arvorezinhas,",
+     "start": 43.08,
+     "end": 43.96
+    },
+    {
+     "word": "aí",
+     "start": 44.0,
+     "end": 44.46
+    },
+    {
+     "word": "tem",
+     "start": 44.46,
+     "end": 44.56
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 44.6,
+   "end": 45.14,
+   "text": "a galera que tava",
+   "words": [
+    {
+     "word": "a",
+     "start": 44.6,
+     "end": 44.7
+    },
+    {
+     "word": "galera",
+     "start": 44.7,
+     "end": 44.9
+    },
+    {
+     "word": "que",
+     "start": 44.9,
+     "end": 45.02
+    },
+    {
+     "word": "tava",
+     "start": 45.02,
+     "end": 45.14
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 45.18,
+   "end": 46.01,
+   "text": "ali no dia",
+   "words": [
+    {
+     "word": "ali",
+     "start": 45.18,
+     "end": 45.32
+    },
+    {
+     "word": "no",
+     "start": 45.32,
+     "end": 45.46
+    },
+    {
+     "word": "dia",
+     "start": 45.46,
+     "end": 46.01
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 46.28,
+   "end": 47.16,
+   "text": "tocando a música",
+   "words": [
+    {
+     "word": "tocando",
+     "start": 46.28,
+     "end": 46.72
+    },
+    {
+     "word": "a",
+     "start": 46.72,
+     "end": 46.86
+    },
+    {
+     "word": "música",
+     "start": 46.86,
+     "end": 47.16
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 47.2,
+   "end": 48.14,
+   "text": "e tal, o carrinho",
+   "words": [
+    {
+     "word": "e",
+     "start": 47.2,
+     "end": 47.38
+    },
+    {
+     "word": "tal,",
+     "start": 47.38,
+     "end": 47.5
+    },
+    {
+     "word": "o",
+     "start": 47.66,
+     "end": 47.9
+    },
+    {
+     "word": "carrinho",
+     "start": 47.9,
+     "end": 48.14
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 48.18,
+   "end": 49.21,
+   "text": "que levou eles",
+   "words": [
+    {
+     "word": "que",
+     "start": 48.18,
+     "end": 48.28
+    },
+    {
+     "word": "levou",
+     "start": 48.28,
+     "end": 48.56
+    },
+    {
+     "word": "eles",
+     "start": 48.56,
+     "end": 49.21
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 49.55,
+   "end": 50.15,
+   "text": "e o",
+   "words": [
+    {
+     "word": "e",
+     "start": 49.55,
+     "end": 49.65
+    },
+    {
+     "word": "o",
+     "start": 49.65,
+     "end": 50.15
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 50.63,
+   "end": 52.62,
+   "text": "tipo, o tapetezinho",
+   "words": [
+    {
+     "word": "tipo,",
+     "start": 50.63,
+     "end": 51.01
+    },
+    {
+     "word": "o",
+     "start": 51.4,
+     "end": 52.08
+    },
+    {
+     "word": "tapetezinho",
+     "start": 52.08,
+     "end": 52.62
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 52.66,
+   "end": 53.72,
+   "text": "branco, o sofazinho",
+   "words": [
+    {
+     "word": "branco,",
+     "start": 52.66,
+     "end": 53.0
+    },
+    {
+     "word": "o",
+     "start": 53.14,
+     "end": 53.19
+    },
+    {
+     "word": "sofazinho",
+     "start": 53.19,
+     "end": 53.72
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 53.76,
+   "end": 54.86,
+   "text": "e o Coringa pedindo a Thainá",
+   "words": [
+    {
+     "word": "e",
+     "start": 53.76,
+     "end": 53.96
+    },
+    {
+     "word": "o",
+     "start": 53.96,
+     "end": 54.1
+    },
+    {
+     "word": "Coringa",
+     "start": 54.1,
+     "end": 54.42
+    },
+    {
+     "word": "pedindo",
+     "start": 54.42,
+     "end": 54.66
+    },
+    {
+     "word": "a",
+     "start": 54.66,
+     "end": 54.78
+    },
+    {
+     "word": "Thainá",
+     "start": 54.78,
+     "end": 54.86
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 54.9,
+   "end": 55.95,
+   "text": "em casamento, tá ligado?",
+   "words": [
+    {
+     "word": "em",
+     "start": 54.9,
+     "end": 54.98
+    },
+    {
+     "word": "casamento,",
+     "start": 54.98,
+     "end": 55.34
+    },
+    {
+     "word": "tá",
+     "start": 55.44,
+     "end": 55.49
+    },
+    {
+     "word": "ligado?",
+     "start": 55.49,
+     "end": 55.95
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 56.18,
+   "end": 56.76,
+   "text": "Resumo assim",
+   "words": [
+    {
+     "word": "Resumo",
+     "start": 56.18,
+     "end": 56.62
+    },
+    {
+     "word": "assim",
+     "start": 56.62,
+     "end": 56.76
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 56.8,
+   "end": 58.24,
+   "text": "miniatura, tudo como",
+   "words": [
+    {
+     "word": "miniatura,",
+     "start": 56.8,
+     "end": 57.56
+    },
+    {
+     "word": "tudo",
+     "start": 57.7,
+     "end": 57.8
+    },
+    {
+     "word": "como",
+     "start": 57.8,
+     "end": 58.24
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 58.28,
+   "end": 59.1,
+   "text": "se fosse uma maquete",
+   "words": [
+    {
+     "word": "se",
+     "start": 58.28,
+     "end": 58.4
+    },
+    {
+     "word": "fosse",
+     "start": 58.4,
+     "end": 58.54
+    },
+    {
+     "word": "uma",
+     "start": 58.54,
+     "end": 58.7
+    },
+    {
+     "word": "maquete",
+     "start": 58.7,
+     "end": 59.1
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 59.14,
+   "end": 60.85,
+   "text": "Só que é",
+   "words": [
+    {
+     "word": "Só",
+     "start": 59.14,
+     "end": 59.58
+    },
+    {
+     "word": "que",
+     "start": 59.58,
+     "end": 60.48
+    },
+    {
+     "word": "é",
+     "start": 60.57,
+     "end": 60.85
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 60.89,
+   "end": 61.49,
+   "text": "em quadro, você pode",
+   "words": [
+    {
+     "word": "em",
+     "start": 60.89,
+     "end": 60.97
+    },
+    {
+     "word": "quadro,",
+     "start": 60.97,
+     "end": 61.25
+    },
+    {
+     "word": "você",
+     "start": 61.25,
+     "end": 61.35
+    },
+    {
+     "word": "pode",
+     "start": 61.35,
+     "end": 61.49
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 61.53,
+   "end": 62.56,
+   "text": "botar na parede",
+   "words": [
+    {
+     "word": "botar",
+     "start": 61.53,
+     "end": 61.79
+    },
+    {
+     "word": "na",
+     "start": 61.79,
+     "end": 61.87
+    },
+    {
+     "word": "parede",
+     "start": 61.87,
+     "end": 62.56
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
