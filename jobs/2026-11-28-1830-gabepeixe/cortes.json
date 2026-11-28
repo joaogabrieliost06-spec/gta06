@@ -1,0 +1,12 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Jason, Lucia, sinuca, bolo, mansão, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:01:55", "fim": "0:03:20", "titulo": "ESSE JOGO É MUITO ROUBADO"},
+  {"id": "02", "inicio": "0:03:40", "fim": "0:05:05", "titulo": "A APOSTA DA SINUCA"},
+  {"id": "03", "inicio": "0:08:14", "fim": "0:09:43", "titulo": "SEPAREI O JOGO PRA HUMILHAR"},
+  {"id": "04", "inicio": "0:09:50", "fim": "0:10:36", "titulo": "A BUNDINHA DO JASON VOLTOU"},
+  {"id": "05", "inicio": "0:14:08", "fim": "0:15:30", "titulo": "O BOLO DE ANIVERSÁRIO"}
+ ]
+}
