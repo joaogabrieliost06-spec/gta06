@@ -1,0 +1,339 @@
+{
+"blocos": [
+{
+"f": 1,
+"texto": "Ah, irmão, posso te falar,",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "tô com preguiça, mano",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "entrei naquela casa,",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "não tinha livro",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "nenhum lá, velho",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "Aqui?",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "Valeu, viu, Ju,",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "pelos 50 mil",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "50 mil subs, mano",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "Caralho, 50 mil",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "subs, não, 50 mil",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "bits, mano.",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "e qual que era",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "a investigação",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "que eu tinha que fazer",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "pra saber que eu tinha",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "que voltar na casa?",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "Porque eu fui na casa, foi",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "a primeira coisa que eu fiz.",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "Fala sério,",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "mano, jogo",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "mal feito do caralho",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "Que foda de investigação",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "é essa, mano?",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "Já tinha que ter",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "o livro na lareira",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "antes. Eu",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "olhei lá, não tinha",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "nada.",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "Sei onde você tem",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "ido, mas eu já",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "fumo. Eu já fui",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "lá, cara.",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "Essa é a questão.",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "Foi o primeiro lugar",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "que eu vim, foi",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "aqui.",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "Ué, gente,",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "o contrário de ida",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "é fumo, né?",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "Eu já fui",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "lá, pô.",
+"pos": 0.46
+},
+{
+"f": 1,
+"texto": "De paraquedas.",
+"pos": 0.46
+},
+{
+"f": 1,
+"texto": "Eu literalmente já",
+"pos": 0.46
+},
+{
+"f": 1,
+"texto": "vim aqui.",
+"pos": 0.46
+},
+{
+"f": 1,
+"texto": "Não tinha livro",
+"pos": 0.46
+},
+{
+"f": 1,
+"texto": "nenhum na lareira.",
+"pos": 0.46
+},
+{
+"f": 1,
+"texto": "Ah!",
+"pos": 0.46
+},
+{
+"f": 1,
+"texto": "Agora caiu um livro.",
+"pos": 0.46
+},
+{
+"f": 1,
+"texto": "Ah, parou, velho.",
+"pos": 0.46
+},
+{
+"f": 1,
+"texto": "Não, eu já vim",
+"pos": 0.46
+},
+{
+"f": 1,
+"texto": "aqui.",
+"pos": 0.46
+},
+{
+"f": 1,
+"texto": "Tinha que cair",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "o livro quando eu",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "vim aqui a primeira",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "vez, pô.",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "Não, aí",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "é scriptado.",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "Aí não gostei dessa",
+"pos": 0.46
+},
+{
+"f": 1,
+"texto": "quest, mano.",
+"pos": 0.46
+},
+{
+"f": 1,
+"texto": "Não gostei.",
+"pos": 0.46
+},
+{
+"f": 1,
+"texto": "Não, não, não gostei",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "Porque eu vim aqui",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "e daí a",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "minha exploração não",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "valeu de nada.",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "Não gostei.",
+"pos": 0.76
+}
+]
+}

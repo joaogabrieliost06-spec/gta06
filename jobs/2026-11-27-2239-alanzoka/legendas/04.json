@@ -1,0 +1,1595 @@
+{
+ "segments": [
+  {
+   "start": 0.11,
+   "end": 1.09,
+   "text": "Ah, irmão, posso te falar",
+   "words": [
+    {
+     "word": "Ah,",
+     "start": 0.11,
+     "end": 0.31
+    },
+    {
+     "word": "irmão,",
+     "start": 0.41,
+     "end": 0.57
+    },
+    {
+     "word": "posso",
+     "start": 0.61,
+     "end": 0.81
+    },
+    {
+     "word": "te",
+     "start": 0.81,
+     "end": 0.91
+    },
+    {
+     "word": "falar",
+     "start": 0.91,
+     "end": 1.09
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 1.13,
+   "end": 2.28,
+   "text": "tô com preguiça, mano",
+   "words": [
+    {
+     "word": "tô",
+     "start": 1.13,
+     "end": 1.19
+    },
+    {
+     "word": "com",
+     "start": 1.19,
+     "end": 1.35
+    },
+    {
+     "word": "preguiça,",
+     "start": 1.35,
+     "end": 1.77
+    },
+    {
+     "word": "mano",
+     "start": 1.83,
+     "end": 2.28
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 2.49,
+   "end": 3.21,
+   "text": "entrei naquela casa",
+   "words": [
+    {
+     "word": "entrei",
+     "start": 2.49,
+     "end": 2.77
+    },
+    {
+     "word": "naquela",
+     "start": 2.77,
+     "end": 2.99
+    },
+    {
+     "word": "casa",
+     "start": 2.99,
+     "end": 3.21
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 3.25,
+   "end": 3.67,
+   "text": "não tinha livro",
+   "words": [
+    {
+     "word": "não",
+     "start": 3.25,
+     "end": 3.33
+    },
+    {
+     "word": "tinha",
+     "start": 3.33,
+     "end": 3.49
+    },
+    {
+     "word": "livro",
+     "start": 3.49,
+     "end": 3.67
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 3.71,
+   "end": 4.74,
+   "text": "nenhum lá, velho",
+   "words": [
+    {
+     "word": "nenhum",
+     "start": 3.71,
+     "end": 3.99
+    },
+    {
+     "word": "lá,",
+     "start": 3.99,
+     "end": 4.21
+    },
+    {
+     "word": "velho",
+     "start": 4.25,
+     "end": 4.74
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 5.59,
+   "end": 6.42,
+   "text": "Aqui?",
+   "words": [
+    {
+     "word": "Aqui?",
+     "start": 5.59,
+     "end": 6.42
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 9.29,
+   "end": 9.97,
+   "text": "Valeu, viu, Ju",
+   "words": [
+    {
+     "word": "Valeu,",
+     "start": 9.29,
+     "end": 9.61
+    },
+    {
+     "word": "viu,",
+     "start": 9.63,
+     "end": 9.75
+    },
+    {
+     "word": "Ju",
+     "start": 9.85,
+     "end": 9.97
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 10.01,
+   "end": 11.04,
+   "text": "pelos 50 mil",
+   "words": [
+    {
+     "word": "pelos",
+     "start": 10.01,
+     "end": 10.17
+    },
+    {
+     "word": "50",
+     "start": 10.17,
+     "end": 10.55
+    },
+    {
+     "word": "mil",
+     "start": 10.55,
+     "end": 11.04
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 12.06,
+   "end": 13.7,
+   "text": "50 mil subs, mano",
+   "words": [
+    {
+     "word": "50",
+     "start": 12.06,
+     "end": 12.58
+    },
+    {
+     "word": "mil",
+     "start": 12.58,
+     "end": 12.88
+    },
+    {
+     "word": "subs,",
+     "start": 12.88,
+     "end": 13.28
+    },
+    {
+     "word": "mano",
+     "start": 13.42,
+     "end": 13.7
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 13.74,
+   "end": 14.72,
+   "text": "Caralho, 50 mil",
+   "words": [
+    {
+     "word": "Caralho,",
+     "start": 13.74,
+     "end": 14.32
+    },
+    {
+     "word": "50",
+     "start": 14.34,
+     "end": 14.54
+    },
+    {
+     "word": "mil",
+     "start": 14.54,
+     "end": 14.72
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 14.76,
+   "end": 15.58,
+   "text": "subs, não, 50 mil",
+   "words": [
+    {
+     "word": "subs,",
+     "start": 14.76,
+     "end": 14.96
+    },
+    {
+     "word": "não,",
+     "start": 15.1,
+     "end": 15.15
+    },
+    {
+     "word": "50",
+     "start": 15.15,
+     "end": 15.32
+    },
+    {
+     "word": "mil",
+     "start": 15.32,
+     "end": 15.58
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 15.62,
+   "end": 16.41,
+   "text": "bits, mano",
+   "words": [
+    {
+     "word": "bits,",
+     "start": 15.62,
+     "end": 15.94
+    },
+    {
+     "word": "mano",
+     "start": 16.0,
+     "end": 16.41
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 26.04,
+   "end": 26.65,
+   "text": "e qual que era",
+   "words": [
+    {
+     "word": "e",
+     "start": 26.04,
+     "end": 26.3
+    },
+    {
+     "word": "qual",
+     "start": 26.3,
+     "end": 26.48
+    },
+    {
+     "word": "que",
+     "start": 26.48,
+     "end": 26.6
+    },
+    {
+     "word": "era",
+     "start": 26.6,
+     "end": 26.65
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 26.66,
+   "end": 27.4,
+   "text": "a investigação",
+   "words": [
+    {
+     "word": "a",
+     "start": 26.66,
+     "end": 26.74
+    },
+    {
+     "word": "investigação",
+     "start": 26.74,
+     "end": 27.4
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 27.44,
+   "end": 28.06,
+   "text": "que eu tinha que fazer",
+   "words": [
+    {
+     "word": "que",
+     "start": 27.44,
+     "end": 27.6
+    },
+    {
+     "word": "eu",
+     "start": 27.6,
+     "end": 27.66
+    },
+    {
+     "word": "tinha",
+     "start": 27.66,
+     "end": 27.78
+    },
+    {
+     "word": "que",
+     "start": 27.78,
+     "end": 27.88
+    },
+    {
+     "word": "fazer",
+     "start": 27.88,
+     "end": 28.06
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 28.1,
+   "end": 28.74,
+   "text": "pra saber que eu tinha",
+   "words": [
+    {
+     "word": "pra",
+     "start": 28.1,
+     "end": 28.26
+    },
+    {
+     "word": "saber",
+     "start": 28.26,
+     "end": 28.5
+    },
+    {
+     "word": "que",
+     "start": 28.5,
+     "end": 28.62
+    },
+    {
+     "word": "eu",
+     "start": 28.62,
+     "end": 28.68
+    },
+    {
+     "word": "tinha",
+     "start": 28.68,
+     "end": 28.74
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 28.78,
+   "end": 29.5,
+   "text": "que voltar na casa?",
+   "words": [
+    {
+     "word": "que",
+     "start": 28.78,
+     "end": 28.86
+    },
+    {
+     "word": "voltar",
+     "start": 28.86,
+     "end": 29.08
+    },
+    {
+     "word": "na",
+     "start": 29.08,
+     "end": 29.24
+    },
+    {
+     "word": "casa?",
+     "start": 29.24,
+     "end": 29.5
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 29.54,
+   "end": 30.23,
+   "text": "Porque eu fui na casa, foi",
+   "words": [
+    {
+     "word": "Porque",
+     "start": 29.54,
+     "end": 29.66
+    },
+    {
+     "word": "eu",
+     "start": 29.66,
+     "end": 29.72
+    },
+    {
+     "word": "fui",
+     "start": 29.72,
+     "end": 29.84
+    },
+    {
+     "word": "na",
+     "start": 29.84,
+     "end": 29.94
+    },
+    {
+     "word": "casa,",
+     "start": 29.94,
+     "end": 30.12
+    },
+    {
+     "word": "foi",
+     "start": 30.18,
+     "end": 30.23
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 30.26,
+   "end": 31.0,
+   "text": "a primeira coisa que eu fiz",
+   "words": [
+    {
+     "word": "a",
+     "start": 30.26,
+     "end": 30.3
+    },
+    {
+     "word": "primeira",
+     "start": 30.3,
+     "end": 30.48
+    },
+    {
+     "word": "coisa",
+     "start": 30.48,
+     "end": 30.68
+    },
+    {
+     "word": "que",
+     "start": 30.68,
+     "end": 30.78
+    },
+    {
+     "word": "eu",
+     "start": 30.78,
+     "end": 30.84
+    },
+    {
+     "word": "fiz",
+     "start": 30.84,
+     "end": 31.0
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 31.04,
+   "end": 33.03,
+   "text": "Fala sério",
+   "words": [
+    {
+     "word": "Fala",
+     "start": 31.04,
+     "end": 31.56
+    },
+    {
+     "word": "sério",
+     "start": 32.67,
+     "end": 33.03
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 33.07,
+   "end": 33.73,
+   "text": "mano, jogo",
+   "words": [
+    {
+     "word": "mano,",
+     "start": 33.07,
+     "end": 33.23
+    },
+    {
+     "word": "jogo",
+     "start": 33.57,
+     "end": 33.73
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 33.77,
+   "end": 34.65,
+   "text": "mal feito do caralho",
+   "words": [
+    {
+     "word": "mal",
+     "start": 33.77,
+     "end": 33.95
+    },
+    {
+     "word": "feito",
+     "start": 33.95,
+     "end": 34.21
+    },
+    {
+     "word": "do",
+     "start": 34.21,
+     "end": 34.35
+    },
+    {
+     "word": "caralho",
+     "start": 34.35,
+     "end": 34.65
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 34.69,
+   "end": 35.57,
+   "text": "Que foda de investigação",
+   "words": [
+    {
+     "word": "Que",
+     "start": 34.69,
+     "end": 34.85
+    },
+    {
+     "word": "foda",
+     "start": 34.85,
+     "end": 34.99
+    },
+    {
+     "word": "de",
+     "start": 34.99,
+     "end": 35.11
+    },
+    {
+     "word": "investigação",
+     "start": 35.11,
+     "end": 35.57
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 35.61,
+   "end": 36.36,
+   "text": "é essa, mano?",
+   "words": [
+    {
+     "word": "é",
+     "start": 35.61,
+     "end": 35.79
+    },
+    {
+     "word": "essa,",
+     "start": 35.79,
+     "end": 35.91
+    },
+    {
+     "word": "mano?",
+     "start": 35.95,
+     "end": 36.36
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 37.03,
+   "end": 37.47,
+   "text": "Já tinha que ter",
+   "words": [
+    {
+     "word": "Já",
+     "start": 37.03,
+     "end": 37.11
+    },
+    {
+     "word": "tinha",
+     "start": 37.11,
+     "end": 37.29
+    },
+    {
+     "word": "que",
+     "start": 37.29,
+     "end": 37.41
+    },
+    {
+     "word": "ter",
+     "start": 37.41,
+     "end": 37.47
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 37.51,
+   "end": 38.23,
+   "text": "o livro na lareira",
+   "words": [
+    {
+     "word": "o",
+     "start": 37.51,
+     "end": 37.57
+    },
+    {
+     "word": "livro",
+     "start": 37.57,
+     "end": 37.75
+    },
+    {
+     "word": "na",
+     "start": 37.75,
+     "end": 37.89
+    },
+    {
+     "word": "lareira",
+     "start": 37.89,
+     "end": 38.23
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 38.27,
+   "end": 39.58,
+   "text": "antes. Eu",
+   "words": [
+    {
+     "word": "antes.",
+     "start": 38.27,
+     "end": 38.71
+    },
+    {
+     "word": "Eu",
+     "start": 38.71,
+     "end": 39.58
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 39.93,
+   "end": 40.69,
+   "text": "olhei lá, não tinha",
+   "words": [
+    {
+     "word": "olhei",
+     "start": 39.93,
+     "end": 40.27
+    },
+    {
+     "word": "lá,",
+     "start": 40.27,
+     "end": 40.43
+    },
+    {
+     "word": "não",
+     "start": 40.49,
+     "end": 40.59
+    },
+    {
+     "word": "tinha",
+     "start": 40.59,
+     "end": 40.69
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 40.73,
+   "end": 41.34,
+   "text": "nada",
+   "words": [
+    {
+     "word": "nada",
+     "start": 40.73,
+     "end": 41.34
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 46.49,
+   "end": 47.27,
+   "text": "Sei onde você tem",
+   "words": [
+    {
+     "word": "Sei",
+     "start": 46.49,
+     "end": 46.69
+    },
+    {
+     "word": "onde",
+     "start": 46.69,
+     "end": 46.83
+    },
+    {
+     "word": "você",
+     "start": 46.83,
+     "end": 47.11
+    },
+    {
+     "word": "tem",
+     "start": 47.11,
+     "end": 47.27
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 47.31,
+   "end": 48.13,
+   "text": "ido, mas eu já",
+   "words": [
+    {
+     "word": "ido,",
+     "start": 47.31,
+     "end": 47.61
+    },
+    {
+     "word": "mas",
+     "start": 47.73,
+     "end": 47.91
+    },
+    {
+     "word": "eu",
+     "start": 47.91,
+     "end": 48.01
+    },
+    {
+     "word": "já",
+     "start": 48.01,
+     "end": 48.13
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 48.17,
+   "end": 48.93,
+   "text": "fumo. Eu já fui",
+   "words": [
+    {
+     "word": "fumo.",
+     "start": 48.17,
+     "end": 48.49
+    },
+    {
+     "word": "Eu",
+     "start": 48.49,
+     "end": 48.67
+    },
+    {
+     "word": "já",
+     "start": 48.67,
+     "end": 48.77
+    },
+    {
+     "word": "fui",
+     "start": 48.77,
+     "end": 48.93
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 48.97,
+   "end": 49.72,
+   "text": "lá, cara",
+   "words": [
+    {
+     "word": "lá,",
+     "start": 48.97,
+     "end": 49.15
+    },
+    {
+     "word": "cara",
+     "start": 49.31,
+     "end": 49.72
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 50.72,
+   "end": 51.75,
+   "text": "Essa é a questão",
+   "words": [
+    {
+     "word": "Essa",
+     "start": 50.72,
+     "end": 51.06
+    },
+    {
+     "word": "é",
+     "start": 51.06,
+     "end": 51.11
+    },
+    {
+     "word": "a",
+     "start": 51.11,
+     "end": 51.22
+    },
+    {
+     "word": "questão",
+     "start": 51.22,
+     "end": 51.75
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 52.63,
+   "end": 53.41,
+   "text": "Foi o primeiro lugar",
+   "words": [
+    {
+     "word": "Foi",
+     "start": 52.63,
+     "end": 52.89
+    },
+    {
+     "word": "o",
+     "start": 52.89,
+     "end": 52.97
+    },
+    {
+     "word": "primeiro",
+     "start": 52.97,
+     "end": 53.23
+    },
+    {
+     "word": "lugar",
+     "start": 53.23,
+     "end": 53.41
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 53.45,
+   "end": 53.93,
+   "text": "que eu vim, foi",
+   "words": [
+    {
+     "word": "que",
+     "start": 53.45,
+     "end": 53.59
+    },
+    {
+     "word": "eu",
+     "start": 53.59,
+     "end": 53.67
+    },
+    {
+     "word": "vim,",
+     "start": 53.67,
+     "end": 53.79
+    },
+    {
+     "word": "foi",
+     "start": 53.85,
+     "end": 53.93
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 53.97,
+   "end": 54.57,
+   "text": "aqui",
+   "words": [
+    {
+     "word": "aqui",
+     "start": 53.97,
+     "end": 54.57
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 56.78,
+   "end": 57.32,
+   "text": "Ué, gente",
+   "words": [
+    {
+     "word": "Ué,",
+     "start": 56.78,
+     "end": 57.0
+    },
+    {
+     "word": "gente",
+     "start": 57.1,
+     "end": 57.32
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 57.36,
+   "end": 57.96,
+   "text": "o contrário de ida",
+   "words": [
+    {
+     "word": "o",
+     "start": 57.36,
+     "end": 57.42
+    },
+    {
+     "word": "contrário",
+     "start": 57.42,
+     "end": 57.7
+    },
+    {
+     "word": "de",
+     "start": 57.7,
+     "end": 57.84
+    },
+    {
+     "word": "ida",
+     "start": 57.84,
+     "end": 57.96
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 58.0,
+   "end": 58.83,
+   "text": "é fumo, né?",
+   "words": [
+    {
+     "word": "é",
+     "start": 58.0,
+     "end": 58.14
+    },
+    {
+     "word": "fumo,",
+     "start": 58.14,
+     "end": 58.42
+    },
+    {
+     "word": "né?",
+     "start": 58.5,
+     "end": 58.83
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 61.98,
+   "end": 62.56,
+   "text": "Eu já fui",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 61.98,
+     "end": 62.22
+    },
+    {
+     "word": "já",
+     "start": 62.22,
+     "end": 62.34
+    },
+    {
+     "word": "fui",
+     "start": 62.34,
+     "end": 62.56
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 62.6,
+   "end": 63.37,
+   "text": "lá, pô",
+   "words": [
+    {
+     "word": "lá,",
+     "start": 62.6,
+     "end": 62.78
+    },
+    {
+     "word": "pô",
+     "start": 62.92,
+     "end": 63.37
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 63.95,
+   "end": 64.92,
+   "text": "De paraquedas",
+   "words": [
+    {
+     "word": "De",
+     "start": 63.95,
+     "end": 64.11
+    },
+    {
+     "word": "paraquedas",
+     "start": 64.11,
+     "end": 64.92
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 66.17,
+   "end": 66.93,
+   "text": "Eu literalmente já",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 66.17,
+     "end": 66.43
+    },
+    {
+     "word": "literalmente",
+     "start": 66.43,
+     "end": 66.85
+    },
+    {
+     "word": "já",
+     "start": 66.85,
+     "end": 66.93
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 66.97,
+   "end": 67.64,
+   "text": "vim aqui",
+   "words": [
+    {
+     "word": "vim",
+     "start": 66.97,
+     "end": 67.15
+    },
+    {
+     "word": "aqui",
+     "start": 67.15,
+     "end": 67.64
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 68.59,
+   "end": 69.21,
+   "text": "Não tinha livro",
+   "words": [
+    {
+     "word": "Não",
+     "start": 68.59,
+     "end": 68.79
+    },
+    {
+     "word": "tinha",
+     "start": 68.79,
+     "end": 68.99
+    },
+    {
+     "word": "livro",
+     "start": 68.99,
+     "end": 69.21
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 69.25,
+   "end": 70.64,
+   "text": "nenhum na lareira",
+   "words": [
+    {
+     "word": "nenhum",
+     "start": 69.25,
+     "end": 69.53
+    },
+    {
+     "word": "na",
+     "start": 69.53,
+     "end": 69.97
+    },
+    {
+     "word": "lareira",
+     "start": 69.97,
+     "end": 70.64
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 70.9,
+   "end": 71.5,
+   "text": "Ah!",
+   "words": [
+    {
+     "word": "Ah!",
+     "start": 70.9,
+     "end": 71.5
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 71.56,
+   "end": 72.97,
+   "text": "Agora caiu um livro",
+   "words": [
+    {
+     "word": "Agora",
+     "start": 71.56,
+     "end": 71.92
+    },
+    {
+     "word": "caiu",
+     "start": 71.92,
+     "end": 72.32
+    },
+    {
+     "word": "um",
+     "start": 72.32,
+     "end": 72.4
+    },
+    {
+     "word": "livro",
+     "start": 72.4,
+     "end": 72.97
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 73.06,
+   "end": 74.64,
+   "text": "Ah, parou, velho",
+   "words": [
+    {
+     "word": "Ah,",
+     "start": 73.06,
+     "end": 73.36
+    },
+    {
+     "word": "parou,",
+     "start": 73.44,
+     "end": 74.0
+    },
+    {
+     "word": "velho",
+     "start": 74.02,
+     "end": 74.64
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 74.68,
+   "end": 75.38,
+   "text": "Não, eu já vim",
+   "words": [
+    {
+     "word": "Não,",
+     "start": 74.68,
+     "end": 74.86
+    },
+    {
+     "word": "eu",
+     "start": 74.96,
+     "end": 75.06
+    },
+    {
+     "word": "já",
+     "start": 75.06,
+     "end": 75.22
+    },
+    {
+     "word": "vim",
+     "start": 75.22,
+     "end": 75.38
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 75.42,
+   "end": 75.94,
+   "text": "aqui",
+   "words": [
+    {
+     "word": "aqui",
+     "start": 75.42,
+     "end": 75.94
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 75.98,
+   "end": 76.46,
+   "text": "Tinha que cair",
+   "words": [
+    {
+     "word": "Tinha",
+     "start": 75.98,
+     "end": 76.16
+    },
+    {
+     "word": "que",
+     "start": 76.16,
+     "end": 76.28
+    },
+    {
+     "word": "cair",
+     "start": 76.28,
+     "end": 76.46
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 76.5,
+   "end": 77.26,
+   "text": "o livro quando eu",
+   "words": [
+    {
+     "word": "o",
+     "start": 76.5,
+     "end": 76.64
+    },
+    {
+     "word": "livro",
+     "start": 76.64,
+     "end": 76.82
+    },
+    {
+     "word": "quando",
+     "start": 76.82,
+     "end": 77.18
+    },
+    {
+     "word": "eu",
+     "start": 77.18,
+     "end": 77.26
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 77.3,
+   "end": 77.84,
+   "text": "vim aqui a primeira",
+   "words": [
+    {
+     "word": "vim",
+     "start": 77.3,
+     "end": 77.42
+    },
+    {
+     "word": "aqui",
+     "start": 77.42,
+     "end": 77.56
+    },
+    {
+     "word": "a",
+     "start": 77.56,
+     "end": 77.66
+    },
+    {
+     "word": "primeira",
+     "start": 77.66,
+     "end": 77.84
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 77.88,
+   "end": 78.73,
+   "text": "vez, pô",
+   "words": [
+    {
+     "word": "vez,",
+     "start": 77.88,
+     "end": 78.24
+    },
+    {
+     "word": "pô",
+     "start": 78.32,
+     "end": 78.73
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 79.0,
+   "end": 79.4,
+   "text": "Não, aí",
+   "words": [
+    {
+     "word": "Não,",
+     "start": 79.0,
+     "end": 79.2
+    },
+    {
+     "word": "aí",
+     "start": 79.26,
+     "end": 79.4
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 79.44,
+   "end": 80.34,
+   "text": "é scriptado",
+   "words": [
+    {
+     "word": "é",
+     "start": 79.44,
+     "end": 79.56
+    },
+    {
+     "word": "scriptado",
+     "start": 79.56,
+     "end": 80.34
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 80.38,
+   "end": 81.16,
+   "text": "Aí não gostei dessa",
+   "words": [
+    {
+     "word": "Aí",
+     "start": 80.38,
+     "end": 80.44
+    },
+    {
+     "word": "não",
+     "start": 80.44,
+     "end": 80.6
+    },
+    {
+     "word": "gostei",
+     "start": 80.6,
+     "end": 80.98
+    },
+    {
+     "word": "dessa",
+     "start": 80.98,
+     "end": 81.16
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 81.2,
+   "end": 81.86,
+   "text": "quest, mano",
+   "words": [
+    {
+     "word": "quest,",
+     "start": 81.2,
+     "end": 81.52
+    },
+    {
+     "word": "mano",
+     "start": 81.74,
+     "end": 81.86
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 81.9,
+   "end": 82.68,
+   "text": "Não gostei",
+   "words": [
+    {
+     "word": "Não",
+     "start": 81.9,
+     "end": 82.02
+    },
+    {
+     "word": "gostei",
+     "start": 82.02,
+     "end": 82.68
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 82.72,
+   "end": 83.74,
+   "text": "Não, não, não gostei",
+   "words": [
+    {
+     "word": "Não,",
+     "start": 82.72,
+     "end": 82.88
+    },
+    {
+     "word": "não,",
+     "start": 82.9,
+     "end": 83.1
+    },
+    {
+     "word": "não",
+     "start": 83.1,
+     "end": 83.22
+    },
+    {
+     "word": "gostei",
+     "start": 83.42,
+     "end": 83.74
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 83.78,
+   "end": 84.34,
+   "text": "Porque eu vim aqui",
+   "words": [
+    {
+     "word": "Porque",
+     "start": 83.78,
+     "end": 83.86
+    },
+    {
+     "word": "eu",
+     "start": 83.86,
+     "end": 83.94
+    },
+    {
+     "word": "vim",
+     "start": 83.94,
+     "end": 84.08
+    },
+    {
+     "word": "aqui",
+     "start": 84.08,
+     "end": 84.34
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 84.38,
+   "end": 85.62,
+   "text": "e daí a",
+   "words": [
+    {
+     "word": "e",
+     "start": 84.38,
+     "end": 84.9
+    },
+    {
+     "word": "daí",
+     "start": 84.9,
+     "end": 85.1
+    },
+    {
+     "word": "a",
+     "start": 85.1,
+     "end": 85.62
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 85.66,
+   "end": 86.28,
+   "text": "minha exploração não",
+   "words": [
+    {
+     "word": "minha",
+     "start": 85.66,
+     "end": 85.72
+    },
+    {
+     "word": "exploração",
+     "start": 85.72,
+     "end": 86.2
+    },
+    {
+     "word": "não",
+     "start": 86.2,
+     "end": 86.28
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 86.32,
+   "end": 87.13,
+   "text": "valeu de nada",
+   "words": [
+    {
+     "word": "valeu",
+     "start": 86.32,
+     "end": 86.52
+    },
+    {
+     "word": "de",
+     "start": 86.52,
+     "end": 86.62
+    },
+    {
+     "word": "nada",
+     "start": 86.62,
+     "end": 87.13
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 88.53,
+   "end": 89.4,
+   "text": "Não gostei",
+   "words": [
+    {
+     "word": "Não",
+     "start": 88.53,
+     "end": 88.71
+    },
+    {
+     "word": "gostei",
+     "start": 88.71,
+     "end": 89.4
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
