@@ -1,0 +1,11 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Jason, Lucia, Vi, Rocco, cruzeiro, parkour, procurado, academia, mano, viado, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:03:44", "fim": "0:04:56", "titulo": "PROCURADO O JOGO INTEIRO"},
+  {"id": "02", "inicio": "0:09:09", "fim": "0:09:53", "titulo": "SEMPRE TEM UMA OBRA DO LADO"},
+  {"id": "03", "inicio": "0:12:27", "fim": "0:13:37", "titulo": "ESQUECI QUE TÔ PROCURADO"},
+  {"id": "04", "inicio": "0:14:13", "fim": "0:15:28", "titulo": "EU FAÇO PARKOUR"}
+ ]
+}
