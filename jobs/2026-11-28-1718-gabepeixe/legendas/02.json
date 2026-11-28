@@ -1,0 +1,190 @@
+{
+ "segments": [
+  {
+   "start": 4.11,
+   "end": 5.03,
+   "text": "Mano, que isso, esse",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 4.11,
+     "end": 4.41
+    },
+    {
+     "word": "que",
+     "start": 4.55,
+     "end": 4.6
+    },
+    {
+     "word": "isso,",
+     "start": 4.6,
+     "end": 4.83
+    },
+    {
+     "word": "esse",
+     "start": 4.91,
+     "end": 5.03
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 5.07,
+   "end": 6.6,
+   "text": "cara é muito cheirador, mano",
+   "words": [
+    {
+     "word": "cara",
+     "start": 5.07,
+     "end": 5.21
+    },
+    {
+     "word": "é",
+     "start": 5.21,
+     "end": 5.37
+    },
+    {
+     "word": "muito",
+     "start": 5.37,
+     "end": 5.51
+    },
+    {
+     "word": "cheirador,",
+     "start": 5.51,
+     "end": 6.03
+    },
+    {
+     "word": "mano",
+     "start": 6.09,
+     "end": 6.6
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 60.12,
+   "end": 61.34,
+   "text": "Acho que esse cara",
+   "words": [
+    {
+     "word": "Acho",
+     "start": 60.12,
+     "end": 60.56
+    },
+    {
+     "word": "que",
+     "start": 60.56,
+     "end": 61.0
+    },
+    {
+     "word": "esse",
+     "start": 61.0,
+     "end": 61.18
+    },
+    {
+     "word": "cara",
+     "start": 61.18,
+     "end": 61.34
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 61.38,
+   "end": 62.51,
+   "text": "parar de cheirar",
+   "words": [
+    {
+     "word": "parar",
+     "start": 61.38,
+     "end": 61.64
+    },
+    {
+     "word": "de",
+     "start": 61.64,
+     "end": 61.82
+    },
+    {
+     "word": "cheirar",
+     "start": 61.82,
+     "end": 62.51
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 62.62,
+   "end": 63.6,
+   "text": "ele vira do bem",
+   "words": [
+    {
+     "word": "ele",
+     "start": 62.62,
+     "end": 63.18
+    },
+    {
+     "word": "vira",
+     "start": 63.18,
+     "end": 63.38
+    },
+    {
+     "word": "do",
+     "start": 63.38,
+     "end": 63.43
+    },
+    {
+     "word": "bem",
+     "start": 63.43,
+     "end": 63.6
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 63.64,
+   "end": 64.24,
+   "text": "de novo",
+   "words": [
+    {
+     "word": "de",
+     "start": 63.64,
+     "end": 63.76
+    },
+    {
+     "word": "novo",
+     "start": 63.76,
+     "end": 64.24
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 64.38,
+   "end": 65.17,
+   "text": "jeito que ele tá",
+   "words": [
+    {
+     "word": "jeito",
+     "start": 64.38,
+     "end": 64.52
+    },
+    {
+     "word": "que",
+     "start": 64.52,
+     "end": 64.76
+    },
+    {
+     "word": "ele",
+     "start": 64.76,
+     "end": 64.84
+    },
+    {
+     "word": "tá",
+     "start": 64.84,
+     "end": 65.17
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}

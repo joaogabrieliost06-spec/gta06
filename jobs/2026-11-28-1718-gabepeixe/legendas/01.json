@@ -1,0 +1,661 @@
+{
+ "segments": [
+  {
+   "start": 0.62,
+   "end": 1.72,
+   "text": "Ofereça ajuda",
+   "words": [
+    {
+     "word": "Ofereça",
+     "start": 0.62,
+     "end": 1.34
+    },
+    {
+     "word": "ajuda",
+     "start": 1.34,
+     "end": 1.72
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 1.76,
+   "end": 3.71,
+   "text": "ou recuse ajudar",
+   "words": [
+    {
+     "word": "ou",
+     "start": 1.76,
+     "end": 2.12
+    },
+    {
+     "word": "recuse",
+     "start": 2.12,
+     "end": 2.64
+    },
+    {
+     "word": "ajudar",
+     "start": 2.95,
+     "end": 3.71
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 3.75,
+   "end": 4.64,
+   "text": "o Matias",
+   "words": [
+    {
+     "word": "o",
+     "start": 3.75,
+     "end": 3.91
+    },
+    {
+     "word": "Matias",
+     "start": 3.91,
+     "end": 4.64
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 11.25,
+   "end": 11.86,
+   "text": "vamos lá",
+   "words": [
+    {
+     "word": "vamos",
+     "start": 11.25,
+     "end": 11.35
+    },
+    {
+     "word": "lá",
+     "start": 11.35,
+     "end": 11.86
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 15.83,
+   "end": 16.59,
+   "text": "contextualizando",
+   "words": [
+    {
+     "word": "contextualizando",
+     "start": 15.83,
+     "end": 16.59
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 16.63,
+   "end": 17.23,
+   "text": "tá?",
+   "words": [
+    {
+     "word": "tá?",
+     "start": 16.63,
+     "end": 17.23
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 17.66,
+   "end": 18.59,
+   "text": "Pra vocês entenderem",
+   "words": [
+    {
+     "word": "Pra",
+     "start": 17.66,
+     "end": 17.72
+    },
+    {
+     "word": "vocês",
+     "start": 17.72,
+     "end": 17.84
+    },
+    {
+     "word": "entenderem",
+     "start": 17.84,
+     "end": 18.59
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 26.64,
+   "end": 27.71,
+   "text": "filho da puta",
+   "words": [
+    {
+     "word": "filho",
+     "start": 26.64,
+     "end": 26.9
+    },
+    {
+     "word": "da",
+     "start": 26.9,
+     "end": 27.08
+    },
+    {
+     "word": "puta",
+     "start": 27.08,
+     "end": 27.71
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 27.97,
+   "end": 29.18,
+   "text": "só pra vocês entenderem",
+   "words": [
+    {
+     "word": "só",
+     "start": 27.97,
+     "end": 28.13
+    },
+    {
+     "word": "pra",
+     "start": 28.13,
+     "end": 28.23
+    },
+    {
+     "word": "vocês",
+     "start": 28.23,
+     "end": 28.45
+    },
+    {
+     "word": "entenderem",
+     "start": 28.45,
+     "end": 29.18
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 30.51,
+   "end": 31.53,
+   "text": "ele fudeu a gente",
+   "words": [
+    {
+     "word": "ele",
+     "start": 30.51,
+     "end": 30.65
+    },
+    {
+     "word": "fudeu",
+     "start": 30.65,
+     "end": 31.15
+    },
+    {
+     "word": "a",
+     "start": 31.15,
+     "end": 31.27
+    },
+    {
+     "word": "gente",
+     "start": 31.27,
+     "end": 31.53
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 31.57,
+   "end": 32.34,
+   "text": "no",
+   "words": [
+    {
+     "word": "no",
+     "start": 31.57,
+     "end": 32.34
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 33.16,
+   "end": 35.05,
+   "text": "capítulo 2, chat. Ele",
+   "words": [
+    {
+     "word": "capítulo",
+     "start": 33.16,
+     "end": 33.64
+    },
+    {
+     "word": "2,",
+     "start": 33.64,
+     "end": 33.9
+    },
+    {
+     "word": "chat.",
+     "start": 34.02,
+     "end": 34.24
+    },
+    {
+     "word": "Ele",
+     "start": 34.24,
+     "end": 35.05
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 41.22,
+   "end": 41.74,
+   "text": "fudeu a gente",
+   "words": [
+    {
+     "word": "fudeu",
+     "start": 41.22,
+     "end": 41.56
+    },
+    {
+     "word": "a",
+     "start": 41.56,
+     "end": 41.66
+    },
+    {
+     "word": "gente",
+     "start": 41.66,
+     "end": 41.74
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 41.78,
+   "end": 43.13,
+   "text": "no capítulo 2, mano",
+   "words": [
+    {
+     "word": "no",
+     "start": 41.78,
+     "end": 41.94
+    },
+    {
+     "word": "capítulo",
+     "start": 41.94,
+     "end": 42.36
+    },
+    {
+     "word": "2,",
+     "start": 42.36,
+     "end": 42.66
+    },
+    {
+     "word": "mano",
+     "start": 42.7,
+     "end": 43.13
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 44.52,
+   "end": 45.34,
+   "text": "levou a gente, achei",
+   "words": [
+    {
+     "word": "levou",
+     "start": 44.52,
+     "end": 44.78
+    },
+    {
+     "word": "a",
+     "start": 44.78,
+     "end": 44.94
+    },
+    {
+     "word": "gente,",
+     "start": 44.94,
+     "end": 45.06
+    },
+    {
+     "word": "achei",
+     "start": 45.24,
+     "end": 45.34
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 45.38,
+   "end": 46.12,
+   "text": "que tava indo bem",
+   "words": [
+    {
+     "word": "que",
+     "start": 45.38,
+     "end": 45.48
+    },
+    {
+     "word": "tava",
+     "start": 45.48,
+     "end": 45.62
+    },
+    {
+     "word": "indo",
+     "start": 45.62,
+     "end": 45.8
+    },
+    {
+     "word": "bem",
+     "start": 45.8,
+     "end": 46.12
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 46.16,
+   "end": 47.49,
+   "text": "sei o quê. Jogou",
+   "words": [
+    {
+     "word": "sei",
+     "start": 46.16,
+     "end": 46.24
+    },
+    {
+     "word": "o",
+     "start": 46.24,
+     "end": 46.34
+    },
+    {
+     "word": "quê.",
+     "start": 46.34,
+     "end": 46.46
+    },
+    {
+     "word": "Jogou",
+     "start": 46.46,
+     "end": 47.49
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 49.02,
+   "end": 50.03,
+   "text": "a gente na troia",
+   "words": [
+    {
+     "word": "a",
+     "start": 49.02,
+     "end": 49.1
+    },
+    {
+     "word": "gente",
+     "start": 49.1,
+     "end": 49.22
+    },
+    {
+     "word": "na",
+     "start": 49.22,
+     "end": 49.44
+    },
+    {
+     "word": "troia",
+     "start": 49.44,
+     "end": 50.03
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 61.34,
+   "end": 61.97,
+   "text": "porém",
+   "words": [
+    {
+     "word": "porém",
+     "start": 61.34,
+     "end": 61.97
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 69.89,
+   "end": 70.45,
+   "text": "o que vai tá",
+   "words": [
+    {
+     "word": "o",
+     "start": 69.89,
+     "end": 70.13
+    },
+    {
+     "word": "que",
+     "start": 70.13,
+     "end": 70.21
+    },
+    {
+     "word": "vai",
+     "start": 70.21,
+     "end": 70.37
+    },
+    {
+     "word": "tá",
+     "start": 70.37,
+     "end": 70.45
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 70.49,
+   "end": 71.54,
+   "text": "escrito aqui no RT",
+   "words": [
+    {
+     "word": "escrito",
+     "start": 70.49,
+     "end": 70.75
+    },
+    {
+     "word": "aqui",
+     "start": 70.75,
+     "end": 70.95
+    },
+    {
+     "word": "no",
+     "start": 70.95,
+     "end": 71.05
+    },
+    {
+     "word": "RT",
+     "start": 71.05,
+     "end": 71.54
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 72.41,
+   "end": 73.01,
+   "text": "tá?",
+   "words": [
+    {
+     "word": "tá?",
+     "start": 72.41,
+     "end": 73.01
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 79.95,
+   "end": 80.85,
+   "text": "— Essa⁠ ajuda⁠ tem⁠ a⁠ ver⁠ com⁠",
+   "words": [
+    {
+     "word": "— Essa⁠",
+     "start": 79.95,
+     "end": 80.17
+    },
+    {
+     "word": "ajuda⁠",
+     "start": 80.17,
+     "end": 80.45
+    },
+    {
+     "word": "tem⁠",
+     "start": 80.45,
+     "end": 80.63
+    },
+    {
+     "word": "a⁠",
+     "start": 80.63,
+     "end": 80.69
+    },
+    {
+     "word": "ver⁠",
+     "start": 80.69,
+     "end": 80.77
+    },
+    {
+     "word": "com⁠",
+     "start": 80.77,
+     "end": 80.85
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 80.89,
+   "end": 81.64,
+   "text": "a⁠ criança⁠ dele,⁠ não⁠",
+   "words": [
+    {
+     "word": "a⁠",
+     "start": 80.89,
+     "end": 80.95
+    },
+    {
+     "word": "criança⁠",
+     "start": 80.95,
+     "end": 81.23
+    },
+    {
+     "word": "dele,⁠",
+     "start": 81.23,
+     "end": 81.47
+    },
+    {
+     "word": "não⁠",
+     "start": 81.59,
+     "end": 81.64
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 81.67,
+   "end": 82.25,
+   "text": "é?⁠",
+   "words": [
+    {
+     "word": "é?⁠",
+     "start": 81.67,
+     "end": 82.25
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 82.29,
+   "end": 82.9,
+   "text": "Nada⁠ a⁠ ver?⁠",
+   "words": [
+    {
+     "word": "Nada⁠",
+     "start": 82.29,
+     "end": 82.43
+    },
+    {
+     "word": "a⁠",
+     "start": 82.43,
+     "end": 82.55
+    },
+    {
+     "word": "ver?⁠",
+     "start": 82.55,
+     "end": 82.9
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 85.47,
+   "end": 86.64,
+   "text": "De⁠ qualquer⁠ maneira⁠",
+   "words": [
+    {
+     "word": "De⁠",
+     "start": 85.47,
+     "end": 85.71
+    },
+    {
+     "word": "qualquer⁠",
+     "start": 85.71,
+     "end": 85.95
+    },
+    {
+     "word": "maneira⁠",
+     "start": 85.95,
+     "end": 86.64
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 87.47,
+   "end": 88.19,
+   "text": "me⁠ dói⁠ um⁠ pouco⁠",
+   "words": [
+    {
+     "word": "me⁠",
+     "start": 87.47,
+     "end": 87.55
+    },
+    {
+     "word": "dói⁠",
+     "start": 87.55,
+     "end": 87.81
+    },
+    {
+     "word": "um⁠",
+     "start": 87.81,
+     "end": 87.93
+    },
+    {
+     "word": "pouco⁠",
+     "start": 87.93,
+     "end": 88.19
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 88.23,
+   "end": 88.83,
+   "text": "mano⁠",
+   "words": [
+    {
+     "word": "mano⁠",
+     "start": 88.23,
+     "end": 88.83
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
