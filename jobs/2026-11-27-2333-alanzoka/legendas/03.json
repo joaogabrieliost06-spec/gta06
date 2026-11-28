@@ -1,0 +1,155 @@
+{
+ "segments": [
+  {
+   "start": 49.89,
+   "end": 51.44,
+   "text": "Eu quero",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 49.89,
+     "end": 50.61
+    },
+    {
+     "word": "quero",
+     "start": 50.76,
+     "end": 51.44
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 51.48,
+   "end": 54.55,
+   "text": "o relógio",
+   "words": [
+    {
+     "word": "o",
+     "start": 51.48,
+     "end": 52.8
+    },
+    {
+     "word": "relógio",
+     "start": 53.2,
+     "end": 54.55
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 56.5,
+   "end": 58.48,
+   "text": "Olha que ele enfia mesmo",
+   "words": [
+    {
+     "word": "Olha",
+     "start": 56.5,
+     "end": 57.22
+    },
+    {
+     "word": "que",
+     "start": 57.37,
+     "end": 57.57
+    },
+    {
+     "word": "ele",
+     "start": 57.57,
+     "end": 57.67
+    },
+    {
+     "word": "enfia",
+     "start": 57.67,
+     "end": 58.01
+    },
+    {
+     "word": "mesmo",
+     "start": 58.01,
+     "end": 58.48
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 74.21,
+   "end": 75.69,
+   "text": "Um relogião insano",
+   "words": [
+    {
+     "word": "Um",
+     "start": 74.21,
+     "end": 74.71
+    },
+    {
+     "word": "relogião",
+     "start": 74.71,
+     "end": 75.21
+    },
+    {
+     "word": "insano",
+     "start": 75.21,
+     "end": 75.69
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 75.73,
+   "end": 77.04,
+   "text": "Novak Lauren",
+   "words": [
+    {
+     "word": "Novak",
+     "start": 75.73,
+     "end": 76.37
+    },
+    {
+     "word": "Lauren",
+     "start": 76.37,
+     "end": 77.04
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 78.6,
+   "end": 79.59,
+   "text": "Nem",
+   "words": [
+    {
+     "word": "Nem",
+     "start": 78.6,
+     "end": 79.59
+    }
+   ],
+   "pos": 0.6
+  },
+  {
+   "start": 86.18,
+   "end": 87.49,
+   "text": "lavou a mão, será?",
+   "words": [
+    {
+     "word": "lavou",
+     "start": 86.18,
+     "end": 86.48
+    },
+    {
+     "word": "a",
+     "start": 86.48,
+     "end": 86.62
+    },
+    {
+     "word": "mão,",
+     "start": 86.62,
+     "end": 86.82
+    },
+    {
+     "word": "será?",
+     "start": 86.82,
+     "end": 87.49
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
