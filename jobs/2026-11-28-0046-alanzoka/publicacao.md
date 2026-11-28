@@ -18,9 +18,9 @@
 - **Hashtags:** #alanzoka #gta6 #gtavi #cortesdelive #shorts
 - **Thumbnail:** Alan curtindo + texto "MÚSICA DA MINHA VIDA"
 
-## 04: Tem uma cadeia em todo lugar
-- **Título:** "TEM CADEIA EM TODO LUGAR DESSE JOGO" 😱 alanzoka no GTA 6
-- **Descrição:** Um grito do nada, a missão principal começa e o Alan reclama que o mapa é cheio de prisão. Créditos: alanzoka – https://www.twitch.tv/alanzoka
+## 04: Tem uma academia em todo lugar
+- **Título:** "TEM ACADEMIA EM TODO LUGAR DESSE JOGO" 🏋️ alanzoka no GTA 6
+- **Descrição:** Um grito do nada, a missão principal começa e o Alan repara que o mapa tem academia em todo canto. Créditos: alanzoka – https://www.twitch.tv/alanzoka
 - **Hashtags:** #alanzoka #gta6 #gtavi #cortesdelive #shorts
 - **Thumbnail:** Alan gritando + texto "AAAAAA"
 
