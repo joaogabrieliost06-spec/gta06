@@ -1,0 +1,791 @@
+{
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 0.84,
+   "text": "Cara, o Pistolada",
+   "words": [
+    {
+     "word": "Cara,",
+     "start": 0.0,
+     "end": 0.14
+    },
+    {
+     "word": "o",
+     "start": 0.26,
+     "end": 0.42
+    },
+    {
+     "word": "Pistolada",
+     "start": 0.42,
+     "end": 0.84
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 0.88,
+   "end": 1.58,
+   "text": "é um ser",
+   "words": [
+    {
+     "word": "é",
+     "start": 0.88,
+     "end": 1.0
+    },
+    {
+     "word": "um",
+     "start": 1.0,
+     "end": 1.42
+    },
+    {
+     "word": "ser",
+     "start": 1.42,
+     "end": 1.58
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 1.62,
+   "end": 2.38,
+   "text": "a ser estudado",
+   "words": [
+    {
+     "word": "a",
+     "start": 1.62,
+     "end": 1.74
+    },
+    {
+     "word": "ser",
+     "start": 1.74,
+     "end": 1.84
+    },
+    {
+     "word": "estudado",
+     "start": 1.84,
+     "end": 2.38
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 2.42,
+   "end": 3.17,
+   "text": "cara, eu vou te",
+   "words": [
+    {
+     "word": "cara,",
+     "start": 2.42,
+     "end": 2.56
+    },
+    {
+     "word": "eu",
+     "start": 2.81,
+     "end": 3.03
+    },
+    {
+     "word": "vou",
+     "start": 3.03,
+     "end": 3.11
+    },
+    {
+     "word": "te",
+     "start": 3.11,
+     "end": 3.17
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 3.21,
+   "end": 3.79,
+   "text": "falar, ontem",
+   "words": [
+    {
+     "word": "falar,",
+     "start": 3.21,
+     "end": 3.43
+    },
+    {
+     "word": "ontem",
+     "start": 3.61,
+     "end": 3.79
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 3.83,
+   "end": 4.78,
+   "text": "no casamento",
+   "words": [
+    {
+     "word": "no",
+     "start": 3.83,
+     "end": 3.95
+    },
+    {
+     "word": "casamento",
+     "start": 3.95,
+     "end": 4.78
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 5.18,
+   "end": 6.18,
+   "text": "ele tinha uns picos",
+   "words": [
+    {
+     "word": "ele",
+     "start": 5.18,
+     "end": 5.44
+    },
+    {
+     "word": "tinha",
+     "start": 5.44,
+     "end": 5.68
+    },
+    {
+     "word": "uns",
+     "start": 5.68,
+     "end": 5.9
+    },
+    {
+     "word": "picos",
+     "start": 5.9,
+     "end": 6.18
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 6.22,
+   "end": 7.15,
+   "text": "de estar, tipo assim",
+   "words": [
+    {
+     "word": "de",
+     "start": 6.22,
+     "end": 6.36
+    },
+    {
+     "word": "estar,",
+     "start": 6.36,
+     "end": 6.46
+    },
+    {
+     "word": "tipo",
+     "start": 6.52,
+     "end": 6.66
+    },
+    {
+     "word": "assim",
+     "start": 6.66,
+     "end": 7.15
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 7.64,
+   "end": 8.66,
+   "text": "dançando, pá, não",
+   "words": [
+    {
+     "word": "dançando,",
+     "start": 7.64,
+     "end": 8.22
+    },
+    {
+     "word": "pá,",
+     "start": 8.38,
+     "end": 8.5
+    },
+    {
+     "word": "não",
+     "start": 8.58,
+     "end": 8.66
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 8.7,
+   "end": 9.38,
+   "text": "sei o que, aí",
+   "words": [
+    {
+     "word": "sei",
+     "start": 8.7,
+     "end": 8.78
+    },
+    {
+     "word": "o",
+     "start": 8.78,
+     "end": 8.92
+    },
+    {
+     "word": "que,",
+     "start": 8.92,
+     "end": 9.0
+    },
+    {
+     "word": "aí",
+     "start": 9.28,
+     "end": 9.38
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 9.42,
+   "end": 10.2,
+   "text": "do nada ele sentava",
+   "words": [
+    {
+     "word": "do",
+     "start": 9.42,
+     "end": 9.54
+    },
+    {
+     "word": "nada",
+     "start": 9.54,
+     "end": 9.7
+    },
+    {
+     "word": "ele",
+     "start": 9.7,
+     "end": 9.86
+    },
+    {
+     "word": "sentava",
+     "start": 9.86,
+     "end": 10.2
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 10.24,
+   "end": 10.8,
+   "text": "na cadeira com",
+   "words": [
+    {
+     "word": "na",
+     "start": 10.24,
+     "end": 10.36
+    },
+    {
+     "word": "cadeira",
+     "start": 10.36,
+     "end": 10.7
+    },
+    {
+     "word": "com",
+     "start": 10.7,
+     "end": 10.8
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 10.84,
+   "end": 11.52,
+   "text": "o óculos dele, tava",
+   "words": [
+    {
+     "word": "o",
+     "start": 10.84,
+     "end": 10.94
+    },
+    {
+     "word": "óculos",
+     "start": 10.94,
+     "end": 11.16
+    },
+    {
+     "word": "dele,",
+     "start": 11.16,
+     "end": 11.34
+    },
+    {
+     "word": "tava",
+     "start": 11.42,
+     "end": 11.52
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 11.56,
+   "end": 12.16,
+   "text": "assim",
+   "words": [
+    {
+     "word": "assim",
+     "start": 11.56,
+     "end": 12.16
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 14.14,
+   "end": 14.83,
+   "text": "dormia",
+   "words": [
+    {
+     "word": "dormia",
+     "start": 14.14,
+     "end": 14.83
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 15.06,
+   "end": 16.91,
+   "text": "ele dorme parcelado",
+   "words": [
+    {
+     "word": "ele",
+     "start": 15.06,
+     "end": 15.46
+    },
+    {
+     "word": "dorme",
+     "start": 15.46,
+     "end": 15.94
+    },
+    {
+     "word": "parcelado",
+     "start": 15.94,
+     "end": 16.91
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 17.47,
+   "end": 18.84,
+   "text": "ele dorme parcelado",
+   "words": [
+    {
+     "word": "ele",
+     "start": 17.47,
+     "end": 17.63
+    },
+    {
+     "word": "dorme",
+     "start": 17.63,
+     "end": 17.95
+    },
+    {
+     "word": "parcelado",
+     "start": 17.95,
+     "end": 18.84
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 18.95,
+   "end": 20.05,
+   "text": "tá ligado? Ele dorme muito",
+   "words": [
+    {
+     "word": "tá",
+     "start": 18.95,
+     "end": 19.03
+    },
+    {
+     "word": "ligado?",
+     "start": 19.03,
+     "end": 19.29
+    },
+    {
+     "word": "Ele",
+     "start": 19.41,
+     "end": 19.55
+    },
+    {
+     "word": "dorme",
+     "start": 19.55,
+     "end": 19.89
+    },
+    {
+     "word": "muito",
+     "start": 19.89,
+     "end": 20.05
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 20.09,
+   "end": 21.12,
+   "text": "parcelado, bicho",
+   "words": [
+    {
+     "word": "parcelado,",
+     "start": 20.09,
+     "end": 20.57
+    },
+    {
+     "word": "bicho",
+     "start": 20.65,
+     "end": 21.12
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 21.23,
+   "end": 21.85,
+   "text": "ele do nada",
+   "words": [
+    {
+     "word": "ele",
+     "start": 21.23,
+     "end": 21.37
+    },
+    {
+     "word": "do",
+     "start": 21.37,
+     "end": 21.57
+    },
+    {
+     "word": "nada",
+     "start": 21.57,
+     "end": 21.85
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 21.89,
+   "end": 22.83,
+   "text": "um bagulho poucando",
+   "words": [
+    {
+     "word": "um",
+     "start": 21.89,
+     "end": 21.97
+    },
+    {
+     "word": "bagulho",
+     "start": 21.97,
+     "end": 22.23
+    },
+    {
+     "word": "poucando",
+     "start": 22.23,
+     "end": 22.83
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 22.87,
+   "end": 24.84,
+   "text": "galera agitada, 10 minutos",
+   "words": [
+    {
+     "word": "galera",
+     "start": 22.87,
+     "end": 23.35
+    },
+    {
+     "word": "agitada,",
+     "start": 23.35,
+     "end": 23.83
+    },
+    {
+     "word": "10",
+     "start": 24.44,
+     "end": 24.6
+    },
+    {
+     "word": "minutos",
+     "start": 24.6,
+     "end": 24.84
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 24.88,
+   "end": 25.58,
+   "text": "de cochilo sentado",
+   "words": [
+    {
+     "word": "de",
+     "start": 24.88,
+     "end": 25.0
+    },
+    {
+     "word": "cochilo",
+     "start": 25.0,
+     "end": 25.32
+    },
+    {
+     "word": "sentado",
+     "start": 25.32,
+     "end": 25.58
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 25.62,
+   "end": 26.77,
+   "text": "na cadeira, levanta",
+   "words": [
+    {
+     "word": "na",
+     "start": 25.62,
+     "end": 25.7
+    },
+    {
+     "word": "cadeira,",
+     "start": 25.7,
+     "end": 25.96
+    },
+    {
+     "word": "levanta",
+     "start": 26.0,
+     "end": 26.77
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 26.84,
+   "end": 27.98,
+   "text": "dança, bebe, bebe",
+   "words": [
+    {
+     "word": "dança,",
+     "start": 26.84,
+     "end": 27.14
+    },
+    {
+     "word": "bebe,",
+     "start": 27.28,
+     "end": 27.52
+    },
+    {
+     "word": "bebe",
+     "start": 27.64,
+     "end": 27.98
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 28.02,
+   "end": 29.22,
+   "text": "dança, bebe, bebe",
+   "words": [
+    {
+     "word": "dança,",
+     "start": 28.02,
+     "end": 28.28
+    },
+    {
+     "word": "bebe,",
+     "start": 28.42,
+     "end": 28.64
+    },
+    {
+     "word": "bebe",
+     "start": 28.74,
+     "end": 29.22
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 29.26,
+   "end": 30.01,
+   "text": "aí volta",
+   "words": [
+    {
+     "word": "aí",
+     "start": 29.26,
+     "end": 29.38
+    },
+    {
+     "word": "volta",
+     "start": 29.38,
+     "end": 30.01
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 30.45,
+   "end": 31.51,
+   "text": "dorme de novo, tá",
+   "words": [
+    {
+     "word": "dorme",
+     "start": 30.45,
+     "end": 30.73
+    },
+    {
+     "word": "de",
+     "start": 30.73,
+     "end": 30.83
+    },
+    {
+     "word": "novo,",
+     "start": 30.83,
+     "end": 31.07
+    },
+    {
+     "word": "tá",
+     "start": 31.46,
+     "end": 31.51
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 31.54,
+   "end": 32.14,
+   "text": "ligado?",
+   "words": [
+    {
+     "word": "ligado?",
+     "start": 31.54,
+     "end": 32.14
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 32.7,
+   "end": 33.32,
+   "text": "embaçado irmão",
+   "words": [
+    {
+     "word": "embaçado",
+     "start": 32.7,
+     "end": 33.02
+    },
+    {
+     "word": "irmão",
+     "start": 33.02,
+     "end": 33.32
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 33.36,
+   "end": 34.04,
+   "text": "embaçado, olha como",
+   "words": [
+    {
+     "word": "embaçado,",
+     "start": 33.36,
+     "end": 33.82
+    },
+    {
+     "word": "olha",
+     "start": 33.84,
+     "end": 33.9
+    },
+    {
+     "word": "como",
+     "start": 33.9,
+     "end": 34.04
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 34.08,
+   "end": 35.18,
+   "text": "é que está o menino de manhã",
+   "words": [
+    {
+     "word": "é",
+     "start": 34.08,
+     "end": 34.14
+    },
+    {
+     "word": "que",
+     "start": 34.14,
+     "end": 34.22
+    },
+    {
+     "word": "está",
+     "start": 34.22,
+     "end": 34.3
+    },
+    {
+     "word": "o",
+     "start": 34.3,
+     "end": 34.42
+    },
+    {
+     "word": "menino",
+     "start": 34.42,
+     "end": 34.64
+    },
+    {
+     "word": "de",
+     "start": 34.64,
+     "end": 34.76
+    },
+    {
+     "word": "manhã",
+     "start": 34.76,
+     "end": 35.18
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 35.22,
+   "end": 35.82,
+   "text": "olha aí",
+   "words": [
+    {
+     "word": "olha",
+     "start": 35.22,
+     "end": 35.4
+    },
+    {
+     "word": "aí",
+     "start": 35.4,
+     "end": 35.82
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 36.94,
+   "end": 37.79,
+   "text": "que doideira",
+   "words": [
+    {
+     "word": "que",
+     "start": 36.94,
+     "end": 37.06
+    },
+    {
+     "word": "doideira",
+     "start": 37.06,
+     "end": 37.79
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}

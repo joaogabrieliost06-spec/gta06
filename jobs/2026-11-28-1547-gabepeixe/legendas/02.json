@@ -1,0 +1,704 @@
+{
+ "segments": [
+  {
+   "start": 0.45,
+   "end": 0.93,
+   "text": "Vamos começar",
+   "words": [
+    {
+     "word": "Vamos",
+     "start": 0.45,
+     "end": 0.65
+    },
+    {
+     "word": "começar",
+     "start": 0.65,
+     "end": 0.93
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 0.97,
+   "end": 1.83,
+   "text": "a nossa gameplay já",
+   "words": [
+    {
+     "word": "a",
+     "start": 0.97,
+     "end": 1.13
+    },
+    {
+     "word": "nossa",
+     "start": 1.13,
+     "end": 1.19
+    },
+    {
+     "word": "gameplay",
+     "start": 1.19,
+     "end": 1.51
+    },
+    {
+     "word": "já",
+     "start": 1.51,
+     "end": 1.83
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 1.87,
+   "end": 3.09,
+   "text": "já, dito isso, alguém tem",
+   "words": [
+    {
+     "word": "já,",
+     "start": 1.87,
+     "end": 2.13
+    },
+    {
+     "word": "dito",
+     "start": 2.43,
+     "end": 2.65
+    },
+    {
+     "word": "isso,",
+     "start": 2.65,
+     "end": 2.81
+    },
+    {
+     "word": "alguém",
+     "start": 2.85,
+     "end": 3.01
+    },
+    {
+     "word": "tem",
+     "start": 3.01,
+     "end": 3.09
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 3.13,
+   "end": 3.77,
+   "text": "que falar, quer",
+   "words": [
+    {
+     "word": "que",
+     "start": 3.13,
+     "end": 3.23
+    },
+    {
+     "word": "falar,",
+     "start": 3.23,
+     "end": 3.43
+    },
+    {
+     "word": "quer",
+     "start": 3.59,
+     "end": 3.77
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 3.81,
+   "end": 4.57,
+   "text": "falar alguma coisa",
+   "words": [
+    {
+     "word": "falar",
+     "start": 3.81,
+     "end": 4.03
+    },
+    {
+     "word": "alguma",
+     "start": 4.03,
+     "end": 4.21
+    },
+    {
+     "word": "coisa",
+     "start": 4.21,
+     "end": 4.57
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 4.61,
+   "end": 5.31,
+   "text": "mano, vamos começar",
+   "words": [
+    {
+     "word": "mano,",
+     "start": 4.61,
+     "end": 4.71
+    },
+    {
+     "word": "vamos",
+     "start": 4.85,
+     "end": 5.03
+    },
+    {
+     "word": "começar",
+     "start": 5.03,
+     "end": 5.31
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 5.35,
+   "end": 6.55,
+   "text": "o GTAzinho, provavelmente",
+   "words": [
+    {
+     "word": "o",
+     "start": 5.35,
+     "end": 5.45
+    },
+    {
+     "word": "GTAzinho,",
+     "start": 5.45,
+     "end": 5.95
+    },
+    {
+     "word": "provavelmente",
+     "start": 6.27,
+     "end": 6.55
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 6.59,
+   "end": 7.07,
+   "text": "a gente termina",
+   "words": [
+    {
+     "word": "a",
+     "start": 6.59,
+     "end": 6.73
+    },
+    {
+     "word": "gente",
+     "start": 6.73,
+     "end": 6.79
+    },
+    {
+     "word": "termina",
+     "start": 6.79,
+     "end": 7.07
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 7.11,
+   "end": 7.67,
+   "text": "hoje, pra quem tá",
+   "words": [
+    {
+     "word": "hoje,",
+     "start": 7.11,
+     "end": 7.33
+    },
+    {
+     "word": "pra",
+     "start": 7.41,
+     "end": 7.47
+    },
+    {
+     "word": "quem",
+     "start": 7.47,
+     "end": 7.61
+    },
+    {
+     "word": "tá",
+     "start": 7.61,
+     "end": 7.67
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 7.71,
+   "end": 8.65,
+   "text": "ansioso, eu vou",
+   "words": [
+    {
+     "word": "ansioso,",
+     "start": 7.71,
+     "end": 8.19
+    },
+    {
+     "word": "eu",
+     "start": 8.49,
+     "end": 8.59
+    },
+    {
+     "word": "vou",
+     "start": 8.59,
+     "end": 8.65
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 8.69,
+   "end": 9.37,
+   "text": "falar pra vocês",
+   "words": [
+    {
+     "word": "falar",
+     "start": 8.69,
+     "end": 8.85
+    },
+    {
+     "word": "pra",
+     "start": 8.85,
+     "end": 8.97
+    },
+    {
+     "word": "vocês",
+     "start": 8.97,
+     "end": 9.37
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 9.41,
+   "end": 10.11,
+   "text": "cara, durmo pensando",
+   "words": [
+    {
+     "word": "cara,",
+     "start": 9.41,
+     "end": 9.47
+    },
+    {
+     "word": "durmo",
+     "start": 9.63,
+     "end": 9.81
+    },
+    {
+     "word": "pensando",
+     "start": 9.81,
+     "end": 10.11
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 10.15,
+   "end": 11.59,
+   "text": "no GTA, mano, eu",
+   "words": [
+    {
+     "word": "no",
+     "start": 10.15,
+     "end": 10.59
+    },
+    {
+     "word": "GTA,",
+     "start": 10.59,
+     "end": 10.91
+    },
+    {
+     "word": "mano,",
+     "start": 11.09,
+     "end": 11.25
+    },
+    {
+     "word": "eu",
+     "start": 11.53,
+     "end": 11.59
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 11.63,
+   "end": 12.19,
+   "text": "acho que eu durmo",
+   "words": [
+    {
+     "word": "acho",
+     "start": 11.63,
+     "end": 11.75
+    },
+    {
+     "word": "que",
+     "start": 11.75,
+     "end": 11.85
+    },
+    {
+     "word": "eu",
+     "start": 11.85,
+     "end": 11.977
+    },
+    {
+     "word": "durmo",
+     "start": 11.977,
+     "end": 12.19
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 12.23,
+   "end": 13.74,
+   "text": "pensando no Jason",
+   "words": [
+    {
+     "word": "pensando",
+     "start": 12.23,
+     "end": 12.53
+    },
+    {
+     "word": "no",
+     "start": 12.53,
+     "end": 13.17
+    },
+    {
+     "word": "Jason",
+     "start": 13.17,
+     "end": 13.74
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 13.85,
+   "end": 14.57,
+   "text": "acordo lembrando",
+   "words": [
+    {
+     "word": "acordo",
+     "start": 13.85,
+     "end": 14.23
+    },
+    {
+     "word": "lembrando",
+     "start": 14.23,
+     "end": 14.57
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 14.61,
+   "end": 15.44,
+   "text": "da Lucia",
+   "words": [
+    {
+     "word": "da",
+     "start": 14.61,
+     "end": 14.73
+    },
+    {
+     "word": "Lucia",
+     "start": 14.73,
+     "end": 15.44
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 16.07,
+   "end": 17.05,
+   "text": "aí eu lembro que eu tô",
+   "words": [
+    {
+     "word": "aí",
+     "start": 16.07,
+     "end": 16.21
+    },
+    {
+     "word": "eu",
+     "start": 16.21,
+     "end": 16.39
+    },
+    {
+     "word": "lembro",
+     "start": 16.39,
+     "end": 16.79
+    },
+    {
+     "word": "que",
+     "start": 16.79,
+     "end": 16.91
+    },
+    {
+     "word": "eu",
+     "start": 16.91,
+     "end": 16.99
+    },
+    {
+     "word": "tô",
+     "start": 16.99,
+     "end": 17.05
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 17.09,
+   "end": 18.67,
+   "text": "numa situação de bosta, vivendo",
+   "words": [
+    {
+     "word": "numa",
+     "start": 17.09,
+     "end": 17.25
+    },
+    {
+     "word": "situação",
+     "start": 17.25,
+     "end": 17.55
+    },
+    {
+     "word": "de",
+     "start": 17.55,
+     "end": 17.91
+    },
+    {
+     "word": "bosta,",
+     "start": 17.91,
+     "end": 18.33
+    },
+    {
+     "word": "vivendo",
+     "start": 18.49,
+     "end": 18.67
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 18.71,
+   "end": 19.35,
+   "text": "numa mansão com",
+   "words": [
+    {
+     "word": "numa",
+     "start": 18.71,
+     "end": 18.83
+    },
+    {
+     "word": "mansão",
+     "start": 18.83,
+     "end": 19.21
+    },
+    {
+     "word": "com",
+     "start": 19.21,
+     "end": 19.35
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 19.39,
+   "end": 20.02,
+   "text": "o cara",
+   "words": [
+    {
+     "word": "o",
+     "start": 19.39,
+     "end": 19.53
+    },
+    {
+     "word": "cara",
+     "start": 19.53,
+     "end": 20.02
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 20.25,
+   "end": 21.53,
+   "text": "que eu sou praticamente",
+   "words": [
+    {
+     "word": "que",
+     "start": 20.25,
+     "end": 20.57
+    },
+    {
+     "word": "eu",
+     "start": 20.57,
+     "end": 21.11
+    },
+    {
+     "word": "sou",
+     "start": 21.11,
+     "end": 21.25
+    },
+    {
+     "word": "praticamente",
+     "start": 21.25,
+     "end": 21.53
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 21.57,
+   "end": 22.77,
+   "text": "um escravo do cara",
+   "words": [
+    {
+     "word": "um",
+     "start": 21.57,
+     "end": 21.87
+    },
+    {
+     "word": "escravo",
+     "start": 21.87,
+     "end": 22.41
+    },
+    {
+     "word": "do",
+     "start": 22.41,
+     "end": 22.57
+    },
+    {
+     "word": "cara",
+     "start": 22.57,
+     "end": 22.77
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 22.81,
+   "end": 23.83,
+   "text": "do nada, usando",
+   "words": [
+    {
+     "word": "do",
+     "start": 22.81,
+     "end": 22.99
+    },
+    {
+     "word": "nada,",
+     "start": 22.99,
+     "end": 23.39
+    },
+    {
+     "word": "usando",
+     "start": 23.63,
+     "end": 23.83
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 23.87,
+   "end": 24.35,
+   "text": "as roupas",
+   "words": [
+    {
+     "word": "as",
+     "start": 23.87,
+     "end": 24.03
+    },
+    {
+     "word": "roupas",
+     "start": 24.03,
+     "end": 24.35
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 24.39,
+   "end": 25.4,
+   "text": "de academia dele",
+   "words": [
+    {
+     "word": "de",
+     "start": 24.39,
+     "end": 24.47
+    },
+    {
+     "word": "academia",
+     "start": 24.47,
+     "end": 24.79
+    },
+    {
+     "word": "dele",
+     "start": 24.79,
+     "end": 25.4
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 25.55,
+   "end": 26.79,
+   "text": "bagulho louco, né",
+   "words": [
+    {
+     "word": "bagulho",
+     "start": 25.55,
+     "end": 25.93
+    },
+    {
+     "word": "louco,",
+     "start": 25.93,
+     "end": 26.29
+    },
+    {
+     "word": "né",
+     "start": 26.57,
+     "end": 26.79
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 26.83,
+   "end": 27.43,
+   "text": "mano",
+   "words": [
+    {
+     "word": "mano",
+     "start": 26.83,
+     "end": 27.43
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 27.59,
+   "end": 28.32,
+   "text": "bizarro",
+   "words": [
+    {
+     "word": "bizarro",
+     "start": 27.59,
+     "end": 28.32
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 29.48,
+   "end": 30.09,
+   "text": "bizarro",
+   "words": [
+    {
+     "word": "bizarro",
+     "start": 29.48,
+     "end": 30.09
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
