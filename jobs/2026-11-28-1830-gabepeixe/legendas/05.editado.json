@@ -1,0 +1,349 @@
+{
+"blocos": [
+{
+"f": 1,
+"texto": "banheiro, fui",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "no banheiro,",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "ô, tá bonitão,",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "olha aqui o bolo",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "do aniversário",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "do Coringa e Thainá,",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "olha como é que ele vem,",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "tinha um bolão",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "na mesa lá,",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "mas eu acho que era o bolão",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "apresentando, aí,",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "aqui como é",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "que você vai, quem",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "não comeu na festa,",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "leva pra casa, olha",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "como é que é,",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "mano,",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "isso aqui é individual, tá,",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "por exemplo, eu",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "ganhei um desse,",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "a Fernanda ganhou um desse, mó pedação",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "de bolo,",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "aí tem todo um",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "aqui, ó,",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "você tira um laço,",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "carai, que da hora,",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "mano,",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "ó,",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "Diga aí.",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "Ah, rapaz, fala",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "deles.",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "Eu acho que",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "é doce de leite",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "com ninho.",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "Esse negócio aqui",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "é para comer?",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "Essa planta?",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "É?",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "É.",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "Hum,",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "é que não tem...",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "Isso aqui é aquele...",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "Será que é nome daquele negócio",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "que a gente vê no Baker Boss, mano?",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "Ah, não, acho",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "que não é de comer, não, mano.",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "Ih, rapaz, eu comi...",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "É, é, como é?",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "É,",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "calma.",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "Não é de comer,",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "não.",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "Não, é porque eu",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "acho que esse é aquele negócio",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "que tem no Baker",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "Boss, mano.",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "Que os caras modelam",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "o bolo.",
+"pos": 0.76
+},
+{
+"f": 1,
+"texto": "Só que...",
+"pos": 0.76
+}
+]
+}
