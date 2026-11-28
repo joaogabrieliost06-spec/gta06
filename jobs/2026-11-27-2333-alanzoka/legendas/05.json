@@ -1,0 +1,198 @@
+{
+ "segments": [
+  {
+   "start": 5.55,
+   "end": 6.2,
+   "text": "Porra",
+   "words": [
+    {
+     "word": "Porra",
+     "start": 5.55,
+     "end": 6.2
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 44.69,
+   "end": 45.4,
+   "text": "Mano, que bom",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 44.69,
+     "end": 44.99
+    },
+    {
+     "word": "que",
+     "start": 45.19,
+     "end": 45.35
+    },
+    {
+     "word": "bom",
+     "start": 45.35,
+     "end": 45.4
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 45.43,
+   "end": 46.43,
+   "text": "que ela tá calma",
+   "words": [
+    {
+     "word": "que",
+     "start": 45.43,
+     "end": 45.59
+    },
+    {
+     "word": "ela",
+     "start": 45.59,
+     "end": 45.75
+    },
+    {
+     "word": "tá",
+     "start": 45.75,
+     "end": 45.89
+    },
+    {
+     "word": "calma",
+     "start": 45.89,
+     "end": 46.43
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 46.47,
+   "end": 46.97,
+   "text": "Aí, chat, vou dar",
+   "words": [
+    {
+     "word": "Aí,",
+     "start": 46.47,
+     "end": 46.53
+    },
+    {
+     "word": "chat,",
+     "start": 46.53,
+     "end": 46.63
+    },
+    {
+     "word": "vou",
+     "start": 46.77,
+     "end": 46.91
+    },
+    {
+     "word": "dar",
+     "start": 46.91,
+     "end": 46.97
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 47.01,
+   "end": 47.79,
+   "text": "uma pausa rapidinho",
+   "words": [
+    {
+     "word": "uma",
+     "start": 47.01,
+     "end": 47.13
+    },
+    {
+     "word": "pausa",
+     "start": 47.13,
+     "end": 47.43
+    },
+    {
+     "word": "rapidinho",
+     "start": 47.43,
+     "end": 47.79
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 47.83,
+   "end": 50.41,
+   "text": "aqui pra ajudar aqui",
+   "words": [
+    {
+     "word": "aqui",
+     "start": 47.83,
+     "end": 48.01
+    },
+    {
+     "word": "pra",
+     "start": 48.01,
+     "end": 48.51
+    },
+    {
+     "word": "ajudar",
+     "start": 49.93,
+     "end": 50.21
+    },
+    {
+     "word": "aqui",
+     "start": 50.21,
+     "end": 50.41
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 50.45,
+   "end": 51.03,
+   "text": "na Maethe, com",
+   "words": [
+    {
+     "word": "na",
+     "start": 50.45,
+     "end": 50.59
+    },
+    {
+     "word": "Maethe,",
+     "start": 50.59,
+     "end": 50.85
+    },
+    {
+     "word": "com",
+     "start": 50.93,
+     "end": 51.03
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 51.07,
+   "end": 51.94,
+   "text": "a Maethe, calma aí",
+   "words": [
+    {
+     "word": "a",
+     "start": 51.07,
+     "end": 51.13
+    },
+    {
+     "word": "Maethe,",
+     "start": 51.13,
+     "end": 51.29
+    },
+    {
+     "word": "calma",
+     "start": 51.41,
+     "end": 51.61
+    },
+    {
+     "word": "aí",
+     "start": 51.61,
+     "end": 51.94
+    }
+   ],
+   "pos": 0.46
+  }
+ ]
+}
