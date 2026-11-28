@@ -1,0 +1,655 @@
+{
+ "segments": [
+  {
+   "start": 2.51,
+   "end": 3.46,
+   "text": "Será",
+   "words": [
+    {
+     "word": "Será",
+     "start": 2.51,
+     "end": 3.46
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 5.37,
+   "end": 6.55,
+   "text": "que ela já teve filhos e meteu",
+   "words": [
+    {
+     "word": "que",
+     "start": 5.37,
+     "end": 5.43
+    },
+    {
+     "word": "ela",
+     "start": 5.43,
+     "end": 5.51
+    },
+    {
+     "word": "já",
+     "start": 5.51,
+     "end": 5.65
+    },
+    {
+     "word": "teve",
+     "start": 5.65,
+     "end": 5.83
+    },
+    {
+     "word": "filhos",
+     "start": 5.83,
+     "end": 6.15
+    },
+    {
+     "word": "e",
+     "start": 6.15,
+     "end": 6.25
+    },
+    {
+     "word": "meteu",
+     "start": 6.25,
+     "end": 6.55
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 6.59,
+   "end": 7.19,
+   "text": "o pé?",
+   "words": [
+    {
+     "word": "o",
+     "start": 6.59,
+     "end": 6.65
+    },
+    {
+     "word": "pé?",
+     "start": 6.65,
+     "end": 7.19
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 11.17,
+   "end": 11.63,
+   "text": "Nossa, eu já fui",
+   "words": [
+    {
+     "word": "Nossa,",
+     "start": 11.17,
+     "end": 11.41
+    },
+    {
+     "word": "eu",
+     "start": 11.43,
+     "end": 11.49
+    },
+    {
+     "word": "já",
+     "start": 11.49,
+     "end": 11.57
+    },
+    {
+     "word": "fui",
+     "start": 11.57,
+     "end": 11.63
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 11.67,
+   "end": 12.43,
+   "text": "melhor no tempo",
+   "words": [
+    {
+     "word": "melhor",
+     "start": 11.67,
+     "end": 11.99
+    },
+    {
+     "word": "no",
+     "start": 11.99,
+     "end": 12.25
+    },
+    {
+     "word": "tempo",
+     "start": 12.25,
+     "end": 12.43
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 12.47,
+   "end": 13.32,
+   "text": "que eu morava aqui",
+   "words": [
+    {
+     "word": "que",
+     "start": 12.47,
+     "end": 12.57
+    },
+    {
+     "word": "eu",
+     "start": 12.57,
+     "end": 12.65
+    },
+    {
+     "word": "morava",
+     "start": 12.65,
+     "end": 12.85
+    },
+    {
+     "word": "aqui",
+     "start": 12.85,
+     "end": 13.32
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 14.11,
+   "end": 15.42,
+   "text": "Será, mano?",
+   "words": [
+    {
+     "word": "Será,",
+     "start": 14.11,
+     "end": 14.81
+    },
+    {
+     "word": "mano?",
+     "start": 14.99,
+     "end": 15.42
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 16.71,
+   "end": 17.77,
+   "text": "Será que ela meteu",
+   "words": [
+    {
+     "word": "Será",
+     "start": 16.71,
+     "end": 16.83
+    },
+    {
+     "word": "que",
+     "start": 16.83,
+     "end": 17.01
+    },
+    {
+     "word": "ela",
+     "start": 17.01,
+     "end": 17.17
+    },
+    {
+     "word": "meteu",
+     "start": 17.17,
+     "end": 17.77
+    }
+   ],
+   "pos": 0.46
+  },
+  {
+   "start": 17.81,
+   "end": 18.29,
+   "text": "o pé, mano?",
+   "words": [
+    {
+     "word": "o",
+     "start": 17.81,
+     "end": 17.91
+    },
+    {
+     "word": "pé,",
+     "start": 17.91,
+     "end": 18.05
+    },
+    {
+     "word": "mano?",
+     "start": 18.15,
+     "end": 18.29
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 18.33,
+   "end": 19.25,
+   "text": "teve filhos e meteu",
+   "words": [
+    {
+     "word": "teve",
+     "start": 18.33,
+     "end": 18.51
+    },
+    {
+     "word": "filhos",
+     "start": 18.51,
+     "end": 18.89
+    },
+    {
+     "word": "e",
+     "start": 18.89,
+     "end": 18.97
+    },
+    {
+     "word": "meteu",
+     "start": 18.97,
+     "end": 19.25
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 19.29,
+   "end": 19.75,
+   "text": "o pé?",
+   "words": [
+    {
+     "word": "o",
+     "start": 19.29,
+     "end": 19.39
+    },
+    {
+     "word": "pé?",
+     "start": 19.39,
+     "end": 19.75
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 19.79,
+   "end": 20.39,
+   "text": "Ah",
+   "words": [
+    {
+     "word": "Ah",
+     "start": 19.79,
+     "end": 20.39
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 23.71,
+   "end": 24.41,
+   "text": "fiquei procurado",
+   "words": [
+    {
+     "word": "fiquei",
+     "start": 23.71,
+     "end": 23.89
+    },
+    {
+     "word": "procurado",
+     "start": 23.89,
+     "end": 24.41
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 24.45,
+   "end": 25.22,
+   "text": "pra lá",
+   "words": [
+    {
+     "word": "pra",
+     "start": 24.45,
+     "end": 24.65
+    },
+    {
+     "word": "lá",
+     "start": 24.65,
+     "end": 25.22
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 33.21,
+   "end": 33.71,
+   "text": "Mano, nosso",
+   "words": [
+    {
+     "word": "Mano,",
+     "start": 33.21,
+     "end": 33.57
+    },
+    {
+     "word": "nosso",
+     "start": 33.61,
+     "end": 33.71
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 33.75,
+   "end": 34.43,
+   "text": "helicóptero vai",
+   "words": [
+    {
+     "word": "helicóptero",
+     "start": 33.75,
+     "end": 34.33
+    },
+    {
+     "word": "vai",
+     "start": 34.33,
+     "end": 34.43
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 34.47,
+   "end": 35.54,
+   "text": "estar aqui ainda?",
+   "words": [
+    {
+     "word": "estar",
+     "start": 34.47,
+     "end": 34.63
+    },
+    {
+     "word": "aqui",
+     "start": 34.63,
+     "end": 34.89
+    },
+    {
+     "word": "ainda?",
+     "start": 34.89,
+     "end": 35.54
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 35.96,
+   "end": 36.64,
+   "text": "Ou vai voltar",
+   "words": [
+    {
+     "word": "Ou",
+     "start": 35.96,
+     "end": 36.26
+    },
+    {
+     "word": "vai",
+     "start": 36.26,
+     "end": 36.38
+    },
+    {
+     "word": "voltar",
+     "start": 36.38,
+     "end": 36.64
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 36.68,
+   "end": 37.2,
+   "text": "pro lugar?",
+   "words": [
+    {
+     "word": "pro",
+     "start": 36.68,
+     "end": 36.88
+    },
+    {
+     "word": "lugar?",
+     "start": 36.88,
+     "end": 37.2
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 37.24,
+   "end": 38.51,
+   "text": "Deve voltar pro lugar, né?",
+   "words": [
+    {
+     "word": "Deve",
+     "start": 37.24,
+     "end": 37.38
+    },
+    {
+     "word": "voltar",
+     "start": 37.38,
+     "end": 37.62
+    },
+    {
+     "word": "pro",
+     "start": 37.62,
+     "end": 37.78
+    },
+    {
+     "word": "lugar,",
+     "start": 37.78,
+     "end": 38.08
+    },
+    {
+     "word": "né?",
+     "start": 38.14,
+     "end": 38.51
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 41.26,
+   "end": 41.86,
+   "text": "Ok",
+   "words": [
+    {
+     "word": "Ok",
+     "start": 41.26,
+     "end": 41.86
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 42.5,
+   "end": 43.02,
+   "text": "nós vamos fazer",
+   "words": [
+    {
+     "word": "nós",
+     "start": 42.5,
+     "end": 42.6
+    },
+    {
+     "word": "vamos",
+     "start": 42.6,
+     "end": 42.76
+    },
+    {
+     "word": "fazer",
+     "start": 42.76,
+     "end": 43.02
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 43.06,
+   "end": 44.56,
+   "text": "a missão do Jason",
+   "words": [
+    {
+     "word": "a",
+     "start": 43.06,
+     "end": 43.16
+    },
+    {
+     "word": "missão",
+     "start": 43.16,
+     "end": 43.5
+    },
+    {
+     "word": "do",
+     "start": 43.5,
+     "end": 43.8
+    },
+    {
+     "word": "Jason",
+     "start": 43.8,
+     "end": 44.56
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 44.6,
+   "end": 45.71,
+   "text": "e a missão",
+   "words": [
+    {
+     "word": "e",
+     "start": 44.6,
+     "end": 45.22
+    },
+    {
+     "word": "a",
+     "start": 45.37,
+     "end": 45.43
+    },
+    {
+     "word": "missão",
+     "start": 45.43,
+     "end": 45.71
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 45.75,
+   "end": 46.57,
+   "text": "do Randy pra saber",
+   "words": [
+    {
+     "word": "do",
+     "start": 45.75,
+     "end": 45.91
+    },
+    {
+     "word": "Randy",
+     "start": 45.91,
+     "end": 46.19
+    },
+    {
+     "word": "pra",
+     "start": 46.19,
+     "end": 46.39
+    },
+    {
+     "word": "saber",
+     "start": 46.39,
+     "end": 46.57
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 46.61,
+   "end": 47.45,
+   "text": "qual que é o final e quanto",
+   "words": [
+    {
+     "word": "qual",
+     "start": 46.61,
+     "end": 46.79
+    },
+    {
+     "word": "que",
+     "start": 46.79,
+     "end": 46.87
+    },
+    {
+     "word": "é",
+     "start": 46.87,
+     "end": 46.92
+    },
+    {
+     "word": "o",
+     "start": 46.92,
+     "end": 46.99
+    },
+    {
+     "word": "final",
+     "start": 46.99,
+     "end": 47.17
+    },
+    {
+     "word": "e",
+     "start": 47.17,
+     "end": 47.29
+    },
+    {
+     "word": "quanto",
+     "start": 47.29,
+     "end": 47.45
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 47.49,
+   "end": 48.74,
+   "text": "de dinheiro que ele vai dar, mano",
+   "words": [
+    {
+     "word": "de",
+     "start": 47.49,
+     "end": 47.59
+    },
+    {
+     "word": "dinheiro",
+     "start": 47.59,
+     "end": 47.73
+    },
+    {
+     "word": "que",
+     "start": 47.73,
+     "end": 47.83
+    },
+    {
+     "word": "ele",
+     "start": 47.83,
+     "end": 47.93
+    },
+    {
+     "word": "vai",
+     "start": 47.93,
+     "end": 48.09
+    },
+    {
+     "word": "dar,",
+     "start": 48.09,
+     "end": 48.27
+    },
+    {
+     "word": "mano",
+     "start": 48.35,
+     "end": 48.74
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
