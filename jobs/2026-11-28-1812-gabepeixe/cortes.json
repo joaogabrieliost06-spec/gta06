@@ -1,0 +1,12 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Jason, Lucia, sinuca, dublado, fatalidades, viado, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:03:28", "fim": "0:04:35", "titulo": "ESSE JOGO PRECISA SER DUBLADO"},
+  {"id": "02", "inicio": "0:05:25", "fim": "0:06:05", "titulo": "CLARO QUE TEVE FATALIDADES"},
+  {"id": "03", "inicio": "0:12:15", "fim": "0:13:05", "titulo": "MANO, EU TÔ LIVRE!"},
+  {"id": "04", "inicio": "0:15:40", "fim": "0:16:30", "titulo": "EXPLORANDO A COBERTURA NOVA"},
+  {"id": "05", "inicio": "0:17:28", "fim": "0:18:56", "titulo": "SINUCA COM A LUCIA"}
+ ]
+}
