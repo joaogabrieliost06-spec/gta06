@@ -1,0 +1,12 @@
+{
+ "formato": "vertical", "layout": "auto", "legenda": false, "titulo_no_video": false,
+ "vocabulario": "gabepeixe, Gabe, GTA 6, Jason, Lucia, Rocco, parafuso, silenciador, depósito, viado, chat",
+ "idioma": "pt",
+ "cortes": [
+  {"id": "01", "inicio": "0:01:05", "fim": "0:02:00", "titulo": "ARRANCOU A PERNA DO CARA"},
+  {"id": "02", "inicio": "0:03:15", "fim": "0:04:30", "titulo": "TIRADOR DE PARAFUSO PROFISSIONAL"},
+  {"id": "03", "inicio": "0:05:55", "fim": "0:06:45", "titulo": "PARABÉNS POR ATIRAR SEM SILENCIADOR"},
+  {"id": "04", "inicio": "0:07:50", "fim": "0:09:10", "titulo": "FAZENDO O DEPÓSITO SOZINHO"},
+  {"id": "05", "inicio": "0:16:48", "fim": "0:17:48", "titulo": "MORREU COMO BOSTA"}
+ ]
+}
