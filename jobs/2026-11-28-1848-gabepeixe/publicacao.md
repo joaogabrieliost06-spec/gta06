@@ -12,11 +12,11 @@
 - **Hashtags:** #gabepeixe #gta6 #gtavi #cortesdelive #shorts
 - **Thumbnail:** Gabe animado + texto "VENDE TUDO"
 
-## 03: O advogado custou 750 mil
-- **Título:** "O ADVOGADO COBROU 750 MIL" 💸 gabepeixe no GTA 6
+## 03: O advogado custou 150 mil
+- **Título:** "O ADVOGADO COBROU 150 MIL" 💸 gabepeixe no GTA 6
 - **Descrição:** O Gabe fica livre da polícia, mas a conta do advogado chega na hora. Créditos: gabepeixe – https://kick.com/gabepeixe
 - **Hashtags:** #gabepeixe #gta6 #gtavi #cortesdelive #shorts
-- **Thumbnail:** Gabe chocado + texto "750 MIL"
+- **Thumbnail:** Gabe chocado + texto "150 MIL"
 
 ## 04: Cadê os meus carros?
 - **Título:** "EU QUERO VER TUDO QUE A GENTE CONQUISTOU" 🏎️ gabepeixe no GTA 6
