@@ -1,0 +1,1238 @@
+{
+ "segments": [
+  {
+   "start": 0.63,
+   "end": 1.33,
+   "text": "Hoje que zeramos",
+   "words": [
+    {
+     "word": "Hoje",
+     "start": 0.63,
+     "end": 0.83
+    },
+    {
+     "word": "que",
+     "start": 0.83,
+     "end": 0.97
+    },
+    {
+     "word": "zeramos",
+     "start": 0.97,
+     "end": 1.33
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 1.37,
+   "end": 2.52,
+   "text": "o GTA?",
+   "words": [
+    {
+     "word": "o",
+     "start": 1.37,
+     "end": 1.93
+    },
+    {
+     "word": "GTA?",
+     "start": 1.93,
+     "end": 2.52
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 2.96,
+   "end": 3.98,
+   "text": "Irmão, vou te ser",
+   "words": [
+    {
+     "word": "Irmão,",
+     "start": 2.96,
+     "end": 3.36
+    },
+    {
+     "word": "vou",
+     "start": 3.58,
+     "end": 3.74
+    },
+    {
+     "word": "te",
+     "start": 3.74,
+     "end": 3.88
+    },
+    {
+     "word": "ser",
+     "start": 3.88,
+     "end": 3.98
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 4.02,
+   "end": 4.91,
+   "text": "bem sincero",
+   "words": [
+    {
+     "word": "bem",
+     "start": 4.02,
+     "end": 4.12
+    },
+    {
+     "word": "sincero",
+     "start": 4.12,
+     "end": 4.91
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 7.09,
+   "end": 8.2,
+   "text": "Deus queira que sim",
+   "words": [
+    {
+     "word": "Deus",
+     "start": 7.09,
+     "end": 7.43
+    },
+    {
+     "word": "queira",
+     "start": 7.43,
+     "end": 7.65
+    },
+    {
+     "word": "que",
+     "start": 7.65,
+     "end": 7.75
+    },
+    {
+     "word": "sim",
+     "start": 7.75,
+     "end": 8.2
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 8.75,
+   "end": 9.45,
+   "text": "estou muito ansioso",
+   "words": [
+    {
+     "word": "estou",
+     "start": 8.75,
+     "end": 8.91
+    },
+    {
+     "word": "muito",
+     "start": 8.91,
+     "end": 9.17
+    },
+    {
+     "word": "ansioso",
+     "start": 9.17,
+     "end": 9.45
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 9.49,
+   "end": 10.03,
+   "text": "pra terminar esse",
+   "words": [
+    {
+     "word": "pra",
+     "start": 9.49,
+     "end": 9.65
+    },
+    {
+     "word": "terminar",
+     "start": 9.65,
+     "end": 9.89
+    },
+    {
+     "word": "esse",
+     "start": 9.89,
+     "end": 10.03
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 10.07,
+   "end": 11.01,
+   "text": "GTA, não aguento",
+   "words": [
+    {
+     "word": "GTA,",
+     "start": 10.07,
+     "end": 10.37
+    },
+    {
+     "word": "não",
+     "start": 10.51,
+     "end": 10.57
+    },
+    {
+     "word": "aguento",
+     "start": 10.57,
+     "end": 11.01
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 11.05,
+   "end": 12.17,
+   "text": "mano, não aguento",
+   "words": [
+    {
+     "word": "mano,",
+     "start": 11.05,
+     "end": 11.17
+    },
+    {
+     "word": "não",
+     "start": 11.41,
+     "end": 11.73
+    },
+    {
+     "word": "aguento",
+     "start": 11.73,
+     "end": 12.17
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 12.21,
+   "end": 13.43,
+   "text": "mais de ansiedade",
+   "words": [
+    {
+     "word": "mais",
+     "start": 12.21,
+     "end": 12.45
+    },
+    {
+     "word": "de",
+     "start": 12.45,
+     "end": 12.57
+    },
+    {
+     "word": "ansiedade",
+     "start": 12.57,
+     "end": 13.43
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 13.47,
+   "end": 14.12,
+   "text": "tá ligado?",
+   "words": [
+    {
+     "word": "tá",
+     "start": 13.47,
+     "end": 13.55
+    },
+    {
+     "word": "ligado?",
+     "start": 13.55,
+     "end": 14.12
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 15.23,
+   "end": 16.19,
+   "text": "Não aguento mais",
+   "words": [
+    {
+     "word": "Não",
+     "start": 15.23,
+     "end": 15.43
+    },
+    {
+     "word": "aguento",
+     "start": 15.43,
+     "end": 15.85
+    },
+    {
+     "word": "mais",
+     "start": 15.85,
+     "end": 16.19
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 16.23,
+   "end": 17.48,
+   "text": "de ansiedade, pô",
+   "words": [
+    {
+     "word": "de",
+     "start": 16.23,
+     "end": 16.45
+    },
+    {
+     "word": "ansiedade,",
+     "start": 16.45,
+     "end": 17.01
+    },
+    {
+     "word": "pô",
+     "start": 17.17,
+     "end": 17.48
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 18.13,
+   "end": 18.69,
+   "text": "não aguento mais",
+   "words": [
+    {
+     "word": "não",
+     "start": 18.13,
+     "end": 18.23
+    },
+    {
+     "word": "aguento",
+     "start": 18.23,
+     "end": 18.53
+    },
+    {
+     "word": "mais",
+     "start": 18.53,
+     "end": 18.69
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 18.73,
+   "end": 19.51,
+   "text": "de ansiedade, mano",
+   "words": [
+    {
+     "word": "de",
+     "start": 18.73,
+     "end": 18.83
+    },
+    {
+     "word": "ansiedade,",
+     "start": 18.83,
+     "end": 19.29
+    },
+    {
+     "word": "mano",
+     "start": 19.41,
+     "end": 19.51
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 19.55,
+   "end": 20.33,
+   "text": "tô feliz com",
+   "words": [
+    {
+     "word": "tô",
+     "start": 19.55,
+     "end": 19.65
+    },
+    {
+     "word": "feliz",
+     "start": 19.65,
+     "end": 20.03
+    },
+    {
+     "word": "com",
+     "start": 20.03,
+     "end": 20.33
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 20.37,
+   "end": 21.54,
+   "text": "o jogo, vou te",
+   "words": [
+    {
+     "word": "o",
+     "start": 20.37,
+     "end": 21.17
+    },
+    {
+     "word": "jogo,",
+     "start": 21.17,
+     "end": 21.31
+    },
+    {
+     "word": "vou",
+     "start": 21.37,
+     "end": 21.49
+    },
+    {
+     "word": "te",
+     "start": 21.49,
+     "end": 21.54
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 21.55,
+   "end": 22.62,
+   "text": "falar pra vocês, mano",
+   "words": [
+    {
+     "word": "falar",
+     "start": 21.55,
+     "end": 21.71
+    },
+    {
+     "word": "pra",
+     "start": 21.71,
+     "end": 21.85
+    },
+    {
+     "word": "vocês,",
+     "start": 21.85,
+     "end": 22.11
+    },
+    {
+     "word": "mano",
+     "start": 22.25,
+     "end": 22.62
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 22.88,
+   "end": 24.2,
+   "text": "eu não esperava me",
+   "words": [
+    {
+     "word": "eu",
+     "start": 22.88,
+     "end": 23.48
+    },
+    {
+     "word": "não",
+     "start": 23.48,
+     "end": 23.6
+    },
+    {
+     "word": "esperava",
+     "start": 23.6,
+     "end": 24.08
+    },
+    {
+     "word": "me",
+     "start": 24.08,
+     "end": 24.2
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 24.24,
+   "end": 25.0,
+   "text": "divertir tanto com",
+   "words": [
+    {
+     "word": "divertir",
+     "start": 24.24,
+     "end": 24.64
+    },
+    {
+     "word": "tanto",
+     "start": 24.64,
+     "end": 24.88
+    },
+    {
+     "word": "com",
+     "start": 24.88,
+     "end": 25.0
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 25.04,
+   "end": 25.62,
+   "text": "o jogo quanto eu",
+   "words": [
+    {
+     "word": "o",
+     "start": 25.04,
+     "end": 25.16
+    },
+    {
+     "word": "jogo",
+     "start": 25.16,
+     "end": 25.32
+    },
+    {
+     "word": "quanto",
+     "start": 25.32,
+     "end": 25.54
+    },
+    {
+     "word": "eu",
+     "start": 25.54,
+     "end": 25.62
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 25.66,
+   "end": 26.82,
+   "text": "tô me divertindo, eu",
+   "words": [
+    {
+     "word": "tô",
+     "start": 25.66,
+     "end": 25.72
+    },
+    {
+     "word": "me",
+     "start": 25.72,
+     "end": 25.86
+    },
+    {
+     "word": "divertindo,",
+     "start": 25.86,
+     "end": 26.38
+    },
+    {
+     "word": "eu",
+     "start": 26.58,
+     "end": 26.82
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 26.86,
+   "end": 27.76,
+   "text": "sei que assim, hoje",
+   "words": [
+    {
+     "word": "sei",
+     "start": 26.86,
+     "end": 27.02
+    },
+    {
+     "word": "que",
+     "start": 27.02,
+     "end": 27.14
+    },
+    {
+     "word": "assim,",
+     "start": 27.14,
+     "end": 27.34
+    },
+    {
+     "word": "hoje",
+     "start": 27.54,
+     "end": 27.76
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 27.8,
+   "end": 28.7,
+   "text": "eu quero tentar",
+   "words": [
+    {
+     "word": "eu",
+     "start": 27.8,
+     "end": 27.9
+    },
+    {
+     "word": "quero",
+     "start": 27.9,
+     "end": 28.12
+    },
+    {
+     "word": "tentar",
+     "start": 28.12,
+     "end": 28.7
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 28.74,
+   "end": 29.65,
+   "text": "zerar o jogo",
+   "words": [
+    {
+     "word": "zerar",
+     "start": 28.74,
+     "end": 29.02
+    },
+    {
+     "word": "o",
+     "start": 29.02,
+     "end": 29.1
+    },
+    {
+     "word": "jogo",
+     "start": 29.1,
+     "end": 29.65
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 29.96,
+   "end": 30.74,
+   "text": "mas amanhã",
+   "words": [
+    {
+     "word": "mas",
+     "start": 29.96,
+     "end": 30.14
+    },
+    {
+     "word": "amanhã",
+     "start": 30.14,
+     "end": 30.74
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 30.78,
+   "end": 31.38,
+   "text": "infelizmente, eu não",
+   "words": [
+    {
+     "word": "infelizmente,",
+     "start": 30.78,
+     "end": 31.16
+    },
+    {
+     "word": "eu",
+     "start": 31.28,
+     "end": 31.33
+    },
+    {
+     "word": "não",
+     "start": 31.33,
+     "end": 31.38
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 31.34,
+   "end": 31.98,
+   "text": "posso passar",
+   "words": [
+    {
+     "word": "posso",
+     "start": 31.34,
+     "end": 31.58
+    },
+    {
+     "word": "passar",
+     "start": 31.58,
+     "end": 31.98
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 32.02,
+   "end": 32.44,
+   "text": "tá ligado, galera?",
+   "words": [
+    {
+     "word": "tá",
+     "start": 32.02,
+     "end": 32.08
+    },
+    {
+     "word": "ligado,",
+     "start": 32.08,
+     "end": 32.3
+    },
+    {
+     "word": "galera?",
+     "start": 32.38,
+     "end": 32.44
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 32.48,
+   "end": 32.95,
+   "text": "Eu acho que eu",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 32.48,
+     "end": 32.68
+    },
+    {
+     "word": "acho",
+     "start": 32.68,
+     "end": 32.8
+    },
+    {
+     "word": "que",
+     "start": 32.8,
+     "end": 32.9
+    },
+    {
+     "word": "eu",
+     "start": 32.9,
+     "end": 32.95
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 32.96,
+   "end": 33.66,
+   "text": "cheguei num momento",
+   "words": [
+    {
+     "word": "cheguei",
+     "start": 32.96,
+     "end": 33.2
+    },
+    {
+     "word": "num",
+     "start": 33.2,
+     "end": 33.3
+    },
+    {
+     "word": "momento",
+     "start": 33.3,
+     "end": 33.66
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 33.7,
+   "end": 34.16,
+   "text": "que eu fiz mais",
+   "words": [
+    {
+     "word": "que",
+     "start": 33.7,
+     "end": 33.82
+    },
+    {
+     "word": "eu",
+     "start": 33.82,
+     "end": 33.88
+    },
+    {
+     "word": "fiz",
+     "start": 33.88,
+     "end": 34.04
+    },
+    {
+     "word": "mais",
+     "start": 34.04,
+     "end": 34.16
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 34.2,
+   "end": 34.86,
+   "text": "de cento e poucas",
+   "words": [
+    {
+     "word": "de",
+     "start": 34.2,
+     "end": 34.3
+    },
+    {
+     "word": "cento",
+     "start": 34.3,
+     "end": 34.56
+    },
+    {
+     "word": "e",
+     "start": 34.56,
+     "end": 34.64
+    },
+    {
+     "word": "poucas",
+     "start": 34.64,
+     "end": 34.86
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 34.9,
+   "end": 35.58,
+   "text": "horas do jogo",
+   "words": [
+    {
+     "word": "horas",
+     "start": 34.9,
+     "end": 35.06
+    },
+    {
+     "word": "do",
+     "start": 35.06,
+     "end": 35.2
+    },
+    {
+     "word": "jogo",
+     "start": 35.2,
+     "end": 35.58
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 35.62,
+   "end": 36.14,
+   "text": "Mas não é",
+   "words": [
+    {
+     "word": "Mas",
+     "start": 35.62,
+     "end": 35.92
+    },
+    {
+     "word": "não",
+     "start": 35.92,
+     "end": 36.04
+    },
+    {
+     "word": "é",
+     "start": 36.04,
+     "end": 36.14
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 36.18,
+   "end": 37.58,
+   "text": "por tempo de horas",
+   "words": [
+    {
+     "word": "por",
+     "start": 36.18,
+     "end": 36.36
+    },
+    {
+     "word": "tempo",
+     "start": 36.36,
+     "end": 37.28
+    },
+    {
+     "word": "de",
+     "start": 37.28,
+     "end": 37.48
+    },
+    {
+     "word": "horas",
+     "start": 37.48,
+     "end": 37.58
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 37.62,
+   "end": 38.18,
+   "text": "do jogo",
+   "words": [
+    {
+     "word": "do",
+     "start": 37.62,
+     "end": 37.78
+    },
+    {
+     "word": "jogo",
+     "start": 37.78,
+     "end": 38.18
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 38.22,
+   "end": 38.88,
+   "text": "Eu acho que o jogo",
+   "words": [
+    {
+     "word": "Eu",
+     "start": 38.22,
+     "end": 38.44
+    },
+    {
+     "word": "acho",
+     "start": 38.44,
+     "end": 38.56
+    },
+    {
+     "word": "que",
+     "start": 38.56,
+     "end": 38.66
+    },
+    {
+     "word": "o",
+     "start": 38.66,
+     "end": 38.72
+    },
+    {
+     "word": "jogo",
+     "start": 38.72,
+     "end": 38.88
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 38.92,
+   "end": 39.6,
+   "text": "tem muita coisa",
+   "words": [
+    {
+     "word": "tem",
+     "start": 38.92,
+     "end": 39.1
+    },
+    {
+     "word": "muita",
+     "start": 39.1,
+     "end": 39.38
+    },
+    {
+     "word": "coisa",
+     "start": 39.38,
+     "end": 39.6
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 39.64,
+   "end": 40.26,
+   "text": "a ser descoberta",
+   "words": [
+    {
+     "word": "a",
+     "start": 39.64,
+     "end": 39.72
+    },
+    {
+     "word": "ser",
+     "start": 39.72,
+     "end": 39.82
+    },
+    {
+     "word": "descoberta",
+     "start": 39.82,
+     "end": 40.26
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 40.3,
+   "end": 40.68,
+   "text": "que não foi",
+   "words": [
+    {
+     "word": "que",
+     "start": 40.3,
+     "end": 40.4
+    },
+    {
+     "word": "não",
+     "start": 40.4,
+     "end": 40.54
+    },
+    {
+     "word": "foi",
+     "start": 40.54,
+     "end": 40.68
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 40.72,
+   "end": 41.62,
+   "text": "descoberta ainda",
+   "words": [
+    {
+     "word": "descoberta",
+     "start": 40.72,
+     "end": 41.18
+    },
+    {
+     "word": "ainda",
+     "start": 41.18,
+     "end": 41.62
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 41.66,
+   "end": 42.62,
+   "text": "Mas é simplesmente",
+   "words": [
+    {
+     "word": "Mas",
+     "start": 41.66,
+     "end": 42.02
+    },
+    {
+     "word": "é",
+     "start": 42.02,
+     "end": 42.16
+    },
+    {
+     "word": "simplesmente",
+     "start": 42.16,
+     "end": 42.62
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 42.66,
+   "end": 43.58,
+   "text": "pelo motivo de",
+   "words": [
+    {
+     "word": "pelo",
+     "start": 42.66,
+     "end": 43.06
+    },
+    {
+     "word": "motivo",
+     "start": 43.06,
+     "end": 43.44
+    },
+    {
+     "word": "de",
+     "start": 43.44,
+     "end": 43.58
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 43.62,
+   "end": 45.23,
+   "text": "que segunda-feira",
+   "words": [
+    {
+     "word": "que",
+     "start": 43.62,
+     "end": 43.84
+    },
+    {
+     "word": "segunda-feira",
+     "start": 44.11,
+     "end": 45.23
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 45.27,
+   "end": 46.27,
+   "text": "é Kings League",
+   "words": [
+    {
+     "word": "é",
+     "start": 45.27,
+     "end": 45.55
+    },
+    {
+     "word": "Kings",
+     "start": 45.55,
+     "end": 45.93
+    },
+    {
+     "word": "League",
+     "start": 45.93,
+     "end": 46.27
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 46.31,
+   "end": 47.55,
+   "text": "e terça-feira",
+   "words": [
+    {
+     "word": "e",
+     "start": 46.31,
+     "end": 46.79
+    },
+    {
+     "word": "terça-feira",
+     "start": 46.79,
+     "end": 47.55
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 47.59,
+   "end": 49.8,
+   "text": "é viagem",
+   "words": [
+    {
+     "word": "é",
+     "start": 47.59,
+     "end": 48.21
+    },
+    {
+     "word": "viagem",
+     "start": 48.21,
+     "end": 49.8
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 50.05,
+   "end": 50.84,
+   "text": "para o Japão",
+   "words": [
+    {
+     "word": "para",
+     "start": 50.05,
+     "end": 50.15
+    },
+    {
+     "word": "o",
+     "start": 50.15,
+     "end": 50.23
+    },
+    {
+     "word": "Japão",
+     "start": 50.23,
+     "end": 50.84
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 51.03,
+   "end": 51.49,
+   "text": "Terça-feira está",
+   "words": [
+    {
+     "word": "Terça-feira",
+     "start": 51.03,
+     "end": 51.41
+    },
+    {
+     "word": "está",
+     "start": 51.41,
+     "end": 51.49
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 51.53,
+   "end": 52.17,
+   "text": "viajando eu",
+   "words": [
+    {
+     "word": "viajando",
+     "start": 51.53,
+     "end": 51.93
+    },
+    {
+     "word": "eu",
+     "start": 51.93,
+     "end": 52.17
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 52.21,
+   "end": 53.41,
+   "text": "Estagiário e Brabox já",
+   "words": [
+    {
+     "word": "Estagiário",
+     "start": 52.21,
+     "end": 52.61
+    },
+    {
+     "word": "e",
+     "start": 52.61,
+     "end": 52.69
+    },
+    {
+     "word": "Brabox",
+     "start": 52.69,
+     "end": 53.19
+    },
+    {
+     "word": "já",
+     "start": 53.19,
+     "end": 53.41
+    }
+   ],
+   "pos": 0.76
+  },
+  {
+   "start": 53.45,
+   "end": 54.24,
+   "text": "Dois dias depois",
+   "words": [
+    {
+     "word": "Dois",
+     "start": 53.45,
+     "end": 53.61
+    },
+    {
+     "word": "dias",
+     "start": 53.61,
+     "end": 53.79
+    },
+    {
+     "word": "depois",
+     "start": 53.79,
+     "end": 54.24
+    }
+   ],
+   "pos": 0.76
+  }
+ ]
+}
